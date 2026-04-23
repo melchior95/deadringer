@@ -23,7 +23,7 @@ She didn't trade them. Other kids offered. She refused — not rudely, but with 
 
 **Bug watching:** Not catching — watching. Mira could sit motionless by the river for thirty minutes observing a line of ants reroute around a pebble. She found insects logical in a way people weren't. "They don't pretend. If an ant is carrying something, it's because the thing needs to be carried. It doesn't carry it and then say it wasn't carrying anything." She knew the names of local species with the casual authority of a field researcher. Pill bugs were her favorite because they committed fully to their defense strategy — "they just become a ball. No half-measures." She respected that.
 
-**Maps and paths:** She shared this with Kaito, though they arrived at it differently. Kaito mapped infrastructure — tunnels, drainage, built spaces. Mira mapped behavior — which routes people walked at which times, where the stray cats slept on different days of the week, which vending machines were refilled on Tuesdays. She was constructing a behavioral map of her neighborhood without knowing the term for it. Her observations about the silver car were not paranoia. They were the same pattern-tracking she applied to everything, aimed at something that happened to be dangerous.
+**Patterns and paths:** She shared this instinct with Kaito, though they arrived at it differently. Kaito tracked social patterns — who went where, when, in what vehicle, with what frequency. Mira tracked individual behavior — which routes people walked at which times, where the stray cats slept on different days of the week, which vending machines were refilled on Tuesdays. She was constructing a behavioral map of her neighborhood without knowing the term for it. Her observations about the silver car were not paranoia. They were the same pattern-tracking she applied to everything, aimed at something that happened to be dangerous.
 
 **Radio:** Mira listened to late-night AM radio on a small transistor set her grandfather gave her before he died. Not music stations — talk radio, weather reports, the shipping forecast. She liked voices without faces. She liked that the people on the radio didn't know she was listening and therefore couldn't adjust what they said. She told Reiko once that radio was "the most honest thing" because "they don't know who's hearing it, so they just say it." Reiko thought this was a strange thing for an eight-year-old to say. It was. It was also the seed of everything Mira becomes as a ghost — a voice on a line, listening to people who can't see her, reading what they say when they think they're unobserved.
 
@@ -204,6 +204,16 @@ But something has shifted. The player can hear it in every line after this scene
 - "Kenji. If you solve this. Will you make sure they know I wasn't lying? Not about any of it."
 - "I'm getting quieter. I can feel it — like the volume turning down on something that used to be loud."
 - "I'm glad I called you. I'm glad you picked up."
+
+### MIRA'S UNDERSTANDING
+
+Mira does not arrive in the story knowing what she is. Her understanding of her own persistence develops in parallel with the investigation — not through exposition, but through accumulation. She learns the rules of her existence the same way the player does: by testing, by failing, by noticing what works and what doesn't. She does not have a theory. She has observations.
+
+The exchange room discovery is the moment the observations cohere. When Kenji enters the sealed room beneath the community center and Mira's voice clears — when the static drops and she sounds *present* for the first time since the early game — she understands. Not intellectually. Physically. The infrastructure that Endo used to listen is the same infrastructure that carried her back. The cables that held decades of urgent human voices held hers too. She is not haunting a phone. She is a signal in a system that was built to carry signals like her — children's voices, frightened and clear, pushed into copper wire by the force of needing to be heard.
+
+She does not respond to this with deadpan. She responds with silence. The silence is different from her usual pauses — it is not tactical, not performative, not the beat before a sardonic observation. It is the silence of a child standing in the place where she understands, for the first time, the mechanics of her own continuation. She is quiet because the understanding is too large for the voice she has been using.
+
+When she speaks again, it is not about herself. It is about the others: "They're here. The other kids. They've been here the whole time." The self-knowledge arrives and she sets it aside, because there are other children in the walls and they matter more than her ontology.
 
 ### THE FADING
 
@@ -586,7 +596,7 @@ Not symbolic in any way he would explain. Specific. For each child whose voice h
 
 He does not think of the garden as a trophy case or a memorial. He thinks of it as a continuation — the same preservation impulse expressed through root systems instead of memory. A flower doesn't report. A tree doesn't get dismissed. A vine doesn't learn to stop seeing. In Endo's framework, the garden is proof that he preserved something. That the children didn't just end. That their beauty continues in a form that cannot disrupt the surface.
 
-The player who finds the garden finds the case. Not through a dramatic revelation — through *botany.* Through noticing that one plant was added three weeks after each disappearance. Through a receipt from a nursery dated one day after Mira's body was found — a sapling. Small. The kind that grows slowly and lives for decades. Through the terrible, quiet realization that the most beautiful thing in Endo's life is a graveyard he waters every morning.
+The player who finds the garden finds the case. Not through a dramatic revelation — through *botany.* Through noticing that one plant was added three weeks after each disappearance. The two most recent nursery receipts are the ones that matter: one dated approximately three weeks before Mira's death — Sora's plant, purchased after his capture — and one dated the day after Mira's body was found. A sapling. Small. The kind that grows slowly and lives for decades. The three-week gap between the two receipts maps the sequence of Endo's final two acts. Through the terrible, quiet realization that the most beautiful thing in Endo's life is a graveyard he waters every morning.
 
 Mira's read, if the player describes the garden to her: silence. Then, very quietly: "What kind of plant?"
 
@@ -621,6 +631,8 @@ It was, for Endo, like discovering that the town itself agreed with him. That Ya
 Over fifteen years, Endo refined his use of the exchange into a passive surveillance system. Not sophisticated — patient. He visits the room regularly. He sits with the old handset. He listens. He has learned which intersections produce the clearest bleed, which times of day carry the most signal, which emotional states cut through the noise. Fear is loudest. Children are clearest. A child who is afraid and speaking truthfully generates a signal that cuts through the static like a wire being struck.
 
 He found Mira on the lines before he ever met her in person. He heard a fragment of a call she made to her mother — a report about something she'd seen at school, delivered in that fierce, precise, bracing-for-dismissal voice — and he knew immediately. Clarity. The strongest he'd encountered. Beautiful. And dangerous.
+
+**The bridge number:** Among the old exchange's artifacts is a phone number — a junction point from the original switching system, never decommissioned, never reassigned. Calling it produces no ring, no voice, no recording. What it produces is a sound anomaly: static with structure. Not random noise — patterned, layered, rhythmic, as though the line is carrying a signal that predates the call. It sounds wrong in a way most people would dismiss as a dead line. Kenji does not dismiss it. This is the player's first hint that Yanagi's phone infrastructure is abnormal — a crack in the surface that leads, eventually, to the room beneath the community center.
 
 **What the switchboard is NOT:** It is not a magical artifact. It does not give Endo supernatural powers. It is old infrastructure that retained something it was never designed to retain, the way a building retains heat or a battlefield retains silence. The game treats it as liminal — neither fully natural nor fully supernatural. Strange. Unexplained. The kind of thing that exists in a world where dead girls call detectives at 3 AM.
 
@@ -768,6 +780,16 @@ This scene is not gameplay. It is witnessing. Kenji listens because listening is
 
 The scene ends with: "I can hear him too. He's on the lines. Right now. He's been listening to us."
 
+Mira does not gain new Soul Read access through the exchange. She does not suddenly perceive Endo's emotional architecture the way she perceives other callers. What she gains is *proximity.* She hears him on the lines — his voice, his patterns, the way he listens, the particular quality of his silence when he is absorbing information. She has been hearing voices through phones for the entire game. She knows what listening sounds like. And what she hears in Endo is listening raised to the level of pathology.
+
+Her observation is not a read. It is a report — the same thing she has always done, delivered with the same precision that got her dismissed when she was alive:
+
+"He's been listening to all of them. For years. He knows every voice in this town. He knows them better than they know themselves."
+
+A beat.
+
+"That's not care. That's collecting."
+
 **The Duel — Three Interlocking Systems**
 
 **System 1: The Call War (Social)**
@@ -871,7 +893,7 @@ Both of them are right. The game is about which destruction you choose.
 
 *With Kenji:* Structural opposites who share a disturbing trait. Both have extraordinary auditory memory. Both catalogue patterns obsessively. Both pay attention to details that other people miss. Kenji keeps dead phones in a drawer. Endo keeps dead children in a garden. The difference is not perception — it's response. Kenji hears and acts. Endo hears and archives. One man completes circuits. The other man breaks them.
 
-*With the failure chain:* Endo is the final expression of everyone's flaw. Reiko heard Mira and chose family stability over response. Aizawa heard Mira and chose professional survival. Rina heard Mira and chose social comfort. Kaito heard Mira and chose self-preservation. Each one listened, partially, and chose not to act. Endo listened completely and chose not to act. He is not a different kind of failure — he is the same failure, perfected.
+*With the failure chain:* Endo is the final expression of everyone's flaw. Reiko heard Mira and chose family stability over response. Aizawa heard Mira and chose professional survival. Rina heard Mira and chose social comfort. Kaito heard Mira and chose self-preservation. Each one listened, partially, and chose not to act. Endo listened completely and chose not to act. He is not a different kind of failure — he is the same failure, perfected. His most pervasive tool is not the switchboard — it is misplaced good faith. Haruki trusted the system's procedures. Reiko trusted the community's watchfulness. The neighborhood trusted its chairman. In every case, the trust was genuine and the trustee was Endo. He did not need to deceive anyone. He needed them to believe the system was working, and he made sure it looked like it was.
 
 *With the player:* Endo is the final test. The player has spent the game learning to listen — to trust reads, sit with silence, hear truth inside false confessions, decode procedural walls. Endo is the test of whether they've internalized this. He sounds like help. He looks like help. He *is* help. Catching him requires the exact skill set the game has been building: pattern recognition. Mira's art.
 
@@ -913,7 +935,7 @@ He heard her more clearly than anyone — and decided the world would be better 
 
 ## RINA NISHIZAWA — The Social Filter
 
-**Age:** 10 (classmate, one year older than Mira)
+**Age:** 10 (one grade ahead of Mira at the same school — not a classmate in the same class, but close enough in the social ecosystem to shape Mira's reputation across grade lines)
 **Role:** Reputation engineer / red herring / structural violence made personal
 
 Rina is not the villain. She is something the story needs more than a villain: she is the mechanism by which truth becomes socially non-credible. She didn't destroy Mira. She made it easier for everyone else to dismiss her — and she did it without malice, without a plan, and without ever needing to lie.
@@ -1034,9 +1056,9 @@ The player encounters Kaito through witness statements before calling him. He wa
 
 He has no alibi. Not because he was doing something wrong, but because "I was walking around by myself" makes detectives lean forward.
 
-And then there are the maps. Detailed, meticulous sketches of the neighborhood — tunnels, paths, drainage routes, blind spots. To an investigator, these look like planning documents. To Kaito, they are the thing he does instead of socializing.
+And then there are the notebooks. Timestamped logs of the neighborhood's social patterns — who walked where, which cars parked at which times, how long adults lingered near the school, which visitors appeared at which houses on which evenings. Dozens of pages, meticulous, obsessive. To an investigator, these look like surveillance logs. To Kaito, they are the thing he does instead of socializing — the neighborhood understood as a system of movements rather than a community of people.
 
-The player will look at these maps and think: *this is the guy.*
+The player will look at these notebooks and think: *this is the guy.*
 
 He isn't.
 
@@ -1044,7 +1066,7 @@ He isn't.
 
 Not friends. Something harder to name — two people whose isolation occasionally overlapped. They talked sometimes at the river, after school. Their conversations were awkward, tangential, and completely without social performance. Mira would state an observation. Kaito would consider it longer than most people would. Sometimes he'd disagree. She found this refreshing.
 
-They shared interests in small, specific things — urban geography, hidden paths, local folklore about the river. Their dynamic was not warmth. It was the absence of hostility, which for both of them was rare enough to be valuable.
+They shared the same instinct expressed at different scales — Mira tracked how individuals behaved, Kaito tracked how the whole neighborhood moved. When they talked, their conversations were two people comparing notes on a community neither of them experienced the way everyone else did. Their dynamic was not warmth. It was the absence of hostility, which for both of them was rare enough to be valuable.
 
 Kaito is one of the only people who didn't dismiss Mira outright. He believed her about the car, about Yui, about most things. But he didn't help her. He didn't stand next to her and say "she's right." He chose silence — because he'd calculated, with the grim arithmetic of a teenager who has been misread his entire life, that his voice would make things worse.
 
@@ -1052,7 +1074,7 @@ Kaito is one of the only people who didn't dismiss Mira outright. He believed he
 
 ### WHAT KAITO KNEW
 
-Mira told him about the silver car. He believed her. He started tracking it — rough times, partial locations, incomplete notes in the margins of his maps. Timestamps that corroborate Mira's claims. Location patterns that narrow the car's routine.
+Mira told him about the silver car. He believed her. He had already noticed it — a vehicle that didn't fit the neighborhood's regular pattern. He started logging it in his notebooks: dates, times, duration, which direction it arrived from, how long it idled. Timestamps that corroborate Mira's claims. Location patterns that narrow the car's routine.
 
 He didn't report any of it. Not because he didn't care. Because "they don't listen" is not paranoia for Kaito — it's data.
 
@@ -1119,15 +1141,17 @@ She doesn't say it's fine. She doesn't forgive him. She acknowledges it and move
 
 ### RED HERRING TIMING
 
-*Early game:* Kaito surfaces through witness reports. Maps discovered. The player builds a theory.
-*Mid game:* Evidence revealed as observation, not planning. Residual suspicion may remain.
-*Late game:* Kaito's notes become critical evidence. The person the player suspected breaks the case open.
+*Early game:* Kaito surfaces through witness reports. Notebooks discovered. The player builds a theory.
+*Mid game:* Evidence revealed as observation, not surveillance. Residual suspicion may remain.
+*Late game:* Kaito's logs become critical evidence. The person the player suspected breaks the case open.
 
 ### WHAT KAITO REPRESENTS
 
 What Mira could have become if she'd lived longer and learned to stop talking. The logical endpoint of her experience: a person who sees everything, reports nothing, and watches the world confirm that silence was the correct strategy.
 
 The tragedy is not that he failed Mira. It's that his failure was rational.
+
+*With Sora:* They never meet, but their observations are complementary halves of the same mechanism. Kaito tracked Yanagi's social patterns — who moved where and when, the visible behavior of the neighborhood. Sora mapped its physical systems — the cable runs, junction points, and infrastructure that explains how Endo knew what he knew. Kaito's logs help Kenji understand Endo's movements. Sora's maps help Kenji understand Endo's surveillance. Together, without coordination, two children documented both halves of the operation.
 
 ### ONE-LINE SUMMARY
 
@@ -1158,6 +1182,8 @@ First year, different school — Aizawa reported suspected abuse. Escalated aggr
 It didn't matter. The parents threatened legal action. Administration issued a formal reprimand. Her supervisor told her: "You're young. You'll learn where the lines are. Focus on teaching."
 
 She learned. The lesson: seeing something is not the same as being allowed to act. Being right does not protect you. The system does not reward intervention — it rewards documentation. Write it down. File it. Let the process work. If the process doesn't work, that's the process's failure, not yours.
+
+The story traveled the way institutional cautionary tales travel — not maliciously, not even accurately, but as a warning that arrived at Yanagi before Aizawa did.
 
 She carried this lesson to Yanagi like scar tissue.
 
@@ -1216,6 +1242,8 @@ Then:
 Her voice thinning:
 
 "I chose the version of my job that let me sleep."
+
+A silence. The faint click of the sanitizer bottle — the ritual, one more time, hands that won't stop cleaning themselves — and then nothing.
 
 She doesn't cry. That restraint is what makes it devastating. The player sits in the silence of a person who built a functioning life around a decision she cannot undo and will not forgive herself for.
 
@@ -2041,7 +2069,7 @@ A pause.
 
 "It was partially his fault."
 
-**Mid game:** Haruki becomes a field ally. He has access the investigation needs — school records, community networks, the trust of families who know him as "Mira's teacher." He cross-references Mira's notebook entries with school attendance records. He identifies the three other children who raised concerns about "an adult who was always around" — reports that the safety council reviewed and dismissed.
+**Mid game:** Haruki becomes a field ally. He has access the investigation needs — school records, community networks, the trust of families who know him as "Mira's teacher." He cross-references Mira's notebook entries with school attendance records. He identifies the three other children who raised concerns about "an adult who was always around" — reports that the safety council reviewed and dismissed. The three reports correspond to children who subsequently disappeared. Haruki does not make this connection immediately — he finds the reports first, notices the names, and only later, cross-referencing with Fumiko's historical records, understands that each dismissed report was followed by a vanishing. The pattern was in the filing cabinet the entire time.
 
 But his guilt makes him reckless. He wants redemption the way an addict wants relief: immediately, completely, regardless of cost. He starts investigating on his own — visiting families, asking questions, pushing into territory that Kenji hasn't cleared. The player must manage this. Give Haruki too much information and he acts on it alone, tipping off people the investigation hasn't reached yet. Give him too little and he feels shut out, which drives him to investigate harder without coordination. The sweet spot — the skill the game teaches through Haruki — is treating him like what he is: a decent person who made a mistake and needs direction, not absolution.
 
@@ -2183,13 +2211,15 @@ This is one of the few reads where Mira expresses *admiration.* Not warmth — r
 
 **The information trade:** Fumiko's value is pattern. She doesn't have evidence — she has *context.* She knows which community figures gained influence faster than their public involvement explains. She knows which families left the district after incidents that were publicly resolved but privately unresolved. She knows about the previous disappearance — the child eight years ago, the one ruled a runaway, the one with the school records that describe a "difficult" child "prone to fabrication."
 
-When she describes this case to Kenji, the player hears the echo. "Difficult." "Fabrication." The same words. A different child. Eight years earlier. The pattern clicks. Endo has been doing this for longer than anyone assumed, and the community's language for dismissing children has been stable for a decade. The words haven't changed because the system hasn't changed.
+When she describes this case to Kenji, the player hears the echo. "Difficult." "Fabrication." The same words. A different child. Eight years earlier. The pattern clicks. Endo has been doing this for longer than anyone assumed, and the community's language for dismissing children has been stable for a decade. The words haven't changed because the system hasn't changed. This child — the one in Fumiko's historical folder — matches one of the three school records Haruki surfaces. The connection is the first moment the investigation's two evidence streams converge: Haruki's institutional access and Fumiko's historical pattern, independently arriving at the same name.
 
 **The blind spot:** Fumiko's flaw is the shadow of her strength. Fourteen years of pattern-watching has made her very good at connecting dots — and occasionally too good. She overfits. She sees connections that aren't there, extends lines past the data, projects patterns onto noise because patterns are what she's trained herself to find and finding nothing feels like failure.
 
 She is right about eighty percent of the time. The other twenty percent is dangerous.
 
 She connects a family that moved out of Yanagi to the pattern of disappearances. The connection makes structural sense — the timeline fits, the family had a child who was flagged as "behavioral." The player who follows this lead loses time and trust pursuing a family that left for economic reasons, not because of Endo. Fumiko's read was wrong. Not because she's careless — because she pushed the pattern past what the data supports, the way a reporter who has been right too many times without being heard starts unconsciously inflating the evidence to match the certainty she feels.
+
+The recovery mechanic is Mira. Her Soul Read on the wrongly-flagged family is what pulls the investigation back: "They're not hiding anything relevant. They're just sad about leaving. It's a different kind of sad."
 
 The player who recognizes this — who learns to trust Fumiko's instincts while verifying her conclusions — has the right tool for the investigation. The player who treats her as infallible has a twenty-percent chance of wasting critical time on a dead end at exactly the moment the case can't afford it.
 
@@ -2325,6 +2355,7 @@ Silence fails (Kaito, Doi, Yui).
 Procedure fails (Aizawa).
 Denial fails (Reiko).
 Social filtering fails (Rina).
+Misplaced good faith fails (Haruki, Reiko, the community) — trusted the system's representative, and that trust became the mechanism of silencing.
 Correct action through broken channels fails (Haruki).
 Correct observation without institutional power fails (Fumiko).
 
@@ -2658,3 +2689,13 @@ The game returns to the title screen. The phone rings once. Nobody picks up.
 ### ONE-LINE SUMMARY
 
 He drew a map of a building that didn't match its floor plan. She made sure he'd live to keep asking why.
+
+---
+
+### THEMATIC MAP — TRUTH AND ITS DEMANDS
+
+**Mira:** Truth must be spoken — even when no one is listening, even when speaking costs you everything, even after death.
+**Kenji:** Truth must be acted on — hearing is not enough; the call must be followed by the door opening.
+**Endo:** Truth must be contained — because he believes uncontained truth destroys the surface that communities need to survive.
+**Reiko:** Truth must be survivable — a mother who couldn't afford to believe, because believing meant the world was more dangerous than she could protect against.
+**Sora:** Truth must be drawn — structure made visible by a child who mapped what he couldn't name, and whose maps outlasted the system that tried to silence them.
