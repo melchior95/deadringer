@@ -1,0 +1,799 @@
+# CHAPTER 4 — Yui
+
+## Chapter Overview
+
+**Emotional register:** Urgency braided with dread. The chapter oscillates between two frequencies — the immediate danger of Yui's situation and the slow reveal of the social machinery that made Mira dismissible. One thread demands action. The other demands patience. The player cannot serve both fully.
+
+**Player knows at start:** Reiko manages grief, Doi hides personal pain, the bridge number is anomalous, Mira has a friend in danger, Mira's notebook contains detailed observation records, Endo's name has appeared four times across community contexts.
+
+**Mechanics introduced/deepened:**
+- Call slot scarcity (4 contacts available, 3 call slots — first forced prioritization)
+- Silence as dominant mechanic (Yui call)
+- Moral fork (act vs. delay — first major branching consequence)
+- Memory Fragment #2 (Rina Social Distortion — the notebook incident)
+- NPC off-screen communication (calling one person may alert another)
+
+**Mira's register:** Begins controlled — she's been preparing this disclosure all night. Breaks formation during the Yui call. Either shatters (act branch → crying scene) or hardens into dread (delay branch). Her register with Rina is colder, more guarded — this is someone who hurt her.
+
+**Ends with:** Yui is either safe or still in danger. Mira has either broken open or sealed tighter. Rina has introduced the social narrative that made Mira dismissible. And someone was watching the neighborhood with uncomfortable precision.
+
+---
+
+## SCENE 1: MIRA'S DISCLOSURE
+
+[VISUAL: Morning. Kenji's apartment. The desk is organized differently — the blue notebook is open beside the case file, both annotated in Kenji's hand. He's been up for hours. The coffee is cold. The evidence box sits open on the floor, its contents laid out in the order Kenji arranged them: clothing bags, school items, the tin pencil case.]
+
+[AUDIO: Early. The neighborhood outside is waking — a delivery truck, a bicycle bell, the distant chime of a school. The apartment is quiet in the focused way of a room where someone has been working.]
+
+MIRA: "Her name is Yui."
+
+[No preamble. No context-building. She's been holding this name all night and she's letting it go the way you release a breath you've been measuring.]
+
+MIRA: "Yui Sakamoto. She's eleven. She's in sixth grade at Yanagi. She was my friend."
+
+[Beat.]
+
+MIRA: "Her mother's boyfriend hits her. His name is Takeshi. He drinks. After the third drink the apartment changes. Yui has a map of the floorboards — she knows which ones are silent. She times her movements to his television schedule."
+
+[She delivers this at clinical speed — facts, arranged in the order that makes them undeniable. But the clinical mask is thinner than usual. The player who has heard Mira for three chapters can hear the seam.]
+
+MIRA: "I reported it when I was alive. To Mr. Ise — Haruki Ise, my homeroom teacher. I said 'Yui's mom's boyfriend hits her.' Exact words. He called Yui's mother. Her mother said I was making things up. The boyfriend found out someone reported. He got worse."
+
+[Beat. Smaller.]
+
+MIRA: "Yui stopped meeting me at the river for two weeks after that. When she came back she had a new bruise and a better cover story."
+
+KENJI: "Do you have her number?"
+
+MIRA: "Her mother's phone. Yui doesn't have her own. She borrows it when her mother is at work and Takeshi is asleep. Afternoon — between one and three. That's the window."
+
+[She's thought about this. The logistics of reaching a child who has optimized her life around not being noticed.]
+
+MIRA: "She folds origami. Cranes, mostly. She made a frog once that actually jumped. Best technology I've ever seen."
+
+[A flash of the old deadpan — affection disguised as field notes. Gone as quickly as it arrived.]
+
+MIRA: "One more thing."
+
+[Pause.]
+
+MIRA: "She doesn't know I'm dead."
+
+[The player absorbs this. Yui, who has no phone of her own, who lives in a house optimized for silence, who meets her only friend at a river where nobody watches — may not have heard. Or she heard and processed it the way she processes everything: by making herself smaller.]
+
+MIRA: "When you call, don't tell her I sent you. Don't tell her anything about me. Just... find a reason to talk to her. About the case. About the neighborhood. Anything. Just get her talking. She won't talk at first. She's trained not to."
+
+[Beat.]
+
+MIRA: "But if you're quiet long enough, she fills the space. She can't help it. She's been silent for so long that when someone actually listens, the words come out like they've been waiting."
+
+---
+
+## SCENE 2: THE CALL BOARD
+
+[MECHANIC: CALL SLOT ECONOMY — Scarcity begins. The player has access to four contacts but only three call slots this chapter. The roster has expanded past the economy. First forced prioritization.]
+
+[VISUAL: The call board. Four entries:]
+
+| Contact | Source | Status |
+|---------|--------|--------|
+| YUI SAKAMOTO (mother's phone) | Mira's disclosure | NEW — Call between 1-3 PM |
+| RINA NISHIZAWA | School directory (Reiko's call mentioned school contacts) | NEW |
+| KITAHARA, REIKO | Ch 3 — follow-up available | Returning |
+| DOI | Ch 3 — follow-up available | Returning |
+
+[The game highlights Yui and Rina as new contacts. Three call slots available. The player must choose three of four — or two, if they want to reserve a slot for the fork decision later in the chapter.]
+
+[DESIGN NOTE: The economy teaches triage. Yui is urgent. Rina provides context. Reiko and Doi offer depth but no new leads. The player who calls all three new/critical contacts (Yui, Rina, one returning) gets the most chapter content. The player who burns a slot on a returning NPC misses either Rina's social context or delays the Yui call.]
+
+MIRA: "Call Yui first. Please."
+
+[The "please" is new. Mira doesn't request. She informs, she instructs, she observes. She does not say "please." The player who has been listening for three chapters hears this word land with the weight of everything Mira has been carrying.]
+
+---
+
+## SCENE 3: CALL — YUI
+
+[MECHANIC: The call screen. The player selects SAKAMOTO (MOTHER'S PHONE). The phone rings. Four rings. Five. Six. The player might think no one will answer.]
+
+[AUDIO: The line connects. A small sound — not a greeting. A diagnostic. The sound of someone checking the caller ID, finding nothing recognizable, and answering anyway because not answering an unknown number could mean missing something she'll be asked about later.]
+
+YUI: "Hello?"
+
+[Her voice: eleven years old, careful, producing as little signal as possible. Not quiet — contained. The containment sounds like politeness. It is architecture.]
+
+KENJI: "I'm looking for Yui Sakamoto. This is Detective Oda, from the Metropolitan Police."
+
+[Immediate shift. The voice changes — not to panic but to performance. A gear engages. The girl on the phone becomes a different girl: helpful, polite, slightly cheerful.]
+
+YUI: "Oh! Yes, that's me. How can I help you, sir?"
+
+[AUDIO: The performance is flawless. A well-adjusted child having a normal conversation with a normal adult. Every syllable calibrated to produce the impression of a household where everything is fine.]
+
+MIRA: "She's doing the voice. The one she uses when someone might check on her. It's the same voice she uses with teachers."
+
+[Beat.]
+
+MIRA: "It's not real."
+
+KENJI: "I'm following up on the Kitahara case. You knew Mira?"
+
+YUI: "We went to the same school! She was a year below me. I didn't know her very well, but she seemed nice. Everyone was really sad when she — when that happened."
+
+[Every word is correct. None of it is true. "Didn't know her very well" is the architecture of avoidance applied to friendship — the same instinct that keeps her origami in a shoebox under the bed. Things left visible can be noticed, commented on, destroyed.]
+
+---
+
+**[PLAYER CHOICE — Yui Approach]**
+
+> **REASSURE** — "This is just a routine follow-up. Nothing to worry about."
+>
+> **PRESSURE** — "We have reports that you and Mira were close. Her notebook mentions you by name."
+>
+> **REDIRECT** — "Tell me about the school. What was it like there?"
+>
+> **REMAIN SILENT** — *Let the performance reach its edge.*
+>
+> **BLUFF** — "Mira's mother told us you were Mira's closest friend."
+
+---
+
+### Response: REASSURE
+
+YUI: "Of course! I'm happy to help with anything. The school had a memorial for her and everything. It was very sad."
+
+[The cooperative performance holds. She is giving Kenji exactly what she gives every adult who checks: reassurance that the surface is the full story. Reassure is too slow here — it accepts the performance and Yui will maintain it indefinitely. The call produces nothing the player can use.]
+
+[DESIGN NOTE: Reassure fails on Yui because Yui has been reassuring adults her entire life. She is better at this than Kenji is.]
+
+---
+
+### Response: PRESSURE
+
+KENJI: "We have reports that you and Mira were close. Her notebook mentions you by name."
+
+[Silence. Three seconds. The performance wavers — not visibly, but the player can hear the recalibration. When Yui speaks, her voice is the same pitch but the rhythm has changed. Faster.]
+
+YUI: "Her notebook? I — we were in different grades. I don't know what she would have written about me. We maybe talked a few times at school? She was... she noticed a lot of things."
+
+[She's retreating. Every direct question closes a door. If the player presses further — asks about home, asks about Takeshi, asks about bruises — Yui shuts down. Answers get shorter. Details get vaguer. She becomes less present on the line, performing disappearance the way she's practiced for four years.]
+
+MIRA: "Stop. You're losing her."
+
+---
+
+### Response: REDIRECT
+
+YUI: "The school? It's... it's a good school. The teachers are nice. We have a garden. Mr. Ise — he was our homeroom teacher — he really cares about the students."
+
+[She relaxes fractionally. A question about the school is a question about territory she controls. She can narrate the safe version of her life — the version where school is fine and teachers are nice and gardens exist.]
+
+KENJI: "What about after school? What do kids do around here?"
+
+YUI: "Some kids go to the river. There's after-school programs. I usually go straight home."
+
+["Usually go straight home" — delivered with the specific flatness of a sentence that has been rehearsed so many times it no longer registers as a lie. The player who is listening hears what "straight home" means for a girl who maps floorboards.]
+
+---
+
+### Response: REMAIN SILENT (Primary Mechanic)
+
+[The performance runs out of material. Yui has said "how can I help" and delivered the safe version. Now there's space. And Yui — trained to read silence the way other children read faces — enters it cautiously.]
+
+YUI: "Um..."
+
+[Five seconds. Seven. The line holds. Yui is not uncomfortable with silence — she lives in it. But this silence is different. It's not the silence of a room where someone might explode. It's the silence of a phone line where someone is waiting without demanding. She doesn't recognize it.]
+
+YUI: "Is there... something specific you wanted to know?"
+
+[Kenji says nothing. Ten seconds.]
+
+YUI: "Because I really didn't know Mira that well. We just... we sat near each other sometimes. At the river. She watched bugs. I did my... I folded things."
+
+[A fracture. "Sat near each other sometimes" is closer to the truth than "didn't know her very well." The silence pulled it forward. Not because Kenji was clever — because Yui needed the space to arrive somewhere unscripted.]
+
+YUI: "She was... she was really good at noticing things. Like, she'd see something and she'd just say it. Out loud. Just say what she saw. I couldn't do that. I can't — "
+
+[She stops. Regroups. The performance tries to reassert but it's been breached and the repair is visible.]
+
+YUI: "She was nice. That's all."
+
+[The player who chose Silence has pulled Yui past her first wall. One more piece of space — one more careful silence — and the real Yui arrives.]
+
+---
+
+### Response: BLUFF
+
+YUI: "Mira's mother said... ?"
+
+[Recalibrating. If Reiko knows about the friendship, then the friendship is already visible. Yui's architecture of avoidance requires that friendships remain hidden. A friendship that has been named by an adult to a detective is a friendship that has entered the system — and the system is the thing Yui has spent four years learning to navigate without generating signal.]
+
+YUI: "I mean — we were friendly. At school. I wouldn't say closest friend. We were just — she was nice to me. She didn't make fun of my..."
+
+[She stops. The bluff cracked the performance but what's underneath is defensive, not open. Yui is now managing a new threat: the possibility that someone has been talking about her. The bluff produced wariness, not trust.]
+
+---
+
+### All Paths: The Silence That Works
+
+Regardless of initial choice, the call continues. The player navigates Yui's defenses — some approaches work better than others, but all paths eventually reach a moment where Yui's voice changes.
+
+It happens when the subject of Mira comes back. Not through a question — through an absence. Kenji mentions that the investigation has found Mira's notebook. That she documented things. That she was paying attention to people around her.
+
+YUI: "She paid attention to everyone."
+
+[Quieter. The performance is gone. What's underneath is a girl who misses her friend.]
+
+YUI: "She paid attention to me."
+
+[The player who has been patient — who used Silence, or who backed off after a failed approach and tried again — gets what comes next.]
+
+YUI: "Mira said she told someone about me."
+
+[Beat.]
+
+YUI: "Did anyone come?"
+
+[Kenji can feel the weight of this question. It is not a question about the case. It is a question about whether the system works — whether a child's report, delivered to an adult, produces a response. Mira reported Yui's situation. The system absorbed it. Yui has been waiting.]
+
+KENJI: "No."
+
+[Long silence. Twelve seconds. The longest silence in the game so far.]
+
+YUI: "She said they would."
+
+[DESIGN NOTE: A child, waiting for help that was promised by another child who believed adults would act. The person on the phone is the first adult who has listened long enough for Yui to ask.]
+
+---
+
+### SOUL READ — YUI
+
+[Mira's read comes slowly. The wire-sound rises but doesn't settle into the usual rhythm — it stutters, catches, as if the connection is being pulled through something that resists.]
+
+MIRA: "She's... small. Not her body. Everything else. Like she's been packing herself into a box and she's gotten very good at it."
+
+[Long pause. When Mira comes back, her voice is different — the clinical tone is gone. What replaces it isn't warmth. It's something rawer.]
+
+MIRA: "She was my friend and I didn't fix it."
+
+[Beat.]
+
+MIRA: "I need you to fix it."
+
+[This is the first time Mira asks for something without pretending she doesn't care. The deadpan is down. The "please" from earlier was a crack. This is the crack widening.]
+
+[NOTEBOOK PROMPT: "SOUL READ — YUI: 'Small — packed herself into a box.' Mira's first unguarded request. Not analysis — need. 'She was my friend and I didn't fix it. I need you to fix it.'"]
+
+---
+
+## SCENE 4: THE FORK
+
+[The Yui call is over. The apartment is quiet. The case file is on the desk. The notebook is open to Yui's entries — dates, bruises, cover stories. Mira's observations, confirmed by Yui's own voice.]
+
+[Kenji has what he needs to act. He also has a case that's barely started — two calls deep, Endo's name circled but unexplored, Doi's drawing boy unidentified, the bridge number unexplained. Acting on Yui means diverting time, attention, and professional capital to a child welfare intervention that is not, technically, part of the Kitahara investigation. It also means contacting people — Haruki, CPS, possibly the school — and in a neighborhood where information travels through committee structures and community councils, that contact may ripple outward. The player should feel the risk: acting sends signals through a web the player hasn't fully mapped.]
+
+MIRA: "You heard her."
+
+[Not a question. A position.]
+
+MIRA: "You know what's happening in that apartment. You have a name. You have a teacher who already knows — Haruki Ise. You have enough."
+
+[Beat.]
+
+MIRA: "The case can wait one day. She can't."
+
+---
+
+**[PLAYER CHOICE — The Moral Fork]**
+
+> **ACT NOW** — "I'm making the calls. Yui comes first."
+>
+> **DELAY** — "I need to build the case first. If I act without evidence, the system rejects it — the same way it rejected your report."
+
+[MECHANIC: MORAL FORK — First major branching consequence. This choice gates the crying scene (ACT) or the dread arc (DELAY). Both paths continue to the chapter's investigation beats. The choice is not between right and wrong — it's between two kinds of right that can't coexist in the same afternoon.]
+
+---
+
+### Branch A: ACT NOW
+
+KENJI: "I'm making the calls."
+
+[He reaches for his phone. Not the ghost phone — his work phone. The one with institutional weight behind it.]
+
+MIRA: "..."
+
+[She says nothing. But the silence has a different quality — lighter. Like a held breath releasing one degree.]
+
+[VISUAL: Montage. Kenji calls Haruki — who answers immediately, who has been waiting for this call for months without knowing it. He provides school records. He provides the counselor's notes. He provides the contact for child protective services that he looked up the day Mira reported and never dialed because protocol said to call the mother first and protocol was the only thing between him and the knowledge that he'd made it worse.]
+
+[Kenji calls CPS. He files. He pushes. He uses the specific, heavy weight of a Metropolitan Police detective's badge to move a system that should have moved on a nine-year-old's word.]
+
+[VISUAL: Evening. A car arrives at an apartment building in Yanagi. Two women in professional clothes. A police liaison. They knock. They enter. The player doesn't see inside. They don't need to.]
+
+[VISUAL: Twenty minutes later. A girl exits the building carrying a school bag and a shoebox. She gets into the car. She is very quiet. She is holding the shoebox with both hands.]
+
+[The confirmation comes through Kenji's phone. Text: intervention complete, child removed to grandmother's custody, investigation ongoing.]
+
+KENJI: "It's done."
+
+[Silence on the line. Five seconds. Ten.]
+
+---
+
+### THE CRYING SCENE
+
+[This is the scene from the character bible. It triggers here, and only here, because for the first time an adult heard Mira and acted.]
+
+MIRA: "That's what it was supposed to look like."
+
+[Her voice is even. Still controlled. Still performing.]
+
+MIRA: "When I told Mr. Ise about Yui. That's what was supposed to happen. Someone was supposed to... do that."
+
+[The control holds. But the pace is wrong — slower, each word placed like a foot on uncertain ground.]
+
+MIRA: "I told him the same thing I told you. Almost the same words. 'She's in danger. You need to do something.' And he called her mom. And her mom said I was making things up. And he believed her mom because her mom was an adult and I was..."
+
+[She stops. Not for effect. Because the next word is too heavy.]
+
+MIRA: "I was right there. I was standing right there in his classroom and I had the right answer and it didn't..."
+
+[This is where every instance of not being believed — every dismissed report, every parent-teacher conference about her "behavior," every time she said something true and watched an adult's face close — arrives at once. Not as memory. As weight.]
+
+[The break doesn't sound dramatic. It starts as a sound the player might mistake for static — because Mira's connection has been degrading and interference sounds like this. But it isn't static. It's a nine-year-old girl crying for the first time since she died.]
+
+MIRA: "It's not fair."
+
+[Her voice is raw. Stripped. Nothing like the careful instrument the player has spent three chapters learning.]
+
+MIRA: "You believed me. You just — I said it and you did it. That's all it took. That's all it ever took. Someone just had to *do* it."
+
+[This is the grief of realizing that the wall she spent her entire life pushing against was never made of stone. It was made of people choosing, one by one, not to move.]
+
+MIRA: "I told four adults. I told them the right thing in the right order with the right details and nothing happened. Nothing happened and I thought it was because I was wrong or because I was bad at explaining or because I was — "
+
+[She chokes on it.]
+
+MIRA: "I thought there was something wrong with *me*."
+
+[A long silence. The line hums. The player sits in it.]
+
+MIRA: "And then I died. And then you showed up. And you just... listened. And it worked."
+
+[Her voice is very small now. Not deadpan. Not clinical. Nine.]
+
+MIRA: "Why did I have to be dead for it to work?"
+
+[Kenji doesn't answer. The game doesn't answer. Some questions are not puzzles. They're weights the player carries for the rest of the story.]
+
+MIRA: "I wanted my mom to be the one."
+
+[Long pause.]
+
+MIRA: "I kept thinking... if I just explained it better. If I said it differently. If I was more... normal about it. She'd hear me."
+
+[A shaky breath — or whatever ghosts do instead of breathing.]
+
+MIRA: "She was right there. She was my *mom*. And she chose not to."
+
+[Silence. The wire-sound, low and steady, the only evidence that the connection still holds.]
+
+[Then, after a minute — or what feels like a minute:]
+
+MIRA: "...sorry, Kenji."
+
+[First time. His name, not "Detective." She doesn't notice the shift. He does. He says nothing about it.]
+
+KENJI: "Don't be."
+
+MIRA: "That was unprofessional."
+
+[The faintest ghost of the deadpan. Arriving like a survivor crawling back to shore.]
+
+KENJI: "You're nine."
+
+MIRA: "I'm also dead. I contain multitudes."
+
+[The armor is coming back. Not the same armor — lighter, thinner, with a crack down the center that will never fully close. But it's coming back because Mira needs it to do the work that's left. She will call him "Kenji" again. She will not call him "Detective" again. Neither of them will mention the change.]
+
+[NOTEBOOK PROMPT: "MIRA — broke. Not performance, not strategy. Grief. 'Why did I have to be dead for it to work?' 'I wanted my mom to be the one.' She thought there was something wrong with HER. There wasn't. She is nine and she was right about everything and nobody moved."]
+
+---
+
+### Branch B: DELAY
+
+KENJI: "I need to build the case first. If I act on one report with no corroboration, CPS will do what they did last time — call the mother, get a denial, close the file. I need evidence that sticks."
+
+[This is reasonable. It is also the exact calculus every adult in Mira's life performed — the cost-benefit analysis that treats a child's safety as a variable to be optimized rather than a condition to be met.]
+
+MIRA: "..."
+
+[Five seconds. When she speaks, her voice hasn't broken. It has hardened — not into anger but into something denser. Disappointment compressed past the point where it sounds like disappointment.]
+
+MIRA: "You sound like them."
+
+[Beat.]
+
+MIRA: "You sound like every adult who told me they'd handle it."
+
+KENJI: "I'm not dismissing it. I'm sequencing it."
+
+MIRA: "She can't eat a sequence."
+
+[Silence. The wire-sound drops half a register.]
+
+MIRA: "Fine. Build your case. But every hour you spend building it, she's in that apartment. And Takeshi drinks starting at nine."
+
+[Mira doesn't go quiet the way she did after the Reiko read. She stays present — more present than usual, in fact. But the clinical mask has a new quality: not armor, but vigil. She is watching Kenji the way she watched every adult who said "we'll handle it." Measuring. Counting the hours.]
+
+[MECHANIC: DELAY CONSEQUENCE — Yui remains in danger. Mira's trust register does not drop but does not advance. The crying scene is deferred — it will trigger at a later catalyst (Yui intervention in Ch 5 or 6). The dread replaces the catharsis: the player carries the weight of knowing and not acting. Each subsequent chapter opening includes a Mira line tracking the elapsed time: "It's been two days." "It's been four days." "She's still there."]
+
+---
+
+## SCENE 5: CALL — RINA
+
+[Regardless of the fork choice, the investigation continues. Rina Nishizawa became available through the school directory Reiko referenced. The player selects NISHIZAWA, RINA from the call board.]
+
+[AUDIO: The phone rings. One ring. Answered immediately — the speed of someone who always picks up, because picking up is what well-adjusted people do.]
+
+RINA: "Hello?"
+
+[Her voice: ten years old but socially eighteen. Bright, cooperative, modulated. She has the voice of a child who has never needed to be taught how to talk to adults because she reverse-engineered it by third grade.]
+
+KENJI: "Rina Nishizawa? This is Detective Oda. I'm calling about Mira Kitahara."
+
+RINA: "Oh, Mira. Yes, of course. That was so sad. How can I help?"
+
+[The phrasing — "how can I help" — mirrors Reiko's from Chapter 3. Two people, two decades apart, using the same language of cooperative performance. Rina learned it first.]
+
+KENJI: "I understand you knew Mira."
+
+RINA: "We went to the same school. I'm a year ahead. We were friends when we were younger — like, second grade? But we kind of grew apart. She got really... intense about things."
+
+[There it is. The first deployment of the word that follows Mira through every conversation: "intense." Not a lie. Not an accusation. A social positioning that gives the listener permission to not investigate further.]
+
+---
+
+**[PLAYER CHOICE — Rina Approach]**
+
+> **REASSURE** — "I appreciate you talking to me. Just trying to get a picture of who Mira was."
+>
+> **PRESSURE** — "What do you mean by intense? Can you give me examples?"
+>
+> **REDIRECT** — "What was the school like? How did other kids see Mira?"
+>
+> **REMAIN SILENT** — *Let Rina fill the space.*
+>
+> **BLUFF** — "We've heard from several people that you and Mira had a conflict. Something about a notebook."
+
+---
+
+### Response: REASSURE
+
+RINA: "Of course! I mean, Mira was a really unique person. She cared a lot about things. She just sometimes... took things too far? Like, she'd notice something and then she couldn't let it go. Even when the adults said it was fine."
+
+[Each sentence is a small machine. "Unique" (read: abnormal). "Cared a lot" (read: excessive). "Took things too far" (read: the problem was hers). "Even when the adults said it was fine" (read: the adults were the authority and Mira wasn't). Rina isn't lying. She's curating — and the curation is so fluent it sounds like description.]
+
+---
+
+### Response: PRESSURE
+
+KENJI: "What do you mean by intense?"
+
+RINA: "Just... she would say things. About people. Like, she'd accuse people of stuff without really knowing. She told a teacher that Mr. Doi was watching kids, and he's just an old man who runs a store. She told the counselor that someone was being hurt and it turned out to be — I mean, I don't know all the details. She just saw things that weren't always there."
+
+["Things that weren't always there." The player who has spent three chapters confirming that Mira's observations were accurate hears this sentence land differently than Rina intends it. Mira saw things that were always there. Rina is describing a community consensus, not a fact.]
+
+---
+
+### Response: REDIRECT
+
+RINA: "The school is really good. The teachers care. Ms. Aizawa — the counselor — she's always available. And Mr. Endo does so much for the community. He organized the playground renovation last year."
+
+[Endo. Again. Mentioned casually, in the same breath as the school's quality. Another data point for Kenji's circled name.]
+
+RINA: "Mira was kind of... outside of things. Not bullied — nobody bullied her. She just didn't really fit. She'd say things that made people uncomfortable. Like, in a meeting she'd just stand up and say 'I think the safety council chairman is watching us' and everyone would be like... Mira, sit down."
+
+[NOTEBOOK PROMPT: "RINA — confirms Mira publicly named Endo at a meeting. Community response: dismissal. 'Mira, sit down.' Rina mentions Endo in same breath as school quality. Community consensus: Endo is good, Mira is intense. Cross-reference: Kenji's Endo frequency note."]
+
+---
+
+### Response: REMAIN SILENT
+
+[Rina fills space the way water fills a container — completely, smoothly, leaving no gaps. Silence doesn't produce confession from Rina. It produces performance. She interprets the quiet as invitation and delivers more of the curated version.]
+
+RINA: "She was sweet, in her way. She just... I think she wanted people to take her seriously and she went about it the wrong way. Like the notebook thing — she accused me of taking her notebook in second grade and I didn't, and it became this whole thing, and after that she kind of..."
+
+[She trails off. The notebook. The player who has been waiting for this detail has it now — volunteered, unprompted, in the middle of a performance. Rina brought it up herself because it's part of her narrative: the story of Mira that justifies the distance.]
+
+---
+
+### Response: BLUFF
+
+RINA: "A conflict? No, that's — who said that?"
+
+[The first crack. Rina's social calibration requires knowing what version of events is in circulation. If someone has told the detective about the notebook, Rina needs to know who, and what they said, so she can adjust.]
+
+RINA: "There wasn't a conflict. We were eight. She thought I took her notebook and I didn't. Or maybe I lost it. I honestly don't remember. It was so long ago."
+
+["I honestly don't remember" — deployed as closure. The player can note: Rina remembers enough to describe the incident but not enough to take responsibility for it. The memory is perfectly sized: large enough to dismiss, small enough to deny.]
+
+---
+
+### All Paths: The Notebook Incident
+
+Regardless of approach, the conversation arrives at the notebook. Either Rina brings it up (Silence, Redirect) or the player surfaces it (Pressure, Bluff). The incident sits at the center of every conversation about Mira and Rina.
+
+RINA: "I just want to be clear — I never said anything mean about her. I just... when people asked, I told them what I thought. That she misunderstands things sometimes. That's not mean. That's just... true."
+
+[Beat.]
+
+RINA: "Isn't it?"
+
+[The question is genuine. Rina is not performing here — she is checking. A ten-year-old who built a social position on a specific interpretation of a classmate is, for the first time, asking whether the interpretation was correct. She's not asking because she's guilty. She's asking because a detective is calling about a dead girl and the dead girl is the one Rina described as "intense" and "dramatic" and now the word "detective" is in the room and the room feels different.]
+
+---
+
+### SOUL READ — RINA
+
+[Mira is slower with this one. The read doesn't come in the usual clinical burst — it arrives in fragments, each one placed carefully, as if she's editing in real time.]
+
+MIRA: "She remembers things wrong on purpose... but not because she's lying. Because it works better if she does."
+
+[Pause.]
+
+MIRA: "I used to think she was my friend."
+
+[Not anger. Not betrayal. Realization — the kind that arrives years too late and settles like sediment.]
+
+MIRA: "She's not mean. That's the thing I got wrong when I was alive. I thought she was being cruel. She wasn't being anything. She was just being normal in a place where normal meant I disappeared."
+
+[NOTEBOOK PROMPT: "SOUL READ — RINA: Remembers things wrong 'because it works better.' Not lying — curating. Not cruel — normal. Mira was wrong about Rina's intent while alive. 'Normal' was the weapon. Mira's fallibility: she saw malice where there was social reflex."]
+
+---
+
+### MEMORY FRAGMENT — RINA SOCIAL DISTORTION
+
+[MECHANIC: MEMORY FRAGMENT #2 — The screen shifts. Kenji's apartment dissolves. What replaces it is louder, brighter, crowded.]
+
+[VISUAL: A classroom. Midday. Desks arranged in clusters. Sunlight through tall windows. The sound of children — not chaotic, but dense. The specific frequency of a room full of eight-year-olds during a free period. Colored paper. Scissors. The remains of a craft project.]
+
+[AUDIO: Voices overlapping. A teacher's voice in the background, managing, not directing. Footsteps. A chair scraping.]
+
+[TEXT ON SCREEN: *"This is a memory. You are Mira."*]
+
+The player sees the classroom from Mira's height — smaller than the kitchen in the Reiko fragment. The desks are at chest level. The other children are moving, talking, occupying space with the easy confidence of people who belong. Mira is standing near her desk. Her bag is on the floor. She has been looking for something.
+
+The notebook is gone. The small one with the patterned cover — flowers, blue and white, the one her mother bought at the stationery store on the way home from the hospital. Mira has checked her bag twice. It is not there.
+
+She saw it this morning. She had it at recess. She put it in her bag. It is gone now.
+
+She scans the room. And she sees it — or something that looks exactly like it — on Rina's desk. Rina is two clusters away, talking to another girl, laughing about something, the notebook half-covered by a textbook but the corner visible. Blue flowers. White background.
+
+**[PLAYER CHOICE — Mira's Response]**
+
+> **DIRECT** — Walk to Rina's desk. "That's my notebook."
+>
+> **CAREFUL** — Ask the teacher. "Ms. Tanaka, I think someone has my notebook."
+>
+> **OBSERVE** — Watch. Wait. See if Rina opens it.
+
+---
+
+### DIRECT
+
+MIRA (player): "That's my notebook."
+
+[She walks to Rina's desk. Rina looks up. The laugh fades. The room's frequency shifts — children are tuning in, the way children do when something is happening.]
+
+RINA: "What? No it's not."
+
+MIRA (player): "It's blue with white flowers. My mom bought it at the hospital stationery store."
+
+RINA: "My mom bought me one just like it. At a different store. They're the same pattern. It's not yours, Mira."
+
+[The room is watching. Two versions. No proof. The notebook is closed — the inside would confirm it (Mira's handwriting, her eraser reviews) but opening someone else's property requires permission that Mira, age eight, doesn't have the social capital to demand.]
+
+RINA: "Why do you always think people take your stuff?"
+
+[The question isn't addressed to Mira. It's addressed to the room. And the room receives it — the slight eye-rolls, the whispered "she's so dramatic," the social physics of a classroom rearranging around a verdict that was delivered as a question.]
+
+---
+
+### CAREFUL
+
+MIRA (player): "Ms. Tanaka, I think someone has my notebook."
+
+MS. TANAKA: "Which notebook, Mira?"
+
+MIRA (player): "The blue one with flowers. I had it at recess. It's on Rina's desk now."
+
+[Ms. Tanaka looks at Rina's desk. Looks at Mira. The look is brief but the player, as Mira, can read it: the slight weighting, the fraction of a second where the teacher is deciding which child's account requires less investigation to resolve.]
+
+MS. TANAKA: "Rina, is that Mira's notebook?"
+
+RINA: "No, Ms. Tanaka. My mom bought it for me. It's the same pattern but it's mine."
+
+MS. TANAKA: "Mira, are you sure it's yours? They do sell those at several stores."
+
+[The teacher has chosen. Not maliciously — efficiently. Two identical notebooks, two competing claims, one child who has a history of "seeing things" and one who doesn't. The path of least friction is to believe the child who generates less friction.]
+
+MIRA (player): "It has my writing in it. If you open it—"
+
+MS. TANAKA: "I'm not going to go through Rina's things, Mira. I think there's been a misunderstanding."
+
+---
+
+### OBSERVE
+
+[The player watches. Mira stays at her desk. She watches Rina's desk from across the room — the corner of the notebook visible, the blue flowers, the white background. Rina doesn't open it. She doesn't look at it. She's talking to the other girl, laughing, and the notebook sits under the textbook like it's always been there.]
+
+[Five minutes. Ten. The free period ends. The teacher calls the class to order. Rina puts the textbook in her bag. The notebook goes with it — slipped in between other books, invisible, absorbed.]
+
+[Mira watches it disappear into Rina's bag the way her reports disappear into the system. Received. Processed. Gone.]
+
+---
+
+### ALL PATHS — THE AFTERMATH
+
+Regardless of approach:
+
+[VISUAL: The classroom empties. The desks are pushed back. Mira is the last one at her seat. The notebook is gone — either claimed by Rina, ruled on by the teacher, or absorbed into a bag without acknowledgment.]
+
+[The player, as Mira, sits at the desk. The craft paper is still scattered. A girl passes and says, not unkindly: "Mira, it's probably at home. You lose things sometimes."]
+
+[Mira doesn't lose things. The player knows this. Mira catalogs erasers. She dates her observations. She keeps a log of her mother's shift schedule on the fridge. She does not lose things.]
+
+[VISUAL: Mira's desk. A sheet of paper. Her pen. She writes:]
+
+*"Rina has my notebook. Nobody believes me. The teacher didn't check. Next time I won't tell the teacher. I'll just write it down."*
+
+[This is the origin of the documentation instinct. The moment a child learns that reporting to authority produces nothing, and the only record that can't be overruled is the one she keeps herself.]
+
+[VISUAL: The memory thins. The classroom light dissolves. The desk fades. What returns is Kenji's apartment, the case file, the phone.]
+
+[AUDIO: The wire-sound rises, carries something that might be children's voices compressed past language, then settles.]
+
+[TEXT ON SCREEN: *"Next time I won't tell the teacher. I'll just write it down."*]
+
+---
+
+## SCENE 6: EVIDENCE — KAITO'S NOTEBOOKS
+
+[Between calls, a secondary thread surfaces. Kenji, canvassing the neighborhood for the Yui lead — contacting school contacts, checking addresses — encounters a mention in witness statements: a teenager seen near the river, near the school, always watching. Described as "that kid who hangs around." The statements are from neighbors, volunteered during the initial canvass after Mira's death.]
+
+[VISUAL: The case file, supplementary folder. A witness statement: "There's a boy — older, maybe sixteen, seventeen — who walks around the neighborhood. He carries notebooks. He sits in places and writes things down. I've seen him near the school, near the river, near the park. He was there the week before the girl disappeared."]
+
+[Another statement: "I saw him arguing with the Kitahara girl once. At the river. They were talking loudly and he was — it looked heated."]
+
+[DESIGN NOTE: "Arguing" — a neighbor watched from a window and interpreted two awkward people talking with intensity as conflict. This is the community's pattern-matching applied to Kaito: a boy who doesn't perform "normal" correctly becomes "suspicious" through the same mechanism that made Mira "intense."]
+
+[Kenji pulls the name from school records: KAITO NISHIMURA, 17, no school affiliation (homeschooled). Address in Yanagi. The case file includes a note from the original canvass: "Statement taken. No relevant observations. No further follow-up recommended."]
+
+[Kenji opens the supplementary evidence folder. Inside: photocopies of notebook pages recovered during the canvass. Timestamped logs. Meticulous. Columns: date, time, location, observation.]
+
+*"March 3, 15:22 — Silver vehicle, east entrance, idling. 14 min. Departure toward Route 8."*
+
+*"March 7, 15:18 — Same vehicle. 11 min. Same departure."*
+
+*"March 12, 15:25 — Vehicle not present. First absence in recorded pattern."*
+
+[The notebooks look like surveillance. The columns, the timestamps, the obsessive detail — to an investigator, these are stalking logs. To Kenji, who has spent three chapters reading Mira's equally meticulous observations, they are something else: another person who watched the neighborhood the way Mira did. The same instinct at a different scale.]
+
+[Kenji writes in his pocket notebook: "Nishimura logs — silver vehicle timestamps. Cross-ref Doi sighting. Same car? Same timeframe. Kid was tracking the same thing Mira was tracking."]
+
+[He circles the word "silver" and draws a line connecting it to "Doi — drawing boy — bench" from an earlier page. The threads are converging, but he doesn't force a conclusion. He's tracking a frequency.]
+
+MIRA: "He wasn't arguing with me. We were talking. He talks like that — loud, then quiet, then loud again. People think he's angry when he's just... thinking out loud."
+
+[Beat.]
+
+MIRA: "He believed me about the car. He was the only one."
+
+[NOTEBOOK PROMPT: "KAITO NISHIMURA, 17 — neighborhood observation notebooks recovered. Timestamped vehicle logs including SILVER CAR (east entrance, recurring). Cross-ref: Doi's silver car sighting, Mira's notebook entries. Witness statements describe him as suspicious — 'arguing' with Mira. Mira says: they were talking. He believed her about the car. Three observers (Mira, Doi, Kaito) independently tracking the same vehicle."]
+
+---
+
+## SCENE 7: CLOSE
+
+[VISUAL: Evening. The desk. The lamp. The case file is growing — Kaito's notebook photocopies stacked beside Mira's blue notebook, two sets of observations, two different hands, both tracking the same neighborhood. Kenji's pocket notebook sits open between them, his own annotations connecting what the original investigators didn't.]
+
+### Branch A Close (ACT — Yui rescued)
+
+[The crying scene has happened. The apartment is quieter than it's ever been. Mira is still present — the wire-sound confirms — but she's not speaking. She doesn't need to. The silence between them has changed quality: before, it was the silence of two people who hadn't decided to trust each other. Now it's the silence of two people who don't need to perform.]
+
+[Kenji opens the case file to a blank page. He writes the date. He writes:]
+
+*"Yui Sakamoto removed from home. CPS intervention. Investigation continues."*
+
+[He pauses. Then adds, in smaller handwriting:]
+
+*"One out of four."*
+
+[Mira's voice, quiet, almost not there:]
+
+MIRA: "What does that mean?"
+
+KENJI: "You reported four things to adults. One of them just got a response."
+
+[Silence. The kind that doesn't need filling.]
+
+MIRA: "...three to go."
+
+[The deadpan. Thinner. But back.]
+
+### Branch B Close (DELAY — Yui still in danger)
+
+[The investigation beats are the same. But the apartment feels different — heavier. Mira has been present for every call, every evidence review, and behind each observation is the subtext she delivered once and hasn't repeated: *she's still there.*]
+
+MIRA: "What time is it?"
+
+KENJI: "Eight-forty."
+
+MIRA: "Twenty minutes."
+
+[The player who heard Mira's briefing — "Takeshi drinks starting at nine" — understands. Twenty minutes until the apartment changes.]
+
+MIRA: "I'm going to keep counting."
+
+[She doesn't say anything else. But the wire-sound, running beneath the silence, carries a frequency that wasn't there before: low, steady, like a watch that's counting something the player can't undo.]
+
+---
+
+## END-OF-CHAPTER STATE
+
+### Player Knowledge (New This Chapter)
+- Yui Sakamoto: 11, sixth grade, Mira's only real friend. Mother's boyfriend Takeshi is physically abusive. Yui has built an architecture of avoidance — floorboard maps, timing systems, performance voice. She doesn't know Mira sent Kenji.
+- Yui's key line: "Mira said she told someone about me. Did anyone come?" — the question that defines the failure chain
+- Moral fork enacted: Yui either rescued (Act) or still in danger (Delay)
+- If Act: Mira's crying scene triggered. "Why did I have to be dead for it to work?" "I wanted my mom to be the one." "I thought there was something wrong with me." Armor cracked permanently.
+- If Delay: Mira counting hours. Dread arc initiated. Trust unchanged but strained.
+- Rina Nishizawa: 10, one grade ahead. Social filter. "Mira just misunderstands things sometimes." Provided the social narrative that made Mira dismissible. Not malicious — normal. Mentions Endo positively (playground renovation).
+- Memory Fragment #2 experienced: Rina Social Distortion — the notebook incident. The origin of Mira's documentation instinct. "Next time I won't tell the teacher. I'll just write it down."
+- Kaito Nishimura: 17, homeschooled. Neighborhood observation notebooks with timestamped logs — including silver car sightings matching Doi and Mira's records. Witness statements describe him as suspicious. Mira says he believed her about the car.
+- Silver car now confirmed by three independent observers (Mira, Doi, Kaito) — pattern convergence building
+- Endo name count: 5 (pharmacy board, community board, playground plaque, Reiko volunteer search, Rina playground renovation)
+
+### Notebook Contents (New Entries — Player-Assembled)
+- SOUL READ — YUI: "small — packed herself into a box." Mira's first unguarded ask.
+- SOUL READ — RINA: remembers wrong on purpose, "because it works better." Not cruel — normal. Mira's fallibility: saw malice where there was reflex.
+- Yui call: performance voice, architecture of avoidance. "Mira said she told someone about me. Did anyone come?" System failed.
+- Rina call: social filter deployed — "intense," "misunderstands things." Mentions Endo (playground). Notebook incident surfaced.
+- Kaito Nishimura: neighborhood logs, silver car timestamps (March 3, 7, 12 — east entrance, recurring). Three independent observers tracking same vehicle.
+- [If Act] Mira broke. "I thought there was something wrong with me." She was nine and right.
+- [If Delay] Mira counting. "Twenty minutes."
+
+### Phone Log
+- MIRA — 3:47 AM (Ch 1) — [no number]
+- KITAHARA, REIKO — Called (Ch 3) — Rehearsed grief, mentions Endo
+- DOI — Called (Ch 3) — Defensive, drawing boy, "somebody's project"
+- UNKNOWN (BRIDGE) — Called (Ch 3) — Sound anomaly, 47 sec
+- SAKAMOTO, YUI (mother's phone) — Called (Ch 4) — Performance voice → "did anyone come?"
+- NISHIZAWA, RINA — Called (Ch 4) — Social filter, notebook incident, Endo mention
+
+### Mechanical State
+- Notebook: SUBSTANTIAL (three Soul Reads, two Memory Fragments, Kaito evidence, moral fork logged)
+- Soul Read: PATTERN ESTABLISHED (Reiko=fear, Doi=grief, Yui=compression, Rina=curation). Player learning to read the reads.
+- Memory Fragment: 2 OF 3 ACTIVATED (Reiko Denial, Rina Social Distortion). Third (Aizawa Procedure) available Ch 5.
+- Intent System: SILENCE DOMINANT (Yui call teaches Silence as the primary tool for fragile witnesses). Player now has data: Pressure fails on defensive people (Doi) and trained performers (Yui). Silence works on grief (Reiko) and compression (Yui).
+- Call Slots: SCARCITY BEGUN (4 contacts, 3 slots). First forced triage. Teaches: you can't talk to everyone.
+- Moral Fork: ENACTED. Branch A (Act → crying scene, trust advance, Yui safe) or Branch B (Delay → dread arc, trust strained, Yui in danger). Both paths viable. The game does not announce which is "right."
+- Mira Trust Register: [Act] BREAKTHROUGH — armor cracked, "Kenji" used naturally, first genuine thanks. [Delay] HELD — trust neither gained nor lost, but a clock is ticking that the player put there.
+
+### Threads Open
+- [If Delay] Yui intervention → Ch 5 or 6 (deferred crying scene)
+- Kaito Nishimura contact → Ch 5 (player can call him)
+- Silver car convergence → Ch 7 (three independent observers now documented)
+- Rina's social narrative → late game (her phrasing echoes in framing language)
+- Endo name accumulation → Ch 5 (school records, committee chair)
+- Haruki Ise → Ch 5 (referenced by Mira, by Yui indirectly, ready for voluntary contact)
+- Aizawa → Ch 5 (school records access, third Memory Fragment)
+- Mira's notebook documentation origin → ongoing (Memory Fragment revealed why she writes)
+- Drawing boy identity → Ch 5 (still unnamed, Doi + bench + Kaito logs all pointing to same person)
+
+### Emotional Arc
+The chapter is built around a single question: will you act? Everything feeds into it — Mira's disclosure, Yui's voice, the Soul Read, the fork. The player who acts gets the crying scene — the game's emotional center, the moment where Mira stops being a tool and becomes a child. The player who delays gets dread — the knowledge that a reasonable decision has a human cost measured in hours. Both paths are legitimate. Both change the story. The Rina thread runs underneath, providing the social context that explains HOW Mira became dismissible, and the Kaito discovery provides the evidence thread that will converge with everything else in Chapter 7. The chapter ends invested: the player either broke the cycle or is carrying the weight of continuing it.
+
+---
+
+**END CHAPTER 4**
