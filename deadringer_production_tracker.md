@@ -27,17 +27,19 @@ Ranked by priority. The top of this list is what to do next.
 | 1 | Generate 99 character portrait prompts across 3 platforms | [READY] | Prompts exist in `character_image_prompts.md`. Ready to run. |
 | 2 | Generate 27 hero location prompts across 3 platforms | [READY] | Prompts exist in `deadringer_hero_location_prompts.md`. Ready to run. |
 | 3 | Style lock decision (characters + hero locations reviewed together) | [DECIDE] | Requires creative director review of output from #1 and #2. Blocks ~80% of remaining art production. |
-| 4 | ElevenLabs voice selection — 7 library voices + 3 voice clones | [READY] | Briefs in `deadringer_elevenlabs_voice_briefs.md`. Runs parallel to #1–3. |
-| 5 | Commission sound designer for wire-sound | [HUMAN] | Sound Designer. Cannot start until role is filled. Blocks Phase 5. |
-| 6 | Manuscript fix: split Ch 9 Garden prompt (audit flagged) | [DECIDE] | Audit flagged as ambiguous; deferred in current pass. Creative director call. |
-| 7 | Full style audition of Ch 9 Path A/B/C/D/E/F prompt structure | [BLOCKED] | Blocked on style lock (#3). |
-| 8 | Produce Phase 2 remaining 19 locations in locked style | [BLOCKED] | Blocked on style lock (#3). |
-| 9 | Produce ~40 character state/emotion variants | [BLOCKED] | Blocked on style lock (#3) AND character reference lock. |
-| 10 | Produce cutscene key-frames (20 scenes) | [BLOCKED] | Blocked on style lock (#3). |
-| 11 | Produce Memory Fragment first-person art | [BLOCKED] | Blocked on style lock (#3). |
-| 12 | Mira voice production session 1 — clone source + baseline takes | [READY] | Requires voice actor casting and contract; then unblocked. |
-| 13 | Non-voice audio production brief (SFX / ambient / music) | [READY] | Not yet specced. Fourth parallel track. |
-| 14 | Build playable prototype from existing manuscript + assets | [BLOCKED] | Engine choice, team assembly — outside current scope. |
+| 4 | Local TTS environment setup on RTX 5080 (F5-TTS + GPT-SoVITS) | [READY] | See `deadringer_elevenlabs_voice_briefs.md` §17. ~1 day install + test. Unlocks NPC voice production. |
+| 5 | ElevenLabs Pro tier subscription for Mira A/B testing | [READY] | $99/month for 1 month. Scope: load-bearing Mira lines only. |
+| 6 | Voice actor casting for Mira / Yui / Sora clone sources | [READY] | Same actors needed regardless of local vs cloud. Contract / recording sessions. |
+| 7 | Commission sound designer for wire-sound | [HUMAN] | Sound Designer. Cannot start until role is filled. Blocks Phase 5. |
+| 8 | Manuscript fix: split Ch 9 Garden prompt (audit flagged) | [DECIDE] | Audit flagged as ambiguous; deferred in current pass. Creative director call. |
+| 9 | Full style audition of Ch 9 Path A/B/C/D/E/F prompt structure | [BLOCKED] | Blocked on style lock (#3). |
+| 10 | Produce Phase 2 remaining 19 locations in locked style | [BLOCKED] | Blocked on style lock (#3). |
+| 11 | Produce ~40 character state/emotion variants | [BLOCKED] | Blocked on style lock (#3) AND character reference lock. |
+| 12 | Produce cutscene key-frames (20 scenes) | [BLOCKED] | Blocked on style lock (#3). |
+| 13 | Produce Memory Fragment first-person art | [BLOCKED] | Blocked on style lock (#3). |
+| 14 | Tooling development — manuscript parser + batch generation scripts for local TTS | [READY] | Python engineering, ~8–12 days. Prerequisite to batch voice production. |
+| 15 | Non-voice audio production brief (SFX / ambient / music) | [READY] | Not yet specced. Fourth parallel track. |
+| 16 | Build playable prototype from existing manuscript + assets | [BLOCKED] | Engine choice, team assembly — outside current scope. |
 
 ---
 
@@ -68,7 +70,16 @@ Once the art style is locked, the following become unblocked in sequence:
 - Yui clone source material (15–20 min audio)
 - Sora clone source material (15 min audio)
 
-These block Phase 3 voice production for the three child characters. NPC library voices can proceed in parallel without this blocker.
+These block Phase 3 voice production for the three child characters. NPC adult voices (F5-TTS with library reference audio) can proceed in parallel without this blocker — unblocked as soon as local TTS environment is set up.
+
+### 2.3 Blocked on Local TTS Tooling
+
+- Batch voice generation across 2,500 lines
+- Take management and selection UI
+- Consistency audit across generations
+- Degradation chain preview integration
+
+These block bulk voice production until the tooling scripts are built (~8–12 engineering days). Single-line generation via the gradio UI for testing can proceed immediately after install.
 
 ### 2.3 Blocked on Engine / Build Team
 
@@ -108,10 +119,11 @@ Issues that could derail the project. Ordered by severity.
 
 | Risk | Impact | Mitigation |
 |---|---|---|
-| **Mira's voice doesn't land** | Game-breaking. Mira is the emotional core; her voice is load-bearing for 85% of emotional weight. | Reserve budget for professional voice clone from an experienced VO artist. Don't compromise on source material quality. Test with 5+ audition candidates. |
+| **Mira's voice doesn't land** | Game-breaking. Mira is the emotional core; her voice is load-bearing for 85% of emotional weight. | Professional voice clone from an experienced VO artist. A/B test local GPT-SoVITS against ElevenLabs on 11 load-bearing scenes. Keep whichever wins per line. Reserve budget for 5+ audition candidates. |
 | **Art style fails on the Exchange Room** | Ch 10 is the game's second-most important set piece. A style that can't render the room's layered complexity (concrete, low fluorescent, handset, worn chair, cable routes) fails the project. | Hero location audition includes Exchange Room in all 3 styles. If all 3 fail, the style pool expands before lock. |
 | **AI animation character consistency fails** | Cutscenes like the arrest and Sora rescued depend on Endo's and Kenji's faces being the same across shots. Runway Gen-3 can fail on consistency. | Lock character reference with LoRA training or platform character-reference features. Fall back to stills with compositional motion for scenes where consistency fails. |
 | **Sound designer can't deliver the wire-sound** | The wire-sound is the game's audio identity. Generic stock audio will not suffice. | Budget a dedicated sound designer for this one asset. Don't AI-generate the wire-sound. |
+| **Local TTS quality gap on load-bearing Mira lines** | If local GPT-SoVITS can't match ElevenLabs on Mira's 11 key scenes, the game's emotional peaks underperform. | Maintain ElevenLabs Pro ($99/month) as A/B resource. Run blind-ranked quality gate (§17.10 of voice briefs) before committing all-local. |
 
 ### 4.2 High Risks
 
@@ -127,9 +139,12 @@ Issues that could derail the project. Ordered by severity.
 | Risk | Impact | Mitigation |
 |---|---|---|
 | **Rushed playthroughs lack Ch 11 slots** | Board audit projected minimum 2 complete slots for rushed players. After manuscript fixes (auto-log promotions), minimum is 3–4. | Playtest rushed playthrough; ensure confrontation is still readable at minimum density. |
-| **Voice cloning contracts legally inadequate** | Downstream production blocked or redo-needed. | Engage legal before Phase 3 voice production begins. |
-| **Localization breaks degradation chain** | Mira's processing chain is English-language-tuned. Different phoneme distributions may not degrade the same way. | Per-language audio engineering review. Budget for localization adjustments. |
+| **Voice cloning contracts legally inadequate** | Downstream production blocked or redo-needed. | Engage legal before voice actor sessions. Contracts must cover both local and cloud inference use of clone source. |
+| **Fish Speech commercial license not secured** | Kaito's voice (if assigned to Fish Speech) requires regeneration via F5-TTS before commercial ship. | Decide Kaito tool assignment before production starts. Default to F5-TTS if license status unclear. |
+| **Localization breaks degradation chain** | Mira's processing chain is English-language-tuned. Different phoneme distributions may not degrade the same way. | Per-language audio engineering review. GPT-SoVITS handles multilingual cloning natively; the degradation chain needs per-language tuning. Budget for localization adjustments. |
+| **Local TTS model deprecation during production** | If a model is updated mid-project, regenerated takes may not match earlier ones. | Pin model versions at project start. Do not auto-update. |
 | **Music decision unresolved** | Some players will expect music; its absence is a design choice that requires defense. | Commit to position before launch. Draft 4–6 possible cues in Suno; creative director decides if any are included. |
+| **5080 Blackwell driver / CUDA compatibility issues** | Local TTS setup fails on new hardware. | Verify CUDA 12.4+ on 5080 before voice production begins. Fallback: cloud ElevenLabs at higher cost. |
 
 ---
 
@@ -212,20 +227,25 @@ Issues that could derail the project. Ordered by severity.
 | AI animation clips (8 identified scenes, ~160 total seconds) | 0 | [BLOCKED] | Key-frames + Runway credits |
 | Cutscene editing / integration | 0 | [BLOCKED] | Engine / editor |
 
-### 5.7 Audio Assets — Voices
+### 5.7 Audio Assets — Voices (Local-First Production Path)
 
 | Asset class | Count | Status | Blocker |
 |---|---|---|---|
-| ElevenLabs voice briefs for all 11 characters | [DONE] | [DONE] | — |
-| Voice cloning — Mira | 0 | [BLOCKED] | VO actor casting + contract |
-| Voice cloning — Yui | 0 | [BLOCKED] | VO actor casting + contract |
-| Voice cloning — Sora | 0 | [BLOCKED] | VO actor casting + contract |
-| Library voice selection — Kenji | 0 | [READY] | Tool access |
-| Library voice selection — Endo | 0 | [READY] | Tool access — critical casting |
-| Library voice selection — Reiko, Doi, Haruki, Aizawa, Fumiko, Kaito, Rina | 0 | [READY] | Tool access |
-| Mira voice generation (~1,500–2,000 lines) | 0 | [BLOCKED] | Clone complete |
-| NPC voice generation (~500 lines per, × 10 NPCs) | 0 | [BLOCKED] | Per-character voice lock |
-| Exchange room residue voice generation | 0 | [READY] | Tool access (uses library) |
+| Voice briefs (ElevenLabs + local TTS) for all 11 characters | [DONE] | [DONE] | — |
+| Local TTS environment setup (F5-TTS + GPT-SoVITS on RTX 5080) | [READY] | [READY] | 1 day install |
+| Manuscript parser + batch generation tooling | [READY] | [READY] | ~8–12 engineering days |
+| ElevenLabs Pro subscription (Mira A/B only) | [READY] | [READY] | $99/month for 1 month |
+| Voice cloning — Mira (source recording → GPT-SoVITS clone) | 0 | [BLOCKED] | VO actor casting + contract |
+| Voice cloning — Yui (→ GPT-SoVITS) | 0 | [BLOCKED] | VO actor casting + contract |
+| Voice cloning — Sora (→ GPT-SoVITS) | 0 | [BLOCKED] | VO actor casting + contract |
+| Voice reference selection — Kenji (F5-TTS) | 0 | [READY] | Library audio + local setup |
+| Voice reference selection — Endo (F5-TTS) | 0 | [READY] | Library audio + local setup — critical casting |
+| Voice reference selection — Reiko, Doi, Haruki, Aizawa, Fumiko, Rina (F5-TTS) | 0 | [READY] | Library audio + local setup |
+| Voice reference selection — Kaito (Fish Speech or F5-TTS) | 0 | [DECIDE] | License decision on Fish Speech if commercial |
+| Mira voice generation (~1,500–2,000 lines, GPT-SoVITS local + ElevenLabs A/B on 11 load-bearing) | 0 | [BLOCKED] | Clone complete + tooling |
+| NPC voice generation (~500 lines per, × 10 NPCs, F5-TTS/Fish local) | 0 | [BLOCKED] | Tool setup + tooling |
+| Exchange room residue voice generation (GPT-SoVITS or Fish Speech local) | 0 | [READY] | Local setup only |
+| Localization voice generation (JP / CN / KR via GPT-SoVITS) | 0 | [BLOCKED] | English voices complete + localized scripts |
 
 ### 5.8 Audio Assets — Non-Voice
 
@@ -307,13 +327,15 @@ Rough estimates for planning. Actual schedule depends on team size, tool access,
 |---|---|---|
 | Phase 1 — Style audition | 2–4 weeks | Creative director + 1 prompt operator |
 | Phase 2 — Full art production | 8–12 weeks | 1–2 prompt operators, compositor |
-| Phase 3 — Voice production | 6–10 weeks | Voice director + ElevenLabs operator + voice actors (sessions) |
+| Phase 3 — Voice production (local-first + ElevenLabs A/B) | 6–10 weeks | Voice director + local TTS operator + voice actors (sessions) + Python engineer for tooling (~2 wks front-loaded) |
 | Phase 4 — Animation | 4–6 weeks | Animation operator + compositor |
 | Phase 5 — Audio integration | 4–8 weeks | Sound designer + mix engineer |
 | Build integration | Parallel | Programming team |
 | Playtest + polish | 6–8 weeks | Playtest coordinator + iteration |
 
 **Total (rough):** 6–9 months from style lock to launch-candidate, assuming focused team and no major scope changes.
+
+**Phase 3 note:** local TTS adds ~2 weeks of tooling development at the start of Phase 3 (manuscript parser, batch scripts, take management UI, consistency audit). After that initial investment, voice generation runs push-button with unlimited iteration — net neutral to slightly faster than pure-ElevenLabs at equivalent quality.
 
 ---
 
@@ -326,8 +348,10 @@ Creative decisions awaiting commitment. Each blocks some downstream work.
 | **Art style lock** | Unblocks ~80% of remaining art production | Creative Director |
 | **Platform lock (Midjourney / SD / Gemini)** | Affects consistency tooling (LoRA vs reference) | Creative Director |
 | **Mira voice: adult VO or child VO?** | Affects labor contracts, session duration, emotional range | Creative Director + Casting |
+| **Voice production: local-first confirmed?** | Tentatively resolved (local-first + ElevenLabs A/B). Confirm or revise after local TTS setup + initial test generation on one test character. | Creative Director + Voice Director |
+| **Kaito voice tool: Fish Speech or F5-TTS?** | Fish Speech has better teen-male register; F5-TTS is MIT-licensed for commercial use without additional negotiation. | Creative Director (license path decision) |
 | **Music: include any at all?** | Affects Phase 5 scope | Creative Director |
-| **Localization targets: JP, CN-S, KR, others?** | Affects voice, translation, review budget | Publisher / Producer |
+| **Localization targets: JP, CN-S, KR, others?** | Affects voice, translation, review budget. GPT-SoVITS handles all three natively. | Publisher / Producer |
 | **Ch 9 Garden prompt: split or keep unified?** | Minor mechanical question; audit flagged ambiguously | Creative Director |
 | **Fragment skip on NG+ only or always?** | Affects replay experience | Creative Director |
 | **Emerging Board slot visibility in Ch 11** | Spoiler trade-off vs thoroughness feedback | Creative Director |
@@ -382,7 +406,7 @@ Alphabetical index of every spec doc. One-line purpose per file.
 - **`deadringer_board_slot_audit.md`** — Audit of 70 notebook prompts against 8 Board slots, reachability analysis
 - **`deadringer_characters.md`** — Character bible for all 11 NPCs
 - **`deadringer_cutscene_structure.md`** — 23 cutscenes with format / tier / production specs
-- **`deadringer_elevenlabs_voice_briefs.md`** — Per-character ElevenLabs voice production briefs
+- **`deadringer_elevenlabs_voice_briefs.md`** — Per-character voice production briefs (ElevenLabs §1–16 + local TTS workflow §17, F5-TTS / GPT-SoVITS / Fish Speech on RTX 5080)
 - **`deadringer_game_bible.md`** — Thesis, core mechanics, design philosophy (top-level pitch doc)
 - **`deadringer_hero_location_prompts.md`** — 27 hero location prompts for style audition
 - **`deadringer_intent_matrix.md`** — Per-call tuning matrix: intents × NPCs × chapters
@@ -409,6 +433,17 @@ Alphabetical index of every spec doc. One-line purpose per file.
 - Cutscene structure specified
 - Outstanding: style audition → style lock → Phase 2 art production
 
+### 2026-04-23 — Voice production pivot to local-first
+- `deadringer_elevenlabs_voice_briefs.md` extended with §17 Local TTS Workflow
+- Primary voice production path now: F5-TTS (adult NPCs) + GPT-SoVITS (child voices and Mira) on RTX 5080
+- ElevenLabs retained as A/B testing resource for 11 load-bearing Mira lines only (Pro tier, ~$99/month for one month)
+- Per-character tool assignments specified in voice briefs §17.4
+- Tooling development added as action item (~8–12 engineering days for manuscript parser + batch scripts + take management UI + consistency audit)
+- Child voice casting (Mira, Yui, Sora VO artists) remains the same blocker regardless of local vs cloud
+- Revised voice production budget: $7K–$22K (down from $10K–$32K), with savings primarily in ElevenLabs subscription and audio engineering time
+- Net iteration capacity: unlimited (vs character-count capped)
+- New risks flagged: local TTS quality gap on Mira hero lines (mitigation: A/B reservation), Fish Speech commercial license for Kaito, Blackwell CUDA compatibility verification, model version pinning
+
 ### [future updates]
 - Record date and summary of each production milestone as it lands here
 
@@ -430,7 +465,9 @@ Alphabetical index of every spec doc. One-line purpose per file.
 
 **If you are a sound designer:** see §3. You are the critical-path human specialist. Wire-sound spec is in `deadringer_audio_signatures.md` §2.
 
-**If you are a voice director:** see §3 and `deadringer_elevenlabs_voice_briefs.md`. The child voice casting problem (Mira, Yui, Sora) is your first priority.
+**If you are a voice director:** see §3 and `deadringer_elevenlabs_voice_briefs.md`. The voice briefs doc covers both ElevenLabs parameters (§1–16) and the local TTS production workflow (§17, primary path). The child voice casting problem (Mira, Yui, Sora) is your first priority — same blocker regardless of local vs cloud. After casting, set up local TTS environment (F5-TTS + GPT-SoVITS on the project's RTX 5080) before starting bulk generation.
+
+**If you are a Python engineer supporting voice production:** you'll build the manuscript parser, batch generation driver, take management UI, and consistency audit tool per `deadringer_elevenlabs_voice_briefs.md` §17.11. Budget ~8–12 days for the tooling pass. This is a prerequisite to bulk voice production.
 
 **If you are an engineer / programmer:** engine choice is still open. All implementation work is [BLOCKED] until that decides. In the meantime, review the systems spec and notebook system spec to scope the work.
 

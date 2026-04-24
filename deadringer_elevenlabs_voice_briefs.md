@@ -804,14 +804,218 @@ Failed takes: regenerate immediately or flag for manual re-recording.
 
 ---
 
-## 17. CROSS-REFERENCES
+## 17. LOCAL TTS WORKFLOW (Primary Production Path)
 
-- `deadringer_soul_read_voice_direction.md` — detailed Mira voice coaching; this document's §2 is a condensed ElevenLabs-specific companion
+**Update:** local TTS on an RTX 5080 is now the primary voice production path for Dead Ringer. ElevenLabs is retained as an A/B testing and fallback resource for load-bearing Mira moments only. This section specifies the local workflow.
+
+### 17.1 Why Local
+
+| Factor | Local (5080) | ElevenLabs |
+|---|---|---|
+| Per-iteration cost | Zero marginal (electricity) | Character-count billed |
+| Setup overhead | 4–8 hours (one-time) | Account + API key |
+| Iteration ceiling | Unlimited | Subscription-tier capped |
+| Privacy | All local, no upload | Cloud-processed |
+| Consistency run-to-run | Deterministic with fixed seed | Occasional drift |
+| English quality (2025) | F5-TTS and GPT-SoVITS at parity with ElevenLabs for most registers | Strong across all voices |
+| Child voice authenticity | Hard problem — as with ElevenLabs | Hard problem — unchanged |
+| Emotion control | Parametric + sample-conditioned | Style slider + text hints |
+
+The shift to local isn't cost-driven (ElevenLabs is cheap); it's iteration-driven. Dead Ringer's 12-chapter degradation curve and 11 load-bearing Mira scenes benefit from free, unconstrained take regeneration.
+
+### 17.2 Hardware Verification (RTX 5080)
+
+- 16GB GDDR7 VRAM — sufficient for every TTS model listed below running at full quality
+- CUDA 12.x runtime (Blackwell architecture support)
+- Windows 11 with WSL2 recommended for Linux-native TTS toolchains, OR native Linux, OR native Windows with Python 3.10/3.11 + PyTorch for CUDA 12.x
+- 32GB+ system RAM recommended (not strict; supports batch processing and project buffers)
+- 500GB+ free SSD space (model weights, reference samples, generated audio, project backups)
+
+### 17.3 Tool Selection Matrix
+
+Each tool has a specific strength. The Dead Ringer production plan uses three tools across its character roster.
+
+| Tool | Best for | License | VRAM | Install effort |
+|---|---|---|---|---|
+| **F5-TTS** | English adult NPCs (Kenji, Endo, Reiko, Doi, Haruki, Aizawa, Fumiko) | MIT | ~6GB | Low |
+| **GPT-SoVITS** | Mira (anime-adjacent register), Japanese/Chinese/Korean localization | MIT | ~6–10GB | Medium |
+| **Fish Speech v1.5** | Fallback + multilingual + Kaito (teen register) | CC-BY-NC-SA 4.0 (non-commercial; Apache for commercial via license agreement) | ~8GB | Low |
+
+**License note:** Fish Speech's non-commercial license affects shipping. If Dead Ringer ships commercially and Fish Speech is used for character voices, a commercial license must be negotiated with Fish Audio, OR those characters must be re-generated via F5-TTS or GPT-SoVITS (both MIT) before launch. Do NOT ship Fish Speech-generated audio commercially without verifying license status.
+
+### 17.4 Per-Character Tool Assignment
+
+Revised from §2–14 of this document:
+
+| Character | Tool | Rationale |
+|---|---|---|
+| **Mira** | GPT-SoVITS primary, F5-TTS secondary, ElevenLabs tertiary for A/B on load-bearing lines | GPT-SoVITS handles Mira's specific anime-adjacent deadpan-with-warmth register well. A/B against ElevenLabs for the 11 load-bearing lines; keep better take per line |
+| **Kenji** | F5-TTS | English adult male, flat delivery, F5 excels |
+| **Endo** | F5-TTS | English adult male, measured warmth — F5 handles the conductor's-rest register |
+| **Reiko** | F5-TTS | Adult female, controlled. F5 range appropriate |
+| **Doi** | F5-TTS | Senior male, gruff. F5 handles age-register cleanly |
+| **Haruki** | F5-TTS | Young adult male with overflow register. F5's expressiveness range suits |
+| **Aizawa** | F5-TTS | Adult female, procedural. F5's consistency-at-flat-style ideal |
+| **Fumiko** | F5-TTS | Adult female with slight gravel. F5 handles post-smoking texture |
+| **Kaito** | Fish Speech (if commercial license secured) OR F5-TTS | Teen register — Fish Speech has best 16–18 male age range; F5-TTS adequate |
+| **Yui** | GPT-SoVITS | Child female with performed-normalcy register. GPT-SoVITS handles child voices better than F5 in 2025 |
+| **Rina** | GPT-SoVITS | Child female, cheerful-social. Same rationale as Yui |
+| **Sora** | GPT-SoVITS | Child male, observational. Same |
+| **Exchange room residue voices** | GPT-SoVITS or Fish Speech | Short fragment generation, heavy post-processing — lower quality bar, either tool sufficient |
+
+### 17.5 Installation Workflow (F5-TTS First)
+
+Target: get a working F5-TTS pipeline that can clone a voice and generate test dialogue in under a day.
+
+1. **Install CUDA 12.4 toolkit** (Blackwell-compatible). Verify `nvidia-smi` reports the 5080 with CUDA 12.4+.
+2. **Python environment** — conda or venv with Python 3.11.
+3. **PyTorch for CUDA 12.4** — install from the PyTorch.org selector with the correct CUDA version.
+4. **Clone F5-TTS repository** from its public GitHub. Install requirements via pip.
+5. **Download F5-TTS base weights** from the repo's HuggingFace distribution.
+6. **Run the provided gradio UI or CLI** against a test reference voice and test text. Verify output audio quality.
+7. **Success criteria:** a 10-second test clone generates intelligible, consistent audio from a 10-second reference sample. If the test fails, investigate CUDA install before moving forward.
+
+Total: 4–6 hours for a practiced Python / CUDA user; 8–12 hours if debugging driver or PyTorch-version issues.
+
+### 17.6 Installation Workflow (GPT-SoVITS Second)
+
+Install after F5-TTS works. GPT-SoVITS has more dependencies but produces better output for child voices and Japanese.
+
+1. Share the same conda/venv environment or create a separate one.
+2. Clone the GPT-SoVITS repository. Install requirements.
+3. Download the pre-trained models (multiple checkpoints — base, voice encoder, fine-tuning resources).
+4. Prepare reference audio (GPT-SoVITS typically wants ~5–10s clean reference).
+5. Run via the provided gradio UI to verify setup.
+
+Estimated time: 4–6 hours including model downloads (several GB).
+
+### 17.7 Clone Source Preparation
+
+Per the VO artist sessions (unchanged from ElevenLabs workflow), collect:
+
+- **Mira:** 30 minutes clean audio, adult VO doing child register, including armored / leaking / unarmored samples
+- **Yui:** 15–20 minutes clean audio, performed-normalcy register
+- **Sora:** 15 minutes clean audio, observational-calm register
+
+For local TTS, the reference audio serves multiple purposes:
+- F5-TTS / GPT-SoVITS: short reference clip (5–30s) per inference call
+- Potential fine-tuning: if clone quality insufficient, the full 15–30 min sample can train a fine-tuned LoRA or model variant (requires additional setup; defer unless needed)
+
+For NPC adult voices using F5-TTS:
+- Library voice reference option: pull 10–30s clips from royalty-free voice sample libraries that match the character's age/register. No VO session required.
+- Custom voice option: same as ElevenLabs — record a VO artist for 5–10 minutes, use their samples as reference.
+
+### 17.8 Generation Workflow
+
+**Batch processing script** (to be written during setup):
+
+The manuscript contains ~2,500 lines. Each line needs: character attribution, text, reference audio path, output path. Write a Python script that:
+
+1. Parses the manuscript for all `CHARACTER: "line"` patterns
+2. Routes each line to the appropriate tool (per §17.4 assignment)
+3. Calls the tool's inference API (F5-TTS CLI, GPT-SoVITS CLI)
+4. Saves output with structured naming: `CHAPTER_SCENE_LINENUMBER_CHARACTER_TAKE.wav`
+5. Logs each generation with parameters and seed
+
+**Take selection workflow:**
+
+1. Generate 3 takes per standard line (fixed seed variation)
+2. Generate 5+ takes per load-bearing Mira line
+3. Generate 2 takes per exchange-room residue fragment
+4. Voice director reviews outputs, marks selected takes
+5. Rejected takes are regenerated with adjusted parameters
+
+**Iteration loop:**
+- Character consistency check every 50–100 generations (A/B against previous takes)
+- Parameter adjustment per character if drift detected
+- Re-take any lines that fail QA
+
+### 17.9 ElevenLabs as A/B Comparison (Hybrid Approach)
+
+Subscribe to ElevenLabs Pro tier ($99/month) for a limited window. Use it for:
+
+1. **Mira's 11 load-bearing lines** — generate in both local and ElevenLabs. Voice director selects the better take per line. Document which wins.
+2. **Endo's Ch 11 philosophical justification** — the line "Do you know what the world does to children who keep speaking?" is the game's hardest single performance. A/B test.
+3. **The Ch 12 final call to Sora** — Mira's final 20 words. A/B.
+
+Budget: one month of Pro tier, approximately 100–200K character generation, well within the 500K/month allowance. Total additional spend: **$99**.
+
+If ElevenLabs consistently wins on load-bearing Mira moments, consider keeping the subscription for just Mira's hero lines (approximately 50–80 lines total). Everything else generates locally.
+
+### 17.10 Quality Gate — Local vs ElevenLabs
+
+Assess local TTS output against these criteria before committing:
+
+1. **Character consistency across 100+ generations** — does the voice remain the same character, or drift?
+2. **Degradation chain compatibility** — does local output respond correctly to the Mira processing chain (filter, dropout, pitch attenuation)?
+3. **Flat delivery control** — can local TTS produce the deadpan register Dead Ringer requires? Sample 10 takes of a test line; at least 7 should land flat without performance.
+4. **Load-bearing line quality** — specific test: Ch 11 "you didn't hang up." Generate 5 takes locally, 5 on ElevenLabs, blind-rank them. Pick the tool that wins more often.
+5. **Localization preservation** — same voice profile, Japanese text, quality preserved? This is where GPT-SoVITS is expected to dominate.
+
+**Decision rule:** if local wins ≥80% of blind-ranked test cases, go all-local. If 50–80%, go hybrid (local for bulk, ElevenLabs for the ranked-worst local cases). If <50%, consider ElevenLabs-primary with local for cost-sensitive NPCs.
+
+Expected outcome: all-local for NPCs, hybrid for Mira, full-local for localized versions.
+
+### 17.11 Scripts to Build
+
+The local workflow requires more tooling than ElevenLabs. Budget development time for:
+
+1. **Manuscript parser** (Python, ~1 day) — extracts dialogue from chapter files with character attribution and context metadata.
+2. **Batch generation driver** (Python, ~2 days) — dispatches each line to the right tool with correct parameters.
+3. **Take management UI** (web-based or desktop, ~3–5 days) — voice director's interface for reviewing, approving, and re-requesting takes. Can start as a simple folder-browser with A/B playback.
+4. **Consistency audit tool** (Python, ~1 day) — computes per-character embedding similarity across all generations, flags outliers.
+5. **Processing chain integration** (~1 day) — wraps generated audio with the Mira degradation pipeline for preview in the review UI.
+
+Total engineering time: ~8–12 days one-time setup. After that, generation is push-button.
+
+### 17.12 Localization Integration
+
+GPT-SoVITS handles multilingual voice cloning better than most alternatives. The plan:
+
+- Japanese, Chinese, Korean translations of the manuscript
+- Per-language generation with same character voice profiles
+- Per-language audio engineering review (degradation chain verification)
+
+F5-TTS multilingual support is weaker than GPT-SoVITS; for localized NPC voices, use GPT-SoVITS even for characters assigned to F5-TTS in English.
+
+Budget: ~2–3 weeks additional engineering + audio review per language.
+
+### 17.13 Revised Cost Estimate (Local-First)
+
+| Cost category | Estimate |
+|---|---|
+| ElevenLabs (Pro, 1 month, Mira A/B only) | $99 |
+| Local compute (electricity, 5080 at ~300W avg, 200 hours production) | $20–$50 |
+| Tooling development (engineering time) | $3,000–$8,000 depending on rates |
+| VO artist session fees (Mira / Yui / Sora clone sources) | $1,500–$6,000 |
+| Audio engineer (post-processing, degradation chain) | $1,500–$5,000 |
+| Voice director (iteration guidance, take selection) | $1,000–$3,000 |
+| **Total voice production budget (local-first hybrid)** | **$7,119–$22,149** |
+
+Savings vs. full ElevenLabs production: roughly **$3,000–$10,000**. Savings vs. ElevenLabs hybrid: roughly negligible, but gains unlimited iteration and localization flexibility.
+
+### 17.14 Risks Specific to Local Production
+
+| Risk | Mitigation |
+|---|---|
+| **Setup failure / driver issues on Blackwell** | Test 5080 compatibility before committing; CUDA 12.4+ required |
+| **Local quality gap on load-bearing lines** | ElevenLabs A/B budget reserved for this; do not cut it |
+| **Model deprecation during production** | Pin model versions. Do not auto-update during production. |
+| **Character consistency drift over long sessions** | Automated consistency audit after every batch |
+| **License compliance (Fish Speech)** | Verify commercial license before shipping any Fish Speech-generated audio |
+| **Disk space for generated audio** | ~50–100GB needed for full project; plan storage |
+
+---
+
+## 18. CROSS-REFERENCES
+
+- `deadringer_soul_read_voice_direction.md` — detailed Mira voice coaching; this document's §2 is a condensed production companion
 - `deadringer_audio_signatures.md` §3 — per-NPC audio signatures, state variations, environmental beds
 - `deadringer_characters.md` — character bibles
 - `deadringer_asset_pipeline.md` §4 — production phase overview
 - `deadringer_systems.md` §6 — Partner Degradation (spec Mira's processing chain)
+- `deadringer_production_tracker.md` — current production status with local-first voice pipeline reflected
 
 ---
 
-**END ELEVENLABS VOICE BRIEFS**
+**END VOICE BRIEFS (ELEVENLABS + LOCAL TTS)**
