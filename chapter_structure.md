@@ -127,7 +127,7 @@ The player's suspect shifts across the game. This arc transitions from suspectin
 - **Rina available:** Through school contacts or Reiko, Rina becomes reachable. Her calls are socially polished, helpful-seeming, subtly corrosive. She provides the community's consensus narrative about Mira — the one that made it easy to dismiss her. **Memory fragment trigger:** The Rina Social Distortion memory — the notebook incident, Mira's POV. The ambiguity of what happened. The community's social physics revealed in miniature: truth becomes negotiable when the source is expendable. The player should log Rina's specific phrasing ("Mira just misunderstands things sometimes") — it will echo in the framing language three chapters later.
 - **Kaito's notebooks found:** Neighborhood canvassing for the Yui lead turns up secondary evidence — witness reports mention a boy in the neighborhood who tracked patterns. His notebooks — timestamped logs of the neighborhood's social patterns — are recovered. The player builds a theory: surveillance? Stalking? The notebooks look suspicious. This is the suspicion arc's early-mid phase.
 
-**Player knowledge at chapter end:** Yui needs help (acted on or deferred). Mira cares about someone specific. The community had a consensus about Mira. And someone was watching the neighborhood with uncomfortable precision.
+**Player knowledge at chapter end:** Yui needs help (acted on or deferred). Mira cares about someone specific. The community had a consensus about Mira. A drawing boy stopped coming to the river and nobody asked why. And someone was watching the neighborhood with uncomfortable precision.
 
 ---
 
@@ -238,7 +238,10 @@ The silver car is registered to a holding company. The holding company's communi
 
 This call must land before the notebook scene in Ch 11. It establishes Reiko's final failure — the call she could have taken — so that the notebook scene has its full weight.
 
-**Ogawa thread (deep, optional):** If the player has pursued the Ogawa file, they discover through Fumiko or through evidence that Ogawa had begun cross-referencing Mira's observations. The firing wasn't random — it was removal. This deepens the player's understanding of Endo's method but is not required for the main case.
+**Ogawa thread (deep, optional):** Three sub-layers available depending on investigation depth:
+- *Standard:* Ogawa was cross-referencing Mira's observations independently. The firing was removal, not institutional randomness.
+- *Deep (Nishida thread):* Before the cross-referencing, Ogawa filed a prior report about a teacher's aide named Nishida — ambiguous grooming concern. Endo's council buried it. Nishida was quietly transferred. The suppression worked: no scandal, no community fracture. This is the experiential foundation for Endo's philosophy — he was arguably right once, and that success became the template for burying Mira.
+- *Almost-call:* Ogawa heard structured audio on a dead phone line in her classroom. The exchange was active, bleeding through the old cable runs. Foreshadows the infrastructure reveal in Ch 10. Mira was not the first signal to push through — she was the first one who got through.
 
 **Player knowledge at chapter end:** The framing is Endo's work. Haruki's words were weaponized. The garden proves the pattern. Sora was watching. The infrastructure pattern is emerging. Someone is alive and needs finding.
 
@@ -316,10 +319,11 @@ Six months later. Resolution scenes — each earned by the player's choices thro
 - **Doi:** Custody situation revisited. The system that failed Mira is being examined. Doi's case is one of the things being reexamined.
 - **Haruki:** Still teaching. Changed. Acting correctly inside a system that punishes correct action. The label he created has been struck from the record. The damage it did has not.
 - **Fumiko:** Published the story. The full story, this time. Someone listened.
+- **The Nishida Question:** The trial opened the files. The community learned about the buried report — the aide Ogawa flagged, the suppression Endo chose. Fumiko named the mechanism, not the man. The community was not careful. A name adjacent to an investigation. A question that couldn't be answered. Fujisawa did not repeat — but it rhymed. The truth saved a boy and arrested a monster. It also unsealed a question that had been sealed for a reason. Endo would have predicted this. He would have been right about the mechanism. He would still have been wrong about everything else.
 - **Aizawa:** Still at the school. The procedures have been reviewed. She was not fired. She was not thanked.
 - **Kaito:** The notebooks that made him a suspect became evidence that helped convict. He has not been thanked either. He has stopped carrying the notebooks. He does not explain why.
 - **Rina:** The community that validated her social filtering is the same community now reckoning with what that filtering cost. Rina is eleven. She is processing this the way children process institutional shame — incompletely, without the framework to understand her role, aware that something she did mattered in a way nobody will explain to her directly.
-- **Kenji:** New phone. Old one in the drawer with six others. Checks it sometimes. It doesn't ring.
+- **Kenji:** New phone. Old one in the drawer with five others. Checks it sometimes. It doesn't ring.
 
 The game returns to the title screen. The phone rings once. Nobody picks up.
 
@@ -333,7 +337,8 @@ Sora must be woven into the investigation before the player knows he matters. Th
 |---------|----------|---------|-------------|
 | Ch 2 | Graph paper fragment near Doi's bench | Physical scene investigation | No — looks like litter |
 | Ch 3 | Doi: "The boy who used to sit outside drawing. Hasn't been around." | Offhand during call | No — reads as routine detail |
-| Ch 5 | Haruki: "Quiet kid. Drew city maps in his notebook." | School records review | Partially — Sora is named |
+| Ch 4 | Yui: "There was a boy who drew cities. He stopped coming." | Yui call — decompression after "Did anyone come?" | No — reads as river memory fragment. Connects to Doi's mention. |
+| Ch 5 | Haruki: "Quiet kid. Drew city maps in his notebook." | School records review | Yes — Sora named. Mira connects to Yui's mention and Doi's mention. Three people noticed absence, none reported. |
 | Ch 7 | Map page in planted evidence — two figures at a river | Framing examination | Yes — anomaly among fabrication |
 | Ch 9 | Map page reexamined — infrastructure echo | Framing deconstruction | Yes — the map was the switchboard |
 | Ch 10 | Mira describes map to player if shown | Exchange room discovery | Yes — Mira recognizes the river |
@@ -394,15 +399,19 @@ The static call MUST precede the notebook scene. The sequence is: Reiko learns s
 
 ---
 
-## OGAWA INCIDENT — OPTIONAL THREAD
+## OGAWA INCIDENT — OPTIONAL THREAD (Three-Layer Reveal)
 
-| Chapter | What surfaces | How |
-|---------|--------------|-----|
-| Ch 5 | Ogawa personnel file — a firing, a gap | School records via Haruki |
-| Ch 7 | Endo on review committee — same committee, opposite outcomes | Cross-referencing Endo's institutional involvement |
-| Ch 9 | Ogawa was cross-referencing Mira's observations — firing was removal | Fumiko's contacts or exchange evidence |
+| Chapter | What surfaces | How | Layer |
+|---------|--------------|-----|-------|
+| Ch 5 | Ogawa personnel file — a firing, a gap | School records via Haruki | Background |
+| Ch 7 | Endo on review committee — same committee, opposite outcomes | Cross-referencing Endo's institutional involvement | Selective response |
+| Ch 8 | Endo references "staffing change" casually — normalizing | Endo's first call | Normalization |
+| Ch 9 | Ogawa was cross-referencing Mira's observations — firing was removal | Fumiko's contacts | Tactical removal |
+| Ch 9 | Ogawa filed prior report (Nishida) — Endo buried it, community survived | Fumiko deep / exchange records | Experiential foundation |
+| Ch 9 | Ogawa heard audio on dead phone line — exchange bleed-through | Haruki / school records | Infrastructure foreshadow |
+| Ch 11 | Endo references Fujisawa — his strongest argument for truth suppression | Confrontation Phase 4 (conditional) | Player hesitation |
 
-Not required for the main case. Deepens understanding of Endo's method and the system's selectivity.
+Not required for the main case. The deeper the player goes, the more morally complex Endo becomes. Layer 1-2 produce anger. Layer 3 produces horror. The Nishida thread + Fujisawa produce hesitation. The reward for deep investigation is less certainty about the villain, not more.
 
 ---
 

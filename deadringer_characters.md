@@ -2,6 +2,53 @@
 
 ---
 
+## CHARACTER GAMEPLAY SYSTEMS — The Behavioral Grid
+
+Each suspect/NPC operates with an internal rule that governs how they process reality. These rules are not quirks — they are behavioral architectures the player learns to read, navigate, and ultimately break through. The pattern across the cast: **every character manages one aspect of reality the way Endo manages all of it.** When Endo appears, the player realizes they've been encountering fragments of his system for the entire game.
+
+**The simple test:** If you remove dialogue tags, can you tell who is speaking? Each character's speech pattern, behavioral rule, and breaking mechanic must be distinct enough that the answer is always yes.
+
+| Character | Archetype | What They Manage | Rule | Tell | Break Mechanic |
+|-----------|-----------|-----------------|------|------|---------------|
+| Rina | Social Gravity | Group perception | Cannot contradict consensus — always filters through "what does everyone think?" | Reframes direct questions into group opinions | Isolation — force her to answer as herself, not a representative |
+| Yui | Selective Silence | Personal risk | Cannot volunteer information unprompted — answers a safer question than the one asked | Gaps get longer when the real answer is close | Patience — stop filling her silences, let the truth arrive in the space |
+| Aizawa | Procedural Loop | Institutional order | Must maintain official language until emotional threshold is crossed | Sanitizer click rate accelerates approaching the break; stops = imminent crack | Moral contradiction — her own records prove she saw and didn't act |
+| Reiko | The Rehearsal | Family narrative | Retells events with shifted emphasis each time — same facts, different weight | What she adds and removes between tellings maps what she's protecting | The notebook — confronted with Mira's side of conversations she remembers having |
+| Haruki | The Overflow | Data / procedure | Fills every silence — answers emotional questions with procedural detail | The one pause in the overflow is where the truth hides | His own words weaponized — "disruptive honesty" in the framing file |
+| Doi | The Dignity Filter | Self-image | Cannot acknowledge anything that threatens dignity — rephrases ugly truths into abstractions | Euphemisms map wounds — "the situation" = "I lost custody" | Patience + the photograph — he'd rather confess to murder than explain |
+| Kaito | The Delayed Signal | Nothing (honest) | Processes on delay — responds to the previous question, not the current one | Answers arrive 3-5 seconds late; rapid questions produce fragments | Trust — the absence of aggression is so unusual he can't defend against it |
+| Fumiko | The Transaction | Information flow | Every interaction is an exchange — gives only when she receives | The 48-hour timer — she will publish what she has on her own schedule | Information balance — too little and she publishes early, too much and she overfits |
+| Endo | The Conductor | All of the above | Fills silences comfortably, redirects without resistance, knows things with wrong fidelity | Knowledge resolution too high for stated source — listener's precision, not observer's | Accumulation — no single tell is damning, the pattern is |
+
+### How This Creates "Dialogue Battles"
+
+Each call becomes a mini-encounter with internal rules:
+- **Rina:** The player learns to bypass her social filter — redirect away from "everyone" and toward "you"
+- **Yui:** The player learns to slow down — silence is the only mechanic that works
+- **Aizawa:** The player tracks the sanitizer clicks — the accelerating rhythm is a health bar
+- **Reiko:** The player compares versions — what changed between tellings is the evidence
+- **Haruki:** The player learns to find the pause — the one gap in the overflow where he stops performing helpfulness
+- **Doi:** The player maps euphemisms to wounds — each polite abstraction covers something specific
+- **Kaito:** The player matches his tempo — slow down and the full picture assembles
+- **Fumiko:** The player manages the trade — the ally with her own clock
+- **Endo:** The player maps avoidances — WHERE he redirects reveals what he's protecting
+
+### The Meta-Pattern
+
+The player encounters these rules sequentially across the first seven chapters. By Chapter 8, when Endo calls, the player has been trained in every individual component of his system:
+- Rina taught them about social filtering → Endo's community management
+- Yui taught them about defensive silence → Endo's comfortable silence
+- Aizawa taught them about institutional language → Endo's procedural fluency
+- Reiko taught them about narrative editing → Endo's reality management
+- Haruki taught them about data-as-deflection → Endo's informational helpfulness
+- Doi taught them about dignity-over-truth → Endo's philosophical justification
+- Kaito taught them about being misread → how Endo frames others
+- Fumiko taught them about pattern and overfit → how to track Endo's tells without seeing ghosts
+
+Endo is not a new type of encounter. He is all of them at once. The player who recognizes the individual components inside his composure — "that's Rina's social filter, that's Aizawa's institutional language, that's Doi's dignity reframe" — is the player who can map him.
+
+---
+
 ## MIRA KITAHARA — The Voice on the Line
 
 **Age at death:** 9
@@ -940,6 +987,20 @@ He heard her more clearly than anyone — and decided the world would be better 
 
 Rina is not the villain. She is something the story needs more than a villain: she is the mechanism by which truth becomes socially non-credible. She didn't destroy Mira. She made it easier for everyone else to dismiss her — and she did it without malice, without a plan, and without ever needing to lie.
 
+### GAMEPLAY IDENTITY — "Social Gravity"
+
+**Rule:** Rina cannot contradict group consensus. She always checks social alignment before speaking — not because she's calculating, but because social positioning is her native language. Every direct question gets routed through "what does everyone think?" before she answers.
+
+**Speech pattern:** "You know how people are..." / "Everyone said..." / "I'm not saying she's lying, I'm just saying..." / "It's not like I was the only one who thought that." She never leads with her own opinion. She presents group consensus as fact and her own perspective as reasonable agreement with it.
+
+**Tell:** When forced to speak for herself — isolated from the group frame — her sentence structure changes. The confident, flowing social narration becomes shorter. Halting. The grammar simplifies because the social scaffolding is gone.
+
+**Break mechanic:** Isolation. The player must redirect her away from "everyone" and toward "you." "What did everyone think?" produces smooth deflection. "What did YOU think, Rina?" produces the stall. Three redirects that force first-person answers and the social frame collapses into "...I just didn't stop it."
+
+**What she manages:** Social perception — the community's shared story about who matters and who doesn't. She is Endo's social layer: the way consensus becomes a weapon without anyone holding it.
+
+**Symbolic action:** The reframe. She takes any direct statement and converts it to a social observation. "Mira said X" becomes "everyone knew Mira said things like that." The conversion is automatic, invisible to her, and the mechanism by which individual truth becomes community noise.
+
 ### THE CHILDHOOD SEED
 
 Mira and Rina were friends once — briefly, lopsidedly, the way children are when one needs the friendship more than the other. They played together in second grade. Shared books. Mira lent Rina a small notebook with a patterned cover. It never came back.
@@ -1049,6 +1110,20 @@ She didn't lie about Mira. She just made it easier for everyone to believe the w
 Kaito is not dangerous. He is someone who doesn't perform "normal" well enough to be trusted. He avoids eye contact. He speaks in fragments. He lingers in places too long and responds to social cues on a delay that makes people uncomfortable. Adults describe him as "that kid who hangs around." Other teenagers use the word "creepy" without examining what they mean by it.
 
 He is completely innocent — and structurally, he is the most suspicious person in the case.
+
+### GAMEPLAY IDENTITY — "The Delayed Signal"
+
+**Rule:** Kaito processes on delay. He responds to the previous question, not the current one. His answers are technically complete but feel incomplete because they arrive out of sync with the conversation's rhythm.
+
+**Speech pattern:** Fragments. Long pauses. "...I go there." / "...it's quiet." / "...she talked about things." Each answer is preceded by 3-5 seconds of processing silence. If the player fires rapid questions, they get surface fragments — the defensive output of a system that's still working on the last input. If the player matches his tempo, the full answers arrive.
+
+**Tell:** When Kaito has something important, the delay gets *longer,* not shorter. The weight of the information extends the processing time. A 5-second pause for "I saw the car too" versus a 2-second pause for "I go to the river" — the length of the silence maps the significance of what follows.
+
+**Break mechanic:** Trust. Not pressure, not cleverness — the simple, sustained absence of hostility. Kaito has been misread his entire life. The player who doesn't misread him gets a witness who saw everything. The player who treats him the way the system treated Mira — dismissing what he says because of how he says it — reproduces the exact failure the game is about.
+
+**What he manages:** Nothing. Kaito is the one character in the cast who does not filter, edit, or manage reality. He records it. His notebooks are pure observation without interpretation. This makes him the most honest person in the game and the most suspected — because in a community built on managed perception, unmanaged observation looks like surveillance.
+
+**Symbolic action:** The notebooks. The compulsive recording of patterns — who walked where, which cars parked when, how long adults lingered. To an investigator, these look like stalking logs. To Kaito, they are the world understood as a system of movements. They become evidence. He becomes vindicated. He stops carrying them. Whether this is healing or loss is left unresolved.
 
 ### FIRST IMPRESSION
 
@@ -1169,6 +1244,20 @@ He didn't speak up — not because he didn't know, but because he already knew w
 
 Aizawa is not dangerous because she's unstable. She is dangerous because she stopped acting at the exact moment it mattered — and she stopped because the system taught her, through direct experience, that acting is punished.
 
+### GAMEPLAY IDENTITY — "The Procedural Loop"
+
+**Rule:** Aizawa must maintain institutional language until her emotional threshold is crossed. She speaks in completed procedures, filed reports, and established protocols. The language is a wall — precise, correct, and load-bearing. Behind it, the structure is cracked.
+
+**Speech pattern:** "The report was filed according to procedure." / "I followed the established protocol." / "The committee reviewed it and determined..." Every response is a sentence that could appear in an official filing. When the wall cracks: "Do you know what happens when you're wrong about something like that?" — the shift from institutional to personal is the tell.
+
+**Tell:** The sanitizer bottle. She clicks it between statements — a ritual of control, the observable behavior of someone who maintains small perfections because the large ones are beyond her reach. The click rate is the health bar: steady = composed, accelerating = approaching threshold, *stops mid-sentence* = the break is imminent. The player who tracks the clicks reads her emotional state through a physical rhythm.
+
+**Break mechanic:** Moral contradiction. Not pressure — Aizawa has survived more institutional pressure than Kenji can apply. The break comes from her own records: the proof, in her own handwriting, that she believed Mira, documented everything, and chose procedure over action. The contradiction between "I followed protocol" and "I knew she was right" is the load the wall can't hold.
+
+**What she manages:** Institutional order — the belief that following the rules correctly means the outcome isn't your fault. She is Endo's procedural layer: the way systems absorb truth by processing it into documentation that produces no response.
+
+**Symbolic action:** The sanitizer click. Hands that won't stop cleaning themselves. After the break, the click recontextualizes: she wasn't fixing things. She was performing control over the only territory she had left. In the epilogue, the bottle is gone.
+
 She is soft-spoken, visibly tired, and overly structured. Her lesson plans are immaculate. Her desk is organized with geometric precision. She sanitizes her hands constantly — between conversations, between tasks, in the middle of sentences. Not anxiety. Ritual. The observable behavior of a person who has decided that if she can control the small things perfectly, the large things she can't control will hurt less.
 
 Students perform well under her. Parents like her. Administration considers her reliable. She is, by every institutional metric, an excellent teacher.
@@ -1284,6 +1373,20 @@ She didn't fail because she didn't care. She failed because she learned — corr
 **Role:** Grieving parent / the first failed switchboard / the person who had every reason to believe Mira and chose not to
 **Reputation in the community:** Hardworking. Quiet. "Does her best."
 **Reality:** A woman who loved her daughter in every way that didn't require confronting what her daughter was telling her.
+
+### GAMEPLAY IDENTITY — "The Rehearsal"
+
+**Rule:** Reiko retells events with shifted emphasis depending on context. Same facts, different weight. Not lying — *editing.* Each version of a story is technically accurate, but the emphasis migrates: what she leads with, what she buries in the middle, what she omits entirely shifts between conversations.
+
+**Speech pattern:** Nurse-professional. Composed grief, organized into appropriate containers. She says "she was a good child" but never "she was right." She says "I did my best" but the definition of "best" adjusts per conversation. Her sentences have the cadence of someone who has rehearsed them — because she has. The rhythm flattens when she's delivering prepared material. It rises by a quarter-tone on the third sentence of a rehearsed block.
+
+**Tell:** What changes between tellings. The player who calls Reiko multiple times notices the narrative shifting — not the facts, but the framing. First call: "She told me things sometimes." Second call: "She told me things frequently." The migration is subtle but trackable. What she adds between versions reveals what she's coming to terms with. What she removes reveals what she's still protecting.
+
+**Break mechanic:** The notebook. Confronted with Mira's side of conversations Reiko remembers having — her daughter's careful, dated records of every time she reported something and was told "not now, honey" or "you worry too much." The notebook is Reiko's edited narrative played back unedited. The break isn't dramatic — it's arithmetic. She does the math, entry by entry, and the sum is unbearable.
+
+**What she manages:** Family narrative — the version of Mira that is survivable. She is Endo's domestic layer: the way a family can love someone and still not hear them, because hearing them would require the world to be more broken than you can afford.
+
+**Symbolic action:** The meal prep containers with stars on the lids. She makes Mira's favorite nikujaga every week. She doesn't eat it. She throws it away on Thursday and makes it again on Sunday. Preserving the form of care while withholding the substance. In the epilogue, someone has been eating it.
 
 Before the infrastructure. Before the community. Before Endo. Mira's first call — chronologically, emotionally, structurally — was to her mother. And no one picked up. Endo listens to everything but does not act. The community hears but filters. Reiko had both proximity and authority — the closest possible position, the most natural reason to respond — and still didn't. That makes her the origin point of the failure chain, not just a participant in it.
 
@@ -1616,6 +1719,20 @@ Both are people the investigation *saves.* Not from the killer — from the syst
 **Reputation:** Good student. Quiet. No trouble. "A very easy child."
 **Reality:** A girl who has spent four years building herself into a shape that doesn't produce friction, because friction in her household produces bruises.
 
+### GAMEPLAY IDENTITY — "Selective Silence"
+
+**Rule:** Yui cannot volunteer information unprompted. She answers a safer version of the question asked — not the question itself, but the question that produces the least signal. The gap between what was asked and what she answers is the tell: what she substitutes for the truth is a map of what she's protecting.
+
+**Speech pattern:** Short, careful, calibrated for minimum signal. "It's fine." / "I don't really know." / "We were in different grades." / "I usually go straight home." Every sentence designed to close the conversation rather than open it. When she does speak at length, the register changes — slower, less performed, the gaps widening as the real answer approaches. The performance voice (helpful, bright, slightly cheerful) is the outermost shell. What's underneath is spare, hesitant, and specific.
+
+**Tell:** The gaps. Yui's silences are not empty — they are the spaces where the true answer almost arrives. Gap length maps proximity to truth. Short gap: easy deflection, the substitution is automatic. Long gap: the answer is fighting the architecture of avoidance. The longest silence in the game (twelve seconds, after "Did anyone come?") is Yui processing the realization that the system she was waiting on never moved. The player who tracks the gaps reads her the way Mira reads everyone — by what's missing, not what's said.
+
+**Break mechanic:** Patience. Silence is the only tool that works. Pressure closes her — every direct question is an incoming signal that activates the defense system. Reassurance is processed as an adult performing safety, which she has been conditioned to mirror without trusting. Silence — the kind where no one is demanding anything — is so foreign to Yui's experience that she has no architecture for it. She fills it because the space is new and unpressured, and what comes out is real.
+
+**What she manages:** Personal risk — the relationship between truth and physical danger. She is Endo's silence layer: the proof that the system doesn't just suppress information through institutional channels. It teaches the people closest to the information that speaking is dangerous. Endo silences from above. Yui silences from within. Same result. Same community. Same quiet.
+
+**Symbolic action:** The substitution. She replaces dangerous answers with safe ones — "fine" for "afraid," "sometimes" for "every night," "we were in different grades" for "she was my only friend." Each substitution is a survival decision made in real time, visible to the player who is tracking what she avoids. The crane on the windowsill — the one thing she didn't substitute, didn't hide, didn't optimize — is the proof that the architecture has a crack.
+
 ---
 
 ### THE CHILD FIRST
@@ -1801,6 +1918,20 @@ She survived by becoming invisible. Mira died by refusing to.
 **Role:** Red herring / false confessor / the adult version of systemic silence
 **Reputation:** The man at the corner store. Gruff. Keeps to himself. "A bit odd."
 **Reality:** A grandfather watching his grandson from across a street he's legally prohibited from crossing, running a store he doesn't need because it gives him a reason to be near the school at 3 PM.
+
+### GAMEPLAY IDENTITY — "The Dignity Filter"
+
+**Rule:** Doi cannot acknowledge anything that threatens his dignity. He rephrases ugly truths into polite abstractions. "The situation with my family" instead of "I lost custody." "I keep an eye on things" instead of "I watch my grandson through a window." The euphemisms are not evasion — they are the architecture of a man who has one thing left and will not let a conversation take it.
+
+**Speech pattern:** Gruff, minimal, transactional. Short sentences that end without room for follow-up. "I saw her." / "She came in sometimes." / "I don't know about that." When pushed toward difficult subjects, the sentences get *more* polite, not less — the dignity filter engages harder under pressure. His most guarded moments sound the most courteous.
+
+**Tell:** The euphemisms map his wounds. Every polite abstraction covers something specific. "The situation" = the custody order. "My family circumstances" = a raised voice, a frightened woman, a grandson he can see but can't touch. "Things happened" = he confessed to a murder he didn't commit because indefinite suspicion was worse than definitive guilt. The player who tracks the euphemisms tracks the man.
+
+**Break mechanic:** Patience + the photograph. Pressure produces the false confession — Doi invents guilt to convert ambiguity into resolution. Only patience gets the truth: the photograph behind the counter, the question about it, the space to arrive at "I yelled at my daughter-in-law and I lost my grandson" in his own time. He would rather be a murderer than say that sentence out loud. The player who gives him room to say it instead gets the real Doi.
+
+**What he manages:** Personal dignity — the last thing a man has when everything else has been subtracted. He is Endo's dignity layer: the way self-image becomes more important than truth, and the way a system that requires you to explain yourself can destroy you faster than one that accuses you outright.
+
+**Symbolic action:** The photograph. Facing the register, not the customers. Ren at four months, the last time Doi held him. Wiped clean so many times the surface has a faint cloudiness. The private grief maintained in public view but never explained. The player who notices it, asks about it, and waits — gets the man behind the counter.
 
 ---
 
@@ -1999,6 +2130,20 @@ Together they represent the two poles of punished righteousness: paralysis and p
 **Reputation:** Young. Idealistic. "He tries so hard."
 **Reality:** A man drowning in the knowledge that he tried hard in the wrong direction, and a child died in the gap.
 
+### GAMEPLAY IDENTITY — "The Overflow"
+
+**Rule:** Haruki fills every silence. He answers emotional questions with procedural detail, urgency questions with historical context, direct questions with tangential information. The overflow is not evasion — it's the sound of a man who has been thinking about this alone for too long and has finally found someone who will listen. The data pours because the dam broke. Underneath the flood: one pause. One gap where the current stops. That's where the real thing lives.
+
+**Speech pattern:** Fast, connecting, over-explaining. "So I checked the records and the records showed — well, actually, to understand the records you need to know about the filing system, which is — the school uses a three-tier system where behavioral reports go to the counselor first, then to the admin, then to the council, and the council reviews them quarterly unless there's a flag, and the flag threshold is —" The player drowns in data. Useful information is embedded in the flood. Critical information is in the one moment he stops.
+
+**Tell:** The one pause. Haruki talks continuously — except once per call. One beat where the overflow stops. The silence is brief (two to three seconds) and arrives without warning. It marks the moment where the procedural detail runs into something that can't be proceduralized: his guilt, his label, the child who stood at his desk and said a true thing that he processed into a system that destroyed it. The player who catches the pause catches the truth.
+
+**Break mechanic:** His own words weaponized. "Disruptive honesty" — the label he coined for Mira's parent-teacher conference, the label that entered her file, the label Endo used in the framing documents. When Haruki discovers his phrase in the evidence, the overflow stops permanently. What replaces it is not silence but precision — a man who has stopped performing helpfulness and started being useful. The break transforms him from a liability (data without direction) into the investigation's most effective field ally (direction with cost).
+
+**What he manages:** Data — the relationship between quantity of information and quality of action. He is Endo's helpfulness layer: the demonstration that offering everything is a form of offering nothing, and that a man who answers every question is a man who has never confronted the one question that matters.
+
+**Symbolic action:** The report. He files, he documents, he follows procedure — the same actions Aizawa performs, but with the opposite emotional signature. Aizawa files because it's her job. Haruki files because filing feels like doing something, and doing something feels like not having failed. The action is identical. The need behind it is different. Both are useless without a system that responds.
+
 ---
 
 ### THE PERSON
@@ -2148,6 +2293,20 @@ He did what was correct and it caused harm. He's been living in the gap ever sin
 **Role:** Information broker / pattern detector / the adult version of Mira, fifteen years further down the road
 **Reputation:** "The community paper lady." Persistent. A bit much. "She's always digging."
 **Reality:** A former national-paper journalist who was right about a story that would have prevented harm, whose editors killed it, and who has spent fifteen years being right at a volume nobody listens to.
+
+### GAMEPLAY IDENTITY — "The Transaction"
+
+**Rule:** Every interaction is an exchange. Fumiko gives only when she receives. She has spent fifteen years being right at a volume nobody rewarded, and she has learned that information unanchored to leverage is information wasted. She does not withhold out of malice — she withholds because her career taught her that the only way to ensure someone acts on what you give them is to make acting in their interest.
+
+**Speech pattern:** Direct, clipped, professional. No small talk. "What do you know that I don't?" / "That's useful. Here's what I have." / "I need something before I give you something." She sounds like a negotiation, because she is one. The warmth appears only when the exchange is balanced — when she has received enough to believe the detective is serious, her voice shifts from transactional to collegial. That shift is the tell that trust has been earned.
+
+**Tell:** The 48-hour timer. Fumiko operates on her own clock. She will publish what she has — with or without the investigation's cooperation. The timer is not a threat; it is a professional commitment. She has been sitting on a story for fourteen years and she has a deadline she set for herself because no editor will set one for her anymore. The player must balance giving her enough to keep her invested without giving so much that she publishes prematurely or overfits her analysis.
+
+**Break mechanic:** Information balance. Too little shared and she publishes with incomplete evidence — Endo is named but not convicted, and the premature story gives him social cover to frame the accusation as persecution. Too much shared and she overfits — she connects dots that don't connect, follows leads that waste time, produces false positives the player must clean up (her blind spot in Ch 7, the family that moved for economic reasons). The sweet spot: enough to keep her clock running, enough to keep her analysis honest, not so much that she acts on her own timeline instead of the investigation's.
+
+**What she manages:** Information flow — the relationship between having the truth and controlling when it surfaces. She is Endo's timing layer: the demonstration that information without the right moment is as dangerous as information withheld. Endo chooses when truths surface. Fumiko chooses when her story publishes. Both are managing the same variable — the moment when knowledge enters the public. The difference: Endo suppresses to protect the system. Fumiko delays to destroy it.
+
+**Symbolic action:** The file. Fourteen years of observations, organized by date. She hands over documents and trusts the detective to find the one that matters. The infrastructure map — the most important piece of paper in the game — is one document among hundreds. She doesn't know which one it is. That's the point: her method works because she preserves everything, and the thing that matters is always in the stack if you look long enough.
 
 ---
 

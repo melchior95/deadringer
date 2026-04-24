@@ -62,6 +62,8 @@ MIRA: "I reported it wrong. I saw a man watching children and I didn't have the 
 
 MIRA: "Five people who need to be called and three chances to call them. This is like a math problem designed by someone who hates math."
 
+[The joke lands. Full deadpan. But the wire-sound dips for a half-second after the punchline — a brief thinning, like a radio station fading at the edge of reception. When her voice comes back, it's steady. The player who has been enjoying her humor for five chapters doesn't notice the dip. They will notice, later, when the jokes stop coming.]
+
 [Beat.]
 
 MIRA: "Call Doi. Before someone else gets to him first."
@@ -72,7 +74,7 @@ MIRA: "Call Doi. Before someone else gets to him first."
 
 [The player selects DOI from the call board. The phone rings. Once. The line connects immediately — he was holding the phone.]
 
-[AUDIO: No store sounds. No register, no chime, no ambient air from the open door. The store is closed. The silence on the line is a man sitting in a closed store, waiting.]
+[AUDIO: No store sounds. No register beep, no door chime, no compressor drone, no fluorescent buzz. The player who called Doi in Chapter 3 heard a store that never stopped humming. Now: nothing. The store is closed. The silence on the line is a man sitting in a closed store with the lights off, waiting. The absence of the store is the loudest thing Doi has ever said.]
 
 DOI: "I know why you're calling."
 
@@ -80,9 +82,11 @@ KENJI: "Mr. Doi—"
 
 DOI: "I did it."
 
-[Two words. Flat. Exhausted. The voice of a man who has been rehearsing a guilty verdict in his head for so long that performing it feels like putting down a weight.]
+[Two words. Flat. Exhausted. And blunt — the opposite of the courtesy that rose under pressure in Chapter 3. The Dignity Filter is off. Not because Doi feels safe, but because he's past caring. A man who has rehearsed a guilty verdict so long that performing it feels like putting down a weight doesn't need manners anymore.]
 
-DOI: "I was involved. With the girl. The Kitahara girl."
+DOI: "I was involved. With the situation. The Kitahara situation."
+
+[Even here — even confessing — the euphemism surfaces. Not "the girl's death." Not "the murder." "The situation." The Dignity Filter is off, but the vocabulary is permanent.]
 
 [Kenji says nothing. The player hears the confession form — not like truth, but like surrender.]
 
@@ -114,7 +118,11 @@ DOI: "I was behind the counter. Like always. She walked past the store. She was 
 
 [He stops. The construction is failing — the story requires details he doesn't have because the story isn't real.]
 
-DOI: "I don't remember exactly what happened. I just know I'm responsible."
+DOI: "I don't remember exactly what happened. Things got out of hand."
+
+["Things got out of hand." The same euphemistic architecture that turned a custody loss into "family circumstances." Doi can't confess in specifics because there are no specifics. He can only confess in abstractions — the Dignity Filter covering a wound that doesn't exist, using the same vocabulary it uses for wounds that do.]
+
+DOI: "I'm responsible for what happened to that girl. That's what I'm telling you."
 
 [The player who accepts the confession gets generalities without mechanics. Doi can describe guilt but not a crime. He offers emotional conviction with no procedural content.]
 
@@ -124,21 +132,23 @@ DOI: "I don't remember exactly what happened. I just know I'm responsible."
 
 KENJI: "What specifically did you do?"
 
-DOI: "I... approached her."
+DOI: "I... approached her. If I'm being honest."
+
+["If I'm being honest" — the Dignity Filter flickering back on. The closer Kenji pushes, the more polite the lies become.]
 
 KENJI: "Where?"
 
-DOI: "Near the store."
+DOI: "Near the store. I'd rather not get into the specifics, if that's all right."
 
-KENJI: "What time?"
+KENJI: "It's not all right. What time?"
 
-DOI: "...afternoon."
+DOI: "...afternoon. I apologize, I don't recall exactly."
 
 KENJI: "What happened when you approached her?"
 
-[Silence. Five seconds. When Doi speaks, his voice is harder — not from resistance but from effort. He's inventing.]
+[Silence. Five seconds. When Doi speaks, his voice is softer — not from truth but from effort. He's inventing, and the invention is dressed in courtesy.]
 
-DOI: "She was scared. She was crying. She didn't fight back."
+DOI: "She was scared. She was crying. She didn't fight back. I'm sorry. I'm sorry for all of it."
 
 [The player who has spent five chapters with Mira should feel the wrongness immediately. Mira — the girl who reported six times, who kept a notebook, who looked at adults and said what she saw without flinching — did not cry when she was scared. She went clinical. She went precise. She braced. She would have fought back, because fighting back is what Mira did every day of her life.]
 
@@ -236,19 +246,19 @@ MIRA: "I was nine. I didn't have a system."
 
 ### SOUL READ — DOI (Second)
 
-[The read comes differently than the first one in Chapter 3. The wire-sound is heavier. Mira's voice is slower — not from degradation but from weight.]
+[The read comes differently than the first one in Chapter 3. The wire-sound is heavier. When she begins, there's a delay the player hasn't heard before — not the emotional gathering from the first Doi read, but something in the signal itself. A gap between the call ending and the impression arriving, as if the read had to travel further to reach her. When her voice comes, it's slower.]
 
-MIRA: "He's... loud inside. Like a room where every radio is on a different station. He feels guilty but not in a hiding way — in a drowning way. He wants someone to tell him it wasn't his fault."
+MIRA: "He's... loud inside. Like a room where every radio is on a different station. He feels guilty but not in a hiding way — in a drowning way."
 
 [Beat.]
 
-MIRA: "It wasn't."
+MIRA: "Kenji, he hurt someone. I don't know who or how, but the guilt is specific. It's not general 'I'm a bad person' guilt — it's 'I did a specific thing and I can't take it back.' The confession... I think the feeling underneath it is real. He did something."
 
 [Longer pause.]
 
-MIRA: "The sadness is still there — the old one, from before. But now there's something on top of it. He's performing. The confession is a performance. He's tired of being suspected and he decided that being guilty is easier than being watched."
+MIRA: "Push him harder. There's something underneath the performance he's not saying."
 
-[NOTEBOOK PROMPT: "SOUL READ — DOI (2nd): 'Loud inside — every radio on a different station.' Guilt without hiding = drowning, not concealing. Confession is PERFORMANCE — he chose guilty over indefinitely suspected. The old sadness (Ren, the custody loss) is still the real thing underneath. Mira confirms: 'It wasn't his fault.' Mira's own fallibility: she reported him without context."]
+[NOTEBOOK PROMPT: "SOUL READ — DOI (2nd): 'Loud inside — every radio on a different station.' Guilt is specific, not general — Mira reads him as someone who did something to someone. Confession has emotional truth underneath the surface. Mira recommends pushing harder."]
 
 ---
 
@@ -258,17 +268,25 @@ MIRA: "The sadness is still there — the old one, from before. But now there's 
 
 KENJI: "Mr. Doi. Who is the person in the photograph behind your counter?"
 
-[Silence. The longest silence of the chapter.]
+[Silence. The longest silence of the chapter. No store sounds to fill it — just the closed-store quiet and the dead air of a phone line carrying nothing.]
 
 DOI: "...how do you know about the photograph?"
 
-KENJI: "I've been in your store."
+[The courtesy spikes — one last flare of the Dignity Filter before it breaks.]
 
-[Doi is quiet. The confession — the structure he built to end the suspicion — is being bypassed. Kenji isn't asking about the crime. He's asking about the photograph. And the photograph is the real thing, the thing Doi has been guarding behind a wall of false guilt.]
+DOI: "That's — I appreciate the question, Detective, but that's a personal matter. It's not relevant to the situation."
 
-DOI: "That's... my grandson."
+KENJI: "I've been in your store. The photograph faces the register, not the customers. It's been wiped so many times the surface has gone cloudy. Whoever's in it matters to you more than anything else in that building."
 
-[His voice changes. The flat, exhausted monotone — the confession voice — is gone. What replaces it is something raw and unperformed.]
+[Doi is quiet. The confession — the structure he built to end the suspicion — is being bypassed. Kenji isn't asking about the crime. He's asking about the photograph. And the photograph is the real thing, the thing Doi has been guarding behind a wall of false guilt and formal courtesy.]
+
+DOI: "That's..."
+
+[The Dignity Filter fails. The player hears it happen — a mechanical sound, almost, like a register that jams mid-scan. The polite vocabulary drops. The euphemisms drop. What's left is a voice the player hasn't heard before: unmanaged, unfiltered, the voice under the counter.]
+
+DOI: "...my grandson."
+
+[His voice changes. The flat, exhausted monotone — the confession voice — is gone. The escalating courtesy — the dignity voice — is gone. What replaces it is something raw and unperformed. A third voice. The real one.]
 
 DOI: "His name is Ren. He's seven."
 
@@ -284,21 +302,41 @@ DOI: "She saw a man watching children. She reported a man watching children. She
 
 [Beat.]
 
-DOI: "I was watching my grandson. I can't talk to him. I can't cross the street. His mother filed a protective order because I raised my voice during an argument three years ago and the court decided that was enough."
+DOI: "I was watching my grandson. I can't talk to him. I can't — I can't cross the street. His mother — my daughter-in-law — she filed a protective order because I raised my voice during an argument three years ago and the court decided that was enough."
 
-[He stops. Takes a breath. The player hears it — ragged, wet, the breath of a man who has just said something he has never said to anyone.]
+[He stops. Takes a breath. The player hears it — ragged, wet, the breath of a man who has just said something he has never said to anyone. No euphemisms. Not "the situation." Not "family circumstances." The actual words, in order, with nothing between them and the air.]
 
-DOI: "I run the store so I have a reason to be near the school at three. That's the truth. That's what the girl saw. That's what everyone has been suspicious of for two years."
+DOI: "I run the store so I have a reason to be near the school at three. That's the truth. That's what the girl saw. That's what everyone's been suspicious of for two years."
 
 [He laughs. Once. Short. The ugliest sound in the game.]
 
 DOI: "I'd rather be a murderer than say that sentence."
 
+[And now the player understands the Dignity Filter completely — not as a speech pattern but as a survival mechanism. Every euphemism, every escalating courtesy, every "I appreciate" and "the situation" and "family circumstances" was this sentence, deferred. The entire architecture of Doi's politeness was built to avoid arriving here: at the words "I raised my voice and I lost my grandson." He would rather confess to killing a child than say those eleven words out loud. The false confession wasn't cowardice. It was the Dignity Filter's final, desperate offer: take the bigger crime, because at least the bigger crime doesn't require you to explain what you actually are.]
+
+[AUDIO: A sound from Mira's side of the line. Not words — a small, sharp intake of breath. The sound of someone realizing they were wrong.]
+
+MIRA: "I was wrong."
+
+[Her voice is smaller than the player has heard it. Not degraded — diminished by something more human than signal loss.]
+
+MIRA: "The guilt I read — it IS real. He DID hurt someone. He raised his voice at his daughter-in-law. That's the thing he did. That's what the guilt is about. And he lost everything for it."
+
+[Beat.]
+
+MIRA: "I read the emotion right. I read the cause wrong. I felt 'guilt about hurting someone' and I pulled it toward my own story. Because I'm the dead girl, and every feeling I touch, I bend toward me."
+
+[She is quiet. When she speaks again, the armor is thinner:]
+
+MIRA: "He's not carrying guilt about a child who died. He's carrying guilt about a child he can't see. And I couldn't tell the difference because both of those things feel the same from the inside."
+
+[DESIGN NOTE: The first Soul Read error. Mira's emotional perception is genuine — she accurately read guilt, drowning, specificity. But she attributed it to the wrong cause. The 20% error rate materializes not as hallucination but as perspective bias: she is a murdered child reading the living, and the lens she reads through shapes what she sees. The player who trusted the read pushed on the confession; the player who exercised judgment reached the photograph. Both arrive at the truth — but the player has learned that Mira can be wrong, and that lesson changes how they weight every read from Chapter 7 forward.]
+
 ---
 
 ### Doi's Real Testimony
 
-[The confession has collapsed. The truth has replaced it. And with the truth comes the thing Doi has been sitting on — the evidence he never reported because the last time he reported something true, they took his grandson.]
+[The confession has collapsed. The truth has replaced it. And with the truth comes the thing Doi has been sitting on — the evidence he never reported because the last time he reported something true, they took his grandson. His voice is different now. Not gruff, not polite. Plain. Sentences that say what they mean without either minimizing or decorating. The player is hearing Doi without the filter for the first time.]
 
 DOI: "There's something else."
 
@@ -310,7 +348,7 @@ DOI: "The car."
 
 DOI: "Silver. Sedan. I saw it three times. Always near the school. Always at pickup hours. March 3rd. March 7th. March 12th."
 
-[The dates match Kaito's notebook entries exactly.]
+[No euphemisms. No "the situation." Dates. Colors. Facts. The precision of a man who has been watching a street for twenty-three years through a store window — the same window, the same angle, the same discipline that let him track his grandson's walk home. The dates match Kaito's notebook entries exactly.]
 
 DOI: "It didn't belong to the pattern. I've watched that street for twenty-three years. I know every car that parks on it. That one was new. It sat there. The driver didn't get out."
 
@@ -330,6 +368,8 @@ MIRA: "You were going to believe him, weren't you?"
 
 MIRA: "That's what the system does. It takes the convenient answer."
 
+[She goes quiet. In Chapters 1 through 4, the transitions between calls were full — Mira's observations, her asides, the constant commentary the player learned to take for granted. Now: the wire-sound and nothing else. Kenji works through his notes. The absence of Mira's voice during the transition is something the player feels before they identify it.]
+
 ---
 
 ## SCENE 4: FUMIKO ENTERS
@@ -340,11 +380,11 @@ MIRA: "That's what the system does. It takes the convenient answer."
 
 [She does not call Kenji. She makes him find her.]
 
-[AUDIO: The phone connects. No pleasantries. No "hello."]
+[AUDIO: The phone connects. No pleasantries. No "hello." Behind her: a pen scratching on paper — she's already writing. The low hum of a workspace after hours. A filing cabinet closes. This is Fumiko's audio signature: the sound of someone who is always documenting. The pen never stops. It scratches during her questions, scratches during Kenji's answers, scratches during the silences. Fourteen years of observations, and she's still adding to the file.]
 
 FUMIKO: "What do you know that I don't?"
 
-[Her voice: mid-forties, flat, transactional. The voice of someone who has been waiting for this call and has no patience left for the part where people pretend they're not bargaining.]
+[Her voice: mid-forties, flat, transactional. No warmth, no hostility — just the efficient register of someone who has been waiting for this call and has no patience left for the part where people pretend they're not bargaining.]
 
 KENJI: "Ms. Arai. I'm—"
 
@@ -370,11 +410,41 @@ FUMIKO: "So. What do you know that I don't?"
 
 ### Response: TRADE
 
+[AUDIO: The pen pauses. Two seconds. Then resumes — faster. She's writing the terms.]
+
 FUMIKO: "Good. Honest. Most detectives start with 'I can't share case details.' You just saved us twenty minutes."
 
-[She respects directness. The trade is her native mode — information for information, with the understanding that both parties are working toward something and the something is better served by cooperation than competition.]
+[She respects directness. The trade is her native mode — information for information, give-to-get, with the understanding that both parties are working toward something and the something is better served by cooperation than competition.]
 
-FUMIKO: "I go first. Since I've been here longer."
+[AUDIO: The pen resumes — but the scratch is different. Quicker, lighter. She's writing something that is not shorthand. Three words. A doodle. Something personal. Then she resumes the professional scratch.]
+
+FUMIKO: "Before we start, one question. Strictly off the record."
+
+KENJI: "Go ahead."
+
+FUMIKO: "When you knocked on Doi's door — did he try to sell you a melon bun?"
+
+KENJI: "...no."
+
+FUMIKO: "Huh."
+
+[Beat.]
+
+FUMIKO: "Then you're doing better than my editor. He knocked on Doi's door during the eight-year-old case. Walked out with three melon buns and zero quotes. Came back to the office looking like a man who'd been outmaneuvered by a vending machine. Still talks about it. Refers to Doi as 'the baked goods situation.' Hasn't assigned me to any shop-owner interviews since. Which, frankly, has been a loss for my career, but an improvement for my glycemic index."
+
+[AUDIO: The pen never stopped scratching. She's been writing through the entire anecdote. When she pauses, the silence is audible — her pen, lifted. The first full stop she's given the call.]
+
+FUMIKO: "Okay. That's my warmth quota used. We can proceed to the part where I extract information from you. I find the work goes faster if I front-load the collegiality."
+
+KENJI: "Noted."
+
+[DESIGN NOTE: Fumiko's first non-transactional beat. The melon bun anecdote is throwaway — which is the point. It's a small, specific, affectionate piece of community history that reveals (a) she has worked on this patch long enough to have office folklore about its residents, (b) she is capable of warmth and chooses not to deploy it on the clock, (c) she announces when she is switching registers, which is its own form of honesty. The line about "warmth quota" is the tell: Fumiko does not do warmth accidentally. She does it on purpose, briefly, and then gets back to work. This is the version of likability that survives fourteen years of being the only adult in the room who won't let go of a story. The player who catches the pen's shift in rhythm — lifting for the joke, resuming for the work — hears the mechanism. The joke was a gift, not a glitch.]
+
+FUMIKO: "I go first. Since I've been here longer. But I want something understood: I'm publishing this story. Not today — I need forty-eight more hours to verify two sources. But the clock is running and it runs whether we're cooperating or not."
+
+[The 48-hour timer. Not a threat — a professional commitment. She has been sitting on this for fourteen years and she set a deadline for herself because no editor will set one for her anymore. The player now has a clock: forty-eight hours to either feed Fumiko enough to make her story accurate or withhold enough to make her delay.]
+
+FUMIKO: "I go first."
 
 ---
 
@@ -382,15 +452,15 @@ FUMIKO: "I go first. Since I've been here longer."
 
 FUMIKO: "Then why are you calling me?"
 
-[She waits. She doesn't fill the silence. She's better at this than most of the NPCs in the game — she's had fourteen years of practice holding silence against people who want something from her.]
+[AUDIO: The pen stops. Complete silence from her end — not even breathing. She waits. She doesn't fill the silence. She's better at this than most of the NPCs in the game — she's had fourteen years of practice holding silence against people who want something from her. And unlike the other NPCs, she's not afraid of the detective. She's annoyed he's wasting her time.]
 
-FUMIKO: "You're calling because you found something in the records that doesn't match the public story, and you need context that the records don't provide. I have that context. You have investigative access I don't."
+FUMIKO: "You're calling because you found something in the records that doesn't match the public story, and you need context that the records don't provide. I have that context. You have investigative access I don't. That's a trade. You're pretending it's not."
 
 [Beat.]
 
-FUMIKO: "We can do this the hard way or we can do this the efficient way. I'll wait."
+FUMIKO: "I'm publishing in forty-eight hours with or without you. We can do this the efficient way or the expensive way. I'll wait."
 
-[The player who withholds gets Fumiko's patience, which is a form of pressure. She won't give information for free — but she won't stop watching, either. The withhold path costs the player context they need and gains them nothing except institutional propriety.]
+[AUDIO: The pen resumes. She's writing while she waits. The player who withholds gets Fumiko's patience, which is a form of pressure. She won't give information for free — but she won't stop working, either. The withhold path costs the player context they need, gains them nothing except institutional propriety, and starts a clock they can't stop.]
 
 ---
 
@@ -420,7 +490,9 @@ FUMIKO: "Fine. Here's what I have for free: eight years ago, a child in Senzoku 
 
 ### All Paths: The Historical Pattern
 
-Regardless of approach, Fumiko delivers her core information:
+Regardless of approach, Fumiko delivers her core information — because at some point the exchange reaches equilibrium and information begins flowing:
+
+[AUDIO: The pen rhythm changes. It was scratching during her questions — recording. Now it's scratching during her answers — releasing. The shift is the trust-tell: Fumiko's pen moves differently when she's receiving versus when she's giving. The player who noticed the scratch-pattern hears the moment the transaction balances.]
 
 FUMIKO: "I've been tracking a pattern for fourteen years. Not an investigation — a file. Observations. Public records. Community bulletin coverage that doesn't add up when you read it in sequence."
 
@@ -498,6 +570,16 @@ MIRA: "He's right about everything and wrong about the speed. Same as always."
 
 MIRA: "That's how the system gets you. You see the truth and you grab for it and the grabbing is what breaks it."
 
+[Beat. Quieter now — the analytical register, stripped of the emotion.]
+
+MIRA: "Endo didn't need to watch the investigation. He built a neighborhood where the neighborhood watches it for him. Doi's neighbors watch Doi. The Murakami family calls the council chair. Haruki tries to help and the help travels straight to the person it hurts."
+
+[She pauses.]
+
+MIRA: "Everyone is his alarm system. Nobody signed up."
+
+[DESIGN NOTE: This is the first explicit "node discovery" — the player realizes that every character they've encountered is unknowingly part of Endo's information network. Doi was his misdirect. Rina was his vocabulary. Haruki is now his trip wire. The community's trust infrastructure IS the surveillance infrastructure. Endo didn't hack the system — he IS the system.]
+
 ---
 
 ## SCENE 6: CLOSE
@@ -516,9 +598,19 @@ MIRA: "Doi saw it. Kaito logged it. I wrote it in my notebook. Three people noti
 
 [Beat.]
 
-MIRA: "Doi was silenced by the custody ruling. Kaito was silenced by being 'the weird kid.' I was silenced by being 'the liar.' Different mechanisms, same result. Nobody compared notes because nobody was allowed to be credible at the same time."
+MIRA: "Doi was silenced by the custody ruling. Kaito was silenced by being 'the weird kid.' I was silenced by being..."
 
-[Structural, not personal. Three observers, three discrediting mechanisms — institutional (Doi's custody), social (Kaito's reputation), behavioral (Mira's "intensity"). The isolation wasn't accidental.]
+[She reaches for the word. In Chapter 3, it would have arrived instantly — "the liar," delivered flat, precise, no gap. Now there's a second of nothing. The word comes, but it comes the way a delayed signal arrives — after the moment has already moved past it.]
+
+MIRA: "...'the liar.' Different mechanisms, same result. Nobody compared notes because nobody was allowed to be credible at the same time."
+
+[Beat.]
+
+MIRA: "And the committee that reviewed Doi's report, and the community that labeled Kaito, and the school that labeled me — all of them run through the same office. The same chair."
+
+[She doesn't say his name. She doesn't need to. The player has seen it seven times.]
+
+[Structural, not personal. Three observers, three discrediting mechanisms — institutional (Doi's custody), social (Kaito's reputation), behavioral (Mira's "intensity"). The isolation wasn't accidental. It was managed. Each person in the investigation has been a node in a system designed to prevent exactly this kind of convergence. The convergence is happening now because a detective with a dead phone is the one person in Yanagi who doesn't route through the council chair.]
 
 [Kenji looks at the phone. Tomorrow: follow the silver car. Shinagawa registration. A holding company. A name.]
 

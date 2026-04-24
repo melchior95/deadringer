@@ -217,7 +217,7 @@ FUMIKO: "I still don't know why. But the routes connect the community center to 
 
 ### SOUL READ — FUMIKO (Second)
 
-[Mira's read is slower than the first one. In Ch 6, the Soul Read was immediate — Fumiko's emotional state was clear and Mira delivered it efficiently. Now there's a delay. The wire-sound is rougher.]
+[Mira's read is slower than the first one. In Chapter 3, the read arrived the instant the call ended — clean, no delay, the impression already waiting. In Chapter 6, the Fumiko read was still efficient, just a beat slower. Now there's a gap the player can feel — three seconds, four, the wire-sound rough and searching before the impression resolves. The same Soul Read that was instant in the early game now has a startup cost.]
 
 MIRA: "She's... the same. But louder now. The angry-tired is... she has a name for it now. She didn't before. Having a name for the thing you've been carrying makes it heavier somehow."
 
@@ -233,19 +233,21 @@ MIRA: "She's scared. Not of Endo — of being wrong. Fourteen years of being rig
 
 [The player selects KAITO. The phone rings. Four times. Five. Kaito picks up mid-sixth ring.]
 
-[AUDIO: Background sounds — not the silence of an empty room but the ambient noise of someone who lives surrounded by the sounds they can't filter. A fan. A clock. The hum of a building being a building.]
+[AUDIO: Background sounds — not the silence of an empty room but the ambient noise of someone who lives surrounded by the sounds they can't filter. A fan oscillating. A clock with a loud second hand. The refrigerator cycling. A pencil tapping against a hard surface — not rhythmic like Haruki's pen-click, but arrhythmic, the idle motion of hands that are always tracking something. This is Kaito's audio signature: the unfiltered room. Every appliance audible, every surface present. He doesn't curate his environment the way Yui does or populate it the way Rina does. He receives all of it, all the time.]
 
 KAITO: "...yeah."
 
+[The ellipsis is audible — a three-second gap before the word. Not shyness. Processing. The input (phone ringing) is being evaluated before the output (greeting) arrives. This is the Delayed Signal: Kaito's answers are always one beat behind the conversation.]
+
 KENJI: "Kaito. I need to talk about your notebooks."
 
-[Silence. Three seconds. Four. The player who remembers Chapter 5 knows this is processing, not resistance.]
+[Silence. Four seconds. Five. The player who remembers Chapter 5 knows this is processing, not resistance. The delay gets longer when the information is more important — and "notebooks" is heavy.]
 
 KAITO: "...which ones."
 
 KENJI: "The vehicle logs. The ones tracking cars near the school."
 
-[Another pause. When he speaks, his voice has a different quality — not the flat reluctance of their earlier call, but something closer to relief. Someone is asking about the thing he noticed. Someone is treating his observations as data instead of evidence of pathology.]
+[Six-second pause. When he speaks, his voice has a different quality — not the flat reluctance of their earlier call, but something closer to relief. Someone is asking about the thing he noticed. Someone is treating his observations as data instead of evidence of pathology.]
 
 ---
 
@@ -263,13 +265,17 @@ KENJI: "The vehicle logs. The ones tracking cars near the school."
 
 ### Response: PATIENCE
 
+[Three-second delay.]
+
 KAITO: "...okay."
 
-[He starts slow. Hesitant. But the hesitation is mechanical, not emotional — he's translating his private notation system into language someone else can parse.]
+[AUDIO: The pencil stops tapping. A notebook opens — the player can hear the spine crack. He starts slow. Hesitant. But the hesitation is mechanical, not emotional — he's translating his private notation system into language someone else can parse.]
+
+[Two-second delay.]
 
 KAITO: "March 3rd. 2:45 PM. Silver sedan. Shinagawa plates. Parked on the east side of the school, near the gate. Engine running. Nobody got out. Departed 3:22 — seven minutes after dismissal."
 
-[He continues. Each entry is timestamped, located, annotated with behavioral detail. The player hears it and recognizes: this is not surveillance. This is the same thing Mira did — tracking anomalies, logging deviations from the expected pattern. Kaito's notebooks are a neighborhood-scale version of Mira's case file.]
+[The delay shortened. He's reading now, not translating, and the data flows with a precision that sounds nothing like the fragmented boy from the opening. This is Kaito in his native register: observations, timestamps, patterns. Each entry is annotated with behavioral detail. The player hears it and recognizes: this is not surveillance. This is the same thing Mira did — tracking anomalies, logging deviations from the expected pattern. Kaito's notebooks are a neighborhood-scale version of Mira's case file.]
 
 ---
 
@@ -291,19 +297,97 @@ KAITO: "...okay. March 3rd. 2:45..."
 
 KENJI: "Before the car. The other patterns. What else did you notice about the neighborhood that didn't fit?"
 
-[Long pause. Kaito is recalibrating — the question is broader than he expected.]
+[Seven-second pause. The longest yet — the question is broader than he expected, and broader means more to process.]
 
 KAITO: "...a lot of things don't fit."
 
-[He describes fragments: a pattern in which houses had visitors on which evenings. A regularity to certain adults' walking routes that suggested they were following a schedule, not a habit. The way community events always had the same volunteer coordinator, and the coordinator always positioned himself near the arrivals, watching who came and who didn't.]
+[He describes fragments, each preceded by its own delay: a pattern in which houses had visitors on which evenings (three-second pause). A regularity to certain adults' walking routes that suggested they were following a schedule, not a habit (two-second pause — familiar data). The way community events always had the same volunteer coordinator, and the coordinator always positioned himself near the arrivals, watching who came and who didn't (eight-second pause — this one matters).]
 
 KAITO: "...the volunteer man. He was always there. Every event. He always stood near the door."
 
 KENJI: "The volunteer man."
 
+[Five-second delay.]
+
 KAITO: "...I don't know his name. But he was always watching who showed up. Like he was keeping attendance."
 
 [The player who has connected Endo to the silver car now hears Kaito describing Endo's behavioral pattern without naming him. The convergence deepens.]
+
+---
+
+### Response: SILENCE (Hidden Gate — Teenager Reveal)
+
+[The player does not speak. Kenji holds the phone and waits. The unfiltered room fills the space: the fan oscillating, the clock with the loud second hand, the pencil tapping that isn't rhythmic, the refrigerator cycling and not cycling. The full ambient stack that is Kaito's audio signature. Eight seconds. Ten. The pencil-tapping slows. Stops.]
+
+[Fifteen seconds.]
+
+KAITO: "...this is going to sound stupid."
+
+[Kenji doesn't respond. The silence was working. He keeps using it.]
+
+[Four seconds.]
+
+KAITO: "Okay. This is going to sound stupid, but I'm going to say it. There was a show. When I was twelve. A detective show. I don't want to name it. I rewatched a specific episode many times. In the episode the detective noticed something in the background of another case. A car parked in the same spot three different afternoons. He followed it up. It turned out to be the connection that broke open an entirely different investigation."
+
+[Beat.]
+
+KAITO: "I thought that was the coolest thing I had ever seen. That you could solve something by paying attention to the thing nobody else thought was important."
+
+[AUDIO: The pencil starts tapping again. Slower. A different rhythm than before — he's not processing, he's nervous. The tap is his fidget. He is saying something he has not said aloud before.]
+
+KAITO: "So I started keeping notebooks. I was twelve. I am seventeen now. That is five years of notebooks. I wanted to be... I wanted to be that detective. The one who noticed."
+
+[Four-second pause.]
+
+KAITO: "Most of what I wrote down is nothing. Mrs. Tanaka walks her dog at 6:47 every morning. Ms. Hayashi at the pharmacy prefers the clerk who doesn't smile. The man at the bus stop on Tuesdays reads two chapters of a specific paperback. Nothing. Patterns that weren't patterns. It was practice. I thought if I kept doing it, eventually I would see something that mattered and I would have the habit of writing it down when I did."
+
+[Pause.]
+
+KAITO: "The silver car was the first time I saw something that mattered. I didn't know it was the first time until you called me."
+
+[AUDIO: The fan reaches the end of its oscillation and turns back. Kaito's pencil has stopped again. He is — for the first time in the call — fully deciding whether to say something. The silence that precedes it is different from Delayed Signal. It is choice.]
+
+KAITO: "I am also writing a book."
+
+[Beat.]
+
+KAITO: "A novel. I have been writing it for three years. I have not finished a chapter."
+
+KENJI: "Three years."
+
+KAITO: "I can write the patterns. I can write the evidence. I can write the scenes where nothing is happening and someone is noticing something. Those are the only scenes I am good at. I cannot write the characters. When they talk to each other they all sound like me. Which is — apparently — boring. To read. I gave one to my mother and she said 'this is interesting, Kaito, but everyone sounds the same.' She is usually not an accurate editor but I think she was accurate about this."
+
+[A longer pause. The Delayed Signal has become a different kind of timing — the cadence of a person who has rehearsed saying something in their head many times and is now surprised to hear themselves saying it out loud.]
+
+KAITO: "I was going to ask if I could record this call."
+
+KENJI: "Record it."
+
+KAITO: "For research. For the book. I was going to ask. I will not. I would like to state for the record that I considered asking and decided against it. Because it would be wrong. To ask that. I am aware. But I thought about it. I am — I am informing you that I thought about it. In the interest of full disclosure."
+
+[Silence. When Kenji speaks, he is careful.]
+
+KENJI: "If you want to write about a detective you can ask me questions. I'd rather you do that than record a call."
+
+[A nine-second delay. The second-longest pause of the call, surpassed only by the driver-description beat. But this pause is different — not the weight of information, the weight of being offered something unexpected.]
+
+KAITO: "...you would answer questions."
+
+KENJI: "Yeah. When we're done with this case. You can ask me questions about the job. I'll answer the ones I can answer."
+
+[Beat.]
+
+KAITO: "...okay."
+
+[Then, quieter:]
+
+KAITO: "I am sorry if any of this sounded wrong. You are the first detective I have actually spoken to. The notebooks are — the notebooks are what I do instead of knowing how to talk to detectives. I don't have a lot of practice with the talking part."
+
+KENJI: "You're doing fine."
+
+[AUDIO: The pencil-tap resumes. Steady. Slower than before. The fidget has transitioned into something closer to a heartbeat — a boy sitting in a room full of sounds he usually can't filter, for once, not needing to filter.]
+
+[DESIGN NOTE: The SILENCE response is gated. It is the only approach that produces Kaito's teenager reveal — the private interiority he has never shared with anyone who asked directly. The reveal has three components, each a different register of self-disclosure: the origin story (detective show at twelve, five years of notebooks as practice), the private practice (the unfinished novel, everyone sounding like him), and the inappropriate-but-honest impulse (wanting to record the call for research). Kenji's offer — "ask me questions when we're done" — is the scene's payoff: the first time an adult in Kaito's life has treated his habit as a vocation-in-progress instead of a behavioral oddity. Mira's Soul Read later in this scene — "doesn't know how to show it properly," "someone opened a window in a room that's been closed" — now has a specific referent. The player who chose SILENCE has earned the context for the Soul Read. The player who didn't choose SILENCE still gets the Soul Read, but hears it more abstractly. Both work. The difference is the specificity of the warmth.]
 
 ---
 
@@ -317,6 +401,8 @@ KAITO: "The two times the driver went to the store — I couldn't see the face f
 
 KENJI: "Did you see the driver at all?"
 
+[Nine-second delay. The longest silence in the call. The weight of the information stretches the processing time — the delay-length is the tell, and nine seconds means what follows is the most important thing Kaito has said.]
+
 KAITO: "...once. From behind. Walking from the car to the store. Tall. Upright. He walked like he was... familiar. Like he knew where everything was without looking."
 
 [NOTEBOOK PROMPT: "KAITO — VEHICLE LOGS (full): 9 sightings total, March through April. Silver sedan, Shinagawa plates. 3x driver stayed in car, 2x driver exited to store, 4x car sat idle. Driver description: tall, upright, 'walked like he was familiar — knew where everything was without looking.' Corroborates Doi's 3 sightings (March 3/7/12) and Mira's records. KAITO'S NOTEBOOKS ARE OBSERVATION, NOT SURVEILLANCE — neighborhood pattern tracking, same instinct as Mira at a different scale."]
@@ -325,7 +411,7 @@ KAITO: "...once. From behind. Walking from the car to the store. Tall. Upright. 
 
 ### SOUL READ — KAITO
 
-[The read takes longer than Mira's reads used to. She reaches for it and the impression arrives in pieces, not as a single image.]
+[The read takes longer than Mira's reads used to. She reaches for the impression and it arrives in pieces, not as a single image — the emotional shape landing a beat before the words to describe it, meaning lagging behind feeling the way a subtitle lags behind dialogue.]
 
 MIRA: "He's... careful. Everything in him is organized, like a room where every object is placed exactly where it needs to be. But it's not cold. It's how he makes sense of things."
 
@@ -483,9 +569,11 @@ Whether the player discovers it through analysis, investigation, Mira's observat
 
 [Kenji examines it. The river bend. Two figures.]
 
-[He doesn't know what it means yet. The player who has been tracking Sora artifacts since Chapter 2 — the bench marks, the drawing boy at Doi's store, the naming in Ch 5 — adds this to the accumulation. The page is real among fabricated evidence. Endo planted it in Mira's locker without examining it. He used a child's map as a prop.]
+[He doesn't know what it means yet. The player who has been tracking Sora artifacts since Chapter 2 — the bench marks, the drawing boy at Doi's store, Yui's river mention in Ch 4, the naming in Ch 5 — adds this to the accumulation. The page is real among fabricated evidence. Endo planted it in Mira's locker without examining it. He used a child's map as a prop.]
 
-[NOTEBOOK PROMPT: "SORA ARTIFACT — Map page (real among fabricated framing evidence). Graph paper, colored pencil. Imaginary city. Lower right corner: river with bend, two tiny figures sitting on a bank. Page is GENUINE — Sora drew this. Planted by whoever built the framing, without examining what the drawing actually contained."]
+[Kenji looks at the framing language one more time. The words: "misunderstands," "difficult," "says things." He has heard every one of these before. Not from a file — from a child. Rina, Chapter 4, describing Mira to a detective. The same vocabulary, word for word, now formalized into evidence. Whoever built this frame didn't need to invent the narrative. It was already circulating. They just wrote it down.]
+
+[NOTEBOOK PROMPT: "SORA ARTIFACT — Map page (real among fabricated framing evidence). Graph paper, colored pencil. Imaginary city. Lower right corner: river with bend, two tiny figures sitting on a bank. Page is GENUINE — Sora drew this. Planted by whoever built the framing, without examining what the drawing actually contained. LANGUAGE NOTE: Framing vocabulary ('misunderstands,' 'difficult,' 'says things') matches Rina's descriptions verbatim (Ch 4). The community consensus about Mira was the precondition for the frame — Rina was the mechanism, not the architect."]
 
 ---
 
@@ -503,11 +591,11 @@ KENJI: "Endo was on the review committee that fired Ogawa."
 
 [Mira, if present for this discovery, is quiet. Then:]
 
-MIRA: "Mr. Ogawa was nice. He was... the only one who wrote things down when I talked."
+MIRA: "Ms. Ogawa was nice. She was... the only one who wrote things down when I talked."
 
 [Beat.]
 
-MIRA: "And then he was gone."
+MIRA: "And then she was gone."
 
 ---
 
@@ -561,7 +649,7 @@ MIRA: "He was helpful. Everyone said so. The most helpful man in Yanagi."
 
 MIRA: "But helpful people don't need to know everything. And he knew everything. He knew which kids walked home alone. He knew which reports were filed. He knew which families had problems and which teachers were asking questions. He knew all of it, and every time he knew something, he showed up to help."
 
-[She pauses. The signal wavers. Comes back.]
+[She pauses. The signal wavers. Comes back. Her next words arrive strangely — the sound of her voice reaching Kenji a fraction before the meaning does, as if the signal carried the shape of speech but not yet its content. For a half-second, she sounds like the bridge number from Chapter 3: structured audio without language. Then the meaning catches up.]
 
 MIRA: "Helpful is the disguise. It's the best one. Because nobody suspects the person who's helping."
 

@@ -96,11 +96,11 @@ MIRA: "Call Yui first. Please."
 
 [MECHANIC: The call screen. The player selects SAKAMOTO (MOTHER'S PHONE). The phone rings. Four rings. Five. Six. The player might think no one will answer.]
 
-[AUDIO: The line connects. A small sound — not a greeting. A diagnostic. The sound of someone checking the caller ID, finding nothing recognizable, and answering anyway because not answering an unknown number could mean missing something she'll be asked about later.]
+[AUDIO: The line connects. A small sound — not a greeting. A diagnostic. The sound of someone checking the caller ID, finding nothing recognizable, and answering anyway because not answering an unknown number could mean missing something she'll be asked about later. Behind her: nothing. Not silence — curated absence. No television, no music, no footsteps. The careful quiet of a room chosen because it's the room where sounds don't carry. A clock ticks. Fabric shifts — she's sitting on something soft, positioned for a fast exit.]
 
 YUI: "Hello?"
 
-[Her voice: eleven years old, careful, producing as little signal as possible. Not quiet — contained. The containment sounds like politeness. It is architecture.]
+[Her voice: eleven years old, careful, producing as little signal as possible. Not quiet — contained. The containment sounds like politeness. It is architecture. This is Yui's audio signature: the apartment that sounds like a held breath.]
 
 KENJI: "I'm looking for Yui Sakamoto. This is Detective Oda, from the Metropolitan Police."
 
@@ -118,9 +118,11 @@ MIRA: "It's not real."
 
 KENJI: "I'm following up on the Kitahara case. You knew Mira?"
 
+[Gap: one second. Fast — safe question, safe answer.]
+
 YUI: "We went to the same school! She was a year below me. I didn't know her very well, but she seemed nice. Everyone was really sad when she — when that happened."
 
-[Every word is correct. None of it is true. "Didn't know her very well" is the architecture of avoidance applied to friendship — the same instinct that keeps her origami in a shoebox under the bed. Things left visible can be noticed, commented on, destroyed.]
+[Every word is a substitution. "Didn't know her very well" replaces "she was my only friend." "She seemed nice" replaces "she was the only person who saw me." "When that happened" replaces "when she died" — because naming death makes it real, and real things generate signal. The player who tracks what Yui avoids saying is mapping what she's protecting.]
 
 ---
 
@@ -152,11 +154,11 @@ YUI: "Of course! I'm happy to help with anything. The school had a memorial for 
 
 KENJI: "We have reports that you and Mira were close. Her notebook mentions you by name."
 
-[Silence. Three seconds. The performance wavers — not visibly, but the player can hear the recalibration. When Yui speaks, her voice is the same pitch but the rhythm has changed. Faster.]
+[Gap: four seconds. The longest gap yet — because the real answer ("she was my best friend and she tried to save me") is close, and proximity makes the gap grow. When Yui speaks, her voice is the same pitch but the rhythm has changed. Faster — overcompensating for the silence she just leaked.]
 
 YUI: "Her notebook? I — we were in different grades. I don't know what she would have written about me. We maybe talked a few times at school? She was... she noticed a lot of things."
 
-[She's retreating. Every direct question closes a door. If the player presses further — asks about home, asks about Takeshi, asks about bruises — Yui shuts down. Answers get shorter. Details get vaguer. She becomes less present on the line, performing disappearance the way she's practiced for four years.]
+[Substitutions stacking: "different grades" for "inseparable." "Talked a few times" for "met every day at the river." "Noticed a lot of things" — the one that's closest to true, delivered last, almost accidentally. She's retreating. Every direct question closes a door. If the player presses further — asks about home, asks about Takeshi, asks about bruises — Yui shuts down. The gaps collapse to zero: instant answers, no space for truth to leak. She becomes less present on the line, performing disappearance the way she's practiced for four years.]
 
 MIRA: "Stop. You're losing her."
 
@@ -164,15 +166,21 @@ MIRA: "Stop. You're losing her."
 
 ### Response: REDIRECT
 
+[Gap: one second. A safe question gets a fast answer.]
+
 YUI: "The school? It's... it's a good school. The teachers are nice. We have a garden. Mr. Ise — he was our homeroom teacher — he really cares about the students."
 
-[She relaxes fractionally. A question about the school is a question about territory she controls. She can narrate the safe version of her life — the version where school is fine and teachers are nice and gardens exist.]
+[She relaxes fractionally. A question about the school is a question about territory she controls. She can narrate the safe version of her life — the version where school is fine and teachers are nice and gardens exist. Every adjective is a substitution: "good" for adequate, "nice" for present, "cares" for tried once and failed.]
 
 KENJI: "What about after school? What do kids do around here?"
 
-YUI: "Some kids go to the river. There's after-school programs. I usually go straight home."
+YUI: "Some kids go to the river. There's after-school programs."
 
-["Usually go straight home" — delivered with the specific flatness of a sentence that has been rehearsed so many times it no longer registers as a lie. The player who is listening hears what "straight home" means for a girl who maps floorboards.]
+[Gap: three seconds.]
+
+YUI: "I usually go straight home."
+
+["Usually go straight home" — delivered after a gap the player can feel. The substitution: "straight home" for "back to the apartment where I map the floorboards and time my movements to his television schedule." Rehearsed so many times it no longer registers as a lie. But the three-second gap before it? That was the truth almost arriving, and Yui catching it at the door.]
 
 ---
 
@@ -180,25 +188,35 @@ YUI: "Some kids go to the river. There's after-school programs. I usually go str
 
 [The performance runs out of material. Yui has said "how can I help" and delivered the safe version. Now there's space. And Yui — trained to read silence the way other children read faces — enters it cautiously.]
 
+[AUDIO: The apartment clock ticks. The fabric shifts again — she's repositioning on whatever soft surface she chose. In the silence, the curated absence of her environment becomes audible: no TV downstairs, no footsteps, no voices. She picked this window because the apartment is empty. She's been doing this a long time.]
+
 YUI: "Um..."
 
-[Five seconds. Seven. The line holds. Yui is not uncomfortable with silence — she lives in it. But this silence is different. It's not the silence of a room where someone might explode. It's the silence of a phone line where someone is waiting without demanding. She doesn't recognize it.]
+[Gap: five seconds. Seven. The line holds. Yui is not uncomfortable with silence — she lives in it. But this silence is different. It's not the silence of a room where someone might explode. It's the silence of a phone line where someone is waiting without demanding. She doesn't have architecture for this.]
 
 YUI: "Is there... something specific you wanted to know?"
 
-[Kenji says nothing. Ten seconds.]
+[Kenji says nothing. Ten seconds. The clock ticks.]
 
-YUI: "Because I really didn't know Mira that well. We just... we sat near each other sometimes. At the river. She watched bugs. I did my... I folded things."
+YUI: "Because I really didn't know Mira that well. We just..."
 
-[A fracture. "Sat near each other sometimes" is closer to the truth than "didn't know her very well." The silence pulled it forward. Not because Kenji was clever — because Yui needed the space to arrive somewhere unscripted.]
+[Gap: six seconds. Longer than any pause so far. The real answer is closer.]
 
-YUI: "She was... she was really good at noticing things. Like, she'd see something and she'd just say it. Out loud. Just say what she saw. I couldn't do that. I can't — "
+YUI: "...we sat near each other sometimes. At the river. She watched bugs. I did my... I folded things."
+
+[A fracture. "Sat near each other sometimes" is closer to the truth than "didn't know her very well." "I folded things" — she almost said "origami" but substituted the generic. The silence pulled both forward. Not because Kenji was clever — because Yui needed the space to arrive somewhere unscripted.]
+
+YUI: "She was..."
+
+[Gap: eight seconds. The longest yet. Each silence stretches as the truth gets closer — the gap-length is the tell, and the player who is counting can feel the pattern.]
+
+YUI: "...she was really good at noticing things. Like, she'd see something and she'd just say it. Out loud. Just say what she saw. I couldn't do that. I can't — "
 
 [She stops. Regroups. The performance tries to reassert but it's been breached and the repair is visible.]
 
 YUI: "She was nice. That's all."
 
-[The player who chose Silence has pulled Yui past her first wall. One more piece of space — one more careful silence — and the real Yui arrives.]
+[Gap: one second. Instant — the safe answer snapping back into place like a door. The player who chose Silence has pulled Yui past her first wall. One more piece of space — one more careful silence — and the real Yui arrives.]
 
 ---
 
@@ -222,9 +240,13 @@ It happens when the subject of Mira comes back. Not through a question — throu
 
 YUI: "She paid attention to everyone."
 
-[Quieter. The performance is gone. What's underneath is a girl who misses her friend.]
+[Gap: ten seconds. The longest in the call. The real answer isn't just close — it's here.]
+
+[AUDIO: Something small. Paper. The sound of a girl's fingers working a fold — origami, automatic, the way other people fidget with pens. She's folding something while she talks, the muscle memory running beneath the conversation like a second pulse.]
 
 YUI: "She paid attention to me."
+
+[Quieter. The performance is gone. No substitution. The real sentence, in the real voice, for the first time. What's underneath the architecture is a girl who misses her friend.]
 
 [The player who has been patient — who used Silence, or who backed off after a failed approach and tried again — gets what comes next.]
 
@@ -243,6 +265,22 @@ KENJI: "No."
 YUI: "She said they would."
 
 [DESIGN NOTE: A child, waiting for help that was promised by another child who believed adults would act. The person on the phone is the first adult who has listened long enough for Yui to ask.]
+
+[A long quiet. Then, smaller — the way details surface after the important thing has already been said:]
+
+YUI: "There was a boy who sat near us sometimes. At the river. Not with us — near us. He had graph paper and colored pencils and he drew... cities. Whole cities. With transit lines and little parks and everything."
+
+[Beat.]
+
+YUI: "He stopped coming. A while ago. Maybe a month before Mira..."
+
+[She trails off. The sentence ends where all of Yui's sentences end — at the boundary between noticing and reporting.]
+
+YUI: "I didn't ask anyone about it. You don't... I don't ask about people who disappear."
+
+[The sentence lands with the weight of everything the player has learned about Yui in this call. She noticed. She didn't report. Not because she didn't care — because the system taught her that noticing out loud is the same as generating signal, and signal is what gets you hit. The silence that protects Yui from Takeshi is the same silence that kept a missing boy invisible.]
+
+[DESIGN NOTE: Sora artifact #3 — from the person closest to the evidence. Yui noticed Sora's absence completely, silently, without telling anyone. The player won't know this matters until Ch 5, when Haruki names Sora Hayashi and the drawing boy becomes a missing child. When that connection fires, the player re-evaluates this moment: Yui had the information. She held it the way she holds everything — in a box, packed tight, where it can't make noise.]
 
 ---
 
@@ -310,7 +348,7 @@ MIRA: "..."
 
 [VISUAL: Evening. A car arrives at an apartment building in Yanagi. Two women in professional clothes. A police liaison. They knock. They enter. The player doesn't see inside. They don't need to.]
 
-[VISUAL: Twenty minutes later. A girl exits the building carrying a school bag and a shoebox. She gets into the car. She is very quiet. She is holding the shoebox with both hands.]
+[VISUAL: Twenty minutes later. A girl exits the building carrying a school bag and a shoebox. She gets into the car. She is very quiet. She is holding the shoebox with both hands — the origami, the cranes, the one thing she didn't substitute, didn't hide, didn't optimize for safety. The things she made in the quiet room while the apartment held its breath around her.]
 
 [The confirmation comes through Kenji's phone. Text: intervention complete, child removed to grandmother's custody, investigation ongoing.]
 
@@ -434,7 +472,7 @@ MIRA: "Fine. Build your case. But every hour you spend building it, she's in tha
 
 [Regardless of the fork choice, the investigation continues. Rina Nishizawa became available through the school directory Reiko referenced. The player selects NISHIZAWA, RINA from the call board.]
 
-[AUDIO: The phone rings. One ring. Answered immediately — the speed of someone who always picks up, because picking up is what well-adjusted people do.]
+[AUDIO: The phone rings. One ring. Answered immediately — the speed of someone who always picks up, because picking up is what well-adjusted people do. Behind her: life. Other voices — muffled, a friend's house or a common area. Music from a speaker. The ambient frequency of a girl who is never alone because being alone would mean being nobody. This is Rina's audio signature: the populated background. Where Yui's environment is curated absence, Rina's is curated presence — she is always surrounded, always positioned in the social center of whatever room she occupies.]
 
 RINA: "Hello?"
 
@@ -448,9 +486,9 @@ RINA: "Oh, Mira. Yes, of course. That was so sad. How can I help?"
 
 KENJI: "I understand you knew Mira."
 
-RINA: "We went to the same school. I'm a year ahead. We were friends when we were younger — like, second grade? But we kind of grew apart. She got really... intense about things."
+RINA: "We went to the same school. I'm a year ahead. We were friends when we were younger — like, second grade? But everyone kind of... you know how it is, people grow apart. She got really... intense about things. That's what people said, anyway. Intense."
 
-[There it is. The first deployment of the word that follows Mira through every conversation: "intense." Not a lie. Not an accusation. A social positioning that gives the listener permission to not investigate further.]
+[There it is. Two mechanics in three sentences. First: the reframe — "we grew apart" becomes "everyone kind of... people grow apart." Rina converts a personal decision into a natural social process. No one grew apart. Rina repositioned and Mira was left standing in the space. Second: "intense." The word that follows Mira through every conversation. Not Rina's word — "that's what people said." She never leads. She reports consensus. The consensus is the weapon and Rina is just holding it for everyone.]
 
 ---
 
@@ -480,19 +518,19 @@ RINA: "Of course! I mean, Mira was a really unique person. She cared a lot about
 
 KENJI: "What do you mean by intense?"
 
-RINA: "Just... she would say things. About people. Like, she'd accuse people of stuff without really knowing. She told a teacher that Mr. Doi was watching kids, and he's just an old man who runs a store. She told the counselor that someone was being hurt and it turned out to be — I mean, I don't know all the details. She just saw things that weren't always there."
+RINA: "Just... everyone knew she would say things. About people. Like, she'd accuse people of stuff and nobody really believed her? She told a teacher that Mr. Doi was watching kids, and everyone was like, he's just an old man who runs a store. She told the counselor that someone was being hurt and it turned out to be — I mean, everyone said it was nothing. She just saw things that weren't always there."
 
-["Things that weren't always there." The player who has spent three chapters confirming that Mira's observations were accurate hears this sentence land differently than Rina intends it. Mira saw things that were always there. Rina is describing a community consensus, not a fact.]
+[The reframe machine running at full speed. "She would say things" → "everyone knew she would say things." "He's just an old man" → "everyone was like, he's just an old man." "It was nothing" → "everyone said it was nothing." Every one of Mira's specific observations — which the player has been confirming for three chapters — gets converted from fact to community consensus, and the consensus is: dismiss. Rina isn't lying. She's routing. The signal enters as "Mira reported" and exits as "everyone knew Mira says things." The conversion is automatic, invisible to her, and lethal.]
 
 ---
 
 ### Response: REDIRECT
 
-RINA: "The school is really good. The teachers care. Ms. Aizawa — the counselor — she's always available. And Mr. Endo does so much for the community. He organized the playground renovation last year."
+RINA: "The school is really good. Everyone says so. The teachers care. Ms. Aizawa — the counselor — she's always available. And Mr. Endo does so much for the community. Everyone really respects him. He organized the playground renovation last year."
 
-[Endo. Again. Mentioned casually, in the same breath as the school's quality. Another data point for Kenji's circled name.]
+[Endo. Again. Mentioned casually, wrapped in "everyone really respects him" — Rina doesn't offer her own assessment. She reports the group verdict. Another data point for Kenji's circled name, this one delivered through the reframe machine: not "I respect Endo" but "everyone does."]
 
-RINA: "Mira was kind of... outside of things. Not bullied — nobody bullied her. She just didn't really fit. She'd say things that made people uncomfortable. Like, in a meeting she'd just stand up and say 'I think the safety council chairman is watching us' and everyone would be like... Mira, sit down."
+RINA: "Mira was kind of... outside of things. Not bullied — nobody bullied her. She just didn't really fit in with people. She'd say things that made everyone uncomfortable. Like, in a meeting she'd just stand up and say 'I think the safety council chairman is watching us' and everyone would be like... Mira, sit down."
 
 [NOTEBOOK PROMPT: "RINA — confirms Mira publicly named Endo at a meeting. Community response: dismissal. 'Mira, sit down.' Rina mentions Endo in same breath as school quality. Community consensus: Endo is good, Mira is intense. Cross-reference: Kenji's Endo frequency note."]
 
@@ -500,11 +538,11 @@ RINA: "Mira was kind of... outside of things. Not bullied — nobody bullied her
 
 ### Response: REMAIN SILENT
 
-[Rina fills space the way water fills a container — completely, smoothly, leaving no gaps. Silence doesn't produce confession from Rina. It produces performance. She interprets the quiet as invitation and delivers more of the curated version.]
+[Rina fills space the way water fills a container — completely, smoothly, leaving no gaps. Silence doesn't produce confession from Rina. It produces performance. Where Yui needed the quiet to arrive at truth, Rina uses the quiet as a stage. She interprets silence as invitation and delivers more of the curated version — more "everyone," more consensus, more social weather report.]
 
-RINA: "She was sweet, in her way. She just... I think she wanted people to take her seriously and she went about it the wrong way. Like the notebook thing — she accused me of taking her notebook in second grade and I didn't, and it became this whole thing, and after that she kind of..."
+RINA: "She was sweet, in her way. Everyone thought so. She just... I think everyone wanted her to, like, calm down a little? And she went about it the wrong way. Like the notebook thing — she accused me of taking her notebook in second grade and everyone saw it and I didn't take it, and it became this whole thing where people were like, see, this is what she does. And after that she kind of..."
 
-[She trails off. The notebook. The player who has been waiting for this detail has it now — volunteered, unprompted, in the middle of a performance. Rina brought it up herself because it's part of her narrative: the story of Mira that justifies the distance.]
+[She trails off. The notebook. The player who has been waiting for this detail has it now — volunteered, unprompted, in the middle of a performance. Rina brought it up herself because it's part of her narrative: the story of Mira that justifies the distance. And even here, the reframe: "she accused me" becomes "everyone saw it." The incident that was between two girls becomes community property in Rina's telling. She can't help it. She processes everything through the group.]
 
 ---
 
@@ -524,13 +562,27 @@ RINA: "There wasn't a conflict. We were eight. She thought I took her notebook a
 
 Regardless of approach, the conversation arrives at the notebook. Either Rina brings it up (Silence, Redirect) or the player surfaces it (Pressure, Bluff). The incident sits at the center of every conversation about Mira and Rina.
 
-RINA: "I just want to be clear — I never said anything mean about her. I just... when people asked, I told them what I thought. That she misunderstands things sometimes. That's not mean. That's just... true."
+RINA: "I just want to be clear — I never said anything mean about her. Everyone said things, I just... when people asked, I told them what everyone thought. That she misunderstands things sometimes. That's not mean. That's just... what people thought."
+
+KENJI: "What did *you* think, Rina?"
+
+[AUDIO: The background voices continue — someone laughs in the other room, a chair scrapes. But Rina's voice changes. The social narration — the flowing, confident group-report that's been running since the call started — stalls.]
+
+RINA: "What did I...?"
+
+[Beat. Three seconds.]
+
+RINA: "I thought... I mean, I didn't... she was just..."
+
+[The sentence structure collapses. The grammar simplifies. Without the social frame — without "everyone" and "people said" and "you know how it is" — Rina's language loses its scaffolding. She doesn't know how to answer as herself because she has never needed to. The group position is all she has. Remove it and what's left is a ten-year-old girl who doesn't have her own opinion about anything, because having an opinion means standing alone, and standing alone is the thing Rina has engineered her entire life to avoid.]
+
+RINA: "I just didn't want her to... I didn't stop it. That's all. I just didn't stop it."
 
 [Beat.]
 
-RINA: "Isn't it?"
+RINA: "Isn't that... isn't that different from being mean?"
 
-[The question is genuine. Rina is not performing here — she is checking. A ten-year-old who built a social position on a specific interpretation of a classmate is, for the first time, asking whether the interpretation was correct. She's not asking because she's guilty. She's asking because a detective is calling about a dead girl and the dead girl is the one Rina described as "intense" and "dramatic" and now the word "detective" is in the room and the room feels different.]
+[The question is genuine. Rina is not performing here — she is checking. The "everyone" is gone. The social frame is gone. What's left is "I" and "I" is a girl who built a social position on a specific interpretation of a classmate and is, for the first time, asking whether the interpretation was correct. She's not asking because she's guilty. She's asking because a detective is calling about a dead girl and the dead girl is the one Rina helped make dismissible and now the word "detective" is in the room and the room feels different.]
 
 ---
 
@@ -690,6 +742,16 @@ MIRA: "He wasn't arguing with me. We were talking. He talks like that — loud, 
 
 MIRA: "He believed me about the car. He was the only one."
 
+[A pause. Not the emotional pause that followed the Yui read — something shorter, different in texture. A half-second where the wire-sound flickers, like a signal briefly losing its carrier wave. When Mira comes back, she sounds exactly the same.]
+
+MIRA: "What was — the second date. The March 7th entry."
+
+KENJI: "March 7th, 15:18. Same vehicle. Eleven minutes."
+
+MIRA: "Right. I knew that."
+
+[She did know that. She read it the same time Kenji did. The question wasn't confusion — it was a word arriving late, the way a subtitle sometimes lags behind the audio by a fraction of a second. Not enough to notice unless you're counting. The player who dismissed it as distraction is probably right. Probably.]
+
 [NOTEBOOK PROMPT: "KAITO NISHIMURA, 17 — neighborhood observation notebooks recovered. Timestamped vehicle logs including SILVER CAR (east entrance, recurring). Cross-ref: Doi's silver car sighting, Mira's notebook entries. Witness statements describe him as suspicious — 'arguing' with Mira. Mira says: they were talking. He believed her about the car. Three observers (Mira, Doi, Kaito) independently tracking the same vehicle."]
 
 ---
@@ -751,13 +813,14 @@ MIRA: "I'm going to keep counting."
 - Rina Nishizawa: 10, one grade ahead. Social filter. "Mira just misunderstands things sometimes." Provided the social narrative that made Mira dismissible. Not malicious — normal. Mentions Endo positively (playground renovation).
 - Memory Fragment #2 experienced: Rina Social Distortion — the notebook incident. The origin of Mira's documentation instinct. "Next time I won't tell the teacher. I'll just write it down."
 - Kaito Nishimura: 17, homeschooled. Neighborhood observation notebooks with timestamped logs — including silver car sightings matching Doi and Mira's records. Witness statements describe him as suspicious. Mira says he believed her about the car.
+- Sora artifact #3: Yui mentions a boy who drew cities at the river — "He stopped coming. I didn't ask anyone about it." Connects to Doi's drawing boy (Ch 3) and bench fragment (Ch 2). Three independent observers of the same absence, none reporting.
 - Silver car now confirmed by three independent observers (Mira, Doi, Kaito) — pattern convergence building
 - Endo name count: 5 (pharmacy board, community board, playground plaque, Reiko volunteer search, Rina playground renovation)
 
 ### Notebook Contents (New Entries — Player-Assembled)
 - SOUL READ — YUI: "small — packed herself into a box." Mira's first unguarded ask.
 - SOUL READ — RINA: remembers wrong on purpose, "because it works better." Not cruel — normal. Mira's fallibility: saw malice where there was reflex.
-- Yui call: performance voice, architecture of avoidance. "Mira said she told someone about me. Did anyone come?" System failed.
+- Yui call: performance voice, architecture of avoidance. "Mira said she told someone about me. Did anyone come?" System failed. Also: mentions drawing boy at river who stopped coming — "I don't ask about people who disappear."
 - Rina call: social filter deployed — "intense," "misunderstands things." Mentions Endo (playground). Notebook incident surfaced.
 - Kaito Nishimura: neighborhood logs, silver car timestamps (March 3, 7, 12 — east entrance, recurring). Three independent observers tracking same vehicle.
 - [If Act] Mira broke. "I thought there was something wrong with me." She was nine and right.

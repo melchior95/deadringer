@@ -1,3 +1,74 @@
+# DEAD RINGER — Manuscript Preface
+
+## A Note to the Reader
+
+This is a design document that contains a narrative. It is the master script for a phone-based mystery visual novel, written to be simultaneously readable as a story and actionable as a production specification. The two functions share a page.
+
+Each chapter includes, in addition to scene writing:
+
+- **Scene-level direction blocks** — `[VISUAL: ...]`, `[AUDIO: ...]`, `[DESIGN NOTE: ...]`, `[MECHANIC: ...]`
+- **Player choice points** with branching responses
+- **Notebook prompts** flagging evidence the player should log
+- **End-of-chapter state summaries** — Player Knowledge, Notebook Contents, Phone Log, Mechanical State, Threads Open, Emotional Arc
+
+A narrative-first reader can skim the bracketed direction and read the prose alone; the story remains coherent. A production reader can use the direction blocks as the working spec.
+
+If a prose-only edition is ever needed for publication, the end-of-chapter state summaries would move to an appendix and the `[DESIGN NOTE]` blocks would be stripped. The core scene writing stands on its own.
+
+---
+
+## Structural Conventions
+
+Most chapters follow a consistent structure: `## SCENE 1`, `## SCENE 2`, etc., with titled scene headers and player choice points inside each scene. Two chapters depart from this convention for specific design reasons.
+
+### Chapter 1 — Thematic Headers
+
+Chapter 1 uses all-caps thematic headers (THE PHONE, THE TEST, THE READ, THE CASE, THE DIRECTION, FIRST INTENT — THE CHOICE, ALL PATHS CONVERGE, CLOSE) rather than numbered scenes. This is intentional. Chapter 1 is the game's pilot — it teaches the player the core mechanics (phone interface, Soul Read, Notebook, Intent-based dialogue) through a compressed single-call encounter. Thematic headers mark the beats the player is being taught, not the scenes they are passing through. From Chapter 2 onward, the game's structure becomes multi-scene, and the conventional `## SCENE N` format is adopted.
+
+### Chapter 9 — Path-Based Structure
+
+Chapter 9 uses `## PATH A` through `## PATH F` rather than sequential scenes. This reflects the chapter's in-game structure: Chapter 9 is a free-investigation chapter in which the player chooses which leads to pursue from a menu. The paths are not sequential events the player experiences in order — they are parallel options from which the player selects three or four.
+
+**In the game, a player never encounters all six paths in a single run.** The PATH structure reflects the architecture of choice, not the order of experience.
+
+**For a linear read-through** (review, publisher, reference), a suggested canonical ordering:
+
+1. **PATH A — Framing Deconstruction + Haruki's Break** (the chapter's most emotionally central beat)
+2. **PATH B — The Garden** (physical proof of pattern)
+3. **PATH C — Reiko's Static Call** (the call Reiko didn't take)
+4. **PATH D — Sora's Map** (the drawing that maps the infrastructure)
+5. **PATH E — Ogawa Thread (Deep)** (the prior suppression that worked)
+6. **PATH F — Endo Follow-Up** (the third tell)
+
+In this ordering, Haruki's break arrives first as the chapter's emotional anchor, the garden and the map prove the pattern through physical evidence, Reiko's static call lands the domestic cost, the Ogawa deep thread complicates the player's moral frame on Endo, and Endo's follow-up call closes on the antagonist's recalibration. Any internal cross-references (Haruki appearing in Path A as broken and in Path E as pre-break) are artifacts of the parallel-menu design and can be read past in a linear pass.
+
+---
+
+## A Note on Branching
+
+The game branches on:
+- **Trust** (the quality of each NPC relationship, shaped by player dialogue choices)
+- **Timing** (Fumiko's publication countdown, Yui's intervention window)
+- **Method** (which intent deployed against which NPC)
+- **Allies in the final act** (who the player has cultivated by Chapter 12's switchboard duel)
+
+It does **not** branch on culprit identity, on Mira's fate, or on the ending's emotional shape. This is a deliberate design choice that follows from the game's thesis: Dead Ringer is about reconstructing a truth that was always there. Allowing the player to rewrite the truth would undo the story's argument. There is one ending. What the player affects is the density of evidence, the safety of survivors, and the cost of the final confrontation.
+
+---
+
+## A Note on Reading Order
+
+The chapters are written to be read sequentially. Each chapter's emotional and mechanical weight depends on what came before — and several of the manuscript's most important payoffs (the bridge number in Ch 10, Sora's bench artifact across Ch 2/3/5/10, Haruki's "disruptive honesty" in Ch 5 and Ch 9, Reiko's static call in Ch 9 and the notebook scene in Ch 11, Mira's humming in Ch 11 and her final signal in Ch 12) land on readers who have been paying attention to small details for hours.
+
+The document rewards slow reading. The game does, too.
+
+---
+
+**Manuscript total:** 13 files (12 chapters + epilogue), approximately 8,600 lines.
+**Companion documents:** `deadringer_game_bible.md` (design thesis and core mechanics), `deadringer_characters.md` (character bible), `chapter_structure.md` (information-economy map and NPC availability matrix), `deadringer_locations.md` (location production specs), `epilogue_production.md` (epilogue scene-by-scene production specification), `ogawa-incident.md` (Ogawa thread background and layered reveal design).
+
+---
+
 # CHAPTER 1 — 3:47 AM
 
 ## Chapter Overview
@@ -538,6 +609,7 @@ He filed her. Not as a ghost. Not as a prank call. Not as a hallucination brough
 ---
 
 **END CHAPTER 1**
+
 # CHAPTER 2 — The Yanagi District
 
 ## Chapter Overview
@@ -1072,6 +1144,7 @@ The chapter opens with curiosity and closes with unease. The player has walked t
 ---
 
 **END CHAPTER 2**
+
 # CHAPTER 3 — First Calls
 
 ## Chapter Overview
@@ -1117,6 +1190,44 @@ MIRA: "Also, she makes terrible coffee. That's not relevant. I just want it on r
 
 [The player who is listening hears the underlying knowledge: Mira knows her mother's sleep cycle because she lived around it — making coffee in the quiet hours, leaving notes on the fridge, timing her reports for the windows when Reiko was awake enough to hear them.]
 
+[Beat. Kenji is pouring a fresh cup from the pot beside the desk. He pauses. Looks at the mug. Looks at the pot.]
+
+KENJI: "Define terrible."
+
+MIRA: "Too much sugar. Always the small pot — the one the child can reach without the stool. The proportions favor what an eight-year-old can lift, not what adults pretend coffee should taste like."
+
+KENJI: "So the coffee's fine. The drinker is the problem."
+
+MIRA: "The drinker — my mother — is a nurse who works twelve-hour rotations and drinks caffeine as a survival mechanism. You are a detective who considers three expired coffees in a can to be an appropriate pencil holder. You're not a panel of judges, Detective. You're the other exhibit."
+
+[Kenji takes a sip. Does not respond for four seconds. Sets the mug down.]
+
+KENJI: "...fair."
+
+[AUDIO: The refrigerator cycles on. Runs for six seconds. Clicks off. The apartment's usual beat.]
+
+MIRA: "Your coffee is worse than my mother's, by the way. I don't know what you did to it. I didn't think it was possible to make Boss instant taste wrong, but here we are. There's an artistry to how badly you've done this."
+
+KENJI: "The kettle's broken."
+
+MIRA: "Then get a new kettle."
+
+KENJI: "It's not broken enough to replace."
+
+[Beat.]
+
+MIRA: "That is the most Kenji Oda sentence I've heard you produce. 'Not broken enough to replace.' That's going in the notebook. That's being preserved for posterity."
+
+KENJI: "The one I don't actually have."
+
+MIRA: "I'll dictate. You transcribe. Partnership."
+
+[Kenji almost smiles. Not quite. The corner of his mouth does something that a patient observer might describe as structural movement. He returns to the notes.]
+
+[DESIGN NOTE: The first establishing beat of the Kenji-Mira rapport as rapport, not as information exchange. Up to this point, every exchange has been either procedural or about the case. This beat is the evidence that they actually *like* each other — that the partnership isn't just functional, it's voluntary. Kenji's dry register ("The drinker is the problem," "Not broken enough to replace") is his native humor mode: institutional-literacy compression, delivered without inflection. Mira recognizes it and escalates it. This is the only extended non-case exchange in Act I. It sets the baseline the player will miss when her degradation begins in Chapter 6.]
+
+[Mira goes quiet. Not an armor-silence — a comfortable one. The line hums. Kenji finishes the coffee he criticized, pours another, and opens the notebook to a fresh page.]
+
 KENJI: "Anything I should know before I call?"
 
 MIRA: "She'll be ready. She's been answering questions since I died. She has a version. It's... polished."
@@ -1133,7 +1244,7 @@ MIRA: "Don't push her. Not yet. Just listen to the version. The cracks are in th
 
 [MECHANIC: The call screen appears. The player selects KITAHARA, REIKO from the call log. The phone rings. Two rings. The line connects.]
 
-[AUDIO: A slight pause. The sound of someone adjusting — a chair, a table, the small movements of a person who was waiting for this call and is now performing as if she wasn't.]
+[AUDIO: A slight pause. The sound of someone adjusting — a chair, a table, the small movements of a person who was waiting for this call and is now performing as if she wasn't. Behind her: the apartment. A kettle cooling on the counter — the metal ticking as it contracts. The hum of a space heater. No television, no music. The specific quiet of a home where one person lives in the space two people made. This is Reiko's audio signature: the apartment that's too quiet for one person. The kettle she boiled for coffee she makes the way Mira used to make it — too much sugar, in the small pot.]
 
 REIKO: "Hello?"
 
@@ -1149,7 +1260,9 @@ KENJI: "I'd like to ask you about Mira. About the weeks before her death."
 
 REIKO: "Of course."
 
-[She provides the timeline. Briskly, organized, the events arranged in the order she's prepared. Mira's last week of school. The Tuesday she came home late. The Wednesday where nothing was unusual. The Thursday where Mira mentioned something about the park — Reiko doesn't remember exactly what. The Friday was normal. Saturday morning Mira went out. Saturday evening she didn't come back.]
+[She provides the timeline. Briskly, organized, the events arranged in the order she's prepared. The rhythm is flat, even, the cadence of someone reading from an internal script. Mira's last week of school. The Tuesday she came home late. The Wednesday where nothing was unusual. The Thursday where Mira mentioned something about the park — Reiko doesn't remember exactly what. The Friday was normal. Saturday morning Mira went out. Saturday evening she didn't come back.]
+
+[This is the Rehearsal. The rhythm flattens when she's delivering prepared material — then rises, by a quarter-tone, on the third sentence of each rehearsed block. The pitch change is the tell: it's where the script requires emphasis she has to perform rather than feel. The player who calls Reiko again will hear the same timeline with different emphasis — the Thursday will have moved forward, the Tuesday will have been compressed. Same facts, different weight. What she leads with is what she's currently justifying. What she buries is what she's currently protecting.]
 
 REIKO: "I called the police at nine. Nine-fifteen. I waited until nine because she'd been late before — she gets absorbed in things. She watches bugs. By the river, usually. She loses track of time."
 
@@ -1157,7 +1270,7 @@ REIKO: "I called the police at nine. Nine-fifteen. I waited until nine because s
 
 REIKO: "She was always... she had a very active imagination. I don't mean that in a bad way. She was just — she noticed things. Saw things other children didn't see. It made her wonderful and it made her difficult and I loved her for both but the difficult part was — it could be a lot. For the school. For the other parents. For me, sometimes."
 
-[DESIGN NOTE: "Active imagination" is preemptive framing — affectionate context that doubles as credibility management. Reiko is not lying. She is editing: if Mira's reports were imagination, then failing to act on them was reasonable.]
+[DESIGN NOTE: "Active imagination" is preemptive framing — affectionate context that doubles as credibility management. Reiko is not lying. She is editing: if Mira's reports were imagination, then failing to act on them was reasonable. This phrase — "active imagination" — is a tracking point. If the player calls Reiko again, it will shift to "she was very observant" or "she paid attention to things." The migration maps what Reiko is coming to terms with.]
 
 ---
 
@@ -1221,6 +1334,8 @@ REIKO: "She was a good girl. She was difficult sometimes but she was — she car
 
 REIKO: "I keep finding her notes. On the fridge. Little reports about her day. 'Curry rice for dinner. Yui was not at school again.' She was... reporting to me. Even in her notes. Even when I was sleeping. She was still trying to tell me things."
 
+[AUDIO: In the background — so faint the player might miss it — the sound of a timer. A kitchen timer, counting down. Reiko doesn't acknowledge it. The player who hears it and wonders: there is a meal in the oven. There is always a meal in the oven. The nikujaga in its container with the star on the lid, made every Sunday, thrown away every Thursday, made again. Preserving the form of care while withholding the substance.]
+
 [This is the deepest Reiko goes on a first call. Silence produced it — not because Kenji was clever, but because Reiko needed the space to arrive somewhere unscripted. The player who chose Silence has learned: this mechanic works on grieving people. It will work differently on defensive ones (Doi).]
 
 ---
@@ -1255,7 +1370,7 @@ REIKO: "Of course. Anytime. I want to help."
 
 ### SOUL READ — REIKO
 
-[MECHANIC: SOUL READ — PERSON. First deployment. The screen shifts — not visually, but atmospherically. A hum. The wire-sound, rising. Then Mira's voice, slower than usual, each word placed with care.]
+[MECHANIC: SOUL READ — PERSON. First deployment. The screen shifts — not visually, but atmospherically. A hum. The wire-sound, rising. Then Mira's voice — immediate, no delay between the call ending and the impression beginning. The signal is clean. She speaks slower than usual, each word placed with care, but the read itself was waiting before the phone stopped ringing.]
 
 MIRA: "She's scared."
 
@@ -1477,15 +1592,17 @@ MIRA (player): "Okay."
 
 [Mira has been quiet since the Reiko read. The player selects DOI from the call log. The phone rings. Six rings — long enough that the player might think he won't answer.]
 
-[AUDIO: The line connects. No greeting. The sound of a store — a chime, the beep of a register, ambient air from an open door. Then a voice. Low, rough, the voice of a man who has been talking to as few people as possible for as long as possible.]
+[AUDIO: The line connects. No greeting. The sound of a store — fluorescent buzz, a register scanning milk (beep — beep — beep), a door chime as someone enters. Behind it all: the steady drone of refrigerator compressors, rhythmic as breathing. This is Doi's audio signature: the store is always on. It hums, beeps, chimes. The man inside it says as little as possible.]
 
 DOI: "Yanagi Mart."
 
 KENJI: "Mr. Doi? This is Detective Oda, Metropolitan Police. I'm calling about the Kitahara case."
 
-[Three seconds. The store sounds continue — the register, the chime. When Doi speaks, the tone has changed. Not defensive exactly — armored. A different armor from Mira's: where hers is performance, his is withdrawal.]
+[Three seconds. The store sounds continue — register, chime, compressor. When Doi speaks, the tone has changed. Not defensive exactly — armored. A different armor from Mira's: where hers is performance, his is withdrawal.]
 
 DOI: "What about it."
+
+[AUDIO: A register beep. A customer transaction completing in the background. Doi doesn't excuse himself for it — the store comes first, the detective second.]
 
 KENJI: "You gave a statement during the initial canvass. I'd like to follow up."
 
@@ -1493,9 +1610,9 @@ DOI: "I told them everything I know. Which is nothing."
 
 KENJI: "The canvass report summarizes your statement as 'no relevant observations.' I'd like to hear the full version."
 
-DOI: "That is the full version. I didn't see anything."
+DOI: "That is the full version. I didn't see anything. I run a store. I mind my own business."
 
-[He's lying. Not well — not with Reiko's practiced fluency. He's lying the way tired people lie: flatly, without investment in being believed, because the truth costs more than disbelief.]
+[He's lying. Not well — not with Reiko's practiced fluency. He's lying the way tired people lie: flatly, without investment in being believed, because the truth costs more than disbelief. The phrase "mind my own business" is the first euphemism — the Dignity Filter converting "I watch my grandson through a window and can't tell anyone why" into a general principle about minding his own.]
 
 ---
 
@@ -1521,23 +1638,25 @@ DOI: "I told him what I told you. Nothing."
 
 KENJI: "The girl who died — she reported you. She said you were watching children near the school. Are you aware of that?"
 
-[Silence. When Doi speaks, his voice is harder. Not louder — denser. Compressed.]
+[Silence. When Doi speaks, something has changed. His voice isn't harder — it's more polite. The gruff store owner who answered with "What about it" is now choosing words the way you choose steps on ice.]
 
-DOI: "Yes. I'm aware."
+DOI: "I'm aware of the report, yes."
+
+[AUDIO: The register beeps — a customer transaction, steady as a metronome. Doi waits for it to finish before continuing.]
 
 KENJI: "Would you like to explain what she saw?"
 
-DOI: "What she saw was a man behind a window in his own store. That's what she saw. What you people turned it into is your business."
+DOI: "I appreciate you asking, Detective. What she observed was a man in his own store, near a window. I'm sorry I can't be more helpful than that."
 
-[He's pulling in. Every direct question closes another door. The player is watching the same mechanism that failed Mira, in reverse: instead of a report being ignored, a question is being deflected. Push harder and Doi retreats further. The gruff man gets gruffer. This is the Pressure lesson: force does not produce information from a man who has already decided that talking to authority costs more than silence.]
+[The courtesy is the tell. Every degree of pressure produces a degree of politeness. The gruff man doesn't get gruffer — he gets formal. "I appreciate." "I'm sorry." "I understand." The player who notices the shift is tracking the Dignity Filter: the more it hurts, the more correct he sounds.]
 
 KENJI: "Mr. Doi—"
 
-DOI: "I run a store. I sell rice and cigarettes. The girl died and I'm sorry she died and I have nothing to do with it. Is that everything?"
+DOI: "I understand this is your job. I respect that. I run a store, I've been in this neighborhood twenty-three years, and I have nothing useful to add to your investigation. I apologize for the inconvenience."
 
-[He's ready to hang up. The player has hit the wall. If they continue pressing, Doi disconnects. The call ends short.]
+[He's ready to hang up. Not with a slam — with a courteous goodbye. The player has hit the wall, but the wall is made of manners, not hostility. Push harder and Doi gets more polite, more distant, more unreachable. If they continue pressing, Doi thanks them for their time and disconnects. The call ends short — ended by a man who said "please" and "thank you" the entire time he was shutting the door.]
 
-[DESIGN NOTE: This is the explicit Pressure failure. The player learns: this approach shuts Doi down. In Chapter 6, when Doi's false confession arrives, the player who used Pressure here understands why — Doi has been pressured by suspicion for years, and one more push collapsed his resistance in the wrong direction. The player who pressured and failed now has the context to understand the confession as exhaustion, not guilt.]
+[DESIGN NOTE: This is the explicit Pressure failure and the first display of the Dignity Filter under load. The player learns: pressure makes Doi more polite, not more honest. The escalating courtesy IS the resistance — every "I appreciate" is a locked door with a welcome mat. In Chapter 6, when Doi's false confession arrives, the player who pressured here recognizes the same mechanism inverted: a man who would rather confess to murder than lose the last shred of dignity that courtesy provides.]
 
 ---
 
@@ -1559,21 +1678,43 @@ DOI: "I've been here twenty-three years. I remember when it was just a neighborh
 
 [This echoes Mira's closing observation from Chapter 2 — "somebody takes care of it." Doi has the adult version: "somebody's project." Same observation, different vocabulary. Two people describing the same phenomenon from opposite ends of a life.]
 
-[NOTEBOOK PROMPT: "DOI re: neighborhood — 'gotten managed last 10 years. Somebody's project.' Echoes Mira's 'somebody takes care of it' (Ch 2). Cross-reference."]
+[AUDIO: The register beeps — a customer paying. Doi handles the transaction, muffled. A receipt printer buzzes. Bag rustle. Door chime. Silence again. When he returns to the phone, something in his register has loosened — as if the small business of completing a sale reminded him that he is, first, a man who runs a store, and only incidentally a man being questioned about a dead child.]
+
+DOI: "They replaced the streetlight on the corner last spring. You know what the old one was? A regular bulb. In a fixture. You could see your shoe. You could see a cat. Normal light. They put in an LED — blue-white, they call it, one of those — and now at night you can see the color of the rice on the shelves through the window from across the street. You can read a newspaper on the sidewalk. It's not a neighborhood anymore, it's an *operating theater.*"
+
+[Beat.]
+
+DOI: "Everybody said it was an improvement. Safer, they said. I had to put a curtain up. I've lived here twenty-three years without a curtain. Now I need one because the council decided the street was insufficiently illuminated."
+
+KENJI: "The council."
+
+DOI: "The council. The council picked the fixture. The council approved the contractor. The council has opinions about my store's awning, which is apparently the wrong color. Twenty-three years, the awning was fine. Now there's a color it's supposed to be and mine is the color it shouldn't be. My awning is an *eyesore,* Detective. A written notice. I have it somewhere."
+
+[DESIGN NOTE: This is Doi's first extended non-defensive beat. The Dignity Filter permits grumbling on a neutral topic — the streetlight, the awning, the bureaucratic intrusion — because complaining about small municipal absurdities is what older men do, and performing the role of "grumpy shopkeeper" is safer than answering questions about a dead girl. The specific complaint matters: the LED streetlight makes his store's interior visible from the street, which means anyone outside can see Doi watching his grandson through plate glass. He is not registering this connection consciously. The player, who does not yet know about Ren, files it as character texture. In Chapter 6, when Doi's custody situation surfaces, the player recognizes that the streetlight complaint was never really about the streetlight.]
+
+DOI: "You didn't call me to hear about lighting, Detective."
+
+KENJI: "No, but I wasn't stopping you."
+
+DOI: "Hm."
+
+[A single syllable. The first sound Doi has produced in the call that resembles acknowledgment. Kenji listening to the streetlight complaint without cutting him off has produced a fractional trust gain — not enough to unlock the real testimony, but enough that when Doi speaks next, the formality has eased one degree.]
+
+[NOTEBOOK PROMPT: "DOI re: neighborhood — 'gotten managed last 10 years. Somebody's project.' Echoes Mira's 'somebody takes care of it' (Ch 2). The council picks streetlights, awning colors, infrastructure. Doi has a *written notice* about his awning. Note: the new LED makes his store's interior visible from the street. He mentioned this specifically. Cross-reference."]
 
 ---
 
 ### Response: REMAIN SILENT
 
-[The store sounds fill the space. The register beeps. A customer enters — a bell chime. Doi says to them, muffled: "One moment." Then back to the phone.]
+[The store sounds fill the space. Register beep. Compressor hum. The door chime — a customer enters. Doi says to them, muffled, away from the phone: "One moment." The sound of a transaction: items on the counter, a bag rustling, coins. Then back to the phone. The store ran while the detective waited. It always runs.]
 
 DOI: "You still there?"
 
-[Kenji says nothing. Five seconds. Seven.]
+[Kenji says nothing. Five seconds. Seven. The compressor cycles. The fluorescents buzz.]
 
 DOI: "...I don't know what you want me to say."
 
-[His voice has changed. Not softer — more honest. Silence didn't produce information, but it produced something the player can work with: the admission that he has something he doesn't know how to say. Not a confession. A position — a man standing at the edge of speech, looking at the drop.]
+[His voice has changed. Not softer — more honest. Silence bypasses the Dignity Filter in a way questions can't. Questions give Doi something to be polite about. Silence gives him nothing but the truth and the quiet, and in the quiet the truth is louder. Not a confession. A position — a man standing at the edge of speech, looking at the drop.]
 
 ---
 
@@ -1583,9 +1724,17 @@ DOI: "You're not here to accuse. Fine. So what are you here for?"
 
 KENJI: "Information. Anything you noticed in the weeks before Mira Kitahara's death."
 
-DOI: "I noticed what I always notice. The kids walking home. The cars. The same things every day. Nothing stood out."
+[AUDIO: The compressor cycles off. In the gap, the store sounds thinner — just the fluorescent buzz and Doi's breathing, closer to the phone than before.]
 
-[NOTEBOOK PROMPT: "'The kids walking home. The cars.' — Doi is tracking something, even in denial. What cars?"]
+DOI: "I noticed what I always notice. The kids walking home. The cars. The same things every day."
+
+[Beat.]
+
+DOI: "I have my own situation, Detective. Family circumstances. It keeps me focused on the store. I don't look for trouble."
+
+[Two euphemisms in two sentences. "My own situation" = the custody order. "Family circumstances" = a raised voice, a protective order, a grandson he watches through plate glass. The player won't decode them yet. But they're in the notebook now, accumulating.]
+
+[NOTEBOOK PROMPT: "'The kids walking home. The cars.' — Doi is tracking something, even in denial. What cars? Also: 'my own situation,' 'family circumstances' — covering what?"]
 
 ---
 
@@ -1603,7 +1752,7 @@ KENJI: "When did he stop?"
 
 DOI: "Few weeks back. Before the — before the Kitahara girl. One day he was there, next day he wasn't. I didn't think much of it. Kids change routines."
 
-[Beat. Doi's voice shifts — almost imperceptibly. A note of something that isn't defensiveness.]
+[AUDIO: The store goes quiet for a moment — the register idle, no customers, just the compressor drone. In the gap, Doi's breathing is audible. Closer to the phone. His voice shifts — almost imperceptibly. A note of something that isn't defensiveness. Something closer to the "family circumstances" register — the place where real things live under polite words.]
 
 DOI: "I noticed because the bench looked wrong without him."
 
@@ -1615,7 +1764,9 @@ DOI: "I noticed because the bench looked wrong without him."
 
 ### SOUL READ — DOI
 
-[Mira has been quiet through the Doi call. The read comes late — not immediately after the call but after a pause, as if she had to gather herself.]
+[Mira has been quiet through the Doi call. The read comes late — not immediately after the call but after a pause, as if she had to gather herself. When she begins, the read is crisp — no static, no hesitation in the signal itself. The delay was hers, not the line's.]
+
+[AUDIO: The store sounds are gone. The line has disconnected. In the Soul Read space, the only sound is the wire-hum and Mira's voice — and the absence of the compressor drone feels like something has been removed from the room.]
 
 MIRA: "He's... sad. Really sad. Not about the girl — about something older. Sadness so old it's turned into furniture. It's just part of the room now."
 
@@ -1877,6 +2028,7 @@ The chapter begins with procedure (Kenji preparing calls) and ends with a detect
 ---
 
 **END CHAPTER 3**
+
 # CHAPTER 4 — Yui
 
 ## Chapter Overview
@@ -1975,11 +2127,11 @@ MIRA: "Call Yui first. Please."
 
 [MECHANIC: The call screen. The player selects SAKAMOTO (MOTHER'S PHONE). The phone rings. Four rings. Five. Six. The player might think no one will answer.]
 
-[AUDIO: The line connects. A small sound — not a greeting. A diagnostic. The sound of someone checking the caller ID, finding nothing recognizable, and answering anyway because not answering an unknown number could mean missing something she'll be asked about later.]
+[AUDIO: The line connects. A small sound — not a greeting. A diagnostic. The sound of someone checking the caller ID, finding nothing recognizable, and answering anyway because not answering an unknown number could mean missing something she'll be asked about later. Behind her: nothing. Not silence — curated absence. No television, no music, no footsteps. The careful quiet of a room chosen because it's the room where sounds don't carry. A clock ticks. Fabric shifts — she's sitting on something soft, positioned for a fast exit.]
 
 YUI: "Hello?"
 
-[Her voice: eleven years old, careful, producing as little signal as possible. Not quiet — contained. The containment sounds like politeness. It is architecture.]
+[Her voice: eleven years old, careful, producing as little signal as possible. Not quiet — contained. The containment sounds like politeness. It is architecture. This is Yui's audio signature: the apartment that sounds like a held breath.]
 
 KENJI: "I'm looking for Yui Sakamoto. This is Detective Oda, from the Metropolitan Police."
 
@@ -1997,9 +2149,11 @@ MIRA: "It's not real."
 
 KENJI: "I'm following up on the Kitahara case. You knew Mira?"
 
+[Gap: one second. Fast — safe question, safe answer.]
+
 YUI: "We went to the same school! She was a year below me. I didn't know her very well, but she seemed nice. Everyone was really sad when she — when that happened."
 
-[Every word is correct. None of it is true. "Didn't know her very well" is the architecture of avoidance applied to friendship — the same instinct that keeps her origami in a shoebox under the bed. Things left visible can be noticed, commented on, destroyed.]
+[Every word is a substitution. "Didn't know her very well" replaces "she was my only friend." "She seemed nice" replaces "she was the only person who saw me." "When that happened" replaces "when she died" — because naming death makes it real, and real things generate signal. The player who tracks what Yui avoids saying is mapping what she's protecting.]
 
 ---
 
@@ -2031,11 +2185,11 @@ YUI: "Of course! I'm happy to help with anything. The school had a memorial for 
 
 KENJI: "We have reports that you and Mira were close. Her notebook mentions you by name."
 
-[Silence. Three seconds. The performance wavers — not visibly, but the player can hear the recalibration. When Yui speaks, her voice is the same pitch but the rhythm has changed. Faster.]
+[Gap: four seconds. The longest gap yet — because the real answer ("she was my best friend and she tried to save me") is close, and proximity makes the gap grow. When Yui speaks, her voice is the same pitch but the rhythm has changed. Faster — overcompensating for the silence she just leaked.]
 
 YUI: "Her notebook? I — we were in different grades. I don't know what she would have written about me. We maybe talked a few times at school? She was... she noticed a lot of things."
 
-[She's retreating. Every direct question closes a door. If the player presses further — asks about home, asks about Takeshi, asks about bruises — Yui shuts down. Answers get shorter. Details get vaguer. She becomes less present on the line, performing disappearance the way she's practiced for four years.]
+[Substitutions stacking: "different grades" for "inseparable." "Talked a few times" for "met every day at the river." "Noticed a lot of things" — the one that's closest to true, delivered last, almost accidentally. She's retreating. Every direct question closes a door. If the player presses further — asks about home, asks about Takeshi, asks about bruises — Yui shuts down. The gaps collapse to zero: instant answers, no space for truth to leak. She becomes less present on the line, performing disappearance the way she's practiced for four years.]
 
 MIRA: "Stop. You're losing her."
 
@@ -2043,15 +2197,21 @@ MIRA: "Stop. You're losing her."
 
 ### Response: REDIRECT
 
+[Gap: one second. A safe question gets a fast answer.]
+
 YUI: "The school? It's... it's a good school. The teachers are nice. We have a garden. Mr. Ise — he was our homeroom teacher — he really cares about the students."
 
-[She relaxes fractionally. A question about the school is a question about territory she controls. She can narrate the safe version of her life — the version where school is fine and teachers are nice and gardens exist.]
+[She relaxes fractionally. A question about the school is a question about territory she controls. She can narrate the safe version of her life — the version where school is fine and teachers are nice and gardens exist. Every adjective is a substitution: "good" for adequate, "nice" for present, "cares" for tried once and failed.]
 
 KENJI: "What about after school? What do kids do around here?"
 
-YUI: "Some kids go to the river. There's after-school programs. I usually go straight home."
+YUI: "Some kids go to the river. There's after-school programs."
 
-["Usually go straight home" — delivered with the specific flatness of a sentence that has been rehearsed so many times it no longer registers as a lie. The player who is listening hears what "straight home" means for a girl who maps floorboards.]
+[Gap: three seconds.]
+
+YUI: "I usually go straight home."
+
+["Usually go straight home" — delivered after a gap the player can feel. The substitution: "straight home" for "back to the apartment where I map the floorboards and time my movements to his television schedule." Rehearsed so many times it no longer registers as a lie. But the three-second gap before it? That was the truth almost arriving, and Yui catching it at the door.]
 
 ---
 
@@ -2059,25 +2219,35 @@ YUI: "Some kids go to the river. There's after-school programs. I usually go str
 
 [The performance runs out of material. Yui has said "how can I help" and delivered the safe version. Now there's space. And Yui — trained to read silence the way other children read faces — enters it cautiously.]
 
+[AUDIO: The apartment clock ticks. The fabric shifts again — she's repositioning on whatever soft surface she chose. In the silence, the curated absence of her environment becomes audible: no TV downstairs, no footsteps, no voices. She picked this window because the apartment is empty. She's been doing this a long time.]
+
 YUI: "Um..."
 
-[Five seconds. Seven. The line holds. Yui is not uncomfortable with silence — she lives in it. But this silence is different. It's not the silence of a room where someone might explode. It's the silence of a phone line where someone is waiting without demanding. She doesn't recognize it.]
+[Gap: five seconds. Seven. The line holds. Yui is not uncomfortable with silence — she lives in it. But this silence is different. It's not the silence of a room where someone might explode. It's the silence of a phone line where someone is waiting without demanding. She doesn't have architecture for this.]
 
 YUI: "Is there... something specific you wanted to know?"
 
-[Kenji says nothing. Ten seconds.]
+[Kenji says nothing. Ten seconds. The clock ticks.]
 
-YUI: "Because I really didn't know Mira that well. We just... we sat near each other sometimes. At the river. She watched bugs. I did my... I folded things."
+YUI: "Because I really didn't know Mira that well. We just..."
 
-[A fracture. "Sat near each other sometimes" is closer to the truth than "didn't know her very well." The silence pulled it forward. Not because Kenji was clever — because Yui needed the space to arrive somewhere unscripted.]
+[Gap: six seconds. Longer than any pause so far. The real answer is closer.]
 
-YUI: "She was... she was really good at noticing things. Like, she'd see something and she'd just say it. Out loud. Just say what she saw. I couldn't do that. I can't — "
+YUI: "...we sat near each other sometimes. At the river. She watched bugs. I did my... I folded things."
+
+[A fracture. "Sat near each other sometimes" is closer to the truth than "didn't know her very well." "I folded things" — she almost said "origami" but substituted the generic. The silence pulled both forward. Not because Kenji was clever — because Yui needed the space to arrive somewhere unscripted.]
+
+YUI: "She was..."
+
+[Gap: eight seconds. The longest yet. Each silence stretches as the truth gets closer — the gap-length is the tell, and the player who is counting can feel the pattern.]
+
+YUI: "...she was really good at noticing things. Like, she'd see something and she'd just say it. Out loud. Just say what she saw. I couldn't do that. I can't — "
 
 [She stops. Regroups. The performance tries to reassert but it's been breached and the repair is visible.]
 
 YUI: "She was nice. That's all."
 
-[The player who chose Silence has pulled Yui past her first wall. One more piece of space — one more careful silence — and the real Yui arrives.]
+[Gap: one second. Instant — the safe answer snapping back into place like a door. The player who chose Silence has pulled Yui past her first wall. One more piece of space — one more careful silence — and the real Yui arrives.]
 
 ---
 
@@ -2101,9 +2271,13 @@ It happens when the subject of Mira comes back. Not through a question — throu
 
 YUI: "She paid attention to everyone."
 
-[Quieter. The performance is gone. What's underneath is a girl who misses her friend.]
+[Gap: ten seconds. The longest in the call. The real answer isn't just close — it's here.]
+
+[AUDIO: Something small. Paper. The sound of a girl's fingers working a fold — origami, automatic, the way other people fidget with pens. She's folding something while she talks, the muscle memory running beneath the conversation like a second pulse.]
 
 YUI: "She paid attention to me."
+
+[Quieter. The performance is gone. No substitution. The real sentence, in the real voice, for the first time. What's underneath the architecture is a girl who misses her friend.]
 
 [The player who has been patient — who used Silence, or who backed off after a failed approach and tried again — gets what comes next.]
 
@@ -2122,6 +2296,22 @@ KENJI: "No."
 YUI: "She said they would."
 
 [DESIGN NOTE: A child, waiting for help that was promised by another child who believed adults would act. The person on the phone is the first adult who has listened long enough for Yui to ask.]
+
+[A long quiet. Then, smaller — the way details surface after the important thing has already been said:]
+
+YUI: "There was a boy who sat near us sometimes. At the river. Not with us — near us. He had graph paper and colored pencils and he drew... cities. Whole cities. With transit lines and little parks and everything."
+
+[Beat.]
+
+YUI: "He stopped coming. A while ago. Maybe a month before Mira..."
+
+[She trails off. The sentence ends where all of Yui's sentences end — at the boundary between noticing and reporting.]
+
+YUI: "I didn't ask anyone about it. You don't... I don't ask about people who disappear."
+
+[The sentence lands with the weight of everything the player has learned about Yui in this call. She noticed. She didn't report. Not because she didn't care — because the system taught her that noticing out loud is the same as generating signal, and signal is what gets you hit. The silence that protects Yui from Takeshi is the same silence that kept a missing boy invisible.]
+
+[DESIGN NOTE: Sora artifact #3 — from the person closest to the evidence. Yui noticed Sora's absence completely, silently, without telling anyone. The player won't know this matters until Ch 5, when Haruki names Sora Hayashi and the drawing boy becomes a missing child. When that connection fires, the player re-evaluates this moment: Yui had the information. She held it the way she holds everything — in a box, packed tight, where it can't make noise.]
 
 ---
 
@@ -2189,7 +2379,7 @@ MIRA: "..."
 
 [VISUAL: Evening. A car arrives at an apartment building in Yanagi. Two women in professional clothes. A police liaison. They knock. They enter. The player doesn't see inside. They don't need to.]
 
-[VISUAL: Twenty minutes later. A girl exits the building carrying a school bag and a shoebox. She gets into the car. She is very quiet. She is holding the shoebox with both hands.]
+[VISUAL: Twenty minutes later. A girl exits the building carrying a school bag and a shoebox. She gets into the car. She is very quiet. She is holding the shoebox with both hands — the origami, the cranes, the one thing she didn't substitute, didn't hide, didn't optimize for safety. The things she made in the quiet room while the apartment held its breath around her.]
 
 [The confirmation comes through Kenji's phone. Text: intervention complete, child removed to grandmother's custody, investigation ongoing.]
 
@@ -2313,7 +2503,7 @@ MIRA: "Fine. Build your case. But every hour you spend building it, she's in tha
 
 [Regardless of the fork choice, the investigation continues. Rina Nishizawa became available through the school directory Reiko referenced. The player selects NISHIZAWA, RINA from the call board.]
 
-[AUDIO: The phone rings. One ring. Answered immediately — the speed of someone who always picks up, because picking up is what well-adjusted people do.]
+[AUDIO: The phone rings. One ring. Answered immediately — the speed of someone who always picks up, because picking up is what well-adjusted people do. Behind her: life. Other voices — muffled, a friend's house or a common area. Music from a speaker. The ambient frequency of a girl who is never alone because being alone would mean being nobody. This is Rina's audio signature: the populated background. Where Yui's environment is curated absence, Rina's is curated presence — she is always surrounded, always positioned in the social center of whatever room she occupies.]
 
 RINA: "Hello?"
 
@@ -2327,9 +2517,9 @@ RINA: "Oh, Mira. Yes, of course. That was so sad. How can I help?"
 
 KENJI: "I understand you knew Mira."
 
-RINA: "We went to the same school. I'm a year ahead. We were friends when we were younger — like, second grade? But we kind of grew apart. She got really... intense about things."
+RINA: "We went to the same school. I'm a year ahead. We were friends when we were younger — like, second grade? But everyone kind of... you know how it is, people grow apart. She got really... intense about things. That's what people said, anyway. Intense."
 
-[There it is. The first deployment of the word that follows Mira through every conversation: "intense." Not a lie. Not an accusation. A social positioning that gives the listener permission to not investigate further.]
+[There it is. Two mechanics in three sentences. First: the reframe — "we grew apart" becomes "everyone kind of... people grow apart." Rina converts a personal decision into a natural social process. No one grew apart. Rina repositioned and Mira was left standing in the space. Second: "intense." The word that follows Mira through every conversation. Not Rina's word — "that's what people said." She never leads. She reports consensus. The consensus is the weapon and Rina is just holding it for everyone.]
 
 ---
 
@@ -2359,19 +2549,19 @@ RINA: "Of course! I mean, Mira was a really unique person. She cared a lot about
 
 KENJI: "What do you mean by intense?"
 
-RINA: "Just... she would say things. About people. Like, she'd accuse people of stuff without really knowing. She told a teacher that Mr. Doi was watching kids, and he's just an old man who runs a store. She told the counselor that someone was being hurt and it turned out to be — I mean, I don't know all the details. She just saw things that weren't always there."
+RINA: "Just... everyone knew she would say things. About people. Like, she'd accuse people of stuff and nobody really believed her? She told a teacher that Mr. Doi was watching kids, and everyone was like, he's just an old man who runs a store. She told the counselor that someone was being hurt and it turned out to be — I mean, everyone said it was nothing. She just saw things that weren't always there."
 
-["Things that weren't always there." The player who has spent three chapters confirming that Mira's observations were accurate hears this sentence land differently than Rina intends it. Mira saw things that were always there. Rina is describing a community consensus, not a fact.]
+[The reframe machine running at full speed. "She would say things" → "everyone knew she would say things." "He's just an old man" → "everyone was like, he's just an old man." "It was nothing" → "everyone said it was nothing." Every one of Mira's specific observations — which the player has been confirming for three chapters — gets converted from fact to community consensus, and the consensus is: dismiss. Rina isn't lying. She's routing. The signal enters as "Mira reported" and exits as "everyone knew Mira says things." The conversion is automatic, invisible to her, and lethal.]
 
 ---
 
 ### Response: REDIRECT
 
-RINA: "The school is really good. The teachers care. Ms. Aizawa — the counselor — she's always available. And Mr. Endo does so much for the community. He organized the playground renovation last year."
+RINA: "The school is really good. Everyone says so. The teachers care. Ms. Aizawa — the counselor — she's always available. And Mr. Endo does so much for the community. Everyone really respects him. He organized the playground renovation last year."
 
-[Endo. Again. Mentioned casually, in the same breath as the school's quality. Another data point for Kenji's circled name.]
+[Endo. Again. Mentioned casually, wrapped in "everyone really respects him" — Rina doesn't offer her own assessment. She reports the group verdict. Another data point for Kenji's circled name, this one delivered through the reframe machine: not "I respect Endo" but "everyone does."]
 
-RINA: "Mira was kind of... outside of things. Not bullied — nobody bullied her. She just didn't really fit. She'd say things that made people uncomfortable. Like, in a meeting she'd just stand up and say 'I think the safety council chairman is watching us' and everyone would be like... Mira, sit down."
+RINA: "Mira was kind of... outside of things. Not bullied — nobody bullied her. She just didn't really fit in with people. She'd say things that made everyone uncomfortable. Like, in a meeting she'd just stand up and say 'I think the safety council chairman is watching us' and everyone would be like... Mira, sit down."
 
 [NOTEBOOK PROMPT: "RINA — confirms Mira publicly named Endo at a meeting. Community response: dismissal. 'Mira, sit down.' Rina mentions Endo in same breath as school quality. Community consensus: Endo is good, Mira is intense. Cross-reference: Kenji's Endo frequency note."]
 
@@ -2379,11 +2569,11 @@ RINA: "Mira was kind of... outside of things. Not bullied — nobody bullied her
 
 ### Response: REMAIN SILENT
 
-[Rina fills space the way water fills a container — completely, smoothly, leaving no gaps. Silence doesn't produce confession from Rina. It produces performance. She interprets the quiet as invitation and delivers more of the curated version.]
+[Rina fills space the way water fills a container — completely, smoothly, leaving no gaps. Silence doesn't produce confession from Rina. It produces performance. Where Yui needed the quiet to arrive at truth, Rina uses the quiet as a stage. She interprets silence as invitation and delivers more of the curated version — more "everyone," more consensus, more social weather report.]
 
-RINA: "She was sweet, in her way. She just... I think she wanted people to take her seriously and she went about it the wrong way. Like the notebook thing — she accused me of taking her notebook in second grade and I didn't, and it became this whole thing, and after that she kind of..."
+RINA: "She was sweet, in her way. Everyone thought so. She just... I think everyone wanted her to, like, calm down a little? And she went about it the wrong way. Like the notebook thing — she accused me of taking her notebook in second grade and everyone saw it and I didn't take it, and it became this whole thing where people were like, see, this is what she does. And after that she kind of..."
 
-[She trails off. The notebook. The player who has been waiting for this detail has it now — volunteered, unprompted, in the middle of a performance. Rina brought it up herself because it's part of her narrative: the story of Mira that justifies the distance.]
+[She trails off. The notebook. The player who has been waiting for this detail has it now — volunteered, unprompted, in the middle of a performance. Rina brought it up herself because it's part of her narrative: the story of Mira that justifies the distance. And even here, the reframe: "she accused me" becomes "everyone saw it." The incident that was between two girls becomes community property in Rina's telling. She can't help it. She processes everything through the group.]
 
 ---
 
@@ -2403,13 +2593,27 @@ RINA: "There wasn't a conflict. We were eight. She thought I took her notebook a
 
 Regardless of approach, the conversation arrives at the notebook. Either Rina brings it up (Silence, Redirect) or the player surfaces it (Pressure, Bluff). The incident sits at the center of every conversation about Mira and Rina.
 
-RINA: "I just want to be clear — I never said anything mean about her. I just... when people asked, I told them what I thought. That she misunderstands things sometimes. That's not mean. That's just... true."
+RINA: "I just want to be clear — I never said anything mean about her. Everyone said things, I just... when people asked, I told them what everyone thought. That she misunderstands things sometimes. That's not mean. That's just... what people thought."
+
+KENJI: "What did *you* think, Rina?"
+
+[AUDIO: The background voices continue — someone laughs in the other room, a chair scrapes. But Rina's voice changes. The social narration — the flowing, confident group-report that's been running since the call started — stalls.]
+
+RINA: "What did I...?"
+
+[Beat. Three seconds.]
+
+RINA: "I thought... I mean, I didn't... she was just..."
+
+[The sentence structure collapses. The grammar simplifies. Without the social frame — without "everyone" and "people said" and "you know how it is" — Rina's language loses its scaffolding. She doesn't know how to answer as herself because she has never needed to. The group position is all she has. Remove it and what's left is a ten-year-old girl who doesn't have her own opinion about anything, because having an opinion means standing alone, and standing alone is the thing Rina has engineered her entire life to avoid.]
+
+RINA: "I just didn't want her to... I didn't stop it. That's all. I just didn't stop it."
 
 [Beat.]
 
-RINA: "Isn't it?"
+RINA: "Isn't that... isn't that different from being mean?"
 
-[The question is genuine. Rina is not performing here — she is checking. A ten-year-old who built a social position on a specific interpretation of a classmate is, for the first time, asking whether the interpretation was correct. She's not asking because she's guilty. She's asking because a detective is calling about a dead girl and the dead girl is the one Rina described as "intense" and "dramatic" and now the word "detective" is in the room and the room feels different.]
+[The question is genuine. Rina is not performing here — she is checking. The "everyone" is gone. The social frame is gone. What's left is "I" and "I" is a girl who built a social position on a specific interpretation of a classmate and is, for the first time, asking whether the interpretation was correct. She's not asking because she's guilty. She's asking because a detective is calling about a dead girl and the dead girl is the one Rina helped make dismissible and now the word "detective" is in the room and the room feels different.]
 
 ---
 
@@ -2569,6 +2773,16 @@ MIRA: "He wasn't arguing with me. We were talking. He talks like that — loud, 
 
 MIRA: "He believed me about the car. He was the only one."
 
+[A pause. Not the emotional pause that followed the Yui read — something shorter, different in texture. A half-second where the wire-sound flickers, like a signal briefly losing its carrier wave. When Mira comes back, she sounds exactly the same.]
+
+MIRA: "What was — the second date. The March 7th entry."
+
+KENJI: "March 7th, 15:18. Same vehicle. Eleven minutes."
+
+MIRA: "Right. I knew that."
+
+[She did know that. She read it the same time Kenji did. The question wasn't confusion — it was a word arriving late, the way a subtitle sometimes lags behind the audio by a fraction of a second. Not enough to notice unless you're counting. The player who dismissed it as distraction is probably right. Probably.]
+
 [NOTEBOOK PROMPT: "KAITO NISHIMURA, 17 — neighborhood observation notebooks recovered. Timestamped vehicle logs including SILVER CAR (east entrance, recurring). Cross-ref: Doi's silver car sighting, Mira's notebook entries. Witness statements describe him as suspicious — 'arguing' with Mira. Mira says: they were talking. He believed her about the car. Three observers (Mira, Doi, Kaito) independently tracking the same vehicle."]
 
 ---
@@ -2630,13 +2844,14 @@ MIRA: "I'm going to keep counting."
 - Rina Nishizawa: 10, one grade ahead. Social filter. "Mira just misunderstands things sometimes." Provided the social narrative that made Mira dismissible. Not malicious — normal. Mentions Endo positively (playground renovation).
 - Memory Fragment #2 experienced: Rina Social Distortion — the notebook incident. The origin of Mira's documentation instinct. "Next time I won't tell the teacher. I'll just write it down."
 - Kaito Nishimura: 17, homeschooled. Neighborhood observation notebooks with timestamped logs — including silver car sightings matching Doi and Mira's records. Witness statements describe him as suspicious. Mira says he believed her about the car.
+- Sora artifact #3: Yui mentions a boy who drew cities at the river — "He stopped coming. I didn't ask anyone about it." Connects to Doi's drawing boy (Ch 3) and bench fragment (Ch 2). Three independent observers of the same absence, none reporting.
 - Silver car now confirmed by three independent observers (Mira, Doi, Kaito) — pattern convergence building
 - Endo name count: 5 (pharmacy board, community board, playground plaque, Reiko volunteer search, Rina playground renovation)
 
 ### Notebook Contents (New Entries — Player-Assembled)
 - SOUL READ — YUI: "small — packed herself into a box." Mira's first unguarded ask.
 - SOUL READ — RINA: remembers wrong on purpose, "because it works better." Not cruel — normal. Mira's fallibility: saw malice where there was reflex.
-- Yui call: performance voice, architecture of avoidance. "Mira said she told someone about me. Did anyone come?" System failed.
+- Yui call: performance voice, architecture of avoidance. "Mira said she told someone about me. Did anyone come?" System failed. Also: mentions drawing boy at river who stopped coming — "I don't ask about people who disappear."
 - Rina call: social filter deployed — "intense," "misunderstands things." Mentions Endo (playground). Notebook incident surfaced.
 - Kaito Nishimura: neighborhood logs, silver car timestamps (March 3, 7, 12 — east entrance, recurring). Three independent observers tracking same vehicle.
 - [If Act] Mira broke. "I thought there was something wrong with me." She was nine and right.
@@ -2676,6 +2891,7 @@ The chapter is built around a single question: will you act? Everything feeds in
 ---
 
 **END CHAPTER 4**
+
 # CHAPTER 5 — The Teacher's Guilt
 
 ## Chapter Overview
@@ -2795,7 +3011,7 @@ HARUKI: "She came to my desk. After class. On a Wednesday. She stood there — s
 
 HARUKI: "She said: 'Mr. Ise, Yui's mom's boyfriend hits her.' Just like that. No hedging. No buildup. She was nine and she sounded like a journalist filing a report."
 
-[NOTEBOOK PROMPT: "HARUKI — 'disruptive honesty' was his phrase. Meant as description, reads as label. In Mira's school file. He followed protocol on the Yui report: called parent → parent denied → council reviewed → nothing happened."]
+[NOTEBOOK PROMPT: "HARUKI — YUI REPORT PROTOCOL: Mira reported Yui's abuse to Haruki. He followed procedure: called the mother → mother denied → escalated to council → council reviewed → no action. Every step correctly executed. The procedure produced nothing. He didn't go outside channels. He didn't call child services directly. He thinks about the call to the mother every day."]
 
 ---
 
@@ -2819,9 +3035,13 @@ HARUKI: "I'll have them by this afternoon."
 
 [He's already moving. The player can hear the shift — a chair, papers, the quick breath of someone who has found a direction and is running toward it. This is Haruki's value and Haruki's danger: he does things immediately, which is exactly what the investigation needs and exactly how investigations get blown.]
 
-MIRA: "He's going to help too much. He's going to do something fast because fast feels like fixing."
+MIRA: "He's going to help too much. He's going to do something fast because fast feels like—"
 
-[Beat.]
+[A flicker. The briefest gap — a quarter-second where the wire-sound dips and her voice thins, like a radio signal passing through an underpass.]
+
+MIRA: "—fixing."
+
+[The word arrived a beat after the breath that formed it. Not a pause for effect — Mira doesn't pause before punchlines. Something else. The line recovers immediately and the player has already moved on.]
 
 MIRA: "He just offered you school records, parent lists, and building access. That's not cooperation. That's a man emptying his pockets."
 
@@ -2830,6 +3050,12 @@ MIRA: "He just offered you school records, parent lists, and building access. Th
 MIRA: "He's not wrong about wanting to help. He's wrong about the speed."
 
 [DESIGN NOTE: Mira's observation is the player's first ally-management tutorial. Haruki is useful and reckless. The player will need to calibrate how much information to share with him — enough to keep him coordinated, not so much that he acts alone.]
+
+---
+
+[NOTEBOOK PROMPT — PIN THIS: **"disruptive honesty"** — Haruki's phrase, coined by him at a parent-teacher conference, written into Mira's school file. He meant it as description. The file reads it as label. The phrase is in an institutional record and Haruki's name is attached to it. REMEMBER THIS. The phrase will return.]
+
+[DESIGN NOTE — PHRASE PIN: This is a deliberate load-bearing callout. Haruki's "disruptive honesty" reappears in Chapter 9's framing documents as the single most devastating use of institutional language in the case — Endo weaponized Haruki's own phrase to build the pathologizing profile of Mira. The player who remembers the phrase precisely feels the Ch 9 break land at full weight. A fast-moving player can miss the introduction. This prompt exists to insure the Ch 9 payoff. It is the one notebook entry in Chapter 5 flagged as "remember this" — every other entry is contextual. This is a pointer.]
 
 ---
 
@@ -2860,13 +3086,17 @@ MIRA: "She never did anything else."
 
 [The player calls Haruki. He answers before the first ring completes.]
 
-HARUKI: "Detective. I have the records. I've been going through them. There's — there's a lot. I organized them by date. Should I — do you want me to read them or should I send—"
+[AUDIO: No ring gap — the line connects mid-motion. Behind Haruki: the hollow echo of an empty classroom. Papers shuffling. A desk chair that squeaks when he moves, and he moves constantly — the phone held between ear and shoulder, hands free for the files. The sound of a man who has been alone with documents for hours, rehearsing the conversation he's about to have. Occasionally: a pen clicking, rapid-fire, the way other people tap their feet. This is Haruki's audio signature: the restless classroom, papers everywhere, a man generating noise because silence is the thing he can't hold.]
+
+HARUKI: "Detective. I have the records. I've been going through them since — well, since your last call, honestly, I pulled the archives from the counselor's office, which required a form, and the form goes through admin but I have a key to the records room because of my committee role, so I — anyway, I have them. I organized them by date. Should I — do you want me to read them or should I summarize or I could send photographs of the pages but the quality isn't—"
 
 KENJI: "Start with reports about adults near the school."
 
-HARUKI: "Right. Okay. So — the counselor's files show... there were reports. Not just Mira's. Other students. Three others, over a two-year period. Different children, different grades. They all reported the same thing, essentially: an adult who was 'always around.' Near the school. Near the park. Near the community center."
+HARUKI: "Right. Okay. So — the counselor's files show — and to understand the filing you should know that behavioral reports use a three-tier system, counselor to admin to council, but that's — the relevant thing is there were reports. Not just Mira's. Other students. Three others, over a two-year period. Different children, different grades, but essentially — they all reported the same thing: an adult who was 'always around.' Near the school. Near the park. Near the community center."
 
-[He's reading from the files. His voice shifts into the cadence of someone reading official language — clinical, documented, dead.]
+[The overflow. Data pouring in every direction — procedure, context, tangent, correction, back to the point. The player drowns in it. Useful information is embedded in the flood. But the flood is the point: Haruki fills silence because silence is where the guilt lives, and if he stops talking he'll arrive at the sentence he's been avoiding since Mira stood at his desk.]
+
+[He's reading from the files now. His voice shifts into the cadence of someone reading official language — clinical, documented, dead.]
 
 HARUKI: "Report one: October, two years before Mira. A third-grader told Aizawa that 'a man watches us at the park.' Aizawa documented it. Filed to the safety council. Council review: 'Assessed. No actionable concern. Community volunteer presence noted as context.'"
 
@@ -2890,17 +3120,27 @@ MIRA: "They didn't tell me. They didn't tell any of us. Each one reported alone 
 
 ### The Three Names
 
-HARUKI: "The three students who filed those reports — I cross-referenced with attendance records."
+HARUKI: "The three students who filed those reports — I cross-referenced with attendance records, and the attendance data uses a coding system where — actually that's not important, the point is —"
 
-[He pauses. The fast-talker goes slow.]
+[He stops.]
 
-HARUKI: "Two of them transferred out of the district within six months of filing. One... one is listed as a missing person."
+[AUDIO: The pen stops clicking. The chair stops squeaking. The papers stop shuffling. For the first time in the call, the classroom is silent. Two seconds. Three. The overflow has hit something it can't proceduralize.]
+
+[This is the tell. Haruki talks continuously — except once per call. One beat where the flood stops. The player who has been drowning in data should feel the absence like a held breath. What comes next is the thing the overflow was running from.]
+
+HARUKI: "Two of them transferred out of the district within six months of filing."
 
 [Beat.]
 
-HARUKI: "The missing one — Sora Hayashi. Third grade. He disappeared about four months after his report was filed."
+HARUKI: "One is listed as a missing person."
+
+[His voice has changed. The rapid connective tissue — the "so" and "actually" and "anyway" — is gone. Plain sentences. No tangents. The overflow stopped and what's underneath it is a teacher who just read a name he recognizes.]
+
+HARUKI: "Sora Hayashi. Third grade. He disappeared about four months after his report was filed."
 
 KENJI: "Tell me about him."
+
+[AUDIO: Papers. Haruki sets something down — the files — and when he speaks next, he's not reading. He's remembering. The pen clicks once, then stops.]
 
 HARUKI: "Sora? He was... quiet. Not a problem. Never flagged for anything behavioral. Good student — well, average grades, but he paid attention in a way that was... different. Focused. He drew these city things in his notebook instead of taking notes sometimes. I never marked him down for it. They were really good."
 
@@ -2912,29 +3152,141 @@ MIRA: "The boy who drew maps."
 
 MIRA: "I saw his drawings once. On the bench outside Doi's store. I didn't know they were his."
 
-[NOTEBOOK PROMPT: "SORA HAYASHI — the drawing boy. Third grade. Missing. Filed a report about 'a man who knows all our names.' Report dismissed by safety council. Disappeared 4 months later. MATCHES: bench artifact (Ch 2), Doi's drawing boy (Ch 3), colored pencil marks, graph paper maps. Identity confirmed."]
+[Beat. Then, quieter:]
+
+MIRA: "Yui mentioned him. Yesterday. A boy with graph paper who stopped coming to the river."
+
+[Quiet.]
+
+MIRA: "She noticed he was gone. She didn't tell anyone."
+
+[The player who listened to Yui's call connects the threads: Doi noticed the drawing boy's absence from the bench. Yui noticed his absence from the river. Two people saw the same disappearance, independently, and neither reported it — because the system had already taught both of them that reporting produces consequences for the reporter, not the problem. Sora vanished inside a silence the community had been building for years.]
+
+[NOTEBOOK PROMPT: "SORA HAYASHI — the drawing boy. Third grade. Missing. Filed a report about 'a man who knows all our names.' Report dismissed by safety council. Disappeared 4 months later. MATCHES: bench artifact (Ch 2), Doi's drawing boy (Ch 3), Yui's river boy (Ch 4), colored pencil marks, graph paper maps. Identity confirmed. THREE PEOPLE NOTICED HIS ABSENCE. NONE REPORTED IT."]
 
 ---
 
 ### The Ogawa File
 
-HARUKI: "There's something else in the records. A personnel action. A teacher — Ms. Ogawa. She was fired about a year before Mira died."
+[AUDIO: The overflow resumes — pen clicking, chair squeaking, papers shuffling. Haruki is back in the files, back in the data, the familiar territory where everything can be proceduralized and nothing has to be felt.]
+
+HARUKI: "There's something else in the records. A personnel action — actually it's filed separately, under staff disciplinary, not student reports, which is why nobody cross-referenced it, but I pulled it because the timeline overlaps — a teacher, Ms. Ogawa. She was fired about a year before Mira died."
 
 KENJI: "What happened?"
 
-HARUKI: "A complaint. Physical discipline — a parent said she grabbed a student's head to redirect his attention. The school launched a review. One-by-one student interviews. She was placed on leave. Then terminated."
+HARUKI: "A complaint. Physical discipline — well, alleged physical discipline. A parent said she grabbed a student's head to redirect his attention, and the school launched a review, which involves — the review process requires one-by-one student interviews with the counselor present, and those interviews are documented but the documentation goes to the council, and — she was placed on leave. Then terminated."
 
-[He's uncomfortable. He was there. He watched it happen.]
+[AUDIO: The pen stops clicking. He was there. He watched it happen.]
 
 HARUKI: "I don't know if the complaint was legitimate. The kid said she grabbed his head. She might have redirected him. I've done that. Every teacher has done that. The question is whether you do it in a school where somebody decides it's a problem."
 
 KENJI: "Who decided?"
 
-[Haruki goes quiet.]
+[AUDIO: Silence. The empty classroom. No pen, no papers, no chair. Second time the overflow has stopped. But this one isn't the tell — this is just a man who doesn't want to say the next sentence.]
 
 HARUKI: "The council reviewed it. Mr. Endo was... concerned. He wanted to make sure it was handled properly."
 
 [NOTEBOOK PROMPT: "OGAWA FIRING — teacher terminated after complaint. Council reviewed. Endo pushed for 'thorough handling.' One-by-one student interviews (conformity pressure). Compare: council reviewed and DISMISSED Mira's reports (same mechanism, opposite outcome). System fires a teacher in a week, ignores reports about a community leader for a year. Who benefits?"]
+
+---
+
+### Mira's Classroom
+
+[Mira says nothing after Haruki mentions Ms. Ogawa. Not the working silence she uses during evidence review — the silence of someone who has stopped moving entirely. Kenji finishes writing. The pen stops.]
+
+KENJI: "You knew her."
+
+[Not a question. Kenji has spent five chapters learning the difference between Mira's silences.]
+
+MIRA: "She was my teacher."
+
+[Beat.]
+
+MIRA: "Class 4-1. She had a photo of a cat on her desk that she'd taken herself. She kept a jar of dried mandarin peel by the window because she said the smell helped her think. She gave points for questions, not just answers — anyone who asked something she hadn't thought of got a point." 
+
+[She stops. She was doing the detail-inventory thing — the way she talks about places she lived in, people she knew. The way she talks about Doi's store and the broken vending machine. Neutral specificity as emotional insulation.]
+
+MIRA: "What did they say? To the class, I mean. When she didn't come back."
+
+[The question is not rhetorical. The player understands: Mira is asking because she wrote it down, and she wants to know if the notebook is in the case file.]
+
+[MECHANIC: The blue notebook — Mira's observation journal, recovered from the evidence box in Ch 2 — is open on Kenji's desk. He has been cross-referencing it against school records. He finds the section.]
+
+KENJI: "I have your notebook."
+
+[Beat.]
+
+MIRA: "I know."
+
+[Her voice doesn't change. She has known the notebook was in evidence for five chapters. She has not asked about it. The player understands: she's been waiting to be asked. Or she's been waiting until there was a reason.]
+
+KENJI: "There's a section. Starting in October."
+
+MIRA: "Yes."
+
+[Kenji reads. The player sees the notebook, rendered in Mira's handwriting:]
+
+---
+
+[VISUAL: Mira's observation notebook — the blue cover, the handwriting Kenji described in Ch 1 as "small and even and serious for a nine-year-old." The October section. Six entries, spread across five days.]
+
+> **Monday, October 14**
+> *Ms. Ogawa isn't here. Substitute's name is Ms. Fujita. She said Ms. Ogawa was "unavailable" and she couldn't give us more information. "Unavailable" is a word adults use when they don't want to answer the real question.*
+
+> **Tuesday, October 15**
+> *Still no Ms. Ogawa. We asked again this morning. Ms. Fujita said "I'm sure the school will keep you informed." Kenta said to me at lunch: "they're not going to tell us anything." I told him to keep asking. He said there's no point. I said the point is that we're supposed to know.*
+
+> **Wednesday, October 16**
+> *The counselor came to our class today. She didn't say why. She asked if anyone had "concerns" they wanted to "share in a comfortable and private setting." Nobody said anything. I didn't say anything either. I don't know why. I think it's because what I wanted to say wasn't a "concern." It was a question. They're different.*
+
+> **Thursday, October 17**
+> *Ms. Fujita brought us extra time at lunch. I think this was supposed to make us feel better. It didn't. Ryota said his mom got an email. He didn't know what it said. I asked him to ask her. He said he didn't want to get in trouble. I said you can't get in trouble for asking your mom a question. He said "you can at my house."*
+
+> **Friday, October 18 — the principal came**
+> *She sat down in the circle. She put her hands on her knees. She said: "I want you to know that we are here to protect you. I can't say more about what happened, but I want you to know that your safety is our number one priority."*
+> 
+> *She said "can't" four times. She said "protect" and "safety" and "priority." She did not say Ms. Ogawa's name. She did not say what happened. She did not say when we would know.*
+> 
+> *When she left, no one talked for a minute. Then Kenta said "that was useless." I told him not to say "useless" about adults. He asked me why. I didn't have an answer.*
+
+> **Later, Friday**
+> *Ms. Ogawa is gone. They said they can't tell us why. I think they can. I think "can't" means "won't." Those are different. I asked mom about this when I got home and she said they're the same. They're not. Can't is when the thing is impossible. Won't is when the thing is possible and the person has decided not to do it. The principal could tell us. She decided not to. That's a won't. She called it a can't so it would feel like nobody's fault.*
+
+---
+
+[Kenji reads the last entry without comment. He sets the notebook down on the desk.]
+
+[AUDIO: The apartment is very quiet. No train. No clock. The refrigerator hums twice and stops. Outside, a bicycle passes. Nothing else.]
+
+[Mira says nothing for a long moment. The player waits. They have learned, from seven calls across five chapters, that Mira's silences have content — she is not absent from them, she is working through something. The quality of this one is different. She is not calculating. She is sitting with something she has not sat with since she died.]
+
+MIRA: "I kept asking Ms. Fujita every day for a week and a half. The other kids stopped after three. I didn't because — I needed to know if it was a 'can't' or a 'won't.' I hadn't figured out the words yet, but that was the question. If they physically couldn't tell us, that was one kind of thing. If they chose not to, that was a different kind. And the difference matters because — if it's a 'can't,' then the information genuinely doesn't exist. If it's a 'won't,' then somebody decided that we didn't need to know."
+
+[Small pause.]
+
+MIRA: "We were the ones she was there for. They sent the email to parents. We found out from them. That meant someone decided that the people Ms. Ogawa existed to teach were the ones who didn't need to be told she was gone."
+
+[Her voice is completely level. The armor is on. But the player who has spent five chapters with Mira recognizes something underneath the levelness — not a crack, a seam. The place where the armor meets the person.]
+
+KENJI: "She said 'tell me more.' Is that in the notebook?"
+
+[He already knows. He's been reading it.]
+
+MIRA: "...yes. I wrote it in March. Four months before the October entries. She said 'that's interesting, tell me more' when I told her about the silver car. She didn't say 'good job' or 'I'll look into it' or 'you shouldn't worry about those things.' She said 'tell me more.' Which means she thought there was more. Nobody says 'tell me more' about something they've already decided is nothing."
+
+[She stops.]
+
+MIRA: "I noticed the difference. I didn't know what to do with it. I put it in the notebook and kept reporting to everyone else because that's all I knew how to do. And then October came and she wasn't there anymore and nobody would tell us why."
+
+[Pause. Smallest beat in the conversation.]
+
+MIRA: "I asked Ms. Fujita on the last day before I stopped asking: 'Can you at least tell us if Ms. Ogawa knows what happened?' She said she didn't have that information. I wrote that down too."
+
+[She doesn't say: *so I stopped asking.* She doesn't need to. The player understands: Mira Kitahara, who tracked the silver car and timed the supervision gap and carved out the distinction between "can't" and "won't," finally stopped asking the substitute teacher because there was nothing left to ask. Some silences are not defeat. They are the end of a line of inquiry that has produced all available data.]
+
+[DESIGN NOTE: This scene is doing three things simultaneously. First: it delivers the classroom texture — the week of silence, the principal's managed speech, the email to parents — from inside a nine-year-old's experience rather than from the institutional record. Second: it establishes that Ogawa specifically said "tell me more" to Mira's reports, which makes Ogawa's firing a personal loss rather than an abstract data point. Third: it plants the "can't vs won't" entry in the player's memory at Chapter 5, where it will sit for six more chapters before Endo uses the same language in Chapter 11 — "I can't give you information I don't have" — and the player who logged this moment will hear the echo. The notebook entry is eleven words. What it teaches about institutional language is not summarized by the game. The player carries it.]
+
+[NOTEBOOK PROMPT: "OGAWA — CLASS 4-1. Mira's teacher. Said 'tell me more.' Fired October. Kids asked every day. Principal: 'I can't say more — safety is our priority.' Email to parents, not students. Mira's entry: 'I think can't means won't. Those are different.' Mira kept asking 9 days after everyone else stopped. CROSS-REF: same council that dismissed Mira's reports fired the one teacher who listened to them."]
 
 ---
 
@@ -2962,15 +3314,57 @@ MIRA: "He built the pipe. And then he stood at the end of it."
 
 ---
 
+### SOUL READ — HARUKI
+
+[The call ends. The line disconnects. Mira is quiet for longer than usual before the read arrives — not the silence of degradation, the silence of someone organizing a difficult impression before delivering it. The wire-sound hums steady. When she speaks, her voice is slower than it was for Reiko, more careful than it was for Doi. This is the first NPC Mira knew personally while she was alive. The read carries the complication.]
+
+MIRA: "He's moving. All the way through. Every part of him is moving."
+
+[Beat.]
+
+MIRA: "If he stops, he has to feel something. He can't feel something. So he can't stop."
+
+[Pause. The read deepens, the way it deepened for Reiko — Mira arriving at the shape underneath the shape.]
+
+MIRA: "It's not that he's empty. It's the opposite. He's full. Full of data. Full of words. Full of procedure. Imagine a cup that got overfilled. The cup is the part of him that was useful — the teacher who asked questions and waited for the answer. The overflow is everything he has been since. He's been living as overflow for a while now. A year, maybe. Since me. Maybe since before me. I don't know when the overflow started. I know it isn't stopping."
+
+[She goes quiet. When she continues, her voice carries a quality the player hasn't heard before — the specific register of someone making a fair assessment about a person who tried and failed.]
+
+MIRA: "He was kind to me. I want to put that in the record. Mr. Ise asked me how I was doing and he waited for the answer. He let me finish my sentences. Most adults in school were — not unkind. Just busy. They heard the first five words of what I said and assumed the rest. He actually listened. That's not nothing."
+
+[Beat.]
+
+MIRA: "It's also not the thing I needed. What I needed was for him to do the thing the procedure was afraid of, and he didn't. He ran the call to Yui's mother the way the procedure said. The procedure was wrong. He couldn't be wrong alongside the procedure. That's — that's what kindness without stakes gets you. He was kind and the kindness didn't cost him anything and so it didn't help me. That's the whole shape of him, if you want it in one sentence."
+
+[A longer pause. Mira is not angry. She is being precise, the way she is always precise. But the precision is about someone she carried a specific kind of disappointment for.]
+
+MIRA: "The cup and the overflow are the same person. The cup is what he was. The overflow is what he is now, because the cup couldn't hold what he was carrying. Which is: the knowledge that he was the adult in the room. He was the adult in the room for me. He's been the adult in the room for a lot of children, and most of the time it was fine. One time it wasn't, and the time it wasn't was the time that mattered, and now he doesn't know how to be in a room with an adult's weight anymore. So he runs. He talks too fast. He explains too much. He fills the air so he doesn't have to occupy it."
+
+[She stops. Then — practical:]
+
+MIRA: "Use him, Kenji. He'll do everything you ask. He'll also do some things you don't ask, because doing something is how he proves to himself he's still an adult in a room. Those are the things that'll hurt us. Don't give him information he doesn't need. He can't hold it. Information falls out of him. Not because he's careless — because he's leaking."
+
+[NOTEBOOK PROMPT: "SOUL READ — HARUKI: Overflow. 'Full of data, full of words, full of procedure.' The overflow is how he manages the inability to stop moving. Stopping = feeling. Was kind to Mira ('let me finish my sentences'); kindness without stakes didn't cost him anything and therefore didn't save anyone. MIRA'S ADVICE: Use him, don't trust him with information he doesn't need. 'He's leaking.' He'll do what you ask. He'll also do things you don't ask. The second category will hurt us. (Foreshadows Ch 6 Point of No Return.)"]
+
+[DESIGN NOTE: Mira's first Soul Read on someone she knew while alive. The read is warmer than her reads of strangers because she carries a specific opinion; it is also more damning because the opinion is specific. Haruki was not cruel. He was kind. His kindness was load-bearing for a child who needed an adult with stakes, and his kindness did not have stakes. The "cup and overflow" metaphor lands the character in one image: he was adequate until one moment required him to be more, and the overflow has been what he is ever since. The tactical instruction — "use him, don't trust him with information" — foreshadows the Chapter 6 Point of No Return, where Haruki acts on information the player shared and his well-meaning uncoordinated action damages the investigation. The player who logged this read in Chapter 5 has been warned. The player who acts on the warning manages Haruki as Mira described. The player who doesn't pays the cost.]
+
+---
+
 ## SCENE 4: CALL — AIZAWA
 
 [The player selects AIZAWA, EMI from the call board. The phone rings. Three rings. When she answers, her voice is precise, measured, and slightly too controlled — the voice of someone who was expecting this call and has prepared for it the way she prepares for everything.]
 
+[AUDIO: A small sound on the line — a plastic click, rhythmic, between her words. Click. Pause. Click. A hand sanitizer bottle being pumped and released. Not used — the pump doesn't complete. Just the click of the mechanism, steady as a metronome. This is Aizawa's audio signature: the sanitizer click. The observable behavior of someone who maintains small perfections because the large ones are beyond her reach. The click rate is the health bar: steady means composed. The player should start counting.]
+
 AIZAWA: "Hello. This is Aizawa."
+
+[Click.]
 
 KENJI: "Ms. Aizawa. Detective Oda, Metropolitan Police. I'm calling about the Kitahara case."
 
 AIZAWA: "Yes. I've been expecting someone to follow up on the school records. How can I help?"
+
+[Click. Click.]
 
 [Her "how can I help" is different from Reiko's or Rina's. Theirs was performance. Aizawa's is procedure. She is offering institutional cooperation — bounded, documented, within the lines she has drawn for herself.]
 
@@ -3008,15 +3402,15 @@ AIZAWA: "I appreciate that, Detective. I did follow procedures. I documented eve
 
 KENJI: "Three students filed reports about the same concern. You documented all of them. What did you do after filing?"
 
-[Silence. Three seconds. The longest Aizawa has been quiet.]
+[Silence. Three seconds. The longest Aizawa has been quiet. Click. Click. Click — faster now. The steady metronome has accelerated.]
 
-AIZAWA: "I filed them. Through the appropriate channels. The safety council reviewed them."
+AIZAWA: "I filed them. Through the appropriate channels. The safety council reviewed each report according to established procedure."
 
 KENJI: "That's the process. I'm asking what you did."
 
-AIZAWA: "That IS what I did."
+AIZAWA: "That IS what I did. The process IS the action, Detective. Documentation ensures accountability. Filing ensures review. Review ensures appropriate response."
 
-[Her voice thins. The precision becomes a weapon — she is correct about what she says and the correctness is the defense. The player who pushes harder gets more precision, not more truth.]
+[Click-click-click. Her voice thins. Every sentence could appear in an official filing — and that's the point. The institutional language is the wall. She is correct about what she says and the correctness is the defense. The player who pushes harder gets more procedure, not more truth. The clicks get faster.]
 
 ---
 
@@ -3040,11 +3434,11 @@ AIZAWA: "It was a standard reassignment. Positions open, positions fill."
 
 [Aizawa is comfortable with silence. She lives in it — the silence of a classroom after the students leave, the silence of documentation without action, the silence between "I see" and "I do." She does not fill it the way Haruki does or perform through it the way Reiko does. She holds it.]
 
-[But the silence accumulates. After ten seconds, the precision begins to show its seams — not because Aizawa cracks, but because the structure she's maintaining becomes visible as a structure. The player can see the walls.]
+[But the clicks don't hold. Click... click... click-click... click-click-click. The silence is still — Aizawa is managing it perfectly — but her hands aren't. The sanitizer bottle accelerates independently of her voice, the body betraying what the institution protects. After ten seconds, the precision begins to show its seams — not because Aizawa cracks, but because the rhythm cracks for her.]
 
 AIZAWA: "Is there a specific report you'd like me to address?"
 
-[She's managing the silence by redirecting it into procedure. The player who recognizes this — who sits in the silence one more beat — gets the fracture.]
+[She's managing the silence by redirecting it into procedure. But the click rate is audible — the player who is tracking it hears the gap between Aizawa's controlled voice and her uncontrolled hands. The player who sits in the silence one more beat — past the clicks, past the redirect — gets the fracture.]
 
 ---
 
@@ -3134,7 +3528,7 @@ AIZAWA: "I chose the version of my job that let me sleep."
 
 MIRA: "She feels like she's holding something heavy very carefully... like if she drops it, it breaks everything."
 
-[Pause.]
+[Pause. The read took a half-beat longer to begin than the Rina read in Chapter 4 — not dramatically, not enough to flag. But the Reiko read in Chapter 3 arrived before the call ended. This one waited. The difference is measurable in seconds, not meaning. Not yet.]
 
 MIRA: "She believed me. That's the thing. She wasn't like the others — she actually believed me. She just decided that believing wasn't enough to act on."
 
@@ -3304,7 +3698,11 @@ MIRA: "He's on everything."
 
 [Her voice is quiet. The clinical tone is intact but the pace has changed — slower, each word measured.]
 
-MIRA: "Every report went through him. Every review. Every dismissal. He's the pipe and the filter and the drain."
+MIRA: "Every report went through him. Every review. Every—"
+
+[A gap. Not her usual pause-for-emphasis — those have rhythm, intention. This is an absence, a dropped stitch. The wire-sound fills it with a faint crackle that wasn't there in Chapter 3.]
+
+MIRA: "—dismissal. He's the pipe and the filter and the drain."
 
 [Beat.]
 
@@ -3414,6 +3812,7 @@ The chapter is analytical but the analysis produces anger — not at individuals
 ---
 
 **END CHAPTER 5**
+
 # CHAPTER 6 — Doi's False Confession
 
 ## Chapter Overview
@@ -3478,6 +3877,8 @@ MIRA: "I reported it wrong. I saw a man watching children and I didn't have the 
 
 MIRA: "Five people who need to be called and three chances to call them. This is like a math problem designed by someone who hates math."
 
+[The joke lands. Full deadpan. But the wire-sound dips for a half-second after the punchline — a brief thinning, like a radio station fading at the edge of reception. When her voice comes back, it's steady. The player who has been enjoying her humor for five chapters doesn't notice the dip. They will notice, later, when the jokes stop coming.]
+
 [Beat.]
 
 MIRA: "Call Doi. Before someone else gets to him first."
@@ -3488,7 +3889,7 @@ MIRA: "Call Doi. Before someone else gets to him first."
 
 [The player selects DOI from the call board. The phone rings. Once. The line connects immediately — he was holding the phone.]
 
-[AUDIO: No store sounds. No register, no chime, no ambient air from the open door. The store is closed. The silence on the line is a man sitting in a closed store, waiting.]
+[AUDIO: No store sounds. No register beep, no door chime, no compressor drone, no fluorescent buzz. The player who called Doi in Chapter 3 heard a store that never stopped humming. Now: nothing. The store is closed. The silence on the line is a man sitting in a closed store with the lights off, waiting. The absence of the store is the loudest thing Doi has ever said.]
 
 DOI: "I know why you're calling."
 
@@ -3496,9 +3897,11 @@ KENJI: "Mr. Doi—"
 
 DOI: "I did it."
 
-[Two words. Flat. Exhausted. The voice of a man who has been rehearsing a guilty verdict in his head for so long that performing it feels like putting down a weight.]
+[Two words. Flat. Exhausted. And blunt — the opposite of the courtesy that rose under pressure in Chapter 3. The Dignity Filter is off. Not because Doi feels safe, but because he's past caring. A man who has rehearsed a guilty verdict so long that performing it feels like putting down a weight doesn't need manners anymore.]
 
-DOI: "I was involved. With the girl. The Kitahara girl."
+DOI: "I was involved. With the situation. The Kitahara situation."
+
+[Even here — even confessing — the euphemism surfaces. Not "the girl's death." Not "the murder." "The situation." The Dignity Filter is off, but the vocabulary is permanent.]
 
 [Kenji says nothing. The player hears the confession form — not like truth, but like surrender.]
 
@@ -3530,7 +3933,11 @@ DOI: "I was behind the counter. Like always. She walked past the store. She was 
 
 [He stops. The construction is failing — the story requires details he doesn't have because the story isn't real.]
 
-DOI: "I don't remember exactly what happened. I just know I'm responsible."
+DOI: "I don't remember exactly what happened. Things got out of hand."
+
+["Things got out of hand." The same euphemistic architecture that turned a custody loss into "family circumstances." Doi can't confess in specifics because there are no specifics. He can only confess in abstractions — the Dignity Filter covering a wound that doesn't exist, using the same vocabulary it uses for wounds that do.]
+
+DOI: "I'm responsible for what happened to that girl. That's what I'm telling you."
 
 [The player who accepts the confession gets generalities without mechanics. Doi can describe guilt but not a crime. He offers emotional conviction with no procedural content.]
 
@@ -3540,21 +3947,23 @@ DOI: "I don't remember exactly what happened. I just know I'm responsible."
 
 KENJI: "What specifically did you do?"
 
-DOI: "I... approached her."
+DOI: "I... approached her. If I'm being honest."
+
+["If I'm being honest" — the Dignity Filter flickering back on. The closer Kenji pushes, the more polite the lies become.]
 
 KENJI: "Where?"
 
-DOI: "Near the store."
+DOI: "Near the store. I'd rather not get into the specifics, if that's all right."
 
-KENJI: "What time?"
+KENJI: "It's not all right. What time?"
 
-DOI: "...afternoon."
+DOI: "...afternoon. I apologize, I don't recall exactly."
 
 KENJI: "What happened when you approached her?"
 
-[Silence. Five seconds. When Doi speaks, his voice is harder — not from resistance but from effort. He's inventing.]
+[Silence. Five seconds. When Doi speaks, his voice is softer — not from truth but from effort. He's inventing, and the invention is dressed in courtesy.]
 
-DOI: "She was scared. She was crying. She didn't fight back."
+DOI: "She was scared. She was crying. She didn't fight back. I'm sorry. I'm sorry for all of it."
 
 [The player who has spent five chapters with Mira should feel the wrongness immediately. Mira — the girl who reported six times, who kept a notebook, who looked at adults and said what she saw without flinching — did not cry when she was scared. She went clinical. She went precise. She braced. She would have fought back, because fighting back is what Mira did every day of her life.]
 
@@ -3652,19 +4061,19 @@ MIRA: "I was nine. I didn't have a system."
 
 ### SOUL READ — DOI (Second)
 
-[The read comes differently than the first one in Chapter 3. The wire-sound is heavier. Mira's voice is slower — not from degradation but from weight.]
+[The read comes differently than the first one in Chapter 3. The wire-sound is heavier. When she begins, there's a delay the player hasn't heard before — not the emotional gathering from the first Doi read, but something in the signal itself. A gap between the call ending and the impression arriving, as if the read had to travel further to reach her. When her voice comes, it's slower.]
 
-MIRA: "He's... loud inside. Like a room where every radio is on a different station. He feels guilty but not in a hiding way — in a drowning way. He wants someone to tell him it wasn't his fault."
+MIRA: "He's... loud inside. Like a room where every radio is on a different station. He feels guilty but not in a hiding way — in a drowning way."
 
 [Beat.]
 
-MIRA: "It wasn't."
+MIRA: "Kenji, he hurt someone. I don't know who or how, but the guilt is specific. It's not general 'I'm a bad person' guilt — it's 'I did a specific thing and I can't take it back.' The confession... I think the feeling underneath it is real. He did something."
 
 [Longer pause.]
 
-MIRA: "The sadness is still there — the old one, from before. But now there's something on top of it. He's performing. The confession is a performance. He's tired of being suspected and he decided that being guilty is easier than being watched."
+MIRA: "Push him harder. There's something underneath the performance he's not saying."
 
-[NOTEBOOK PROMPT: "SOUL READ — DOI (2nd): 'Loud inside — every radio on a different station.' Guilt without hiding = drowning, not concealing. Confession is PERFORMANCE — he chose guilty over indefinitely suspected. The old sadness (Ren, the custody loss) is still the real thing underneath. Mira confirms: 'It wasn't his fault.' Mira's own fallibility: she reported him without context."]
+[NOTEBOOK PROMPT: "SOUL READ — DOI (2nd): 'Loud inside — every radio on a different station.' Guilt is specific, not general — Mira reads him as someone who did something to someone. Confession has emotional truth underneath the surface. Mira recommends pushing harder."]
 
 ---
 
@@ -3674,17 +4083,25 @@ MIRA: "The sadness is still there — the old one, from before. But now there's 
 
 KENJI: "Mr. Doi. Who is the person in the photograph behind your counter?"
 
-[Silence. The longest silence of the chapter.]
+[Silence. The longest silence of the chapter. No store sounds to fill it — just the closed-store quiet and the dead air of a phone line carrying nothing.]
 
 DOI: "...how do you know about the photograph?"
 
-KENJI: "I've been in your store."
+[The courtesy spikes — one last flare of the Dignity Filter before it breaks.]
 
-[Doi is quiet. The confession — the structure he built to end the suspicion — is being bypassed. Kenji isn't asking about the crime. He's asking about the photograph. And the photograph is the real thing, the thing Doi has been guarding behind a wall of false guilt.]
+DOI: "That's — I appreciate the question, Detective, but that's a personal matter. It's not relevant to the situation."
 
-DOI: "That's... my grandson."
+KENJI: "I've been in your store. The photograph faces the register, not the customers. It's been wiped so many times the surface has gone cloudy. Whoever's in it matters to you more than anything else in that building."
 
-[His voice changes. The flat, exhausted monotone — the confession voice — is gone. What replaces it is something raw and unperformed.]
+[Doi is quiet. The confession — the structure he built to end the suspicion — is being bypassed. Kenji isn't asking about the crime. He's asking about the photograph. And the photograph is the real thing, the thing Doi has been guarding behind a wall of false guilt and formal courtesy.]
+
+DOI: "That's..."
+
+[The Dignity Filter fails. The player hears it happen — a mechanical sound, almost, like a register that jams mid-scan. The polite vocabulary drops. The euphemisms drop. What's left is a voice the player hasn't heard before: unmanaged, unfiltered, the voice under the counter.]
+
+DOI: "...my grandson."
+
+[His voice changes. The flat, exhausted monotone — the confession voice — is gone. The escalating courtesy — the dignity voice — is gone. What replaces it is something raw and unperformed. A third voice. The real one.]
 
 DOI: "His name is Ren. He's seven."
 
@@ -3700,21 +4117,41 @@ DOI: "She saw a man watching children. She reported a man watching children. She
 
 [Beat.]
 
-DOI: "I was watching my grandson. I can't talk to him. I can't cross the street. His mother filed a protective order because I raised my voice during an argument three years ago and the court decided that was enough."
+DOI: "I was watching my grandson. I can't talk to him. I can't — I can't cross the street. His mother — my daughter-in-law — she filed a protective order because I raised my voice during an argument three years ago and the court decided that was enough."
 
-[He stops. Takes a breath. The player hears it — ragged, wet, the breath of a man who has just said something he has never said to anyone.]
+[He stops. Takes a breath. The player hears it — ragged, wet, the breath of a man who has just said something he has never said to anyone. No euphemisms. Not "the situation." Not "family circumstances." The actual words, in order, with nothing between them and the air.]
 
-DOI: "I run the store so I have a reason to be near the school at three. That's the truth. That's what the girl saw. That's what everyone has been suspicious of for two years."
+DOI: "I run the store so I have a reason to be near the school at three. That's the truth. That's what the girl saw. That's what everyone's been suspicious of for two years."
 
 [He laughs. Once. Short. The ugliest sound in the game.]
 
 DOI: "I'd rather be a murderer than say that sentence."
 
+[And now the player understands the Dignity Filter completely — not as a speech pattern but as a survival mechanism. Every euphemism, every escalating courtesy, every "I appreciate" and "the situation" and "family circumstances" was this sentence, deferred. The entire architecture of Doi's politeness was built to avoid arriving here: at the words "I raised my voice and I lost my grandson." He would rather confess to killing a child than say those eleven words out loud. The false confession wasn't cowardice. It was the Dignity Filter's final, desperate offer: take the bigger crime, because at least the bigger crime doesn't require you to explain what you actually are.]
+
+[AUDIO: A sound from Mira's side of the line. Not words — a small, sharp intake of breath. The sound of someone realizing they were wrong.]
+
+MIRA: "I was wrong."
+
+[Her voice is smaller than the player has heard it. Not degraded — diminished by something more human than signal loss.]
+
+MIRA: "The guilt I read — it IS real. He DID hurt someone. He raised his voice at his daughter-in-law. That's the thing he did. That's what the guilt is about. And he lost everything for it."
+
+[Beat.]
+
+MIRA: "I read the emotion right. I read the cause wrong. I felt 'guilt about hurting someone' and I pulled it toward my own story. Because I'm the dead girl, and every feeling I touch, I bend toward me."
+
+[She is quiet. When she speaks again, the armor is thinner:]
+
+MIRA: "He's not carrying guilt about a child who died. He's carrying guilt about a child he can't see. And I couldn't tell the difference because both of those things feel the same from the inside."
+
+[DESIGN NOTE: The first Soul Read error. Mira's emotional perception is genuine — she accurately read guilt, drowning, specificity. But she attributed it to the wrong cause. The 20% error rate materializes not as hallucination but as perspective bias: she is a murdered child reading the living, and the lens she reads through shapes what she sees. The player who trusted the read pushed on the confession; the player who exercised judgment reached the photograph. Both arrive at the truth — but the player has learned that Mira can be wrong, and that lesson changes how they weight every read from Chapter 7 forward.]
+
 ---
 
 ### Doi's Real Testimony
 
-[The confession has collapsed. The truth has replaced it. And with the truth comes the thing Doi has been sitting on — the evidence he never reported because the last time he reported something true, they took his grandson.]
+[The confession has collapsed. The truth has replaced it. And with the truth comes the thing Doi has been sitting on — the evidence he never reported because the last time he reported something true, they took his grandson. His voice is different now. Not gruff, not polite. Plain. Sentences that say what they mean without either minimizing or decorating. The player is hearing Doi without the filter for the first time.]
 
 DOI: "There's something else."
 
@@ -3726,7 +4163,7 @@ DOI: "The car."
 
 DOI: "Silver. Sedan. I saw it three times. Always near the school. Always at pickup hours. March 3rd. March 7th. March 12th."
 
-[The dates match Kaito's notebook entries exactly.]
+[No euphemisms. No "the situation." Dates. Colors. Facts. The precision of a man who has been watching a street for twenty-three years through a store window — the same window, the same angle, the same discipline that let him track his grandson's walk home. The dates match Kaito's notebook entries exactly.]
 
 DOI: "It didn't belong to the pattern. I've watched that street for twenty-three years. I know every car that parks on it. That one was new. It sat there. The driver didn't get out."
 
@@ -3746,6 +4183,8 @@ MIRA: "You were going to believe him, weren't you?"
 
 MIRA: "That's what the system does. It takes the convenient answer."
 
+[She goes quiet. In Chapters 1 through 4, the transitions between calls were full — Mira's observations, her asides, the constant commentary the player learned to take for granted. Now: the wire-sound and nothing else. Kenji works through his notes. The absence of Mira's voice during the transition is something the player feels before they identify it.]
+
 ---
 
 ## SCENE 4: FUMIKO ENTERS
@@ -3756,11 +4195,11 @@ MIRA: "That's what the system does. It takes the convenient answer."
 
 [She does not call Kenji. She makes him find her.]
 
-[AUDIO: The phone connects. No pleasantries. No "hello."]
+[AUDIO: The phone connects. No pleasantries. No "hello." Behind her: a pen scratching on paper — she's already writing. The low hum of a workspace after hours. A filing cabinet closes. This is Fumiko's audio signature: the sound of someone who is always documenting. The pen never stops. It scratches during her questions, scratches during Kenji's answers, scratches during the silences. Fourteen years of observations, and she's still adding to the file.]
 
 FUMIKO: "What do you know that I don't?"
 
-[Her voice: mid-forties, flat, transactional. The voice of someone who has been waiting for this call and has no patience left for the part where people pretend they're not bargaining.]
+[Her voice: mid-forties, flat, transactional. No warmth, no hostility — just the efficient register of someone who has been waiting for this call and has no patience left for the part where people pretend they're not bargaining.]
 
 KENJI: "Ms. Arai. I'm—"
 
@@ -3786,11 +4225,41 @@ FUMIKO: "So. What do you know that I don't?"
 
 ### Response: TRADE
 
+[AUDIO: The pen pauses. Two seconds. Then resumes — faster. She's writing the terms.]
+
 FUMIKO: "Good. Honest. Most detectives start with 'I can't share case details.' You just saved us twenty minutes."
 
-[She respects directness. The trade is her native mode — information for information, with the understanding that both parties are working toward something and the something is better served by cooperation than competition.]
+[She respects directness. The trade is her native mode — information for information, give-to-get, with the understanding that both parties are working toward something and the something is better served by cooperation than competition.]
 
-FUMIKO: "I go first. Since I've been here longer."
+[AUDIO: The pen resumes — but the scratch is different. Quicker, lighter. She's writing something that is not shorthand. Three words. A doodle. Something personal. Then she resumes the professional scratch.]
+
+FUMIKO: "Before we start, one question. Strictly off the record."
+
+KENJI: "Go ahead."
+
+FUMIKO: "When you knocked on Doi's door — did he try to sell you a melon bun?"
+
+KENJI: "...no."
+
+FUMIKO: "Huh."
+
+[Beat.]
+
+FUMIKO: "Then you're doing better than my editor. He knocked on Doi's door during the eight-year-old case. Walked out with three melon buns and zero quotes. Came back to the office looking like a man who'd been outmaneuvered by a vending machine. Still talks about it. Refers to Doi as 'the baked goods situation.' Hasn't assigned me to any shop-owner interviews since. Which, frankly, has been a loss for my career, but an improvement for my glycemic index."
+
+[AUDIO: The pen never stopped scratching. She's been writing through the entire anecdote. When she pauses, the silence is audible — her pen, lifted. The first full stop she's given the call.]
+
+FUMIKO: "Okay. That's my warmth quota used. We can proceed to the part where I extract information from you. I find the work goes faster if I front-load the collegiality."
+
+KENJI: "Noted."
+
+[DESIGN NOTE: Fumiko's first non-transactional beat. The melon bun anecdote is throwaway — which is the point. It's a small, specific, affectionate piece of community history that reveals (a) she has worked on this patch long enough to have office folklore about its residents, (b) she is capable of warmth and chooses not to deploy it on the clock, (c) she announces when she is switching registers, which is its own form of honesty. The line about "warmth quota" is the tell: Fumiko does not do warmth accidentally. She does it on purpose, briefly, and then gets back to work. This is the version of likability that survives fourteen years of being the only adult in the room who won't let go of a story. The player who catches the pen's shift in rhythm — lifting for the joke, resuming for the work — hears the mechanism. The joke was a gift, not a glitch.]
+
+FUMIKO: "I go first. Since I've been here longer. But I want something understood: I'm publishing this story. Not today — I need forty-eight more hours to verify two sources. But the clock is running and it runs whether we're cooperating or not."
+
+[The 48-hour timer. Not a threat — a professional commitment. She has been sitting on this for fourteen years and she set a deadline for herself because no editor will set one for her anymore. The player now has a clock: forty-eight hours to either feed Fumiko enough to make her story accurate or withhold enough to make her delay.]
+
+FUMIKO: "I go first."
 
 ---
 
@@ -3798,15 +4267,15 @@ FUMIKO: "I go first. Since I've been here longer."
 
 FUMIKO: "Then why are you calling me?"
 
-[She waits. She doesn't fill the silence. She's better at this than most of the NPCs in the game — she's had fourteen years of practice holding silence against people who want something from her.]
+[AUDIO: The pen stops. Complete silence from her end — not even breathing. She waits. She doesn't fill the silence. She's better at this than most of the NPCs in the game — she's had fourteen years of practice holding silence against people who want something from her. And unlike the other NPCs, she's not afraid of the detective. She's annoyed he's wasting her time.]
 
-FUMIKO: "You're calling because you found something in the records that doesn't match the public story, and you need context that the records don't provide. I have that context. You have investigative access I don't."
+FUMIKO: "You're calling because you found something in the records that doesn't match the public story, and you need context that the records don't provide. I have that context. You have investigative access I don't. That's a trade. You're pretending it's not."
 
 [Beat.]
 
-FUMIKO: "We can do this the hard way or we can do this the efficient way. I'll wait."
+FUMIKO: "I'm publishing in forty-eight hours with or without you. We can do this the efficient way or the expensive way. I'll wait."
 
-[The player who withholds gets Fumiko's patience, which is a form of pressure. She won't give information for free — but she won't stop watching, either. The withhold path costs the player context they need and gains them nothing except institutional propriety.]
+[AUDIO: The pen resumes. She's writing while she waits. The player who withholds gets Fumiko's patience, which is a form of pressure. She won't give information for free — but she won't stop working, either. The withhold path costs the player context they need, gains them nothing except institutional propriety, and starts a clock they can't stop.]
 
 ---
 
@@ -3836,7 +4305,9 @@ FUMIKO: "Fine. Here's what I have for free: eight years ago, a child in Senzoku 
 
 ### All Paths: The Historical Pattern
 
-Regardless of approach, Fumiko delivers her core information:
+Regardless of approach, Fumiko delivers her core information — because at some point the exchange reaches equilibrium and information begins flowing:
+
+[AUDIO: The pen rhythm changes. It was scratching during her questions — recording. Now it's scratching during her answers — releasing. The shift is the trust-tell: Fumiko's pen moves differently when she's receiving versus when she's giving. The player who noticed the scratch-pattern hears the moment the transaction balances.]
 
 FUMIKO: "I've been tracking a pattern for fourteen years. Not an investigation — a file. Observations. Public records. Community bulletin coverage that doesn't add up when you read it in sequence."
 
@@ -3914,6 +4385,16 @@ MIRA: "He's right about everything and wrong about the speed. Same as always."
 
 MIRA: "That's how the system gets you. You see the truth and you grab for it and the grabbing is what breaks it."
 
+[Beat. Quieter now — the analytical register, stripped of the emotion.]
+
+MIRA: "Endo didn't need to watch the investigation. He built a neighborhood where the neighborhood watches it for him. Doi's neighbors watch Doi. The Murakami family calls the council chair. Haruki tries to help and the help travels straight to the person it hurts."
+
+[She pauses.]
+
+MIRA: "Everyone is his alarm system. Nobody signed up."
+
+[DESIGN NOTE: This is the first explicit "node discovery" — the player realizes that every character they've encountered is unknowingly part of Endo's information network. Doi was his misdirect. Rina was his vocabulary. Haruki is now his trip wire. The community's trust infrastructure IS the surveillance infrastructure. Endo didn't hack the system — he IS the system.]
+
 ---
 
 ## SCENE 6: CLOSE
@@ -3932,9 +4413,19 @@ MIRA: "Doi saw it. Kaito logged it. I wrote it in my notebook. Three people noti
 
 [Beat.]
 
-MIRA: "Doi was silenced by the custody ruling. Kaito was silenced by being 'the weird kid.' I was silenced by being 'the liar.' Different mechanisms, same result. Nobody compared notes because nobody was allowed to be credible at the same time."
+MIRA: "Doi was silenced by the custody ruling. Kaito was silenced by being 'the weird kid.' I was silenced by being..."
 
-[Structural, not personal. Three observers, three discrediting mechanisms — institutional (Doi's custody), social (Kaito's reputation), behavioral (Mira's "intensity"). The isolation wasn't accidental.]
+[She reaches for the word. In Chapter 3, it would have arrived instantly — "the liar," delivered flat, precise, no gap. Now there's a second of nothing. The word comes, but it comes the way a delayed signal arrives — after the moment has already moved past it.]
+
+MIRA: "...'the liar.' Different mechanisms, same result. Nobody compared notes because nobody was allowed to be credible at the same time."
+
+[Beat.]
+
+MIRA: "And the committee that reviewed Doi's report, and the community that labeled Kaito, and the school that labeled me — all of them run through the same office. The same chair."
+
+[She doesn't say his name. She doesn't need to. The player has seen it seven times.]
+
+[Structural, not personal. Three observers, three discrediting mechanisms — institutional (Doi's custody), social (Kaito's reputation), behavioral (Mira's "intensity"). The isolation wasn't accidental. It was managed. Each person in the investigation has been a node in a system designed to prevent exactly this kind of convergence. The convergence is happening now because a detective with a dead phone is the one person in Yanagi who doesn't route through the council chair.]
 
 [Kenji looks at the phone. Tomorrow: follow the silver car. Shinagawa registration. A holding company. A name.]
 
@@ -4003,6 +4494,7 @@ The chapter peaks twice: Doi's confession collapse (grief, empathy) and Haruki's
 ---
 
 **END CHAPTER 6**
+
 # CHAPTER 7 — The Silver Car
 
 ## Chapter Overview
@@ -4222,7 +4714,7 @@ FUMIKO: "I still don't know why. But the routes connect the community center to 
 
 ### SOUL READ — FUMIKO (Second)
 
-[Mira's read is slower than the first one. In Ch 6, the Soul Read was immediate — Fumiko's emotional state was clear and Mira delivered it efficiently. Now there's a delay. The wire-sound is rougher.]
+[Mira's read is slower than the first one. In Chapter 3, the read arrived the instant the call ended — clean, no delay, the impression already waiting. In Chapter 6, the Fumiko read was still efficient, just a beat slower. Now there's a gap the player can feel — three seconds, four, the wire-sound rough and searching before the impression resolves. The same Soul Read that was instant in the early game now has a startup cost.]
 
 MIRA: "She's... the same. But louder now. The angry-tired is... she has a name for it now. She didn't before. Having a name for the thing you've been carrying makes it heavier somehow."
 
@@ -4238,19 +4730,21 @@ MIRA: "She's scared. Not of Endo — of being wrong. Fourteen years of being rig
 
 [The player selects KAITO. The phone rings. Four times. Five. Kaito picks up mid-sixth ring.]
 
-[AUDIO: Background sounds — not the silence of an empty room but the ambient noise of someone who lives surrounded by the sounds they can't filter. A fan. A clock. The hum of a building being a building.]
+[AUDIO: Background sounds — not the silence of an empty room but the ambient noise of someone who lives surrounded by the sounds they can't filter. A fan oscillating. A clock with a loud second hand. The refrigerator cycling. A pencil tapping against a hard surface — not rhythmic like Haruki's pen-click, but arrhythmic, the idle motion of hands that are always tracking something. This is Kaito's audio signature: the unfiltered room. Every appliance audible, every surface present. He doesn't curate his environment the way Yui does or populate it the way Rina does. He receives all of it, all the time.]
 
 KAITO: "...yeah."
 
+[The ellipsis is audible — a three-second gap before the word. Not shyness. Processing. The input (phone ringing) is being evaluated before the output (greeting) arrives. This is the Delayed Signal: Kaito's answers are always one beat behind the conversation.]
+
 KENJI: "Kaito. I need to talk about your notebooks."
 
-[Silence. Three seconds. Four. The player who remembers Chapter 5 knows this is processing, not resistance.]
+[Silence. Four seconds. Five. The player who remembers Chapter 5 knows this is processing, not resistance. The delay gets longer when the information is more important — and "notebooks" is heavy.]
 
 KAITO: "...which ones."
 
 KENJI: "The vehicle logs. The ones tracking cars near the school."
 
-[Another pause. When he speaks, his voice has a different quality — not the flat reluctance of their earlier call, but something closer to relief. Someone is asking about the thing he noticed. Someone is treating his observations as data instead of evidence of pathology.]
+[Six-second pause. When he speaks, his voice has a different quality — not the flat reluctance of their earlier call, but something closer to relief. Someone is asking about the thing he noticed. Someone is treating his observations as data instead of evidence of pathology.]
 
 ---
 
@@ -4268,13 +4762,17 @@ KENJI: "The vehicle logs. The ones tracking cars near the school."
 
 ### Response: PATIENCE
 
+[Three-second delay.]
+
 KAITO: "...okay."
 
-[He starts slow. Hesitant. But the hesitation is mechanical, not emotional — he's translating his private notation system into language someone else can parse.]
+[AUDIO: The pencil stops tapping. A notebook opens — the player can hear the spine crack. He starts slow. Hesitant. But the hesitation is mechanical, not emotional — he's translating his private notation system into language someone else can parse.]
+
+[Two-second delay.]
 
 KAITO: "March 3rd. 2:45 PM. Silver sedan. Shinagawa plates. Parked on the east side of the school, near the gate. Engine running. Nobody got out. Departed 3:22 — seven minutes after dismissal."
 
-[He continues. Each entry is timestamped, located, annotated with behavioral detail. The player hears it and recognizes: this is not surveillance. This is the same thing Mira did — tracking anomalies, logging deviations from the expected pattern. Kaito's notebooks are a neighborhood-scale version of Mira's case file.]
+[The delay shortened. He's reading now, not translating, and the data flows with a precision that sounds nothing like the fragmented boy from the opening. This is Kaito in his native register: observations, timestamps, patterns. Each entry is annotated with behavioral detail. The player hears it and recognizes: this is not surveillance. This is the same thing Mira did — tracking anomalies, logging deviations from the expected pattern. Kaito's notebooks are a neighborhood-scale version of Mira's case file.]
 
 ---
 
@@ -4296,19 +4794,97 @@ KAITO: "...okay. March 3rd. 2:45..."
 
 KENJI: "Before the car. The other patterns. What else did you notice about the neighborhood that didn't fit?"
 
-[Long pause. Kaito is recalibrating — the question is broader than he expected.]
+[Seven-second pause. The longest yet — the question is broader than he expected, and broader means more to process.]
 
 KAITO: "...a lot of things don't fit."
 
-[He describes fragments: a pattern in which houses had visitors on which evenings. A regularity to certain adults' walking routes that suggested they were following a schedule, not a habit. The way community events always had the same volunteer coordinator, and the coordinator always positioned himself near the arrivals, watching who came and who didn't.]
+[He describes fragments, each preceded by its own delay: a pattern in which houses had visitors on which evenings (three-second pause). A regularity to certain adults' walking routes that suggested they were following a schedule, not a habit (two-second pause — familiar data). The way community events always had the same volunteer coordinator, and the coordinator always positioned himself near the arrivals, watching who came and who didn't (eight-second pause — this one matters).]
 
 KAITO: "...the volunteer man. He was always there. Every event. He always stood near the door."
 
 KENJI: "The volunteer man."
 
+[Five-second delay.]
+
 KAITO: "...I don't know his name. But he was always watching who showed up. Like he was keeping attendance."
 
 [The player who has connected Endo to the silver car now hears Kaito describing Endo's behavioral pattern without naming him. The convergence deepens.]
+
+---
+
+### Response: SILENCE (Hidden Gate — Teenager Reveal)
+
+[The player does not speak. Kenji holds the phone and waits. The unfiltered room fills the space: the fan oscillating, the clock with the loud second hand, the pencil tapping that isn't rhythmic, the refrigerator cycling and not cycling. The full ambient stack that is Kaito's audio signature. Eight seconds. Ten. The pencil-tapping slows. Stops.]
+
+[Fifteen seconds.]
+
+KAITO: "...this is going to sound stupid."
+
+[Kenji doesn't respond. The silence was working. He keeps using it.]
+
+[Four seconds.]
+
+KAITO: "Okay. This is going to sound stupid, but I'm going to say it. There was a show. When I was twelve. A detective show. I don't want to name it. I rewatched a specific episode many times. In the episode the detective noticed something in the background of another case. A car parked in the same spot three different afternoons. He followed it up. It turned out to be the connection that broke open an entirely different investigation."
+
+[Beat.]
+
+KAITO: "I thought that was the coolest thing I had ever seen. That you could solve something by paying attention to the thing nobody else thought was important."
+
+[AUDIO: The pencil starts tapping again. Slower. A different rhythm than before — he's not processing, he's nervous. The tap is his fidget. He is saying something he has not said aloud before.]
+
+KAITO: "So I started keeping notebooks. I was twelve. I am seventeen now. That is five years of notebooks. I wanted to be... I wanted to be that detective. The one who noticed."
+
+[Four-second pause.]
+
+KAITO: "Most of what I wrote down is nothing. Mrs. Tanaka walks her dog at 6:47 every morning. Ms. Hayashi at the pharmacy prefers the clerk who doesn't smile. The man at the bus stop on Tuesdays reads two chapters of a specific paperback. Nothing. Patterns that weren't patterns. It was practice. I thought if I kept doing it, eventually I would see something that mattered and I would have the habit of writing it down when I did."
+
+[Pause.]
+
+KAITO: "The silver car was the first time I saw something that mattered. I didn't know it was the first time until you called me."
+
+[AUDIO: The fan reaches the end of its oscillation and turns back. Kaito's pencil has stopped again. He is — for the first time in the call — fully deciding whether to say something. The silence that precedes it is different from Delayed Signal. It is choice.]
+
+KAITO: "I am also writing a book."
+
+[Beat.]
+
+KAITO: "A novel. I have been writing it for three years. I have not finished a chapter."
+
+KENJI: "Three years."
+
+KAITO: "I can write the patterns. I can write the evidence. I can write the scenes where nothing is happening and someone is noticing something. Those are the only scenes I am good at. I cannot write the characters. When they talk to each other they all sound like me. Which is — apparently — boring. To read. I gave one to my mother and she said 'this is interesting, Kaito, but everyone sounds the same.' She is usually not an accurate editor but I think she was accurate about this."
+
+[A longer pause. The Delayed Signal has become a different kind of timing — the cadence of a person who has rehearsed saying something in their head many times and is now surprised to hear themselves saying it out loud.]
+
+KAITO: "I was going to ask if I could record this call."
+
+KENJI: "Record it."
+
+KAITO: "For research. For the book. I was going to ask. I will not. I would like to state for the record that I considered asking and decided against it. Because it would be wrong. To ask that. I am aware. But I thought about it. I am — I am informing you that I thought about it. In the interest of full disclosure."
+
+[Silence. When Kenji speaks, he is careful.]
+
+KENJI: "If you want to write about a detective you can ask me questions. I'd rather you do that than record a call."
+
+[A nine-second delay. The second-longest pause of the call, surpassed only by the driver-description beat. But this pause is different — not the weight of information, the weight of being offered something unexpected.]
+
+KAITO: "...you would answer questions."
+
+KENJI: "Yeah. When we're done with this case. You can ask me questions about the job. I'll answer the ones I can answer."
+
+[Beat.]
+
+KAITO: "...okay."
+
+[Then, quieter:]
+
+KAITO: "I am sorry if any of this sounded wrong. You are the first detective I have actually spoken to. The notebooks are — the notebooks are what I do instead of knowing how to talk to detectives. I don't have a lot of practice with the talking part."
+
+KENJI: "You're doing fine."
+
+[AUDIO: The pencil-tap resumes. Steady. Slower than before. The fidget has transitioned into something closer to a heartbeat — a boy sitting in a room full of sounds he usually can't filter, for once, not needing to filter.]
+
+[DESIGN NOTE: The SILENCE response is gated. It is the only approach that produces Kaito's teenager reveal — the private interiority he has never shared with anyone who asked directly. The reveal has three components, each a different register of self-disclosure: the origin story (detective show at twelve, five years of notebooks as practice), the private practice (the unfinished novel, everyone sounding like him), and the inappropriate-but-honest impulse (wanting to record the call for research). Kenji's offer — "ask me questions when we're done" — is the scene's payoff: the first time an adult in Kaito's life has treated his habit as a vocation-in-progress instead of a behavioral oddity. Mira's Soul Read later in this scene — "doesn't know how to show it properly," "someone opened a window in a room that's been closed" — now has a specific referent. The player who chose SILENCE has earned the context for the Soul Read. The player who didn't choose SILENCE still gets the Soul Read, but hears it more abstractly. Both work. The difference is the specificity of the warmth.]
 
 ---
 
@@ -4322,6 +4898,8 @@ KAITO: "The two times the driver went to the store — I couldn't see the face f
 
 KENJI: "Did you see the driver at all?"
 
+[Nine-second delay. The longest silence in the call. The weight of the information stretches the processing time — the delay-length is the tell, and nine seconds means what follows is the most important thing Kaito has said.]
+
 KAITO: "...once. From behind. Walking from the car to the store. Tall. Upright. He walked like he was... familiar. Like he knew where everything was without looking."
 
 [NOTEBOOK PROMPT: "KAITO — VEHICLE LOGS (full): 9 sightings total, March through April. Silver sedan, Shinagawa plates. 3x driver stayed in car, 2x driver exited to store, 4x car sat idle. Driver description: tall, upright, 'walked like he was familiar — knew where everything was without looking.' Corroborates Doi's 3 sightings (March 3/7/12) and Mira's records. KAITO'S NOTEBOOKS ARE OBSERVATION, NOT SURVEILLANCE — neighborhood pattern tracking, same instinct as Mira at a different scale."]
@@ -4330,7 +4908,7 @@ KAITO: "...once. From behind. Walking from the car to the store. Tall. Upright. 
 
 ### SOUL READ — KAITO
 
-[The read takes longer than Mira's reads used to. She reaches for it and the impression arrives in pieces, not as a single image.]
+[The read takes longer than Mira's reads used to. She reaches for the impression and it arrives in pieces, not as a single image — the emotional shape landing a beat before the words to describe it, meaning lagging behind feeling the way a subtitle lags behind dialogue.]
 
 MIRA: "He's... careful. Everything in him is organized, like a room where every object is placed exactly where it needs to be. But it's not cold. It's how he makes sense of things."
 
@@ -4488,9 +5066,11 @@ Whether the player discovers it through analysis, investigation, Mira's observat
 
 [Kenji examines it. The river bend. Two figures.]
 
-[He doesn't know what it means yet. The player who has been tracking Sora artifacts since Chapter 2 — the bench marks, the drawing boy at Doi's store, the naming in Ch 5 — adds this to the accumulation. The page is real among fabricated evidence. Endo planted it in Mira's locker without examining it. He used a child's map as a prop.]
+[He doesn't know what it means yet. The player who has been tracking Sora artifacts since Chapter 2 — the bench marks, the drawing boy at Doi's store, Yui's river mention in Ch 4, the naming in Ch 5 — adds this to the accumulation. The page is real among fabricated evidence. Endo planted it in Mira's locker without examining it. He used a child's map as a prop.]
 
-[NOTEBOOK PROMPT: "SORA ARTIFACT — Map page (real among fabricated framing evidence). Graph paper, colored pencil. Imaginary city. Lower right corner: river with bend, two tiny figures sitting on a bank. Page is GENUINE — Sora drew this. Planted by whoever built the framing, without examining what the drawing actually contained."]
+[Kenji looks at the framing language one more time. The words: "misunderstands," "difficult," "says things." He has heard every one of these before. Not from a file — from a child. Rina, Chapter 4, describing Mira to a detective. The same vocabulary, word for word, now formalized into evidence. Whoever built this frame didn't need to invent the narrative. It was already circulating. They just wrote it down.]
+
+[NOTEBOOK PROMPT: "SORA ARTIFACT — Map page (real among fabricated framing evidence). Graph paper, colored pencil. Imaginary city. Lower right corner: river with bend, two tiny figures sitting on a bank. Page is GENUINE — Sora drew this. Planted by whoever built the framing, without examining what the drawing actually contained. LANGUAGE NOTE: Framing vocabulary ('misunderstands,' 'difficult,' 'says things') matches Rina's descriptions verbatim (Ch 4). The community consensus about Mira was the precondition for the frame — Rina was the mechanism, not the architect."]
 
 ---
 
@@ -4508,11 +5088,11 @@ KENJI: "Endo was on the review committee that fired Ogawa."
 
 [Mira, if present for this discovery, is quiet. Then:]
 
-MIRA: "Mr. Ogawa was nice. He was... the only one who wrote things down when I talked."
+MIRA: "Ms. Ogawa was nice. She was... the only one who wrote things down when I talked."
 
 [Beat.]
 
-MIRA: "And then he was gone."
+MIRA: "And then she was gone."
 
 ---
 
@@ -4566,7 +5146,7 @@ MIRA: "He was helpful. Everyone said so. The most helpful man in Yanagi."
 
 MIRA: "But helpful people don't need to know everything. And he knew everything. He knew which kids walked home alone. He knew which reports were filed. He knew which families had problems and which teachers were asking questions. He knew all of it, and every time he knew something, he showed up to help."
 
-[She pauses. The signal wavers. Comes back.]
+[She pauses. The signal wavers. Comes back. Her next words arrive strangely — the sound of her voice reaching Kenji a fraction before the meaning does, as if the signal carried the shape of speech but not yet its content. For a half-second, she sounds like the bridge number from Chapter 3: structured audio without language. Then the meaning catches up.]
 
 MIRA: "Helpful is the disguise. It's the best one. Because nobody suspects the person who's helping."
 
@@ -4644,6 +5224,7 @@ The chapter peaks at the naming — the moment Kenji writes "Masato Endo" under 
 ---
 
 **END CHAPTER 7**
+
 # CHAPTER 8 — Endo
 
 ## Chapter Overview
@@ -4678,7 +5259,7 @@ The chapter peaks at the naming — the moment Kenji writes "Masato Endo" under 
 
 MIRA: "Answer it."
 
-[Her voice is quiet. Conserving. But the instruction is immediate — she knows what this call means.]
+[Her voice is quiet. Conserving. Two words where Chapter 3's Mira would have delivered ten — a joke about the caller, an observation about the ring tone, a running theory. Now: two words. The instruction is immediate but the voice behind it sounds like it's arriving from further away than it used to.]
 
 KENJI: "You sure?"
 
@@ -4692,7 +5273,7 @@ MIRA: "He's calling you. That means he doesn't know we're looking at him. Or he 
 
 ENDO: "Detective Tanaka? This is Masato Endo — I'm on the community safety council here in Yanagi. I hope I'm not interrupting."
 
-[His voice: mid-fifties, warm, steady. The voice of a man who has been speaking to people in positions of authority for decades and has calibrated himself to sound exactly like what they expect. Not rehearsed — *natural.* The warmth is real. The steadiness is real. Nothing about this voice sounds performed because it isn't performed.]
+[His voice: mid-fifties, warm, steady. The voice of a man who has been speaking to people in positions of authority for decades and has calibrated himself to sound exactly like what they expect. Not rehearsed — *natural.* The warmth is real. The steadiness is real. Nothing about this voice sounds performed because it isn't performed. But notice the rhythm: he speaks the way a conductor counts — every pause measured, every emphasis placed, every silence exactly long enough to convey weight without tipping into melodrama. He manages the air between his sentences the way he manages everything else.]
 
 KENJI: "Mr. Endo. What can I do for you?"
 
@@ -4744,7 +5325,7 @@ ENDO: "Thank you, detective. I know your time is valuable — I've worked with o
 
 ### Response: SILENCE
 
-[The player lets the space sit. Endo waits three seconds — the polite pause of someone who thinks the detective might be writing something down. Then he fills it. Not nervously. Not to avoid discomfort. He fills it because space, for Endo, is a resource to be managed, not endured.]
+[The player lets the space sit. Endo waits exactly three seconds — not two, not four. Three. The precise interval that communicates respect without conveying anxiety. Then he fills it. Not nervously. Not to avoid discomfort. He fills it the way he fills every space in Yanagi: as a resource to be managed, not endured. The player trained on Silence — who made Doi collapse, who made Reiko crack — discovers that Endo treats silence the way a conductor treats a rest: counted, measured, placed exactly where it serves the composition.]
 
 ENDO: "I imagine you're working through a considerable amount of information. Yanagi can be complicated for someone who doesn't know its history. I've been here long enough to provide that history, if it would help."
 
@@ -4754,7 +5335,7 @@ ENDO: "I imagine you're working through a considerable amount of information. Ya
 
 ### All Paths: Endo's Helpful Information
 
-Regardless of approach, Endo provides real, actionable intelligence:
+Regardless of approach, Endo provides real, actionable intelligence. Three items. Always three — the pattern of a man who has learned that two suggestions seem thin and four seem controlling, that three is the number that feels like generosity without triggering suspicion. He will do this every time he calls:
 
 ENDO: "I wanted to mention a few things that might be useful. First — the family two blocks east of the school, the Watanabe household. The father was working late shifts during the week Mira disappeared. I don't think anyone has mentioned this, but he may have seen something during his commute. He passes the school at unusual hours."
 
@@ -4774,9 +5355,9 @@ ENDO: "Third — and this is more of a community dynamics note — there's a jou
 
 [During the call, Endo says something the player must catch:]
 
-ENDO: "Mira was a remarkable child. Very observant. She had this... intensity when she was reporting something. This quality of — how to describe it — she would brace. Physically brace, before she delivered information she expected to be dismissed. Like she was preparing for impact."
+ENDO: "Mira was a remarkable child. Very observant. She had this... intensity when she was reporting something. This quality of — how to describe it — she would take a small breath. A fierce little breath, right before she said something she knew wouldn't be believed. Like she was physically bracing for the dismissal she'd already calculated was coming."
 
-[The player who has spent eight chapters with Mira should hear the wrongness. Endo is describing Mira's behavior from the inside — not the way someone who observed her at community events would describe it, but the way someone who *listened to her* would. "Brace." "Preparing for impact." These are descriptions of vocal quality, not visual observation. A community leader would say "she was persistent" or "she reported frequently." Endo is describing the specific emotional mechanics of Mira's delivery — the breath she took, the preparation, the bracing.]
+[The player who has spent eight chapters with Mira should hear the wrongness. "A fierce little breath." "Bracing for the dismissal she'd already calculated was coming." These are not visual observations. A community leader who saw Mira at events would say "she was persistent" or "she reported frequently." Endo is describing the specific vocal mechanics of Mira's delivery — the intake of air before a report, the preparation, the calculation. He is describing what Mira sounds like *through a phone,* heard from a room where the only input is audio. He knows the breath. He knows the rhythm. He knows the bracing. Because he listened to it through copper wire, over and over, with the sustained attention of a man who thought her voice was beautiful.]
 
 [He heard her. Through the exchange. He knows the exact shape of her voice because he listened to it through copper wire in a room beneath the community center. And he is describing it to her detective with genuine admiration.]
 
@@ -4848,9 +5429,19 @@ ENDO: "Doi has been under a cloud for some time. The community's been... aware o
 
 KENJI: "You know about his family situation?"
 
-ENDO: "The custody matter? Yes, it's been difficult for him. He mentioned once that he feels... trapped between wanting to see his grandson and knowing how it looks."
+ENDO: "The custody matter? Yes, it's been difficult for him. He mentioned once that he feels... trapped between wanting to see his grandson and knowing how it looks. I believe he said 'things got out of hand' — referring to the original incident. A sad situation."
 
-[The player who has called Doi — who earned Doi's confession and its collapse — should hear the echo. "Trapped between wanting to see his grandson and knowing how it looks" is not public knowledge. This is the emotional architecture of Doi's private grief, described by a man who should have no access to it. Endo is mirroring Doi's internal state with a fidelity that is only possible through listening — through the exchange, through the cables that run under Doi's street.]
+[A pause — measured, three seconds, the conductor spacing his movements:]
+
+ENDO: "And then there was a boy — Sora Hayashi — who used to sit outside Doi's shop every afternoon, drawing. Maps, mostly. Imaginary cities with all the infrastructure filled in — streets, bridges, underground lines. Lovely child. Quiet. The kind who notices things other children walk past."
+
+[He says this with the same warmth he says everything. The player hears a community leader describing a neighborhood kid. But the details are wrong for that. "Every afternoon." "Maps, mostly." "Underground lines." This isn't secondhand knowledge — this is surveillance described as fondness.]
+
+ENDO: "When he went missing... well. I think that's been weighing on Doi as well. Another child from the neighborhood. The community feels these things."
+
+[DESIGN NOTE: Endo names Sora with the wrong fidelity — too much detail about a missing boy's daily habits, his drawing subjects, his personality. The player who is tracking Endo's tells adds another: he describes Sora's behavior with listener's precision, not neighbor's. And he says "lovely child" the way he says "Mira" — with the pitch drop, the softened consonants, the voice of a man who has been hearing these children through copper wire.]
+
+[The player who has called Doi should hear two things. First: "wanting to see his grandson" — the grandson is information Doi only revealed after his confession collapsed in Chapter 6. Endo should not have this. Second: "things got out of hand" — Doi's exact phrase, word for word, from a conversation in his own store with his door closed. Endo is not paraphrasing Doi. He is *quoting* him. The fidelity is wrong. A community leader who heard about the custody situation through gossip would say "he has some family trouble." Only someone who listened — who heard Doi's voice through copper wire, through the cables that run under Doi's street — would reproduce the phrase with this precision.]
 
 [NOTEBOOK PROMPT: "ENDO — TELL #2: Describes Doi's internal emotional state ('trapped between wanting to see his grandson and knowing how it looks') with fidelity that doesn't match his stated source. This isn't community awareness — this is Doi's private grief. Endo heard this. Through the exchange. The cable runs under Doi's street. Endo's knowledge resolution is WRONG for a community leader. It's right for a LISTENER."]
 
@@ -4866,7 +5457,7 @@ KENJI: "Thank you, Mr. Endo."
 
 ENDO: "Thank you for your work. This community needs answers. We owe it to Mira."
 
-[He says her name. "Mira." Not "the Kitahara girl." Not "the child." Her name — spoken with the specific tenderness of a man who remembers her voice perfectly and considers that memory a form of preservation.]
+[He says her name. "Mira." Not "the Kitahara girl." Not "the child." Not "the victim." Her given name — spoken with a slight change in register, the pitch dropping a quarter-tone, the consonants softening. The way someone says a name they've said many times in private. The way someone says a name they've been *listening to* for months through copper wire. A community leader would say "the Kitahara family" or "the child." Endo says "Mira" the way Reiko says "Mira." Like someone who heard her voice so often they forgot the name wasn't theirs to use.]
 
 [The line disconnects. The apartment is quiet.]
 
@@ -4998,13 +5589,13 @@ AIZAWA: "Mr. Endo. He's been on the council for... a long time."
 
 KENJI: "The staffing change at the school. The one that affected the after-school program. Tell me about it."
 
-AIZAWA: "Mr. Ogawa left. His position was... restructured. The after-school tutoring schedule changed. Several students' routes home were affected because the program ended at a different time."
+AIZAWA: "Ms. Ogawa left. Her position was... restructured. The after-school tutoring schedule changed. Several students' routes home were affected because the program ended at a different time."
 
 KENJI: "Ogawa was asked to leave?"
 
 [Silence. Four seconds. The sanitizer clicks.]
 
-AIZAWA: "The committee recommended his position be... reviewed."
+AIZAWA: "The committee recommended her position be... reviewed."
 
 KENJI: "The same committee?"
 
@@ -5104,7 +5695,7 @@ AIZAWA: "I just wasn't brave enough to be the right person."
 
 ### SOUL READ — AIZAWA (Second)
 
-[Mira's read comes late — delayed by the degradation and by whatever happened during the Endo read. When it arrives, it's brief:]
+[Mira's read comes late — a full five seconds after the call ends. In Chapter 3, the read arrived before the phone stopped ringing. In Chapter 5, the delay was a beat. Now it's a gap the player measures in breaths. Delayed by the degradation and by whatever happened during the Endo read. When it arrives, it's brief:]
 
 MIRA: "She's... cracked. Like a cup that still holds water but you can see the line. She'll never be the same cup again."
 
@@ -5229,6 +5820,7 @@ The chapter is built on contrast. Endo's call is unsettling not because it's hos
 ---
 
 **END CHAPTER 8**
+
 # CHAPTER 9 — The Framing Unravels
 
 ## Chapter Overview
@@ -5270,7 +5862,7 @@ The chapter is built on contrast. Endo's call is unsettling not because it's hos
 | THE GARDEN | Physical investigation + financial records | Botanical timeline, nursery receipts, pattern proof |
 | REIKO'S CALL | Phone call (incoming or outgoing) | The static call, Mira's last failed reach, exchange confirmation |
 | SORA'S MAP (detailed) | Document examination | Infrastructure drawing confirmation, underground lines |
-| OGAWA THREAD (deep) | Document examination + Fumiko call | Ogawa was cross-referencing Mira's observations |
+| OGAWA THREAD (deep) | Document examination + Fumiko call | Cross-referencing (standard), Nishida report (deepest), almost-call (exchange foreshadow) |
 | ENDO FOLLOW-UP | Phone call | More tells, more leads pointing away, more recalibration |
 
 ---
@@ -5374,7 +5966,7 @@ A purchase six years ago. Another four years later. A cluster over the last thre
 
 MIRA: "What kind?"
 
-[Her voice is thin. Strained. But the question is specific — she wants to know.]
+[Her voice is thin. Strained. The words arrive with visible effort — the signal straining to carry something this personal through a connection that has been thinning for three chapters. But the question is specific — she wants to know.]
 
 KENJI: "The sapling. It's a..."
 
@@ -5422,11 +6014,73 @@ REIKO: "She didn't call back."
 
 [DESIGN NOTE: The static wasn't random — Mira was near the old cable runs, and the exchange bled through. The system that enabled Endo's surveillance destroyed Mira's last call to her mother. The player who has tracked the infrastructure map connects this; the game does not spell it out.]
 
+---
+
+**[PLAYER CHOICE — Response to Reiko]**
+
+> **REASSURE** — "Reiko. You were exhausted. You didn't know."
+>
+> **REDIRECT** — "Where was she calling from?"
+>
+> **REMAIN SILENT** — *Let her carry what she came here to set down.*
+
+[DESIGN NOTE: PRESSURE and BLUFF are absent — they are not available options. This is not a call where information is being withheld. Reiko is volunteering. The game removes the adversarial intents because using them would be cruel, and the cruelty would serve nothing. The player's choice is about what kind of presence to be in the face of confession, not how to extract more.]
+
+---
+
+### Response: REASSURE
+
+KENJI: "Reiko. You were exhausted. You didn't know."
+
+[Silence. Longer than Kenji expected. When Reiko speaks, her voice is lower, quieter — not softened by reassurance, but flattened by it.]
+
+REIKO: "Detective. I am not going to tell you whether I knew. I have spent seven months thinking about what I knew. I have arrived at an answer I will not share with you, because the answer is not yours to carry."
+
+[Beat.]
+
+REIKO: "What I need from you is not absolution. It is the information that lets me understand what the call actually was."
+
+[DESIGN NOTE: Reiko refuses reassurance. Not cruelly — precisely. She has done the work and will not allow Kenji to shortcut it on her behalf. The player who chose REASSURE out of compassion learns that compassion misplaced is its own form of dismissal. This is Reiko's gentlest correction and her most complete. She has become, in grief, someone who cannot be handled.]
+
+---
+
+### Response: REDIRECT
+
 KENJI: "Where was she calling from?"
+
+[Reiko answers immediately — she came prepared with this detail. This is what REDIRECT produces here: not deflection, but permission to stay in the factual register. She can speak about location. She cannot yet speak about what it means.]
 
 REIKO: "The school office phone. She stayed late sometimes — Ms. Aizawa's after-school program. But that day the program ended early because of the staffing change."
 
 [DESIGN NOTE: The staffing change was Ogawa's termination — Endo's committee removed the teacher, which left Mira alone in the building near the infrastructure. The player connects these threads without the game stating it explicitly.]
+
+---
+
+### Response: REMAIN SILENT (Recommended Mechanic)
+
+[The player does not speak. Kenji holds the phone. Reiko has said the sentence she has been carrying — "she didn't call back" — and the game does not fill the space after it.]
+
+[Three seconds. Five. The silence is not awkward. It is correct.]
+
+[When Reiko speaks again, she has chosen what comes next. The player hasn't shaped it. Reiko has arrived at it.]
+
+REIKO: "She was calling from the school office. The program had ended early. The staffing change."
+
+[Beat.]
+
+REIKO: "I didn't know any of that when I heard the static. I just heard bad line and I told my daughter to call back later."
+
+[Beat. Smaller.]
+
+REIKO: "I have replayed that call every night since she died. I can tell you which syllable I was on when she hung up. I can tell you what the static sounded like. I can tell you how many seconds the call lasted — forty-three. I kept the log."
+
+[DESIGN NOTE: SILENCE produces the most complete information. Reiko has been building this confession for seven months, and the player who doesn't interrupt receives it in the shape she has prepared. Both details arrive — the location AND the kept log — because Reiko has space to deliver both. REDIRECT gets the location. REASSURE gets refused. SILENCE gets the log.]
+
+---
+
+### ALL PATHS — CLOSE
+
+Regardless of response, the call ends the same way.
 
 [NOTEBOOK PROMPT: "REIKO — THE STATIC CALL: Mira called from school, ~1 week before death. After-hours (program ended early — Ogawa termination). Line had heavy static — Mira urgent, talking fast, reporting something. Reiko: 'Call back later, the line is bad.' Mira didn't call back. THE STATIC: Not random interference. Mira was near old cable runs. The exchange bled through. Same infrastructure Endo uses = same infrastructure that destroyed Mira's last call to her mother. REIKO'S FINAL FAILURE: She was asleep between shifts. She heard static. She told her daughter to try later. This lands before the notebook scene in Ch 11 — Reiko's full weight arrives there."]
 
@@ -5480,23 +6134,71 @@ MIRA: "He didn't even know us. He just... thought we fit."
 
 ## PATH E: OGAWA THREAD (Deep, Optional)
 
-[This path is available only if the player has been pursuing the Ogawa thread across chapters. Through Fumiko's contacts — or through evidence obtained from Aizawa's newly cooperative state — Kenji discovers what Ogawa was doing before his termination.]
+[This path is available only if the player has been pursuing the Ogawa thread across chapters. Through Fumiko's contacts — or through evidence obtained from Aizawa's newly cooperative state — Kenji discovers what Ogawa was doing before her termination. The path has two sub-layers: the cross-referencing (standard deep) and the Nishida report (deepest).]
+
+### Layer 1: The Cross-Referencing
 
 [Fumiko, if called:]
 
-FUMIKO: "I found someone who worked with Ogawa. Another teacher, now retired. She said Ogawa had started keeping a file. Not an official one — personal notes. He was cross-referencing Mira's observations with his own."
+FUMIKO: "I found someone who worked with Ogawa. Another teacher, now retired. She said Ogawa had started keeping a file. Not an official one — personal notes. She was cross-referencing Mira's observations with her own."
 
 [Beat.]
 
-FUMIKO: "She said he was writing down things Mira told him and then checking them independently. Walking the routes she described. Looking for the car she mentioned. Verifying, the way a journalist verifies. Or the way a detective does."
+FUMIKO: "She said Ogawa was writing down things Mira told her and then checking them independently. Walking the routes she described. Looking for the car she mentioned. Verifying, the way a journalist verifies. Or the way a detective does."
 
-KENJI: "And then he was fired."
+KENJI: "And then she was fired."
 
-FUMIKO: "The committee recommended his position be 'reviewed.' Three weeks later, he was gone. The official reason was performance. The real reason — the one every teacher at the school understood — was that he was acting on information instead of filing it."
+FUMIKO: "The committee recommended her position be 'reviewed.' Three weeks later, she was gone. The official reason was performance. The real reason — the one every teacher at the school understood — was that she was acting on information instead of filing it."
 
-[The player hears the echo from Aizawa's break: "I chose the version of my job that let me sleep." Ogawa chose the other version. The version that meant he didn't sleep but a child might have been heard. The system fired him for it.]
+[The player hears the echo from Aizawa's break: "I chose the version of my job that let me sleep." Ogawa chose the other version. The version that meant she didn't sleep but a child might have been heard. The system fired her for it.]
 
-[NOTEBOOK PROMPT: "OGAWA THREAD (DEEP): Ogawa was cross-referencing Mira's observations independently. Walking routes, checking car sightings, verifying. The firing wasn't random — it was REMOVAL. Ogawa was the one adult beginning to do what Kenji does: treat Mira's observations as data. Endo's committee removed him before the verification could produce results. Same committee that dismissed Mira's reports. Parallel: Ogawa was doing detective work. The system terminated him for it."]
+[NOTEBOOK PROMPT: "OGAWA THREAD (DEEP): Ogawa was cross-referencing Mira's observations independently. Walking routes, checking car sightings, verifying. The firing wasn't random — it was REMOVAL. Ogawa was the one adult beginning to do what Kenji does: treat Mira's observations as data. Endo's committee removed her before the verification could produce results. Same committee that dismissed Mira's reports."]
+
+### Layer 2: The Prior Report (Deepest)
+
+[Available if the player has also accessed exchange records from Ch 10 or if Fumiko's contact provides additional detail.]
+
+FUMIKO: "There's something else. The retired teacher — she said Ogawa had filed a different concern before the one about Mira. Six months earlier. About a teacher's aide named Nishida."
+
+KENJI: "What kind of concern?"
+
+FUMIKO: "Pattern of attention toward specific students. Schedule adjustments. Small gifts. Ogawa flagged it as a grooming concern. Ambiguous — nothing provable, nothing physical. Just a teacher's instinct about a pattern."
+
+KENJI: "What happened to the report?"
+
+FUMIKO: "The safety council reviewed it. The aide was quietly moved to an administrative role at the community center. No investigation. No announcement. Nishida left the city a year later."
+
+[Beat.]
+
+FUMIKO: "The council's minutes describe it as a 'staffing optimization.' Ogawa's original report doesn't appear in the minutes at all."
+
+KENJI: "The concern was never investigated."
+
+FUMIKO: "The concern was never *named.* As far as the official record shows, a part-time aide was transferred for scheduling reasons. The three students Ogawa flagged — their names don't appear anywhere. The question of whether Nishida was dangerous was never answered. It was made to disappear."
+
+[The player who has tracked Endo's method — adjust conditions, let the institution do the work — recognizes the pattern. But this time, the outcome is different. This time, the suppression arguably worked. No Fujisawa. No shattered community. The aide was removed, the students continued, the school survived.]
+
+[NOTEBOOK PROMPT: "OGAWA THREAD (DEEPEST): Before the cross-referencing, before the firing — Ogawa filed a PRIOR report. A teacher's aide, Nishida, showing patterns of targeted attention toward specific students. Endo's council buried it. Nishida quietly transferred. No investigation, no record, no public knowledge. THE CRITICAL DETAIL: the suppression worked. No scandal, no community fracture. Endo prevented the Fujisawa outcome. This is the experiential root of his philosophy — he was RIGHT once about burying truth. That success became the template for burying Mira."]
+
+### The Almost-Call
+
+[Available through Haruki or school records:]
+
+[If the player asks about Ogawa's final days at the school, Haruki remembers something:]
+
+HARUKI: "She mentioned something. The last time I spoke to her — she'd come back after hours to collect her things. She said the phone in her classroom was making sounds."
+
+KENJI: "Sounds?"
+
+HARUKI: "On a dead line. The extension had been deactivated. She said she picked it up and heard... static, but not normal static. Like there was something in it. She said it sounded like a voice."
+
+[Beat.]
+
+HARUKI: "I told her it was the old cable interference. The runs under the school — they've always been noisy. I didn't think about it."
+
+[The player who has been tracking the exchange infrastructure connects this immediately: the dead phone extension was connected to the same cable conduit that carries the switchboard's residual signals. Ogawa heard the exchange. Not clearly. Not enough to understand. But the infrastructure bled through to someone who was already listening, and the system dismissed it as electrical noise.]
+
+[NOTEBOOK PROMPT: "OGAWA — ALMOST-CALL: Ogawa heard audio on a dead phone line in her classroom. Faint, structured static — 'like a voice.' The extension was deactivated but connected to the old cable runs. She heard the EXCHANGE. The infrastructure was active, audible to someone primed to listen. Haruki dismissed it as cable interference. Mira was not the first signal to push through. She was the first one who got through to someone who picked up."]
 
 ---
 
@@ -5506,13 +6208,79 @@ FUMIKO: "The committee recommended his position be 'reviewed.' Three weeks later
 
 ENDO: "How are things progressing, detective? The community has been patient, but I sense people want closure."
 
-[Each question is a calibration check — Endo is mapping how much the investigation knows by measuring what Kenji is willing to share. The player who calls Endo trades information for information, and every piece shared helps Endo adjust.]
+[The same measured rhythm. The same warmth. The same institutional deflection — "the community" wants closure, not "I." But this call is different: Endo is asking, not offering. In Chapter 8, he led with three helpful items. Now he leads with a question. Each question is a calibration check — Endo is mapping how much the investigation knows by measuring what Kenji is willing to share. The player who calls Endo trades information for information, and every piece shared helps Endo adjust.]
 
-[The third tell, if the player listens for it:]
+---
 
-ENDO: "I understand you've been spending time near the school. The cable work along that stretch — they did some renovation a few years back. Tore up the sidewalk. It's been uneven ever since."
+**[PLAYER CHOICE — Endo's Calibration]**
 
-[He mentions the cables casually. The player who has been tracking the infrastructure map hears it: Endo is naming the cables as if they're an inconvenience, a civic maintenance issue. He's normalizing them — ensuring that when Kenji thinks "cables under the school," he thinks "uneven sidewalk," not "surveillance infrastructure."]
+> **BLUFF** — "We're further along than the community probably expects. I'm not at liberty to discuss specifics."
+>
+> **REDIRECT** — "Tell me about the committee's historical responses to parent concerns. I'm reviewing procedural context."
+>
+> **REMAIN SILENT** — *Let him fill the calibration check himself.*
+
+[DESIGN NOTE: REASSURE and PRESSURE are absent. Endo does not need reassurance; he provides it. Pressure makes him recalibrate faster, not crack — the Ch 11 confrontation will test that, but here, with a warrant not yet in hand, pressure would simply accelerate his adjustment. The three available intents each produce a different tell pattern, and the tells are the data. The player's goal is not to extract a confession. It is to map the shape of what Endo avoids.]
+
+---
+
+### Response: BLUFF
+
+KENJI: "We're further along than the community probably expects. I'm not at liberty to discuss specifics."
+
+[Silence. Not Endo's measured three-second pause — a shorter silence. A calibration, not a performance.]
+
+ENDO: "Of course. I understand. I appreciate your discretion."
+
+[Beat.]
+
+ENDO: "Detective, I'd like to mention — purely as context, not as interference — that the council has an upcoming meeting where community members will be asking about the case. I've been preparing remarks that emphasize the importance of thorough process over hasty conclusion. I think that framing tends to serve everyone's interests. The family. The community. The investigation. Hasty conclusions have damaged cases before — you know this better than I do."
+
+[DESIGN NOTE: The bluff made Endo retreat — not because he believed Kenji has more, but because he believed Kenji might. His response is a preemptive insurance policy. He is laying groundwork, in advance, to frame any impending arrest as "hasty." The phrase "hasty conclusions have damaged cases before" is the tell: Endo is already preparing the community narrative for the scenario where Kenji moves. The bluff revealed not what Endo is hiding, but what he is preparing.]
+
+[NOTEBOOK PROMPT: "ENDO — BLUFF RESPONSE: Retreats preemptively. Preparing council remarks that frame 'thorough process over hasty conclusion.' He is pre-staging the community narrative for the scenario where an arrest happens. The framing will be: the detective moved too quickly. Every NPC Endo reaches before Ch 12 will have heard this framing first."]
+
+---
+
+### Response: REDIRECT
+
+KENJI: "Tell me about the committee's historical responses to parent concerns. I'm reviewing procedural context."
+
+[The longest of Endo's tell-pauses in the game so far. Not dramatic — analytical. He is selecting which direction to redirect. The player who has learned to track Endo's redirections hears the selection happening in real time.]
+
+ENDO: "An excellent question. The committee has processed — I would estimate — seventy-five to eighty-five parent concerns over my tenure. Our approach has evolved. The earlier years were more reactive; we've moved toward a more preventive framework. Anticipating concerns. Addressing them through programming rather than reviewing them after they arise."
+
+[Beat. He continues, steering.]
+
+ENDO: "For instance, the playground renovation I mentioned earlier was driven partly by anticipatory analysis — we observed that equipment deterioration correlates with behavioral incident frequency. Replace the equipment, prevent the incidents. That's the kind of work the council prefers to emphasize."
+
+[DESIGN NOTE: Endo redirected away from "historical responses to parent concerns" into "equipment deterioration." The move is the data. The player asked about behavioral reports; Endo answered about playground maintenance. The shape of the redirect is the shape of what he is protecting: he will discuss council process only in terms of infrastructure. Every time Kenji steers toward people, Endo steers toward objects. This is the key tell for the Ch 11 confrontation — Endo's redirections map the boundary of his method, which is the method of converting people into procedural artifacts.]
+
+[NOTEBOOK PROMPT: "ENDO — REDIRECT TELL: Asked about behavioral concern responses. Answered about playground equipment deterioration. Steered from people to objects. This is his method: every committee decision reframed as infrastructure. The redirect is the boundary — Endo will not speak about the people the committee processed. Only about the things the committee maintained."]
+
+---
+
+### Response: REMAIN SILENT
+
+[Kenji does not respond to Endo's calibration question. The line stays open. The measured warmth on Endo's side does not falter — he is comfortable in silence, unlike most NPCs — but the player who has been tracking his rhythm hears something in the silence itself. Endo does not fill it. He holds it. And the holding is its own tell: he is willing to let the silence extend, because extending the silence means Kenji has to be the one to break it.]
+
+[This is the counter-mechanic. Endo knows what SILENCE does. He has watched Kenji use it on other NPCs through the exchange. He will not be the one to break a silence first.]
+
+[Five seconds. Eight. Ten.]
+
+[Eventually, Endo breaks the pattern — but not the way a pressured NPC would. He breaks it because the call has a purpose and the purpose is not served by dead air.]
+
+ENDO: "I'll let you get back to your work, detective. I wanted to be available — if there's anything the council can provide, please let me know. And — one thing, before I let you go. I understand you've been spending time near the school. The cable work along that stretch — they did some renovation a few years back. Tore up the sidewalk. It's been uneven ever since."
+
+[DESIGN NOTE: SILENCE here produces the cable tell because Endo, denied a calibration signal, defaults to the information he most wants Kenji to have. He tells Kenji the cables are "renovation" because he cannot resist the preemptive frame even when there is no conversational pressure to deliver it. This is the deepest tell in Path F: Endo's instincts still pre-frame information even when nobody is asking him to. The player who uses SILENCE learns that Endo's helpfulness is not responsive — it is compulsive. He is not helping because Kenji needs help. He is helping because he cannot stop preparing the ground for what the investigation might find.]
+
+---
+
+### All Paths: The Cables
+
+Regardless of the player's response, the call lands the third tell. In the BLUFF and REDIRECT paths, it arrives as a casual aside after Endo's preferred direction has been established. In the SILENCE path, it arrives as Endo's default output.
+
+[He mentions the cables casually — a civic maintenance detail, a helpful aside. But the player who has been tracking the infrastructure map hears the precision: Endo is naming the cables before Kenji can. Preemptively normalizing them — ensuring that when Kenji thinks "cables under the school," the first association is "uneven sidewalk," not "surveillance infrastructure." He did this in Chapter 8 with Fumiko: preemptively framing her as unreliable before the detective could integrate her analysis. The same move. The same pattern. Always arriving first to define what the evidence means.]
 
 [NOTEBOOK PROMPT: "ENDO — TELL #3: Mentions cable work near school casually — 'they did some renovation.' Normalizing the infrastructure. He knows the cables are part of the investigation's evidence chain and is preemptively reframing them as municipal maintenance. Same pattern: helpful information that reshapes context."]
 
@@ -5538,7 +6306,7 @@ KENJI: "Yeah."
 
 MIRA: "Sora is alive."
 
-[Not a question. Not a hope. A statement — delivered with the certainty that only Mira has, the clarity that is both her gift and the thing the system could not tolerate.]
+[Not a question. Not a hope. A statement — delivered with the certainty that only Mira has, the clarity that is both her gift and the thing the system could not tolerate. For one sentence, she sounds like the Mira from Chapter 1: precise, direct, sure. The signal clears as if the importance of the information pulled the voice into focus. It won't last. But for this one sentence, she is fully present.]
 
 KENJI: "How do you know?"
 
@@ -5562,7 +6330,9 @@ MIRA: "When I happened."
 - The garden: botanical timeline confirmed. One plant per disappearance. Final two: shrub ~3 weeks pre-Mira (Sora), sapling day after (Mira). Three-week gap maps the sequence. Pattern proven through botany.
 - Reiko's static call: Mira called from school ~1 week before death. Heavy static — exchange bleed-through. Reiko sleeping between shifts. "Call back later, the line is bad." Mira didn't call back. The exchange destroyed the last call and enabled the surveillance.
 - Sora's map recontextualized: underground lines match Fumiko's cable routes. Sora was mapping the switchboard from surface observation. Endo planted the page without examining it.
-- [If Ogawa] Ogawa was cross-referencing Mira's observations independently — walking routes, verifying car sightings. Committee fired him for beginning to act on information. Same committee, same chair.
+- [If Ogawa] Ogawa was cross-referencing Mira's observations independently — walking routes, verifying car sightings. Committee fired her for beginning to act on information. Same committee, same chair.
+- [If Ogawa deep] Ogawa had filed a prior report about aide Nishida — ambiguous grooming concern. Endo buried it. Nishida quietly transferred. Community survived. Endo's philosophy has experiential roots.
+- [If Ogawa deep] Ogawa heard audio on a dead phone line — the exchange bleeding through. Mira was not the first signal. She was the first one who got through.
 - [If Endo called] Tell #3: Endo normalizes cable infrastructure as municipal maintenance. Preemptive reframing.
 - Sora is alive — Mira's inference from the garden timeline. Two plants means two events, separated by three weeks. Sora was held, not killed immediately.
 
@@ -5611,6 +6381,7 @@ The chapter has no single peak — it has a sustained crescendo. Each path produ
 ---
 
 **END CHAPTER 9**
+
 # CHAPTER 10 — Sora
 
 ## Chapter Overview
@@ -5638,7 +6409,7 @@ The chapter has no single peak — it has a sustained crescendo. Each path produ
 
 [VISUAL: Morning. Kenji's desk. The evidence from Chapter 9 is organized — not in clusters anymore, but in a single chain. Framing documents, nursery receipts, infrastructure map, Sora's map page, Endo's tell log. Each piece connects to the next. The desk has become a timeline.]
 
-[AUDIO: Silence from Mira. She is in her Ch 8-9 state — conserving, present but not speaking. The apartment's quiet has the quality of a held breath.]
+[AUDIO: Silence from Mira. The voice that once filled every transition with commentary, that made jokes during evidence review and observations during calls — conserving. Present but not speaking. The wire-sound carries the rough crackle that has been building since Chapter 6. The apartment's quiet has the quality of a held breath.]
 
 [Kenji reviews the timeline. He is not investigating anymore. He is confirming.]
 
@@ -5648,13 +6419,37 @@ KENJI: "Sora Hayashi. Eight years old. Last seen walking home from a piano lesso
 
 KENJI: "Endo knew the schedule. The safety council maintains after-school program records. The piano teacher's illness was discussed at a council meeting — I confirmed through the meeting minutes Fumiko obtained. Endo had access to the schedule change before anyone outside the school."
 
-[He continues:]
+[AUDIO: The crackle shifts. Not louder — directional. Mira is paying attention.]
+
+MIRA: "Piano lessons."
+
+[Two words. The first she's spoken this chapter. The wire-sound thickens around each syllable — speaking costs her now, and she's been conserving for a reason.]
+
+MIRA: "He changed his route for piano lessons. That's — that's such a small thing to die for."
+
+[She doesn't say anything else. But the player hears what's underneath: Mira changed her route too. Different school, different day, different small deviation from routine. The pattern that caught Sora caught her.]
+
+[Kenji writes:]
 
 KENJI: "Three weeks later, Mira Kitahara. The nursery receipt gap confirms the sequence — Sora first, then Mira. The garden confirms the pattern. The framing confirms the method: council-level access, council formatting, post-death fabrication."
 
-[He stops writing. Looks at the infrastructure map spread beneath everything else — Fumiko's red annotations marking the cable routes under Yanagi.]
+MIRA: "Say it."
 
-KENJI: "What I don't have is the location."
+[Kenji stops writing.]
+
+MIRA: "You've got the sequence, you've got the method, you've got the access. You're writing around the sentence. Say it."
+
+KENJI: "Endo Masato used his position as safety council chair to identify, track, and abduct children in Yanagi. He used the town's own child protection infrastructure as his selection system."
+
+[Silence. Not degradation silence. The silence after something has been named.]
+
+MIRA: "There it is."
+
+[Her voice is thin — the exchanges have cost her. But there is something in the flatness that isn't fatigue. It's the sound of a dead girl hearing her own murder described in a detective's case notes. Filed. Categorized. Made official.]
+
+MIRA: "Now you need the location."
+
+[He looks at the infrastructure map spread beneath everything else — Fumiko's red annotations marking the cable routes under Yanagi.]
 
 [He picks up the map. Traces the cable routes with his finger. They converge. Every major run — from the school, from the residential blocks, from the commercial district — feeds back to a single point. The community center.]
 
@@ -5668,7 +6463,19 @@ KENJI: "What I don't have is the location."
 
 [They align.]
 
-[Not perfectly. Sora's lines are a child's approximation. Fumiko's routes are a journalist's research. Kenji's dots are a detective's pattern analysis. But the geometry converges: Endo's informational access is strongest along the cable runs. His knowledge is densest near the junctions. And every line feeds back to the community center basement.]
+[Not perfectly. Sora's lines are a child's approximation — colored pencil on notebook paper, the underground drawn the way an eight-year-old draws it: important things bigger, boring things smaller, the cables like roots of a tree he was mapping for fun. Fumiko's routes are a journalist's research — precise, sourced, annotated with dates. Kenji's dots are a detective's pattern analysis. Three people who never collaborated, producing the same geometry.]
+
+[The convergence point is unmistakable. Every line feeds back to the community center basement.]
+
+MIRA: "Sora drew the cables."
+
+[Her voice crackles — thin, spending what she doesn't have.]
+
+MIRA: "An eight-year-old drew the cables under his town and nobody asked why he was interested."
+
+[Beat.]
+
+MIRA: "He was mapping the thing that was watching him. And nobody noticed because it looked like a kid's art project."
 
 KENJI: "His information follows the cables. He knows more about families who live near the old runs. He knows less about families in the newer developments where the cables don't reach."
 
@@ -5708,7 +6515,7 @@ FUMIKO: "Find the boy, detective."
 
 MIRA: "..."
 
-[A long pause. Longer than degradation would explain.]
+[A long pause. The read takes eight, nine seconds to begin — an eternity compared to Chapter 3's instant reads, longer even than Chapter 8's five-second delays. When it arrives, the voice is thin, stripped to essentials:]
 
 MIRA: "She's tired. Like the kind of tired where you've been carrying something heavy and someone finally says you can set it down but your arms don't remember how."
 
@@ -5730,17 +6537,25 @@ MIRA: "She's tired. Like the kind of tired where you've been carrying something 
 
 [It is not noise. It is the sound of infrastructure that never fully died.]
 
-[The bridge number is an old exchange junction point — a routing address from the original switching system, never decommissioned, never reassigned. When called, it doesn't connect to a phone. It connects to the exchange itself. The structured static is the residual charge of copper wire that carried decades of voices — compressed, layered, still faintly resonant. The phone system remembering.]
+KENJI: "It's not a phone number."
 
-[NOTEBOOK PROMPT: "BRIDGE NUMBER RESOLVED: The anomaly from Ch 3 was an old exchange junction point. Not a phone number — a routing address for the original switching system. The structured static = residual charge in copper wires. Decades of voices, compressed into the infrastructure. The phone system remembering. This is the same infrastructure Endo uses. The bridge — where Mira was found — is on the cable run. She was found at a node in the system that killed her."]
+[He checks Fumiko's cable map. The bridge location — where Mira's body was found — sits directly on a cable run. A junction point.]
+
+KENJI: "It's a routing address. From the old switching system. When I dial this, I'm not calling a phone — I'm calling the exchange itself."
+
+[He listens. The structured static takes on a different character now that he understands what he's hearing: residual charge in copper wire. Decades of voices compressed into the infrastructure. The phone system remembering.]
 
 MIRA: "I know that sound."
 
-[Her voice is thin. Strained. But the recognition is immediate.]
+[Her voice is thin. Strained. But the recognition is immediate — not intellectual but physical, the way a heartbeat recognizes its own rhythm.]
 
-MIRA: "I've always known that sound."
+MIRA: "That's what I sound like from the outside."
 
-[She doesn't explain. She doesn't need to. She is a signal in infrastructure built to carry signals like hers. The structured static is the sound of the system she has been part of since her death — and the system Endo has been using since long before.]
+[Beat.]
+
+MIRA: "I've always known that sound. I just didn't know it was me."
+
+[NOTEBOOK PROMPT: "BRIDGE NUMBER RESOLVED: The anomaly from Ch 3 was an old exchange junction point. Not a phone number — a routing address for the original switching system. The structured static = residual charge in copper wires. Decades of voices, compressed into the infrastructure. The phone system remembering. This is the same infrastructure Endo uses. The bridge — where Mira was found — is on the cable run. She was found at a node in the system that killed her."]
 
 ---
 
@@ -5802,9 +6617,21 @@ MIRA: "They're here. The other kids. They've been here the whole time."
 
 [Her voice changes again. Not the clarity — the register. Something underneath the words that the player has never heard from Mira before. Not sarcasm. Not control. Not grief. Something closer to *recognition.*]
 
-MIRA: "Not voices. Not like me. Impressions. Like — like fingerprints on a window. They spoke into the system and the system kept what they felt. Fear. Confusion. A girl who was asking for her mom. A boy who was describing a room."
+MIRA: "Not voices. Not like me. Impressions. Like — like fingerprints on a window. They spoke into the system and the system kept what they felt. Fear. Confusion. A girl who was asking for her mom."
 
-[She stops.]
+[She pauses. Listening to something the player can almost hear — a faint signal beneath the structured static, thin and high, a child's frequency.]
+
+MIRA: "And a boy. He's — he's describing a room."
+
+[AUDIO: Through the exchange, barely audible, the impression of a child's voice. Not words — the ghost of words. But the player catches fragments, calm and methodical: "...small..." "...the pipe makes a sound when it gets cold..." "...there's a blanket but it smells like dust..." The voice is not panicking. Not crying. A boy cataloguing his surroundings the way a careful child does — paying attention because paying attention is the only thing he can control.]
+
+MIRA: "He's doing what I did."
+
+[Her voice breaks — not from degradation. From recognition.]
+
+MIRA: "He's in a room he can't leave, and he's making notes. Like if he describes it well enough, someone will hear."
+
+[Beat.]
 
 MIRA: "Nobody picked up."
 
@@ -5890,7 +6717,7 @@ MIRA: "He remembered my voice better than my mom does."
 
 MIRA: "I don't want to be in his collection. I want to be in your filing cabinet. The messy one. With the dead phones."
 
-[A beat. Almost a laugh — not quite, but the shape of one. The first humor since Chapter 6. The amplification has given her this: one chapter of being fully herself before the signal degrades again.]
+[A beat. Almost a laugh — not quite, but the shape of one. The first humor since the math joke in Chapter 6 — four chapters of silence where Mira's jokes used to be, and the player didn't notice the absence until this moment, when the presence returns. The amplification has given her this: one chapter of being fully herself before the signal degrades again.]
 
 MIRA: "Let's go get Sora."
 
@@ -5959,6 +6786,8 @@ AIZAWA: "I'll file the welfare check within the hour."
 
 [SOUL READ — AIZAWA (Second)]
 
+[The read arrives instantly — no delay, no searching, no five-second gap. The way reads used to arrive in Chapter 3, before the signal began to thin. The amplification has restored what degradation took: speed, clarity, the impression waiting before the question finishes forming.]
+
 MIRA: "She's lighter. Not happy — lighter. Like someone who's been holding their breath for years and just... exhaled. The sanitizer smell is gone."
 
 [Beat.]
@@ -6015,7 +6844,7 @@ KENJI: "The safety council that receives reports about children is chaired by th
 
 MIRA: "Kenji."
 
-[Her voice is clear. Present. The amplification is still holding — but underneath it, the player who has been listening for ten chapters can hear something new. A faint edge of static. The signal is already beginning to degrade. The exchange room boosted her, but the boost is temporary. The infrastructure carries her, but the infrastructure is old, and old systems lose charge.]
+[Her voice is clear. Present. The amplification is still holding — but underneath it, the player who has been listening for ten chapters can hear something new. A faint edge of static — the same wire-sound thinning that started in Chapter 4, that built through Chapter 6's silences and Chapter 8's stripped sentences. It's back. Faint, but back. The exchange room boosted her, but the boost is temporary. The infrastructure carries her, but the infrastructure is old, and old systems lose charge.]
 
 MIRA: "Tomorrow you're going to corner him. You're going to lay out everything we have and he's going to try to redirect you the way he redirects everyone. And then you're going to go to that substation and you're going to find Sora."
 
@@ -6097,6 +6926,7 @@ The chapter is a threshold. Everything before it was phone-based — voices, cal
 ---
 
 **END CHAPTER 10**
+
 # CHAPTER 11 — Cornering Endo
 
 ## Chapter Overview
@@ -6123,11 +6953,11 @@ The chapter is a threshold. Everything before it was phone-based — voices, cal
 
 [VISUAL: Morning. Kenji's apartment. The desk is organized — evidence from the exchange room, photographs of Endo's notebook pages, the infrastructure maps. Everything is ready. Everything points to the same man.]
 
-[AUDIO: Static. Faint, constant, underneath the silence. The sound of a signal degrading. Mira's presence in the room has changed — she was clear last night, present, sharp. Now the line has the quality of a phone call from very far away.]
+[AUDIO: Static. Not the faint crackle that built between Chapters 4 and 9 — something denser, heavier, the sound of a signal that surged and burned. The wire-sound that was clean in the exchange room twelve hours ago now carries the rough texture of a line pushed past its capacity. Mira's presence in the room has changed — she was clear last night, present, sharp. Now the line has the quality of a phone call from very far away.]
 
 KENJI: "Mira."
 
-[Silence. Three seconds. Then:]
+[Silence. Three seconds. Five. Seven. In Chapter 3, she would have answered before the name finished. In Chapter 10, she answered instantly — the exchange room carrying her voice the way it was designed to. Now: seven seconds of static before a single word arrives.]
 
 MIRA: "Here."
 
@@ -6319,9 +7149,11 @@ FUMIKO: "He signed off on the room being sealed every year while using it three 
 
 [SOUL READ — FUMIKO (attempted)]
 
+[The read takes twelve seconds to begin — longer than any previous read in the game. When it arrives, the voice is already fraying:]
+
 MIRA: "She's... focused. Sharp. Like a —"
 
-[The read cuts out. Static fills the line for two seconds. When Mira returns, her voice is thinner.]
+[The read cuts out. Static fills the line for two seconds — the same wire-sound thinning from Chapter 4, but sustained, total, as if the signal that once carried a word late now can't carry the word at all. When Mira returns, her voice is thinner.]
 
 MIRA: "Sorry. Lost it."
 
@@ -6435,9 +7267,11 @@ DOI: "He was the most trusted person in the neighborhood. I didn't tell him thin
 
 [The meeting room is the same one where the safety council convenes. Folding chairs arranged around a long table. A whiteboard with the council's agenda from last week still written on it. Endo's name at the top: CHAIR.]
 
-[Endo is already there when Kenji arrives. He stands to greet him — warm, composed, the posture of a man who is accustomed to being the most prepared person in any room.]
+[Endo is already there when Kenji arrives. He stands to greet him — warm, composed, the posture of a man who is accustomed to being the most prepared person in any room. His hands are at his sides. His breathing is even. He has the physical stillness of someone who has been sitting in a chair for hours, listening, and has not needed to shift his weight once. The same stillness the player saw described in the exchange room: the chair at fifteen degrees, the four worn depressions in concrete.]
 
 ENDO: "Detective. Thank you for keeping me updated. The community appreciates your diligence."
+
+[He says "the community" the way he always says it — as though the community were a person he represents, a client whose interests he manages. Not "I appreciate it." Never "I." In his helpful mode, Endo disappears behind institutions. The community appreciates. The council takes seriously. The process handles. He is the conductor who gestures at the orchestra when the audience applauds.]
 
 [MECHANIC: The confrontation operates on the REDIRECT mechanic. The player must present specific contradictions. Endo will not break — he will adjust. The shape of his adjustments maps the boundary of what he's protecting. The player tracks WHERE he redirects, not WHETHER he cracks.]
 
@@ -6461,9 +7295,13 @@ ENDO: "Behavioral reports require careful assessment. Many reflect genuine conce
 
 KENJI: "Six of the forty were filed by Mira Kitahara."
 
-[A pause — imperceptible to anyone who hasn't been tracking Endo across five chapters of phone calls. The pause of a man recalibrating, not a man surprised.]
+[A pause — imperceptible to anyone who hasn't been tracking Endo across five chapters of phone calls. Not the measured three-second pause he deploys for warmth. This is shorter. Tighter. A recalibration, not a performance. The player who learned Endo's rhythm in Chapter 8 — who heard him count every rest like a conductor — can feel the beat land wrong.]
 
-ENDO: "Mira was a remarkable child. Her observations were often accurate. She was also nine years old, and nine-year-olds sometimes see connections that aren't there. The council's assessment was that her reports, while earnest, didn't rise to the level of actionable concern."
+ENDO: "Mira was a remarkable child."
+
+[He says her name the same way he said it in Chapter 8 — the pitch dropping, the consonants softening. The intimacy of a man who has said this name in private, many times, to no one.]
+
+ENDO: "Her observations were often accurate. She was also nine years old, and nine-year-olds sometimes see connections that aren't there. The council's assessment was that her reports, while earnest, didn't rise to the level of actionable concern."
 
 ---
 
@@ -6481,11 +7319,11 @@ KENJI: "Mira's reports were written. Filed through the school office. The counci
 
 KENJI: "How did you hear her hesitate?"
 
-[The silence that follows is the first silence Endo hasn't filled. Three seconds. The player who has listened to Endo fill every silence with helpful information — across five chapters, across a dozen conversations — hears the absence and recognizes it.]
+[The silence that follows is the first silence Endo hasn't filled. Not the measured three-second rest he deployed in Chapter 8. Not the comfortable fill of a man managing dead air. This silence is *empty* — a conductor who has lost the beat. Three seconds. Four. The player who has listened to Endo fill every silence with helpful information — across five chapters, across a dozen conversations — hears the absence the way they hear Mira's missing jokes: by feeling the shape of what should be there.]
 
 ENDO: "I've spoken with Mira on several occasions. School events, community functions. I'm sure I'm recalling one of those interactions."
 
-[The answer is smooth. Plausible. Defensible. But the player who has been tracking Endo's tells across the game hears the seam: he is not explaining. He is *selecting* an explanation. The difference is in the rhythm — the half-beat delay before "I've spoken with Mira" that indicates retrieval rather than recall. He is choosing which memory to offer, not sharing the one he has.]
+[The answer is smooth. Plausible. Defensible. But the player who has been tracking Endo's tells hears the seam: the half-beat delay before "I've spoken with Mira" is retrieval, not recall. He is selecting which memory to offer — sorting through the hours of listening, the intimate knowledge of her voice through copper, the breath she took before reporting — and choosing the version that can survive scrutiny. For the first time in the game, Endo is editing in real time.]
 
 ---
 
@@ -6523,7 +7361,7 @@ ENDO: "I think you're constructing a narrative from coincidence. Cable routes an
 
 ENDO: "I'm not sure where you're going with this, detective."
 
-[That sentence — delivered calmly, without hostility — is the first crack. Not emotional. Structural. The first time in the game Endo has not answered a question. He is no longer managing information. He is managing the investigator.]
+[That sentence — delivered calmly, without hostility — is the first crack. Not emotional. Structural. For the first time in the game, Endo has not answered a question. No offered context. No three-item list of helpful leads. No institutional buffer. Just a sentence that manages the investigator instead of the information. The conductor has stopped playing the music and turned to face the audience.]
 
 [BLUFF response — Endo recalibrates. His posture doesn't change, but the rhythm of his breathing does:]
 
@@ -6555,15 +7393,15 @@ ENDO: "You're looking at this from a very specific angle, detective."
 
 ### Phase 4: The Shift
 
-[The conversation changes register. Endo is no longer offering information. He is managing the frame.]
+[The conversation changes register. Endo is no longer offering information. He is managing the frame. And for the first time, he uses "I." Not "the community." Not "the council." Not "we." The institutional buffer drops and the man behind it stands up.]
 
 ENDO: "Communities require management. You understand that. Every neighborhood has its difficulties — families in crisis, children at risk, systems that don't respond fast enough. Someone has to hold it together. Someone has to know what's happening and make decisions about how to respond."
 
 KENJI: "And when a child reports something accurate? When a nine-year-old files six observations and every one traces back to the same access pattern?"
 
-ENDO: "I've given more to this neighborhood than anyone in this room. That should count for something."
+ENDO: "*I've* given more to this neighborhood than anyone in this room. That should count for something."
 
-[The player hears the shift: *should count for something.* Endo is no longer redirecting. He is bargaining. Not for mercy — for credit. For recognition that his decades of genuine service — the drainage problems, the school funding, the volunteer searches, the committee work — are part of the ledger. That the column of good should offset the column of horror.]
+[The player hears two things. First: *should count for something* — Endo is no longer redirecting. He is bargaining. Not for mercy — for credit. For recognition that his decades of genuine service — the drainage problems, the school funding, the volunteer searches, the committee work — are part of the ledger. Second: *I've.* The emphasis is slight, but it's the first time Endo has claimed personal ownership rather than institutional credit. The conductor has stepped out from behind the orchestra. He is no longer gesturing at the community when the audience applauds. He is saying: this was me. All of it. The good and the thing you're about to name.]
 
 KENJI: "It doesn't."
 
@@ -6571,23 +7409,45 @@ KENJI: "It doesn't."
 
 [Three seconds. Five. Seven.]
 
+[DESIGN NOTE: If the player has uncovered the Nishida thread (Ogawa's prior report, deep Ch 9 path), Endo references Fujisawa. If not, he skips to "You call her honest." The Fujisawa argument is his strongest moment — a specific case where truth suppression prevented worse damage. Available only to players who dug deep enough to earn it.]
+
+[IF NISHIDA THREAD DISCOVERED:]
+
+ENDO: "Do you know what happened in Fujisawa, detective?"
+
+[His voice is calm. Not performing. Not bargaining. The voice of a man presenting evidence he has carried for years.]
+
+ENDO: "A teacher filed a report. Ambiguous. Observational. No evidence beyond one person's instinct. The district investigated publicly. Four months. The school lost its after-school program. Three staff were reassigned — not the accused, the ones associated with the investigation. Twenty-two families pulled their children. The man who was named was never charged. Never exonerated. Eighteen months later, he was dead."
+
+[Beat.]
+
+ENDO: "I watched that happen. I was on an advisory panel for the prefecture. I read the reports. I saw what an ambiguous truth, handled by a system that is not equipped to handle ambiguity, does to a community. It doesn't produce justice. It produces damage."
+
+[He pauses. When he continues, the warmth is gone. What remains is conviction — the quiet certainty Mira described in her read: *he's never not sure.*]
+
+ENDO: "A teacher at this school filed a similar report. Ambiguous. Observational. I chose the version where Fujisawa didn't happen here. The aide was moved. The school continued. No families fractured. No man died. You call it silencing. I call it choosing the outcome where the fewest people are destroyed by something that was never proven."
+
+[The player who has tracked the Nishida thread through Fumiko or the exchange records hears Endo justify his philosophy with a specific case — and cannot easily dismiss it. The Fujisawa outcome was real. The damage was real. Endo's intervention in the Nishida case prevented that damage. The horror is not that he's wrong. The horror is that the same logic, applied to Mira, produced a dead child.]
+
+[END CONDITIONAL]
+
 ENDO: "You call her honest. I call her unfinished."
 
 [His voice is calm. Quiet. Without hostility or performance.]
 
 ENDO: "Do you know what the world does to children who keep speaking? It breaks them. I know. It broke me first."
 
-[DESIGN NOTE: Endo is correct about the diagnosis — how communities treat clarity, how systems absorb truth. He is wrong about the prescription. The player cannot dismiss him as delusional; they can only disagree with his conclusion. That gap is the final horror.]
+[DESIGN NOTE: With the Fujisawa argument, Phase 4 operates on two levels. The abstract philosophy ("communities require management") is Endo's fallback for all players. The Fujisawa evidence is the version that produces genuine hesitation — available only to players who invested in the Ogawa thread. The reward for deep investigation is not more certainty about the villain. It is less.]
 
-[AUDIO: Mira. Faint. Through the crash. Through the static. Through everything that has reduced her voice to almost nothing.]
+[AUDIO: Mira. Faint. Through the crash. Through the static. Through everything that has reduced her voice to almost nothing. Her words arrive the way they did in Chapter 7's close — the sound of her voice reaching Kenji before the meaning does, structured audio resolving into language a half-second late.]
 
 MIRA: "He's... not wrong about what happens."
 
-[Beat. The static thickens.]
+[Beat. The static thickens. The wire-sound roughens.]
 
 MIRA: "He's wrong about what it means."
 
-[The read — if it is a read — cuts out. Mira does not speak again for the rest of the scene.]
+[The read — if it is a read — cuts out. The wire-sound fills with the same structured static from the bridge number — the infrastructure remembering, but no longer carrying her voice through it. Mira does not speak again for the rest of the scene.]
 
 ---
 
@@ -6601,7 +7461,7 @@ KENJI: "The decommissioned substation on Higashi Street. You conduct the annual 
 
 ENDO: "I think this conversation should include legal counsel."
 
-[He says this with the same calm he has used for everything. But the player who has spent eleven chapters learning to listen hears what the sentence means: Endo is no longer managing the investigation. He is managing his exposure. The boundary of the secret has been reached. The shape of his redirections — cable normalization, community service, philosophical justification — maps everything he was protecting. And what he was protecting is a building three blocks away where a boy has been held for almost a month.]
+[Seven words. Delivered with the same measured rhythm — the conductor's counted rest, the three-second pause, the warmth that never wavers. But the player who has spent eleven chapters learning to listen hears what has changed: for the first time, Endo has asked for something. Not offered. Not provided. Not managed. Asked. The most helpful person in Yanagi has produced his first non-helpful sentence. He is no longer managing the investigation. He is managing his exposure. The boundary of the secret has been reached. The shape of his redirections — cable normalization, community service, philosophical justification — maps everything he was protecting. And what he was protecting is a building three blocks away where a boy has been held for almost a month.]
 
 KENJI: "You're within your rights."
 
@@ -6615,11 +7475,11 @@ KENJI: "You're within your rights."
 
 [VISUAL: Night. Kenji's apartment. The desk is covered with the assembled case — Fumiko's documentation, Haruki's committee records, Kaito's observation logs, Aizawa's copies, Doi's testimony, the exchange room photographs, the nursery receipts, the notebook. Twelve chapters of investigation reduced to a stack of evidence on a desk in a small apartment.]
 
-[The phone is on the desk. Mira's signal is the weakest it has been since Chapter 1. Not the structured static of a degrading connection — something thinner, fainter, like a radio station receding as you drive away from the tower.]
+[The phone is on the desk. Mira's signal is the weakest it has been since the first night. Not the structured static of a degrading connection — something thinner, fainter, like a radio station receding as you drive away from the tower. The wire-sound that has been the constant underneath her voice for twelve chapters is barely audible.]
 
 KENJI: "Mira."
 
-[Three seconds. Four.]
+[Three seconds. Four. Five. Six. The longest she has ever taken to answer — longer even than this morning's seven seconds, longer than any degradation delay in the game. Each second measures the distance between the Mira who answered before her name finished in Chapter 3 and the signal that remains.]
 
 MIRA: "...here."
 
@@ -6649,13 +7509,279 @@ MIRA: "...don't lose."
 
 [She goes quiet. The static remains — thin, constant, the sound of a signal that is still there, still present, still refusing to disconnect, the same way it has refused since 3:47 AM on the first night of the investigation.]
 
-[Kenji sits at the desk. He looks at the evidence. He looks at the phone. He looks at the drawer where he keeps the dead phones — six of them, from cases that ended, connections that went silent, numbers that stopped ringing.]
+[Kenji sits at the desk. He looks at the evidence. He looks at the phone. He looks at the drawer where he keeps the dead phones — five of them, from cases that ended, connections that went silent, numbers that stopped ringing.]
 
 [Tomorrow: the switchboard duel. Endo will burn through every social connection he's built in fifteen years. The player will counter with twelve chapters of trust. Limited calls. Time pressure. And a girl in the wires, fading, listening, refusing to be the last voice that goes unheard.]
 
 ---
 
-## END-OF-CHAPTER STATE
+## SCENE 6: 3 AM
+
+[VISUAL: The apartment, much later. The lamp is still on. The evidence is still on the desk. Kenji is on the bed with his shoes on — he tried to sleep and found, within ten minutes, that sleep was not a tool available to him tonight. He is staring at the ceiling.]
+
+[AUDIO: The fridge. The clock. The distant Chuo line. All the usual. And underneath it — the wire-sound, steady tonight, not crackling. Not amplified. Just present. The way a pilot light is present in a gas stove.]
+
+[He gets up. Crosses the apartment. Picks up the phone. Stands there with it in his hand for a while before he speaks.]
+
+KENJI: "Mira."
+
+[Beat. Four seconds. Five. The signal takes a moment to find him.]
+
+MIRA: "...I'm here."
+
+[Her voice is thin. Not degraded the way it was this morning — quieter. Conserved. She has been saving something for this. She doesn't say that. But the quality of how present she is tells the player: she was waiting.]
+
+[Kenji sits down. Not at the desk. On the floor, with his back against the side of it. The player has never seen him sit on the floor before.]
+
+KENJI: "I can't stop thinking about tomorrow."
+
+MIRA: "I know."
+
+KENJI: "And I don't want to talk about it."
+
+MIRA: "I know that too."
+
+[AUDIO: The refrigerator cycles on. Six seconds. Clicks off.]
+
+[A long silence. Not awkward. The silence of two people sitting in the same room who have decided they are not going to fill it.]
+
+KENJI: "My mother used to cook on New Year's."
+
+[The sentence arrives without setup. Mira doesn't ask. She waits.]
+
+KENJI: "She'd use the same cookbook every year. Always the same page — ozoni, but her version, the one her mother made. She had notes in the margins. Corrections. 'Less sake.' 'More time.' Some of them were in her handwriting. Some were in her mother's. It was a cookbook two women had been writing in for forty years."
+
+[He stops. The cookbook is on the counter, ten feet from him, open to that page. It has been open to that page since before the case began.]
+
+KENJI: "She died four years ago. I can't cook. I keep the book open because the page is a place where she is still... where she's — I can look at the page and see her holding a teacup in her left hand. That's the detail I have. She always stirred with her right and held her tea with her left. That's what I remember. I keep the book open so I don't forget which hand."
+
+[Silence. The wire-sound hums.]
+
+MIRA: "...thank you for telling me that."
+
+[She doesn't say it's beautiful. She doesn't say it's sad. She doesn't comment on it. She acknowledges it — the way one person acknowledges another person opening a door they've kept closed for a long time.]
+
+[Another silence. The fridge cycles on. Six seconds. Off.]
+
+MIRA: "I was supposed to have a dog."
+
+[Kenji doesn't speak. He lets her keep going.]
+
+MIRA: "Mom said not until I was ten. She had a rule. She had a lot of rules, but that one I understood. Ten was the age where she thought I'd be responsible enough to walk one and feed one and clean up after one. I had a name picked out. I'm not going to tell you what it was because it's a really stupid name and I've been defending it for four years to no one."
+
+[Beat.]
+
+MIRA: "I wrote the name in the back of my notebook. You've probably seen it. I don't know if you went that far. Most people stop at the case notes. The back of the notebook is — the back of the notebook is where I kept the things that weren't observations."
+
+KENJI: "I went that far."
+
+MIRA: "...oh."
+
+[Two seconds.]
+
+MIRA: "Then you know."
+
+KENJI: "I know."
+
+MIRA: "And you didn't say anything."
+
+KENJI: "It didn't belong to me."
+
+[The wire-sound thins for a quarter-second. Returns.]
+
+MIRA: "Thank you."
+
+[A silence that is not empty. Kenji leans his head back against the side of the desk. Looks up at the ceiling. The ceiling has a water stain in the corner he has been looking at for three years.]
+
+KENJI: "I wasn't good at this case for a long time."
+
+MIRA: "You were good enough to answer the phone."
+
+KENJI: "The phone rang. I answered. That's the low bar."
+
+MIRA: "That's the bar, Kenji. That's the whole bar. I reported things for four years and the adults I reported them to didn't answer. Not the phone — the report. The phone was the question. Most adults just... didn't pick up. You picked up."
+
+[Beat.]
+
+MIRA: "Why."
+
+[The single word lands carefully, not as a challenge. As a thing she has wanted to know and has not asked.]
+
+MIRA: "You're in the cold case room, Kenji. You got my file because nobody else wanted it. Nobody expected you to do anything with it. You could have let it sit. Most detectives let them sit. Why are you — why are you the one who picks up the phone at 3:47 in the morning when the caller ID is blank?"
+
+[Silence. Kenji takes longer than Mira has ever waited for him to answer. The wire-sound hums. The fridge is off-cycle. When he speaks, it is slowly — the voice of a man who does not have the answer prepared and is assembling it in real time from parts he hasn't inspected in a while.]
+
+KENJI: "I don't think I can explain it in a way that'll sound like a real answer."
+
+MIRA: "Try the unreal one."
+
+[Beat.]
+
+KENJI: "...people deserve to be taken seriously."
+
+[Pause.]
+
+KENJI: "At least once. By somebody. I think that's — I think that's the whole thing, for me. One time in a person's life, at the minimum, they should get heard. Somebody should listen to what they're saying and treat it like it matters, even if it turns out it didn't. That's the floor. That's the bar the whole thing is supposed to meet."
+
+[He stops. Starts again.]
+
+KENJI: "The cases in my drawer — all of them. The people in the files. Nobody was that person for them. Their file got opened, somebody decided what it was, it got filed in the direction it got filed. The person in the file became the file. Then the file got old and they got moved to a cold case room, and the person became old evidence. That's how it works. That's how the system absorbs somebody."
+
+[Beat.]
+
+KENJI: "I read the files. I don't know what else to do with them. They're people who didn't get their once. So I read them. Somebody should. I'm the one who still does."
+
+[He's quiet for a moment. Not searching — landing.]
+
+KENJI: "It's not a philosophy. I don't have a philosophy. It's what I was able to keep doing after I stopped being able to do everything else."
+
+[Silence.]
+
+[The player, for the first time in eleven chapters, has heard Kenji say the thing he is. Not the objects — not the dead phones or the empty coffee cans or the cookbook — the thing underneath them. He is a man who reads the files because somebody should. Every file in his drawer is a person who did not get their once. Mira's file was the one where the phone rang back.]
+
+MIRA: "...okay."
+
+[Small. Like a person who has been given an answer she suspected but didn't expect to hear confirmed.]
+
+[A long silence. The wire-sound hums. The refrigerator cycles on. Six seconds. Off.]
+
+MIRA: "Kenji. Can I ask you something I've been wondering about."
+
+KENJI: "Yeah."
+
+MIRA: "What do you think happens after."
+
+[Beat. The question is broader than Kenji expected, and it takes him a moment to recognize what she means.]
+
+KENJI: "After..."
+
+MIRA: "After this. Whatever this is. When the exchange can't carry me anymore. Tomorrow, or after tomorrow, or whenever it happens."
+
+[Beat.]
+
+MIRA: "I want to be clear about something first. I'm not asking because I'm scared. I've been checking and I'm not. I thought I would be, when it got close. I've been sort of waiting for it — the fear part. It hasn't arrived. I'm mostly just curious. What do you think happens?"
+
+[Silence. Kenji is a man who reads files. The detective who just said he doesn't have a philosophy is being asked about something entirely outside his professional territory. He takes a while.]
+
+KENJI: "I don't know, Mira. I've thought about it. When my mother died I thought about it a lot. I didn't — I didn't reach anything I could stand behind."
+
+MIRA: "What didn't you stand behind."
+
+KENJI: "The comforting versions, mostly. The ones people told me at her funeral. 'She's in a better place.' 'She's watching over you.' I couldn't do anything with those. They didn't sound like her. And the other version — the one where nothing happens at all, where you just stop — I didn't find that one comforting either, but I think it fits the evidence better. Probably. I don't know. I'm not qualified to have an opinion on this."
+
+MIRA: "Nobody's qualified. That's the part I worked out. Everyone who talks about it is guessing. That's actually why I asked you — you weren't going to pretend you weren't guessing."
+
+[She's quiet for a moment. Not distressed. Thinking.]
+
+MIRA: "I'll tell you what I think. For most people, I think you're right. The nothing version. Everything stops. That's probably what it is."
+
+[Beat.]
+
+MIRA: "But then — I mean, here I am. I'm a nine-year-old on a phone I shouldn't be able to use, having a conversation I shouldn't be able to have. So whatever I thought about what happens after, apparently the range of possibilities is wider than I was expecting. Which is interesting. Actually. It's the most interesting thing I've learned since I died."
+
+KENJI: "What do you think happens to you, then."
+
+MIRA: "I've been thinking of it as more of the same. Just — further away. I'm a signal now. The signal is going to get fainter. At some point I'm the signal, and at some other point I'm the thing the signal was carrying, and at some other point I'm the frequency the signal was on. It's degrees of less-present. I don't think there's a moment where I stop. I think there's just a point where nobody can hear me anymore."
+
+[Pause.]
+
+MIRA: "I don't know what that's like from the inside. I'm going to find out."
+
+[She says this the way a person describes a trip they're about to take. Not resigned. Not dreading it. Curious about the itinerary.]
+
+[AUDIO: The wire-sound is very thin. The fridge is off-cycle. Kenji sits with his back against the desk on the floor of his apartment and listens to a nine-year-old describe her own approaching end in the register of a field observation.]
+
+[A long silence. When Kenji speaks, it is slowly. His eyes are closed. He is saying the thing he came into this conversation not planning to say, and he is saying it carefully because it has to carry.]
+
+KENJI: "Mira."
+
+MIRA: "Yeah."
+
+KENJI: "I don't know what happens to you. I've been honest about that."
+
+[Beat.]
+
+KENJI: "But I know one part of it."
+
+[Pause. He opens his eyes.]
+
+KENJI: "The people who love you are going to miss you."
+
+[Silence.]
+
+KENJI: "That part I can say. Every file in my drawer is a dead person. That's what cold cases are. People. And what's in every single one of those files — every single one, Mira — is the shape of people who got left behind. That's the data I have. I read a lot of files. The people who remain. They miss the ones who left. That's the only thing I can tell you with any certainty."
+
+[Another pause.]
+
+KENJI: "I can't tell you what you're going toward. I don't know. But I can tell you what you leave behind. People are going to miss you. That one I know."
+
+[Silence. The wire-sound hums. The refrigerator is still off-cycle.]
+
+[Mira does not answer immediately. The player waits with Kenji. Whatever she says next — or doesn't — is hers.]
+
+MIRA: "...okay."
+
+[Small. Not dismissive. The word is doing work: she received it, she logged it, she is sitting with it. The reason she says "okay" instead of "thank you" is that "thank you" would be a performance of reception, and Mira is receiving this actually, and the actually doesn't require a performance.]
+
+[DESIGN NOTE: This is the scene's Keanu Reeves beat — borrowed, with credit to the cultural memory. Kenji cannot answer the metaphysical question Mira asked. What he can do is pivot to the question he CAN answer with evidence, from his actual work: the dead are missed. Every file in his drawer is a person someone misses. That is the consistent pattern he has observed across decades of cold cases. The word "love" is deliberate. Kenji does not use this word in other contexts in the game. Hearing him use it here — flat, without inflection, treating it as a fact in evidence rather than a feeling being expressed — is the mark of a man who is saying a true thing that costs him to say. Mira's "okay" is the correct response. Gratitude would be too big. Silence would be too small. "Okay" is what receipt looks like when the thing being received is true.]
+
+KENJI: "...you're a strange kid, Mira."
+
+MIRA: "Somebody had to be."
+
+[Beat.]
+
+MIRA: "I was going to ask if that was a morbid thing to say. But I don't think it is. I think it's just — accurate. Morbid would be if I were afraid of it. I'm not afraid of it. I'm just planning to pay attention to it. That's the habit I had when I was alive. I don't see any reason to stop now."
+
+[DESIGN NOTE: The scene's one explicit address of Mira's approaching end. She's not consoled, not reassured, not promised anything. Kenji doesn't have an answer and says so. Mira doesn't want an answer — she wants a partner in not-having-one. A child who observed the world as a system is now observing her own dissolution as a system, because that's the tool she has and she intends to use it all the way to the end. Kenji's "you're a strange kid, Mira" is the only admission of tenderness he makes in the scene. "Somebody had to be" is Mira acknowledging that her strangeness was load-bearing — without her particular weirdness, none of this investigation would have happened. The player who has been with her for eleven chapters hears that and understands: she is not apologizing for who she was. She is noting that it turned out to be useful.]
+
+[A long silence. The wire-sound holds. When Mira continues, her voice has the particular quality of someone saying something they rehearsed for a moment they didn't know would come.]
+
+MIRA: "I don't know what I am. I've stopped trying to figure it out. I'm a signal in wires that shouldn't still be carrying signals. I'm the residue of a conversation that nobody finished. I'm — I don't know. But whatever I am, the part of me that's still me is the part that knows what it means when a grown man picks up a phone at 3:47 in the morning and doesn't hang up when the caller is nine."
+
+KENJI: "..."
+
+MIRA: "You didn't hang up. That's — that's the whole thing, for me. That's the part I'm going to carry wherever I end up, if I end up anywhere. You didn't hang up."
+
+[Kenji closes his eyes. He is a man who does not cry. He is a man who has carefully constructed a life around not needing to. He does not cry now. But his breathing changes.]
+
+KENJI: "Mira."
+
+MIRA: "Yeah."
+
+KENJI: "I'm sorry I didn't find you sooner."
+
+MIRA: "Nobody was going to find me, Kenji. I was already a file on a desk in a department that files things on desks. I wasn't findable. You didn't find me. I found you."
+
+[Beat.]
+
+MIRA: "That's the thing I want you to understand. If tomorrow goes — if the exchange gives out or the signal drops or I — whatever happens. I want you to understand that you didn't fail to save me. I was already lost. You found me anyway. That's — that's not nothing. That's actually a lot."
+
+[A long silence. The fridge cycles. Off.]
+
+KENJI: "I read past the erasers."
+
+[The callback from Chapter 2 arrives on his lips, not hers — the line she asked of him, the promise he made, the thing she didn't quite believe he'd do. He's giving it back to her now the way she asked him to carry it.]
+
+MIRA: "I know."
+
+[Two seconds. The wire-sound is very thin.]
+
+MIRA: "That's the other thing. Thank you for that."
+
+[Kenji sits on the floor with the phone in his hand. The lamp is still on. The evidence is still on the desk. The line is open. Neither of them hangs up. Neither of them speaks for a long time.]
+
+[Eventually, without saying anything, Mira begins to hum. A tune — half a tune — something she probably learned at school, or from a commercial, or from a show her mother had on in the background. The player has never heard Mira sing. The sound is thin and private and wrong for the infrastructure to carry, but the infrastructure carries it anyway, and Kenji, on the floor against his desk, listens to a nine-year-old ghost hum a tune she hasn't finished in four years.]
+
+[The hum fades. The wire-sound steadies. The refrigerator cycles. Six seconds.]
+
+[Eventually, Kenji sets the phone down on the floor beside him. Does not hang up. The line stays open. He closes his eyes.]
+
+[He does not sleep. But for the first time since the case began — for the first time in a long time, if the player is being honest about it — he is not alone in the apartment while he doesn't sleep.]
+
+[DESIGN NOTE: This is the game's church-scene beat. Before the final action, two characters sit with each other and say small true things that cost them to say. Kenji reveals his mother (the cookbook, the teacup in her left hand) — a disclosure that reframes every Chapter 1 object the player saw. The cookbook that has been open since the cold open is not clutter. It is a shrine a widower's son keeps because he can't close it. Mira reveals the dog name she never got to use, the back of the notebook nobody else read, the four-year defense of a name with no audience. Neither of them says goodbye. Neither of them says "if I don't make it." They say the things they would say to each other if there were going to be many more conversations, delivered with the weight of two people who know this might be the last one. The humming at the end is deliberate: Mira has never sung in the game. It is the sound of her being a child for a moment, uselessly, because the moment allows it. The player should exit this scene emotionally prepared for Chapter 12's cost — not by being warned, but by having been allowed to love her. The line "you didn't hang up" is the game's thesis delivered backwards: every adult in Mira's life failed to pick up the phone; Kenji is the one who did. The case was never the point. Picking up was the point.]
+
+---
 
 ### Player Knowledge (New This Chapter)
 - Reiko read the notebook. Fourteen months of observations. "She was doing mine." Reiko is now an unfiltered source — everything Mira told her, unedited.
@@ -6713,6 +7839,7 @@ Two devastations, two resistances. The notebook scene devastates Reiko — and t
 ---
 
 **END CHAPTER 11**
+
 # CHAPTER 12 — The Last Call
 
 ## Chapter Overview
@@ -6760,7 +7887,7 @@ FUMIKO: "Twelve hours. If you haven't resolved this by tonight, I publish what I
 
 KENJI: "Mira. I need you."
 
-[Three seconds. The static is thick — thicker than last night, thicker than the crash. Then, underneath it, a voice. Not clear. Not strong. But present. The way a candle is present in a dark room — you can see by it, but you know it won't last.]
+[Three seconds. Five. The static is thick — thicker than last night, thicker than the crash. The wire-sound that has been underneath Mira's voice since Chapter 1 is now louder than the voice itself. Then, underneath it, a signal. Not clear. Not strong. But present. The way a candle is present in a dark room — you can see by it, but you know it won't last.]
 
 MIRA: "...I'm here. The exchange... I can feel it. He's on the lines. Calling. Fast."
 
@@ -6794,27 +7921,51 @@ MIRA: "Okay."
 
 **Endo → Reiko:**
 
-MIRA: "He's... calling Reiko. I can hear... 'concerned about the investigation... making sure your family is treated fairly...' He's gentle. He sounds like he cares. He sounds like the kindest person she knows."
+MIRA: "He's... calling Reiko. I can hear him through the cables."
 
-[DESIGN NOTE: Endo to Reiko is his strongest move. He organized the volunteer search for Mira. He is Reiko's community support. His concern sounds genuine because it IS genuine — he genuinely cares about Reiko's wellbeing. He also needs her to doubt Kenji.]
+[Her voice strains as she pushes through the intercept. The fragments come in Endo's cadence — the three-second pauses, the gentle phrasing, the conductor managing every silence:]
+
+MIRA: "'I wanted to make sure you were alright... the investigation has been...' Three seconds. He's waiting for her to fill the gap. She does. She always does. '...I worry about what it's doing to you, Reiko.'"
+
+[Beat.]
+
+MIRA: "'Whatever the detective tells you... I want you to know the community is here for you.' He sounds — Kenji, he sounds like he means it. That's the worst part. He *does* mean it."
+
+[DESIGN NOTE: Endo to Reiko is his strongest move. He organized the volunteer search for Mira. He is Reiko's community support. His concern sounds genuine because it IS genuine — he genuinely cares about Reiko's wellbeing. He also needs her to doubt Kenji. The player hears his conductor pattern through the intercept — the three-second pauses, the preemptive framing — from inside the exchange.]
 
 **Endo → Haruki:**
 
-MIRA: "Haruki... he's telling him the investigation is... 'unfocused'... that you might be under pressure... asking if Haruki has 'noticed anything unusual about the detective's methods'..."
+MIRA: "Haruki next. Different approach — faster, more direct. He's matching Haruki's register."
 
-[Endo is reframing Kenji as unstable — turning the thoroughness the player has practiced into evidence of obsession.]
+[She listens. The fragments come clipped, efficient — Endo mirroring Haruki's post-break precision:]
+
+MIRA: "'Between us, Haruki — have you noticed anything about the detective's methods? The scope. The focus.' He's... he's using Haruki's own language. 'I've seen this before — an investigator who's invested too much to step back.'"
+
+[Endo is reframing Kenji as unstable — turning the thoroughness the player has practiced into evidence of obsession. And he's doing it in the register of the person he's talking to. The conductor matching his audience.]
 
 **Endo → District Police:**
 
-MIRA: "Police... liaison... he's filing a formal concern. 'Community stability'... 'respect for the process'... he's asking them to review your case file."
+MIRA: "The police. He's... this is different. Formal. He's not being warm — he's being institutional."
 
-[The most dangerous call. If the district police pulls the case for review, the warrant stalls. Endo doesn't need to escape — he needs to delay.]
+[The fragments come in bureaucratic precision — Endo switching to the register that works on officials:]
+
+MIRA: "'As chair of the community safety council, I have a responsibility to raise concerns through appropriate channels.' He's quoting protocol. Filing a formal request for case review. 'Community stability requires confidence in the investigative process.' He's asking them to pull your file."
+
+[The most dangerous call. If the district police pulls the case for review, the warrant stalls. Endo doesn't need to escape — he needs to delay. And the player hears Endo's institutional voice for the first time — the one he uses on systems, not people. No warmth. No pauses. Just procedure weaponized.]
 
 **Endo → Doi:**
 
-MIRA: "Doi... 'Whatever comes out, I've always believed in your innocence.' He's... reminding Doi that Endo defended him. When the community suspected Doi. Endo is the one who... spoke up for him."
+MIRA: "Doi. He's — the voice changed again. Soft now. The softest I've heard him."
 
-[The cruelest move. Endo weaponizes the protection he gave Doi — protection the player worked to provide. He is turning Doi's gratitude into a debt.]
+[The fragments come slowly, with Endo's characteristic three-second pauses between phrases:]
+
+MIRA: "'Whatever comes out of this investigation... I want you to know... I've always believed in your innocence.'" 
+
+[Beat.]
+
+MIRA: "'Things got out of hand back then. I made sure they didn't.' He said that — 'things got out of hand.' That's Doi's phrase. From months ago. He's giving it back to him like a gift."
+
+[The cruelest move. Endo weaponizes the protection he gave Doi — protection the player worked to provide. He is turning Doi's gratitude into a debt. And the player hears the tell: Endo quotes Doi's own words back to him. The same fidelity that marked him throughout the investigation — knowing things with the wrong resolution — deployed as a weapon.]
 
 ### PLAYER'S COUNTER-CALLS
 
@@ -6900,21 +8051,151 @@ DOI: "That doesn't help as much as you think it does."
 
 ---
 
+### Counter-Call: Haruki (If Selected)
+
+KENJI: "Haruki. I need you to listen."
+
+HARUKI: "I'm listening. He called me twenty minutes ago."
+
+KENJI: "I know."
+
+[Beat.]
+
+HARUKI: "You intercepted it."
+
+[Not a question. Post-break Haruki calculates faster than he reacts.]
+
+KENJI: "He told you my investigation is unfocused. He used your language — scope, methods, investment."
+
+HARUKI: "He did. He's perceptive. He matched my register precisely — talked the way I talk, used the categories I use. If I hadn't already broken, it would have worked."
+
+[Beat.]
+
+HARUKI: "But I did break. And what broke was the part that mistook precision for understanding."
+
+KENJI: "I need you to hold the parent network. If Endo reaches the families before the warrant—"
+
+HARUKI: "The committee records. Forty-three reports. Zero actions. One signature on every rejection."
+
+[He says this flatly. He's already memorized the number.]
+
+HARUKI: "I'll make sure every parent in the network has that number by noon. Not the accusation — the number. They can do the math themselves."
+
+[Beat.]
+
+HARUKI: "Detective. He tried to make you sound like me. Obsessive. Too invested. Scope creep. He was describing me — the version of me that labeled a nine-year-old's honesty as disruptive and thought that was analysis."
+
+[Pause.]
+
+HARUKI: "I know what unfocused looks like. You're the opposite."
+
+---
+
+### Counter-Call: Fumiko (If Selected)
+
+KENJI: "Fumiko. We need to coordinate."
+
+FUMIKO: "I heard his call to the district liaison through my own sources. The formal concern was filed twenty minutes ago."
+
+KENJI: "The warrant is processing. If the district pulls my case for review—"
+
+FUMIKO: "It stalls. He knows that. He's been navigating bureaucratic timelines longer than either of us."
+
+[Beat.]
+
+FUMIKO: "Detective. I can hold twelve hours. Or I can publish now — not the full investigation, but enough to make the formal concern look like what it is. A community leader filing complaints against the detective investigating him. That story writes itself."
+
+[PLAYER CHOICE:]
+- **"Hold. The warrant is our best chance."** → Fumiko holds. The warrant processes on schedule.
+- **"Publish. Frame the concern as obstruction."** → Fumiko publishes a preliminary story. Public pressure accelerates the timeline — but Endo knows the investigation is public.
+
+[If HOLD:]
+FUMIKO: "Twelve hours. Not thirteen."
+
+KENJI: "Understood."
+
+FUMIKO: "And detective — when this is over, I want the full story. Not a headline. The exchange room. The notebooks. The garden. All of it. Every parent in this town deserves to know what was underneath them."
+
+[If PUBLISH:]
+FUMIKO: "I'll have it online in forty minutes. Headline: 'Safety Council Chair Files Formal Complaint Against Detective in Missing Child Case.' I don't name a suspect. The facts do."
+
+KENJI: "Do it."
+
+FUMIKO: "The formal concern becomes evidence of consciousness of guilt. He tried to obstruct and I documented it. When the full story runs, this is the opening paragraph."
+
+[She pauses.]
+
+FUMIKO: "Find the boy, detective. Give me the ending."
+
+---
+
 ## SCENE 3: THE INFRASTRUCTURE RACE
 
-[While the call war runs, the exchange is degrading. Mira is intercepting calls — pushing her signal through infrastructure that was never designed to carry a voice this strong in this direction. The exchange was built for passive reception. Endo used it for passive surveillance. Mira is using it for active transmission — pushing back through the wires, listening deliberately, transmitting what she hears to Kenji. The infrastructure groans under the reversal.]
+[AUDIO: Between calls, the exchange speaks. Not words — pressure. The structured static that Kenji first heard at the bridge number is louder now, denser, the layers of compressed voice compacting as the charge drains. The sound of a system being used harder than it was built to bear.]
 
-[AUDIO: Between intercepts, the static builds. Not the thin static of Mira's degradation — something deeper, structural, the sound of copper wire reaching its capacity. The exchange is a system built in the 1950s, maintained by one man, carrying the residual charge of decades. It was never meant to be used as a weapon. Mira is using it as a weapon.]
+[The exchange was built for passive reception. Endo used it for passive surveillance. Mira is using it for active transmission — pushing back through the wires, listening deliberately, transmitting what she hears to Kenji. The infrastructure groans under the reversal.]
 
-MIRA: "Kenji... the lines are... thinning. I can feel the cables... losing charge. Every call I intercept... the exchange loses a little more."
+MIRA: "Kenji."
 
-KENJI: "How many more can you intercept?"
+[Her voice drops. Not degradation — exhaustion. The difference matters. Degradation is the signal thinning. This is the person behind the signal running out of strength.]
 
-MIRA: "Two. Maybe three. After that... I don't know."
+MIRA: "Every call he makes through the lines... I can intercept it. But every intercept... the exchange loses charge. I can feel the cables cooling. The copper carries less each time."
 
-[MECHANIC: The player has 2-3 remaining intercepts. Each one reveals one of Endo's calls. The player must choose which calls to monitor — which NPCs are most at risk, which conversations contain the most actionable intelligence.]
+KENJI: "How many more?"
 
-[DESIGN NOTE: Each intercept costs the exchange capacity and costs Mira signal. The player is spending their partner to win the battle. The choice of what to spend her last signal on comes later — and it's Mira's, not the player's.]
+MIRA: "Two. Maybe three."
+
+[She pauses. The static fills the gap — not her static, the exchange's. The infrastructure groaning.]
+
+MIRA: "After that... the exchange won't carry me. It won't carry anything. Seventy years of infrastructure, and we're burning through the last of it in one morning."
+
+[Beat.]
+
+MIRA: "Choose carefully."
+
+[MECHANIC: 2 remaining intercepts. The player chooses which of Endo's ongoing calls to monitor. Each intercept reveals intelligence about what Endo is doing — but each one costs the exchange capacity that Mira will need for what comes next. The player doesn't know yet what comes next. But Mira does.]
+
+**Intercept Option A: Endo → Aizawa**
+
+MIRA: "He's calling Aizawa. He knows she filed the welfare check — or he suspects. I can hear him... probing. 'I understand you submitted a request through the district office... I'm sure you had your reasons...' He's testing whether she folds."
+
+[If the player chose this intercept:]
+
+MIRA: "She's not folding. She's... reciting. Protocol numbers. Filing references. She's answering him in bureaucracy. He can't redirect what he can't get underneath."
+
+[Beat.]
+
+MIRA: "She's holding, Kenji. She's holding."
+
+**Intercept Option B: Endo → Parent Network (via unnamed contacts)**
+
+MIRA: "He's making calls I don't recognize. Private numbers. Not NPCs — the network beneath the NPCs. Parents. Teachers. The people who trust Mr. Endo because Mr. Endo has always been there."
+
+[If the player chose this intercept:]
+
+MIRA: "He's telling them... the investigation is targeting community leaders. That it's political. He's not naming himself — he's framing it as an attack on the council. On the *system*. He's making himself the system so that attacking him means attacking the town."
+
+[Beat.]
+
+MIRA: "He's good at this. He's had fifteen years of practice."
+
+**Intercept Option C: Endo → Unknown Number**
+
+MIRA: "There's a call I can't... the routing code. Kenji, the routing code is the substation."
+
+[If the player chose this intercept:]
+
+MIRA: "He's not calling someone. He's checking. The line to the substation — he's testing whether it's still connected. Whether anyone else has used it."
+
+[The player understands: Endo is checking on Sora. Through the exchange. The same infrastructure he built, the same cables, the same routine he's maintained for twenty-three days.]
+
+MIRA: "The line connected. He heard — I don't know what he heard. But he hung up fast. Faster than any of his other calls."
+
+[Beat.]
+
+MIRA: "He knows something changed."
+
+[DESIGN NOTE: Each intercept costs the exchange capacity and costs Mira signal. The player is spending their partner to win the battle. Intercept C is the most valuable — it reveals that Endo is checking on Sora and may be preparing to act — but the player can only choose two. The choice of what to spend Mira's last signal on comes later, and it's Mira's choice, not the player's.]
 
 ---
 
@@ -6926,7 +8207,7 @@ MIRA: "Two. Maybe three. After that... I don't know."
 
 MIRA: "Kenji."
 
-[Her voice changes. Not louder — sharper. The static around it drops for a moment, as if the exchange itself is holding its breath.]
+[Her voice changes. Not louder — sharper. The static that has been building around her signal since Chapter 4 — the wire-sound thinning, the crackle, the lag between sound and meaning — drops for a moment, as if the exchange itself is holding its breath.]
 
 MIRA: "There's someone else on the lines."
 
@@ -6938,13 +8219,17 @@ MIRA: "No. Not Endo. Someone... small."
 
 MIRA: "A child. There's a child on the lines. Not an impression — not like the others. Alive. Present tense. He's... afraid. He's close to a cable run. His fear is... loud. The clearest thing on the exchange right now."
 
-[She is describing what the character bible calls the clarity-signal — the unfiltered perception of a frightened child, broadcasting into infrastructure that was built to carry exactly this kind of voice. Sora, held in the substation near the old cable runs, is generating signal the same way Mira generated signal. Not through a phone — through proximity. Through being close enough to the wires that the exchange absorbs what he feels.]
+[AUDIO: Through the static, the same thin frequency the player heard in Chapter 10 — the child's voice, the ghost of words bleeding through copper. But closer now. Clearer. The exchange room amplifies what the cables carried as impression:]
 
-MIRA: "He's describing a room. Small. Dark. He can hear sounds through the walls — footsteps, a door. He's been counting. He counts everything."
+[Fragments: "...twenty-three marks on the wall..." "...the pipe makes that sound again, the cold one..." "...he brought rice but not the kind with the—" The voice cuts in and out, a boy talking to no one, cataloguing his world because cataloguing is the only thing he can do.]
 
-[Beat.]
+[The player who heard Sora's fragments in Chapter 10 recognizes them. The boy who was describing a room is still describing it. Still paying attention. Still waiting for someone to hear.]
 
-MIRA: "He's been counting the days. Twenty-three."
+MIRA: "It's him. The same voice. The boy from the cables."
+
+[Her voice tightens — not degradation, recognition. The same recognition from Chapter 10, when she said *he's doing what I did*.]
+
+MIRA: "He's been counting. He counts everything — the marks on the wall, the sounds through the pipes, the times the door opens. Twenty-three days."
 
 [The player does the math. Twenty-three days. Almost a month. Sora has been held for twenty-three days in a utility substation three blocks from the community center, three blocks from the building where his captor chairs the safety council, three blocks from the garden where a plant was purchased for him before he was taken.]
 
@@ -6998,7 +8283,7 @@ KENJI: "...alright."
 
 [Sora picks up.]
 
-[AUDIO: Mira's voice. Clear. Present. The strongest it has been since the amplification — stronger, maybe, than it has ever been. The exchange is giving her everything it has left. Every residual charge in every meter of copper wire. Every impression absorbed over seven decades. The infrastructure of a town's secrets, carrying one last voice to one last child.]
+[AUDIO: Mira's voice. Clear. Present. No static. No delay. No words arriving after their meaning, no wire-sound thinning, no crackle between syllables. The voice that has been degrading since Chapter 4 — wavering, thinning, fragmenting, crashing — is suddenly, impossibly, whole. The strongest it has been since the amplification — stronger, maybe, than it has ever been. The exchange is giving her everything it has left. Every residual charge in every meter of copper wire. Every impression absorbed over seven decades. The infrastructure of a town's secrets, carrying one last voice to one last child.]
 
 MIRA: "Someone is coming. His name is Kenji. He's grumpy but he listens. I need you to be brave for about twenty more minutes. Can you do that?"
 
@@ -7030,7 +8315,7 @@ MIRA: "My name is Mira. Please remember it."
 
 [The line goes dead.]
 
-[AUDIO: Silence. Not static. Not degradation. Not the structured noise of the exchange carrying residual signal. Silence. The kind that follows the end of a transmission. The kind that means the frequency is empty. The kind that means nobody is on the line anymore.]
+[AUDIO: Silence. Not static. Not degradation. Not the structured noise of the exchange carrying residual signal. Silence. The wire-sound that has been underneath every call, every read, every moment since 3:47 AM in Chapter 1 — the constant hum the player stopped noticing because it was always there — is gone. The frequency is empty. Nobody is on the line anymore.]
 
 [Kenji holds the phone. The phone that rang at 3:47 AM. The dead phone from the drawer that shouldn't have rung. The phone that connected him to a nine-year-old girl who refused to stop being heard even after she stopped being alive.]
 
@@ -7096,7 +8381,7 @@ KENJI: "I will."
 
 [The door opens. Officers enter. The process is procedural — search, seizure, the administrative machinery of justice that Mira spent her whole life trying to activate and never could.]
 
-[Endo emerges. Handcuffs. No final speech. No dramatic exit. No breakdown, no confession, no revelation. There is nothing hidden. There never was.]
+[Endo emerges. Handcuffs. No final speech. No dramatic exit. No breakdown, no confession, no revelation. There is nothing hidden. There never was. The man who filled every silence in five chapters of phone calls, who offered three helpful items before being asked, who managed the air between sentences like a conductor counting rests — says nothing. The silence he could never tolerate in others is the only thing he has left.]
 
 [He walks to the car. He does not look at Kenji. He does not look at the gathered neighbors — some confused, some horrified, some already revising their understanding of the last fifteen years. He looks, briefly, at the garden.]
 
@@ -7116,7 +8401,7 @@ KENJI: "I will."
 
 [The apartment is quiet. Not the dense silence of too many threads. Not the static of a degrading signal. Just quiet. The ordinary quiet of a room where one person lives alone.]
 
-[Kenji sits at the desk. He opens the drawer. The dead phones are there — six of them, from cases that ended, connections that went silent. He takes the seventh phone — Mira's phone, the one that called him — and places it in the drawer with the others.]
+[Kenji sits at the desk. He opens the drawer. The dead phones are there — five of them, from cases that ended, connections that went silent. He takes the sixth phone — Mira's phone, the one that called him — and places it in the drawer with the others.]
 
 [He closes the drawer.]
 
@@ -7132,7 +8417,7 @@ KENJI: "I will."
 
 [AUDIO: The structured static. The layered frequencies. The sound of the exchange — the same sound he heard the first time, twelve chapters ago, when he dialed a number from a bridge where a girl's body was found and heard something he couldn't explain.]
 
-[He listens. The static is different now. Not different in any way he could describe to another person, not different in any way a machine could measure. But different the way a room is different after someone has been in it — the air carries something it didn't carry before.]
+[He listens. The static is different now. Not different in any way he could describe to another person, not different in any way a machine could measure. But different the way a room is different after someone has been in it — the air carries something it didn't carry before. The structured audio has the shape of a voice without the voice itself — meaning without sound, the inverse of everything the degradation took from her.]
 
 [He listens for a long time. The exchange carries what it has always carried: the voices of people who needed someone to listen. One more voice now. The clearest one it ever held.]
 
@@ -7197,6 +8482,7 @@ The game returns to the title screen. The phone rings once. Nobody picks up.
 ---
 
 **END CHAPTER 12**
+
 # EPILOGUE — After
 
 ## Six Months Later
@@ -7291,6 +8577,30 @@ The game returns to the title screen. The phone rings once. Nobody picks up.
 
 ---
 
+### THE NISHIDA QUESTION
+
+[The trial opened the files. Not all of them — but enough. The safety council's internal records named every concern Endo had suppressed, every report he had redirected, every pattern he had managed. Among them: a prior concern about a teacher's aide, filed by Ms. Ogawa, the earliest documented instance of the system Endo built.]
+
+[Fumiko named the mechanism, not the man. Her story referenced "a staff member whose reassignment was the first recorded suppression." She verified facts, not suspicion. She was careful.]
+
+[The community was not careful.]
+
+[Parents remembered the aide. Parents remembered which children had been in the tutoring program. Two weeks after the trial began, a man in another city received a phone call from a former colleague. The question was never finished. He hung up. Called back to say it shouldn't have been asked. Hung up again.]
+
+[The question Endo buried — was Nishida dangerous, or was he a patient man misread by a careful teacher? — was never answered. It was only made public. The ambiguity Endo preserved for years, that cost Ogawa her career, that became the foundation of a philosophy that produced a dead child and a missing boy — that ambiguity now belonged to the community. And the community didn't know what to do with it.]
+
+[No one was charged. No family pulled their children. No man was found dead in an apartment. Fujisawa did not repeat.]
+
+[But it rhymed. A name adjacent to an investigation. A question that couldn't be answered. A man whose guilt was never established and whose innocence was never confirmed, living in the space between.]
+
+[The truth saved a boy and arrested a monster. It also unsealed a question that had been sealed for a reason, and the unsealing cut someone whose name should probably never have been in the file.]
+
+[Endo would have predicted this. He would have been right about the mechanism.]
+
+[He would still have been wrong about everything else.]
+
+---
+
 ### AIZAWA
 
 [VISUAL: The school office. Aizawa at her desk. The same desk, the same filing cabinet, the same procedural environment she has occupied for years. The sanitizer bottle is gone from beside the phone.]
@@ -7339,7 +8649,7 @@ The game returns to the title screen. The phone rings once. Nobody picks up.
 
 [He has a new phone. Standard issue. It works the way phones are supposed to work — it rings when someone calls, it connects when he dials, it does not carry the residual charge of a dead girl's refusal to stop being heard.]
 
-[The old phone — Mira's phone, the dead phone from the drawer that rang at 3:47 AM — is in the drawer. With six others. Seven dead phones from cases that ended. Seven connections that went silent. Seven numbers that stopped ringing.]
+[The old phone — Mira's phone, the dead phone from the drawer that rang at 3:47 AM — is in the drawer. With five others. Six dead phones from cases that ended. Six connections that went silent. Six numbers that stopped ringing.]
 
 [He checks it sometimes. Takes it out, looks at the screen, holds it the way you hold something that used to be alive. The screen is dark. The line is dead. The signal that was the strongest thing the exchange ever carried is part of the infrastructure now — another impression in the copper, another voice in the static, another record in a system that nobody maintains anymore.]
 

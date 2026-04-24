@@ -92,6 +92,30 @@
 
 ---
 
+### THE NISHIDA QUESTION
+
+[The trial opened the files. Not all of them — but enough. The safety council's internal records named every concern Endo had suppressed, every report he had redirected, every pattern he had managed. Among them: a prior concern about a teacher's aide, filed by Ms. Ogawa, the earliest documented instance of the system Endo built.]
+
+[Fumiko named the mechanism, not the man. Her story referenced "a staff member whose reassignment was the first recorded suppression." She verified facts, not suspicion. She was careful.]
+
+[The community was not careful.]
+
+[Parents remembered the aide. Parents remembered which children had been in the tutoring program. Two weeks after the trial began, a man in another city received a phone call from a former colleague. The question was never finished. He hung up. Called back to say it shouldn't have been asked. Hung up again.]
+
+[The question Endo buried — was Nishida dangerous, or was he a patient man misread by a careful teacher? — was never answered. It was only made public. The ambiguity Endo preserved for years, that cost Ogawa her career, that became the foundation of a philosophy that produced a dead child and a missing boy — that ambiguity now belonged to the community. And the community didn't know what to do with it.]
+
+[No one was charged. No family pulled their children. No man was found dead in an apartment. Fujisawa did not repeat.]
+
+[But it rhymed. A name adjacent to an investigation. A question that couldn't be answered. A man whose guilt was never established and whose innocence was never confirmed, living in the space between.]
+
+[The truth saved a boy and arrested a monster. It also unsealed a question that had been sealed for a reason, and the unsealing cut someone whose name should probably never have been in the file.]
+
+[Endo would have predicted this. He would have been right about the mechanism.]
+
+[He would still have been wrong about everything else.]
+
+---
+
 ### AIZAWA
 
 [VISUAL: The school office. Aizawa at her desk. The same desk, the same filing cabinet, the same procedural environment she has occupied for years. The sanitizer bottle is gone from beside the phone.]
@@ -140,7 +164,7 @@
 
 [He has a new phone. Standard issue. It works the way phones are supposed to work — it rings when someone calls, it connects when he dials, it does not carry the residual charge of a dead girl's refusal to stop being heard.]
 
-[The old phone — Mira's phone, the dead phone from the drawer that rang at 3:47 AM — is in the drawer. With six others. Seven dead phones from cases that ended. Seven connections that went silent. Seven numbers that stopped ringing.]
+[The old phone — Mira's phone, the dead phone from the drawer that rang at 3:47 AM — is in the drawer. With five others. Six dead phones from cases that ended. Six connections that went silent. Six numbers that stopped ringing.]
 
 [He checks it sometimes. Takes it out, looks at the screen, holds it the way you hold something that used to be alive. The screen is dark. The line is dead. The signal that was the strongest thing the exchange ever carried is part of the infrastructure now — another impression in the copper, another voice in the static, another record in a system that nobody maintains anymore.]
 

@@ -25,7 +25,7 @@
 
 [VISUAL: Morning. Kenji's desk. The evidence from Chapter 9 is organized — not in clusters anymore, but in a single chain. Framing documents, nursery receipts, infrastructure map, Sora's map page, Endo's tell log. Each piece connects to the next. The desk has become a timeline.]
 
-[AUDIO: Silence from Mira. She is in her Ch 8-9 state — conserving, present but not speaking. The apartment's quiet has the quality of a held breath.]
+[AUDIO: Silence from Mira. The voice that once filled every transition with commentary, that made jokes during evidence review and observations during calls — conserving. Present but not speaking. The wire-sound carries the rough crackle that has been building since Chapter 6. The apartment's quiet has the quality of a held breath.]
 
 [Kenji reviews the timeline. He is not investigating anymore. He is confirming.]
 
@@ -35,13 +35,37 @@ KENJI: "Sora Hayashi. Eight years old. Last seen walking home from a piano lesso
 
 KENJI: "Endo knew the schedule. The safety council maintains after-school program records. The piano teacher's illness was discussed at a council meeting — I confirmed through the meeting minutes Fumiko obtained. Endo had access to the schedule change before anyone outside the school."
 
-[He continues:]
+[AUDIO: The crackle shifts. Not louder — directional. Mira is paying attention.]
+
+MIRA: "Piano lessons."
+
+[Two words. The first she's spoken this chapter. The wire-sound thickens around each syllable — speaking costs her now, and she's been conserving for a reason.]
+
+MIRA: "He changed his route for piano lessons. That's — that's such a small thing to die for."
+
+[She doesn't say anything else. But the player hears what's underneath: Mira changed her route too. Different school, different day, different small deviation from routine. The pattern that caught Sora caught her.]
+
+[Kenji writes:]
 
 KENJI: "Three weeks later, Mira Kitahara. The nursery receipt gap confirms the sequence — Sora first, then Mira. The garden confirms the pattern. The framing confirms the method: council-level access, council formatting, post-death fabrication."
 
-[He stops writing. Looks at the infrastructure map spread beneath everything else — Fumiko's red annotations marking the cable routes under Yanagi.]
+MIRA: "Say it."
 
-KENJI: "What I don't have is the location."
+[Kenji stops writing.]
+
+MIRA: "You've got the sequence, you've got the method, you've got the access. You're writing around the sentence. Say it."
+
+KENJI: "Endo Masato used his position as safety council chair to identify, track, and abduct children in Yanagi. He used the town's own child protection infrastructure as his selection system."
+
+[Silence. Not degradation silence. The silence after something has been named.]
+
+MIRA: "There it is."
+
+[Her voice is thin — the exchanges have cost her. But there is something in the flatness that isn't fatigue. It's the sound of a dead girl hearing her own murder described in a detective's case notes. Filed. Categorized. Made official.]
+
+MIRA: "Now you need the location."
+
+[He looks at the infrastructure map spread beneath everything else — Fumiko's red annotations marking the cable routes under Yanagi.]
 
 [He picks up the map. Traces the cable routes with his finger. They converge. Every major run — from the school, from the residential blocks, from the commercial district — feeds back to a single point. The community center.]
 
@@ -55,7 +79,19 @@ KENJI: "What I don't have is the location."
 
 [They align.]
 
-[Not perfectly. Sora's lines are a child's approximation. Fumiko's routes are a journalist's research. Kenji's dots are a detective's pattern analysis. But the geometry converges: Endo's informational access is strongest along the cable runs. His knowledge is densest near the junctions. And every line feeds back to the community center basement.]
+[Not perfectly. Sora's lines are a child's approximation — colored pencil on notebook paper, the underground drawn the way an eight-year-old draws it: important things bigger, boring things smaller, the cables like roots of a tree he was mapping for fun. Fumiko's routes are a journalist's research — precise, sourced, annotated with dates. Kenji's dots are a detective's pattern analysis. Three people who never collaborated, producing the same geometry.]
+
+[The convergence point is unmistakable. Every line feeds back to the community center basement.]
+
+MIRA: "Sora drew the cables."
+
+[Her voice crackles — thin, spending what she doesn't have.]
+
+MIRA: "An eight-year-old drew the cables under his town and nobody asked why he was interested."
+
+[Beat.]
+
+MIRA: "He was mapping the thing that was watching him. And nobody noticed because it looked like a kid's art project."
 
 KENJI: "His information follows the cables. He knows more about families who live near the old runs. He knows less about families in the newer developments where the cables don't reach."
 
@@ -95,7 +131,7 @@ FUMIKO: "Find the boy, detective."
 
 MIRA: "..."
 
-[A long pause. Longer than degradation would explain.]
+[A long pause. The read takes eight, nine seconds to begin — an eternity compared to Chapter 3's instant reads, longer even than Chapter 8's five-second delays. When it arrives, the voice is thin, stripped to essentials:]
 
 MIRA: "She's tired. Like the kind of tired where you've been carrying something heavy and someone finally says you can set it down but your arms don't remember how."
 
@@ -117,17 +153,25 @@ MIRA: "She's tired. Like the kind of tired where you've been carrying something 
 
 [It is not noise. It is the sound of infrastructure that never fully died.]
 
-[The bridge number is an old exchange junction point — a routing address from the original switching system, never decommissioned, never reassigned. When called, it doesn't connect to a phone. It connects to the exchange itself. The structured static is the residual charge of copper wire that carried decades of voices — compressed, layered, still faintly resonant. The phone system remembering.]
+KENJI: "It's not a phone number."
 
-[NOTEBOOK PROMPT: "BRIDGE NUMBER RESOLVED: The anomaly from Ch 3 was an old exchange junction point. Not a phone number — a routing address for the original switching system. The structured static = residual charge in copper wires. Decades of voices, compressed into the infrastructure. The phone system remembering. This is the same infrastructure Endo uses. The bridge — where Mira was found — is on the cable run. She was found at a node in the system that killed her."]
+[He checks Fumiko's cable map. The bridge location — where Mira's body was found — sits directly on a cable run. A junction point.]
+
+KENJI: "It's a routing address. From the old switching system. When I dial this, I'm not calling a phone — I'm calling the exchange itself."
+
+[He listens. The structured static takes on a different character now that he understands what he's hearing: residual charge in copper wire. Decades of voices compressed into the infrastructure. The phone system remembering.]
 
 MIRA: "I know that sound."
 
-[Her voice is thin. Strained. But the recognition is immediate.]
+[Her voice is thin. Strained. But the recognition is immediate — not intellectual but physical, the way a heartbeat recognizes its own rhythm.]
 
-MIRA: "I've always known that sound."
+MIRA: "That's what I sound like from the outside."
 
-[She doesn't explain. She doesn't need to. She is a signal in infrastructure built to carry signals like hers. The structured static is the sound of the system she has been part of since her death — and the system Endo has been using since long before.]
+[Beat.]
+
+MIRA: "I've always known that sound. I just didn't know it was me."
+
+[NOTEBOOK PROMPT: "BRIDGE NUMBER RESOLVED: The anomaly from Ch 3 was an old exchange junction point. Not a phone number — a routing address for the original switching system. The structured static = residual charge in copper wires. Decades of voices, compressed into the infrastructure. The phone system remembering. This is the same infrastructure Endo uses. The bridge — where Mira was found — is on the cable run. She was found at a node in the system that killed her."]
 
 ---
 
@@ -189,9 +233,21 @@ MIRA: "They're here. The other kids. They've been here the whole time."
 
 [Her voice changes again. Not the clarity — the register. Something underneath the words that the player has never heard from Mira before. Not sarcasm. Not control. Not grief. Something closer to *recognition.*]
 
-MIRA: "Not voices. Not like me. Impressions. Like — like fingerprints on a window. They spoke into the system and the system kept what they felt. Fear. Confusion. A girl who was asking for her mom. A boy who was describing a room."
+MIRA: "Not voices. Not like me. Impressions. Like — like fingerprints on a window. They spoke into the system and the system kept what they felt. Fear. Confusion. A girl who was asking for her mom."
 
-[She stops.]
+[She pauses. Listening to something the player can almost hear — a faint signal beneath the structured static, thin and high, a child's frequency.]
+
+MIRA: "And a boy. He's — he's describing a room."
+
+[AUDIO: Through the exchange, barely audible, the impression of a child's voice. Not words — the ghost of words. But the player catches fragments, calm and methodical: "...small..." "...the pipe makes a sound when it gets cold..." "...there's a blanket but it smells like dust..." The voice is not panicking. Not crying. A boy cataloguing his surroundings the way a careful child does — paying attention because paying attention is the only thing he can control.]
+
+MIRA: "He's doing what I did."
+
+[Her voice breaks — not from degradation. From recognition.]
+
+MIRA: "He's in a room he can't leave, and he's making notes. Like if he describes it well enough, someone will hear."
+
+[Beat.]
 
 MIRA: "Nobody picked up."
 
@@ -277,7 +333,7 @@ MIRA: "He remembered my voice better than my mom does."
 
 MIRA: "I don't want to be in his collection. I want to be in your filing cabinet. The messy one. With the dead phones."
 
-[A beat. Almost a laugh — not quite, but the shape of one. The first humor since Chapter 6. The amplification has given her this: one chapter of being fully herself before the signal degrades again.]
+[A beat. Almost a laugh — not quite, but the shape of one. The first humor since the math joke in Chapter 6 — four chapters of silence where Mira's jokes used to be, and the player didn't notice the absence until this moment, when the presence returns. The amplification has given her this: one chapter of being fully herself before the signal degrades again.]
 
 MIRA: "Let's go get Sora."
 
@@ -346,6 +402,8 @@ AIZAWA: "I'll file the welfare check within the hour."
 
 [SOUL READ — AIZAWA (Second)]
 
+[The read arrives instantly — no delay, no searching, no five-second gap. The way reads used to arrive in Chapter 3, before the signal began to thin. The amplification has restored what degradation took: speed, clarity, the impression waiting before the question finishes forming.]
+
 MIRA: "She's lighter. Not happy — lighter. Like someone who's been holding their breath for years and just... exhaled. The sanitizer smell is gone."
 
 [Beat.]
@@ -402,7 +460,7 @@ KENJI: "The safety council that receives reports about children is chaired by th
 
 MIRA: "Kenji."
 
-[Her voice is clear. Present. The amplification is still holding — but underneath it, the player who has been listening for ten chapters can hear something new. A faint edge of static. The signal is already beginning to degrade. The exchange room boosted her, but the boost is temporary. The infrastructure carries her, but the infrastructure is old, and old systems lose charge.]
+[Her voice is clear. Present. The amplification is still holding — but underneath it, the player who has been listening for ten chapters can hear something new. A faint edge of static — the same wire-sound thinning that started in Chapter 4, that built through Chapter 6's silences and Chapter 8's stripped sentences. It's back. Faint, but back. The exchange room boosted her, but the boost is temporary. The infrastructure carries her, but the infrastructure is old, and old systems lose charge.]
 
 MIRA: "Tomorrow you're going to corner him. You're going to lay out everything we have and he's going to try to redirect you the way he redirects everyone. And then you're going to go to that substation and you're going to find Sora."
 

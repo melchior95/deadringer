@@ -6,23 +6,99 @@ A child's report — possibly exaggerated — gets a teacher fired. The school c
 
 ## WHY THIS MATTERS FOR DEAD RINGER
 
-The current story has one mode of institutional failure: **the system ignores children's reports.** Mira reports, the system absorbs, nothing happens.
+The Ogawa incident operates on three levels, each revealed to the player at a different stage of the investigation:
 
-The real-life experience reveals a second mode that makes the first exponentially worse: **the system CAN respond to children's reports. It chooses when.**
+**Level 1 — Selective response:** The system fires a teacher in a week and ignores a child's reports for a year. Same system, same inputs, opposite outputs. Mira sees this and draws the correct structural conclusion.
 
-The mechanism is identical in both cases — a child speaks, the institution processes. But the outcome depends entirely on who is targeted. A teacher without institutional protection is destroyed overnight. A community leader with institutional protection (Endo) is never investigated at all. Same system. Same inputs. Opposite outputs.
+**Level 2 — Tactical removal:** Ogawa was starting to listen to Mira. The firing wasn't institutional randomness — it was precision. Endo removed his last internal threat using the system's own immune response.
 
-This selective response is more devastating than total failure, because total failure could be explained by incompetence. Selective response can only be explained by power — and a nine-year-old who watches both happen in the same school year will learn the lesson that no adult would ever teach her explicitly: **the system doesn't respond to truth. It responds to vulnerability.**
+**Level 3 — Experiential foundation:** Before any of this, Ogawa filed a different report — one Endo buried. And the burial *worked.* The community survived. No scandal, no fracture, no collateral damage. This is where Endo's philosophy stops being abstract and becomes something the player cannot easily dismiss: a conclusion drawn from a specific event where truth suppression was arguably the correct choice.
+
+The three levels deliver different emotional payloads: injustice, then horror, then hesitation. The hesitation is the most important. A villain the player can dismiss is a villain who teaches nothing. A villain whose first reasonable decision created the template for every monstrous one that followed — that villain changes how the player thinks about systems.
 
 ---
 
-## THE INCIDENT
+## THE PRIOR REPORT (New Layer)
 
-Approximately one year before Mira's death, a teacher at Yanagi Municipal Elementary — Ms. Ogawa, mid-thirties, teaching for eight years, well-liked but not institutional — was fired.
+Approximately eighteen months before Mira's death — six months before the student complaint that ended her career — Ms. Ogawa filed an internal concern about a colleague.
+
+The colleague was Mr. Nishida, a part-time teacher's aide who helped with the after-school tutoring program. Mid-forties, quiet, reliable. He had been at the school for three years. Parents liked him. He was good with the younger children — patient in a way that not all adults are patient with seven-year-olds.
+
+Ogawa noticed something. Not abuse. Not anything she could name with certainty. A pattern: Nishida adjusted his schedule to align with specific students. He volunteered for field trips where those students were present. He gave small gifts — erasers, stickers, nothing expensive, nothing that would register as unusual to anyone who wasn't watching the way Ogawa watched. The gifts went to the same three children. The schedule adjustments clustered around the same three children. The attention was specific.
+
+Ogawa filed the concern with the school administration. Not a formal accusation — a flag. "I've noticed a pattern in Mr. Nishida's interactions with certain students. I may be wrong. I think it's worth examining."
+
+The report reached the safety council. The report reached Endo.
+
+### What Endo Did
+
+Endo evaluated. The report was ambiguous. Nishida's behavior was interpretable as either the focused attention of a dedicated aide or the early-stage grooming pattern Ogawa feared. There was no physical evidence. No child had complained. No parent had noticed. The only data point was one teacher's observational instinct — the same kind of instinct that, in another context, the system would dismiss as "reading too much into things."
+
+Endo knew what would happen if the report went forward.
+
+He knew because he had watched it happen. Not in Yanagi — in Fujisawa, three years earlier. A teacher at Fujisawa Municipal Elementary filed a similar report about a volunteer. Ambiguous. Observational. No physical evidence. The district investigated publicly. The investigation took four months. During those four months: the school closed its after-school program. Three staff members — not the accused, the ones associated with the investigation — were reassigned. Twenty-two families pulled their children from the school. The local newspaper covered it. Parents formed groups. Accusations multiplied. The accused volunteer was never charged — the evidence was never sufficient. He was also never exonerated. His name was in the paper. He lost his job at an unrelated company. His wife left. Eighteen months after the investigation closed without findings, he was found dead in his apartment.
+
+The truth of what happened in Fujisawa was never established. What was established was the damage: a school fractured, a community divided, careers destroyed, a man dead, and no child demonstrably safer than before.
+
+Endo chose the other path.
+
+He redirected Ogawa's report. He reframed Nishida's behavior in committee as "an enthusiastic aide who perhaps doesn't understand professional boundaries" — a coaching issue, not a safety issue. He recommended that Nishida be "transitioned" to a different role: moved from the school's tutoring program to administrative support at the community center, where he would have no direct contact with children. Quietly. No investigation. No announcement. No record beyond a staffing change.
+
+Nishida was moved. The three children Ogawa had flagged continued at the school without interruption. No parent was alarmed. No family pulled their child. No newspaper wrote a story. No community fractured. No innocent man was destroyed — or no guilty man was exposed. The ambiguity was preserved, and with it, the stability.
+
+Ogawa protested. Not loudly — she was not the kind of person who protested loudly. She asked, once, in a follow-up meeting, what had happened with her report. She was told the matter had been "addressed through appropriate channels." She asked what that meant. She was told: "Mr. Nishida has been reassigned. The council considers the matter resolved."
+
+It was resolved. That was the problem. Ogawa had filed a concern about a pattern she couldn't prove, and the system had responded by making the pattern invisible without determining whether it was real. The question of whether Nishida was dangerous remained unanswered. The question of whether three children had been at risk remained unanswered. The community didn't know the questions existed.
+
+### What Happened Next
+
+Nothing.
+
+That is the point. Nothing happened. No scandal. No school closure. No displaced families. No destroyed careers. No dead man in an apartment. Yanagi's school continued to function. The after-school program continued. The three children grew up without incident — or without visible incident. Nishida worked at the community center for a year, then moved to another city. His departure was unremarkable.
+
+The truth of what Nishida was — or wasn't — was never established. Ogawa believed she saw something. She may have been right. She may have been a careful teacher whose pattern recognition produced a false positive. The ambiguity was never resolved because Endo ensured it never needed to be.
+
+From Endo's perspective: **success.** The system survived. The community survived. The Fujisawa outcome was prevented. One teacher's concern was absorbed, one aide was repositioned, and the surface remained intact. No one was hurt — at least, no one who was visible.
+
+From any other perspective: a question was buried that may have needed answering. And the man who buried it learned that burial works.
+
+### Why This Matters
+
+This is the origin of Endo's operational philosophy. Not the childhood insight about his father — that taught him that truth is unwelcome. The Nishida incident taught him something more dangerous: that truth suppression *produces better outcomes.* He has evidence. He has a counter-example. He has watched, in Fujisawa, what happens when ambiguous truth is handled publicly, and he has watched, in Yanagi, what happens when it is handled by a man who knows how to manage information.
+
+His conclusion: *"I am not preventing truth. I am preventing damage."*
+
+This is not rationalization. Rationalization is what people do after they've acted badly. Endo's philosophy was formed by an event where he acted and the outcome was, by every measurable standard, better than the alternative. The corruption is not in the reasoning. The corruption is in the *expansion* — the belief that what worked once, in an ambiguous case with no clear victims, can be applied again and again, to clearer cases, with real victims, by a man whose judgment is the only check on his own power.
+
+The escalation chain:
+- **Nishida** — ambiguous threat, suppressed, community survived, person displaced (not destroyed)
+- **Ogawa** — truth-teller suppressed, career destroyed, the template proven
+- **Mira** — child's truth suppressed, child destroyed
+- **Sora** — potential truth preemptively erased
+
+Same logic. Same mechanism. Each step more monstrous. The reasonable origin makes the monstrous conclusion feel like inevitability rather than villainy.
+
+---
+
+## THE FIRING (Existing Layer, Enhanced)
+
+Six months after the Nishida report was buried, Ms. Ogawa was fired.
 
 The trigger: a student complained that Ms. Ogawa grabbed his shoulder and turned his head to make him face the board during a lesson. The complaint was delivered to the vice principal by the student's parent. The parent framed it as physical discipline. The school launched a "review."
 
-### THE INVESTIGATION
+Endo did not fabricate the complaint. He didn't need to. The complaint was real — a child felt something, reported it, and the parent escalated. The ambiguity was genuine.
+
+But Ogawa was no longer just a teacher who had filed one inconvenient report. In the months since the Nishida matter, she had begun doing something else — something Endo heard through the exchange.
+
+**Ms. Ogawa was cross-referencing Mira's observations.**
+
+Not all of them. She didn't have the full picture. But Mira had mentioned things to Ogawa — the way she mentioned things to everyone, persistently, precisely, to anyone who would listen for more than thirty seconds — and Ogawa, unlike everyone else, had started *checking.* Walking the routes Mira described. Looking for the car Mira mentioned. Noting the committee chair's presence at events where specific children were present. She had mentioned to a colleague — in a conversation Endo heard through the exchange — that Mira's observations about the safety council chairman "keeping very close tabs on certain students" were "worth thinking about."
+
+Endo heard this. He evaluated. Ogawa was not yet a threat — she hadn't reported anything new, hadn't filed anything, hadn't told anyone with authority. But she was a teacher who had already filed one report, who had already demonstrated the instinct to notice and the willingness to speak, and who was now in the early stages of noticing *him.*
+
+When the student complaint surfaced — organically, through normal channels, about a completely unrelated incident — Endo recognized the opportunity. The same approach that worked with Nishida's report would work here: adjust conditions, let institutional reflexes do the work.
+
+### The Investigation
 
 The review consisted of the school counselor interviewing students from Ms. Ogawa's class. One by one. In the counselor's office. With the door closed.
 
@@ -32,9 +108,11 @@ Most children said no. Some said they didn't remember. A few — primed by the f
 
 None of this constituted abuse. All of it, documented as a pattern, looked like a pattern.
 
-### THE DISAPPEARANCE
+Endo raised the complaint with the concern-voice the community trusts. He suggested the one-by-one interviews — framed as "giving every child a chance to speak." He recommended the administrative leave — framed as "protecting both the teacher and the students while we sort this out." He did not push for a specific outcome. He adjusted conditions and let the institution's self-protective reflexes do the work.
 
-Ms. Ogawa was placed on administrative leave. No announcement was made. She was simply absent on Monday. The substitute arrived. The substitute had been told nothing except "you'll be covering this class for the foreseeable future."
+### The Disappearance
+
+Ms. Ogawa was placed on administrative leave. No announcement was made. She was simply absent on Monday. The substitute arrived.
 
 The children asked. Every day.
 
@@ -44,21 +122,31 @@ The children asked. Every day.
 "Was she fired?"
 "When is she coming back?"
 
-The substitute didn't have answers. The substitute said "I'm sure the school will let you know." This was technically not a lie and functionally not an answer. The children heard it every day for a week. By Wednesday, they had stopped believing it. By Friday, the asking had taken on a different quality — not curiosity but protest. They were asking because the asking itself was the only power they had.
+The substitute didn't have answers. By Wednesday, the children had stopped believing "I'm sure the school will let you know." By Friday, the asking had taken on a different quality — not curiosity but protest. They were asking because the asking itself was the only power they had.
 
-### THE ANNOUNCEMENT
+### The Announcement
 
 An email to parents. Brief. Professional. Ms. Ogawa was no longer employed at the school. The school thanked her for her service. The school assured parents that student safety was the top priority.
 
-The children were not emailed. They were told in person — by the principal, who sat them down on Monday and said: "We want you to know that we're here to protect you. I can't say more about what happened, but I want you to know that your safety is our number one priority."
+The children were told in person — by the principal, who sat them down and said: "We want you to know that we're here to protect you. I can't say more about what happened, but I want you to know that your safety is our number one priority."
 
-The children were not comforted. They were managed. The difference is that comfort addresses feelings. Management addresses liability. The principal's speech was a legal firewall dressed as emotional support. The children felt this — not in those words, but in the gap between what they were told and what they needed to hear.
-
-They needed to hear: "Your teacher did something, or she didn't, and here is what we know and what we're doing about it." They received: "Trust us."
+The children were not comforted. They were managed. The principal's speech was a legal firewall dressed as emotional support. The children felt this — in the gap between what they were told and what they needed to hear.
 
 Mira, who was in the class, wrote in her notebook:
 
 *Ms. Ogawa is gone. They said they can't tell us why. I think they can. I think "can't" means "won't." Those are different.*
+
+### The Almost-Call
+
+During her final week at the school — after the administrative leave had begun but before the official termination — Ogawa returned once, after hours, to collect personal items from her classroom. She was alone in the building.
+
+She picked up the classroom phone to make a call. The line was dead — the extension had been deactivated as part of the leave process. But when she held the receiver to her ear, she heard something. Not a dial tone. Not silence. A faint pattern in the static — layered, rhythmic, like voices compressed into residual charge. For a moment, she thought she heard a child. Not words. An impression. The quality of a young voice speaking urgently, the way you hear music in white noise when your brain is primed to find patterns.
+
+She mentioned it to Haruki the next day. "The phone in my classroom — the dead line — it was making sounds. Like someone was on it." Haruki told her it was probably electrical interference from the old cable runs under the school. He was technically correct. What he didn't know was what the cables carried.
+
+The exchange was active. It had been active for fifteen years. And a dead phone extension, connected to cables that ran through the same conduit as the old switching lines, had bled through. What Ogawa heard was not Mira — Mira was still alive. It was the exchange itself: the residual frequencies of every voice it had ever carried, compressed into copper, audible only on a dead line in an empty building to a teacher who was already primed to listen.
+
+Mira was not the first signal to push through the infrastructure. She was the first one who got through to someone who picked up.
 
 ---
 
@@ -87,33 +175,9 @@ This is one of the most sophisticated observations in the entire notebook. It is
 
 ---
 
-## WHAT ENDO DID
-
-Endo did not fabricate the complaint against Ms. Ogawa. He didn't need to. The complaint was real — a child felt something, reported it, and the parent escalated. The ambiguity was genuine. Whether Ms. Ogawa's physical redirection of an inattentive student constituted inappropriate contact is a question that reasonable adults could disagree about.
-
-Endo didn't create the situation. He *amplified* it.
-
-Complaints involving children at the school always reached the safety council. This was not an accident — Endo had designed the reporting structure to ensure it. Every concern, every flag, every parental escalation routed through the committee he chaired. The pipeline looked like accountability. It functioned as a filter he controlled.
-
-When the complaint reached him, Endo raised it with the concern-voice the community trusts. Not an accusation. A question. "Has anyone else noticed anything? I want to make sure we're being thorough." He suggested the one-by-one interviews — framed as "giving every child a chance to speak," which sounds like advocacy and functions as conformity pressure. He recommended the administrative leave — framed as "protecting both the teacher and the students while we sort this out," which sounds like fairness and functions as pre-termination.
-
-He did not push for a specific outcome. He adjusted conditions and let the institution's self-protective reflexes do the work. The school, when faced with ambiguous evidence and a parent threatening escalation, will always choose to remove the problem rather than investigate it — because investigation costs time and risk, and removal costs only a teacher.
-
-**Ms. Ogawa was not random.** She was the one teacher at Yanagi who was beginning to take Mira's reports seriously. Not all of them — she didn't have the full picture. But she had started cross-referencing Mira's observations with her own, quietly, the way a good teacher notices things without making a formal report. She had mentioned to a colleague — in a conversation Endo heard through the exchange — that Mira's observations about the safety council chairman "keeping very close tabs on certain students" were "worth thinking about."
-
-Endo heard this. He didn't panic. He evaluated. Ogawa was not yet a threat — she hadn't reported anything, hadn't filed anything, hadn't told anyone with authority. But she was in the early stages of doing what Mira was already doing: noticing patterns in his behavior and considering whether they meant something.
-
-When the complaint about Ogawa surfaced — organically, through normal channels, about a completely unrelated incident — Endo recognized the opportunity. He didn't manufacture the complaint. He ensured the response was maximally destructive. The system did the rest.
-
-Ms. Ogawa was fired. The teacher who was starting to listen to Mira was removed. The mechanism was a child's report, processed by an institution that was designed to protect itself, amplified by a man who understood exactly how much pressure to apply and where.
-
-Mira lost her last potential ally inside the school. She didn't know this was connected to Endo. She knew only that the system removed a teacher in a week and couldn't be bothered to investigate her reports in a year. She noted the discrepancy. She didn't have the framework to understand why. She had the framework to know it was wrong.
-
----
-
 ## WHAT THE CLASSROOM EXPERIENCED
 
-This section exists because the game needs it. Not as exposition — as atmosphere. The Ogawa incident is something Mira, Yui, Rina, and the player's investigation all touch, and the emotional texture of what the children experienced during that week of silence matters.
+This section exists because the game needs it. Not as exposition — as atmosphere. The emotional texture of what the children experienced during that week of silence matters.
 
 **The week of the substitute:** The classroom became a system with a missing component. The children adjusted — the way children adjust, quickly, practically, with an efficiency that adults mistake for resilience. They learned the substitute's name. They learned her routines. They did their work. And they asked, every day, where Ms. Ogawa was.
 
@@ -121,7 +185,7 @@ The asking wasn't disruptive. It was *structural.* Children process institutiona
 
 **The principal's speech:** The children sat in a circle. The principal stood. She used the word "safe" four times. She used the word "priority" twice. She did not use Ms. Ogawa's name. She spoke to them the way adults speak to children when adults have decided that the children's understanding is less important than the institution's messaging.
 
-The children left the circle knowing less than they knew going in — because the speech replaced their specific, accurate questions with a general, empty reassurance that addressed nothing. They went from "we don't know what happened" to "we've been told that what happened is not for us to know." The second state is worse than the first.
+The children left the circle knowing less than they knew going in — because the speech replaced their specific, accurate questions with a general, empty reassurance that addressed nothing.
 
 **Mira's notebook entry after the speech:**
 
@@ -129,11 +193,25 @@ The children left the circle knowing less than they knew going in — because th
 
 ---
 
+## OGAWA'S COST
+
+Even in the case where Endo was arguably right — the Nishida suppression — the mechanism destroyed the person it used.
+
+Ms. Ogawa's career ended at Yanagi. She applied to three other schools in the district. Two declined without explanation. The third offered a part-time position with no homeroom assignment — the professional equivalent of exile. The termination was coded as performance-related, not misconduct, but the distinction is invisible to hiring committees who can read between institutional lines.
+
+She is alive. She teaches part-time at a school forty minutes away by train. She does not have her own classroom. She does not advise after-school programs. She does not file reports about students' welfare because the last time she filed a report, she lost everything, and the time before that, she lost her voice inside a system that processed her concern into silence.
+
+The system survived. The person did not.
+
+The player who discovers this — through Fumiko's contacts in Ch 9, or through records obtained after Aizawa's break — sees the arithmetic: community-scale damage prevented, individual-scale damage inflicted. Endo's calculus worked. The cost was a person. Then another person. Then a child. The ledger never closes because each "success" validates the next suppression.
+
+---
+
 ## HOW THIS INTEGRATES INTO THE INVESTIGATION
 
 ### For Kenji
 
-Kenji discovers the Ogawa incident through school records — a personnel action flagged in the timeline, a name that appears and then doesn't. When he asks Haruki about it, Haruki is uncomfortable. He was there. He watched it happen. He didn't intervene — he had already learned, from his own protocol failure with Yui, that the system punishes engagement. Watching Ogawa get fired was the second data point that confirmed his lesson.
+Kenji discovers the Ogawa incident through school records — a personnel action flagged in the timeline, a name that appears and then doesn't. When he asks Haruki about it, Haruki is uncomfortable. He was there. He watched it happen. He didn't intervene.
 
 Kenji asks: "Was the complaint legitimate?"
 
@@ -141,15 +219,13 @@ Haruki: "I don't know. That's the honest answer. The kid said she grabbed his he
 
 Kenji asks: "Who decided it was a problem?"
 
-Haruki goes quiet. He hadn't thought about it in those terms. He says: "The council reviewed it. Mr. Endo was... concerned. He wanted to make sure it was handled properly."
-
-The player who has been tracking Endo's pattern — the way he shapes outcomes without appearing to act — hears this and adds another data point.
+Haruki goes quiet. He says: "The council reviewed it. Mr. Endo was... concerned. He wanted to make sure it was handled properly."
 
 ### For Aizawa
 
 The Ogawa incident is the second time Aizawa watched the system destroy someone for engaging with children. The first was her own reprimand. The second was Ogawa's firing. Two is a pattern. Aizawa stopped counting after two.
 
-When Kenji asks her about Ogawa, Aizawa's procedural wall goes up instantly. She answers in the clipped, documented-in-advance voice she uses when she knows she's being asked about something that could become a formal inquiry. She provides dates. She provides the sequence. She does not provide her opinion.
+When Kenji asks her about Ogawa, Aizawa's procedural wall goes up instantly. She provides dates. She provides the sequence. She does not provide her opinion.
 
 Kenji: "Did you think the complaint was valid?"
 
@@ -161,15 +237,17 @@ Long silence.
 
 "I think the review was conducted according to procedure."
 
-That sentence — identical in structure to everything Aizawa has said about her own documentation of Mira's reports — tells the player everything. Aizawa doesn't believe the review was fair. She believes the procedure was followed. These are different things, and Aizawa has made her life's work out of living in the gap between them.
+That sentence tells the player everything. Aizawa doesn't believe the review was fair. She believes the procedure was followed. These are different things, and Aizawa has made her life's work out of living in the gap between them.
 
-### For the player's understanding of Endo
+### For the Player's Understanding of Endo (Layered)
 
-The Ogawa incident is the first evidence the player encounters that Endo doesn't just exploit the system's existing failures — he *activates* them. He can turn the system's self-protective mechanisms into weapons by adjusting conditions and letting institutional reflexes do the work. He didn't lie about Ogawa. He didn't fabricate evidence. He asked concerned questions at the right time, in the right meetings, and the system — terrified of liability, optimized for self-preservation — produced the outcome he needed.
+**First encounter (Ch 5-7):** The Ogawa incident looks like institutional callousness — a teacher fired, a system that overreacts to one complaint while ignoring others. The player files it as evidence of selective response.
 
-This recontextualizes everything the player knows about how Mira's reports were handled. The system didn't just passively ignore them. It was actively shaped — through committee structures, reporting hierarchies, and the calibrated helpfulness of a man who sat at the center of every decision point — to absorb them without producing action.
+**Second encounter (Ch 8-9):** The player discovers Ogawa was cross-referencing Mira's observations. The firing wasn't random — it was removal. Endo can activate the system's immune response against specific threats.
 
-The system responded to Ogawa's complaint in days because the target was a teacher. The system absorbed Mira's complaints for months because the target was the man who designed the system's response protocols.
+**Third encounter (Ch 9 deep/Ch 11):** The player discovers the Nishida report — that Ogawa had filed a previous concern that Endo buried. And that the burial worked. The community survived. No Fujisawa outcome. Endo's philosophy has experiential roots, not just abstract reasoning. The player who has been building a case against a monster now has to sit with the fact that the monster's first act of suppression was arguably the right call.
+
+This three-layer reveal transforms the player's relationship with Endo. Layer 1 produces anger. Layer 2 produces horror. Layer 3 produces hesitation. The hesitation is the most important emotional beat in the game's villain arc, because hesitation means the player is engaging with the philosophy rather than dismissing it.
 
 ### For Mira
 
@@ -185,30 +263,56 @@ Another pause. Smaller.
 
 "I wrote in my notebook that 'can't' and 'won't' are different. The principal said she couldn't tell us. She meant she wouldn't. I already knew the difference. I just didn't know why it mattered until then."
 
-She doesn't connect Ogawa's firing to Endo. She doesn't have that data point. But the player does — or will, soon. And when they do, the realization hits: Endo removed the one adult inside the school who was starting to listen to Mira, using the same system that ignored Mira's reports, and Mira never knew. She thought she lost an ally to institutional randomness. She lost her to institutional precision.
+She doesn't connect Ogawa's firing to Endo. She doesn't have that data point. But the player does.
+
+### For Endo (The Confrontation)
+
+In Chapter 11, when Kenji presents the evidence chain and Endo shifts from helpful cooperation to philosophical justification, the Ogawa incident becomes his strongest argument:
+
+ENDO: "Do you know what happened in Fujisawa, detective? Three years before I came to this council. A teacher filed a report. Ambiguous. Observational. No evidence. The district investigated publicly. Four months. The school lost its after-school program. Three staff were reassigned — not the accused, the associated. Twenty-two families pulled their children. The man who was named was never charged. He was also never exonerated. Eighteen months later, he was dead."
+
+Beat.
+
+ENDO: "I have watched what happens when uncertain truth is handled by systems that are not equipped to handle it. I chose the version where that didn't happen. You call it silencing. I call it choosing the outcome where the fewest people are destroyed by something that was never proven."
+
+The player cannot dismiss this. Because the player has seen what Fujisawa produced — and the player has seen what Endo's suppression produced. One produced a dead man and a fractured community. The other produced a stable school and a buried question. The arithmetic is real. The horror is that it's the same arithmetic Endo used when he buried Mira's reports, and then when he buried Mira.
 
 ---
 
 ## WHERE THIS FITS IN THE CHAPTER STRUCTURE
 
-**Chapter 5 (Haruki contacts Kenji):** Haruki provides school records. Among them: the Ogawa personnel file. The player encounters the incident as a background detail — a firing, a timeline gap, a name that appears and disappears. It doesn't seem related to Mira's case. It looks like institutional noise.
+**Chapter 5 (Haruki contacts Kenji):** Haruki provides school records. Among them: the Ogawa personnel file. The player encounters the incident as a background detail — a firing, a timeline gap, a name that appears and disappears. It looks like institutional noise.
 
-**Chapter 7 (silver car / pattern convergence):** The player, cross-referencing Endo's involvement in school decisions, notices that Endo was on the review committee that recommended Ogawa's termination. This is the same committee that reviewed and dismissed Mira's reports about "an adult always around." Same committee, opposite outcomes: fire the teacher, ignore the reports about the community leader.
+**Chapter 7 (silver car / pattern convergence):** The player, cross-referencing Endo's involvement in school decisions, notices that Endo was on the review committee that recommended Ogawa's termination. Same committee that dismissed Mira's reports. Same committee, opposite outcomes.
 
-**Chapter 9 (the framing unravels):** If the player has investigated the Ogawa thread deeply enough, they discover through Fumiko or through the exchange that Ogawa had begun cross-referencing Mira's observations. The firing wasn't random. It was removal. This is one of the investigation's more subtle reveals — it's not necessary for the main case, but it deepens the player's understanding of how Endo operates. He doesn't need to lie. He adjusts the conditions and lets the institution's immune response do the work.
+**Chapter 8 (Endo's first call):** Endo references the "staffing change" casually — offering it as context for route changes that affected children's schedules. The player who has been tracking the Ogawa thread hears the normalization.
+
+**Chapter 9 (the framing unravels):** Three sub-layers available depending on investigation depth:
+- **Standard:** Fumiko or Aizawa confirms Ogawa was cross-referencing Mira's observations. The firing was removal.
+- **Deep:** Through exchange records or Fumiko's contacts, the player discovers the Nishida report — Ogawa had filed a previous concern that was buried. The prior suppression's "success" is revealed.
+- **Almost-call:** Haruki or school records mention Ogawa's report of hearing audio on a dead phone line. The player who has been tracking the exchange infrastructure connects this to the cables.
+
+**Chapter 11 (the confrontation):** If the player has uncovered the Nishida thread, Endo references Fujisawa during the philosophical shift — his strongest argument, his most dangerous moment of near-correctness.
 
 ---
 
 ## THEMATIC FUNCTION
 
-This is what Mira saw. She didn't have the language for cost-benefit analysis. She had the language for "can't" and "won't" being different, which is the same thing in a nine-year-old's vocabulary.
+The Ogawa incident is the story's thesis in miniature.
 
-And this is what makes Endo's philosophy so uncomfortably close to the truth: the system DOES respond to children's reports. It just responds in ways that protect the system, not the children. Endo didn't invent this. He just understood it better than anyone else — and used that understanding to make the system work for him.
+It proves three things simultaneously:
+1. The system's response is selective — it responds to vulnerability, not truth
+2. Endo can weaponize institutional reflexes without lying
+3. Truth suppression can produce better outcomes than exposure — and that success is what makes a man believe he has the right to suppress the next truth, and the next, until a child is dead
 
-The Ogawa incident is proof that Mira was right about everything, including the thing she could never fully articulate: the problem isn't that nobody listens. The problem is that listening is selective, and the selection criteria have nothing to do with truth.
+The third point is the revision's contribution. Without it, Endo is a villain who exploits systems. With it, Endo is a villain whose first reasonable decision created the template for every unreasonable one that followed. The difference is the difference between a character and a thesis.
+
+Mira didn't have the language for cost-benefit analysis. She had the language for "can't" and "won't" being different, which is the same thing in a nine-year-old's vocabulary. Endo had the language — and the evidence, and the memory of Fujisawa, and the certainty of a man who has been right once and concluded he will always be right.
+
+The player sits between them: a child who insists truth must be spoken, and a man who has watched what speaking produces. The game does not tell the player who is correct. It shows them the cost of both positions and lets the cost do the work.
 
 ---
 
 ## ONE-LINE SUMMARY
 
-The system fired a teacher in a week and ignored a murdered child's reports for a year. The difference was never about evidence. It was about who the system could afford to lose.
+A man who was right once about suppressing truth used that success as the template for suppressing a child's voice forever. The system survived. The person did not.

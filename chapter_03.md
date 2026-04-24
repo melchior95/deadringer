@@ -43,6 +43,44 @@ MIRA: "Also, she makes terrible coffee. That's not relevant. I just want it on r
 
 [The player who is listening hears the underlying knowledge: Mira knows her mother's sleep cycle because she lived around it — making coffee in the quiet hours, leaving notes on the fridge, timing her reports for the windows when Reiko was awake enough to hear them.]
 
+[Beat. Kenji is pouring a fresh cup from the pot beside the desk. He pauses. Looks at the mug. Looks at the pot.]
+
+KENJI: "Define terrible."
+
+MIRA: "Too much sugar. Always the small pot — the one the child can reach without the stool. The proportions favor what an eight-year-old can lift, not what adults pretend coffee should taste like."
+
+KENJI: "So the coffee's fine. The drinker is the problem."
+
+MIRA: "The drinker — my mother — is a nurse who works twelve-hour rotations and drinks caffeine as a survival mechanism. You are a detective who considers three expired coffees in a can to be an appropriate pencil holder. You're not a panel of judges, Detective. You're the other exhibit."
+
+[Kenji takes a sip. Does not respond for four seconds. Sets the mug down.]
+
+KENJI: "...fair."
+
+[AUDIO: The refrigerator cycles on. Runs for six seconds. Clicks off. The apartment's usual beat.]
+
+MIRA: "Your coffee is worse than my mother's, by the way. I don't know what you did to it. I didn't think it was possible to make Boss instant taste wrong, but here we are. There's an artistry to how badly you've done this."
+
+KENJI: "The kettle's broken."
+
+MIRA: "Then get a new kettle."
+
+KENJI: "It's not broken enough to replace."
+
+[Beat.]
+
+MIRA: "That is the most Kenji Oda sentence I've heard you produce. 'Not broken enough to replace.' That's going in the notebook. That's being preserved for posterity."
+
+KENJI: "The one I don't actually have."
+
+MIRA: "I'll dictate. You transcribe. Partnership."
+
+[Kenji almost smiles. Not quite. The corner of his mouth does something that a patient observer might describe as structural movement. He returns to the notes.]
+
+[DESIGN NOTE: The first establishing beat of the Kenji-Mira rapport as rapport, not as information exchange. Up to this point, every exchange has been either procedural or about the case. This beat is the evidence that they actually *like* each other — that the partnership isn't just functional, it's voluntary. Kenji's dry register ("The drinker is the problem," "Not broken enough to replace") is his native humor mode: institutional-literacy compression, delivered without inflection. Mira recognizes it and escalates it. This is the only extended non-case exchange in Act I. It sets the baseline the player will miss when her degradation begins in Chapter 6.]
+
+[Mira goes quiet. Not an armor-silence — a comfortable one. The line hums. Kenji finishes the coffee he criticized, pours another, and opens the notebook to a fresh page.]
+
 KENJI: "Anything I should know before I call?"
 
 MIRA: "She'll be ready. She's been answering questions since I died. She has a version. It's... polished."
@@ -59,7 +97,7 @@ MIRA: "Don't push her. Not yet. Just listen to the version. The cracks are in th
 
 [MECHANIC: The call screen appears. The player selects KITAHARA, REIKO from the call log. The phone rings. Two rings. The line connects.]
 
-[AUDIO: A slight pause. The sound of someone adjusting — a chair, a table, the small movements of a person who was waiting for this call and is now performing as if she wasn't.]
+[AUDIO: A slight pause. The sound of someone adjusting — a chair, a table, the small movements of a person who was waiting for this call and is now performing as if she wasn't. Behind her: the apartment. A kettle cooling on the counter — the metal ticking as it contracts. The hum of a space heater. No television, no music. The specific quiet of a home where one person lives in the space two people made. This is Reiko's audio signature: the apartment that's too quiet for one person. The kettle she boiled for coffee she makes the way Mira used to make it — too much sugar, in the small pot.]
 
 REIKO: "Hello?"
 
@@ -75,7 +113,9 @@ KENJI: "I'd like to ask you about Mira. About the weeks before her death."
 
 REIKO: "Of course."
 
-[She provides the timeline. Briskly, organized, the events arranged in the order she's prepared. Mira's last week of school. The Tuesday she came home late. The Wednesday where nothing was unusual. The Thursday where Mira mentioned something about the park — Reiko doesn't remember exactly what. The Friday was normal. Saturday morning Mira went out. Saturday evening she didn't come back.]
+[She provides the timeline. Briskly, organized, the events arranged in the order she's prepared. The rhythm is flat, even, the cadence of someone reading from an internal script. Mira's last week of school. The Tuesday she came home late. The Wednesday where nothing was unusual. The Thursday where Mira mentioned something about the park — Reiko doesn't remember exactly what. The Friday was normal. Saturday morning Mira went out. Saturday evening she didn't come back.]
+
+[This is the Rehearsal. The rhythm flattens when she's delivering prepared material — then rises, by a quarter-tone, on the third sentence of each rehearsed block. The pitch change is the tell: it's where the script requires emphasis she has to perform rather than feel. The player who calls Reiko again will hear the same timeline with different emphasis — the Thursday will have moved forward, the Tuesday will have been compressed. Same facts, different weight. What she leads with is what she's currently justifying. What she buries is what she's currently protecting.]
 
 REIKO: "I called the police at nine. Nine-fifteen. I waited until nine because she'd been late before — she gets absorbed in things. She watches bugs. By the river, usually. She loses track of time."
 
@@ -83,7 +123,7 @@ REIKO: "I called the police at nine. Nine-fifteen. I waited until nine because s
 
 REIKO: "She was always... she had a very active imagination. I don't mean that in a bad way. She was just — she noticed things. Saw things other children didn't see. It made her wonderful and it made her difficult and I loved her for both but the difficult part was — it could be a lot. For the school. For the other parents. For me, sometimes."
 
-[DESIGN NOTE: "Active imagination" is preemptive framing — affectionate context that doubles as credibility management. Reiko is not lying. She is editing: if Mira's reports were imagination, then failing to act on them was reasonable.]
+[DESIGN NOTE: "Active imagination" is preemptive framing — affectionate context that doubles as credibility management. Reiko is not lying. She is editing: if Mira's reports were imagination, then failing to act on them was reasonable. This phrase — "active imagination" — is a tracking point. If the player calls Reiko again, it will shift to "she was very observant" or "she paid attention to things." The migration maps what Reiko is coming to terms with.]
 
 ---
 
@@ -147,6 +187,8 @@ REIKO: "She was a good girl. She was difficult sometimes but she was — she car
 
 REIKO: "I keep finding her notes. On the fridge. Little reports about her day. 'Curry rice for dinner. Yui was not at school again.' She was... reporting to me. Even in her notes. Even when I was sleeping. She was still trying to tell me things."
 
+[AUDIO: In the background — so faint the player might miss it — the sound of a timer. A kitchen timer, counting down. Reiko doesn't acknowledge it. The player who hears it and wonders: there is a meal in the oven. There is always a meal in the oven. The nikujaga in its container with the star on the lid, made every Sunday, thrown away every Thursday, made again. Preserving the form of care while withholding the substance.]
+
 [This is the deepest Reiko goes on a first call. Silence produced it — not because Kenji was clever, but because Reiko needed the space to arrive somewhere unscripted. The player who chose Silence has learned: this mechanic works on grieving people. It will work differently on defensive ones (Doi).]
 
 ---
@@ -181,7 +223,7 @@ REIKO: "Of course. Anytime. I want to help."
 
 ### SOUL READ — REIKO
 
-[MECHANIC: SOUL READ — PERSON. First deployment. The screen shifts — not visually, but atmospherically. A hum. The wire-sound, rising. Then Mira's voice, slower than usual, each word placed with care.]
+[MECHANIC: SOUL READ — PERSON. First deployment. The screen shifts — not visually, but atmospherically. A hum. The wire-sound, rising. Then Mira's voice — immediate, no delay between the call ending and the impression beginning. The signal is clean. She speaks slower than usual, each word placed with care, but the read itself was waiting before the phone stopped ringing.]
 
 MIRA: "She's scared."
 
@@ -403,15 +445,17 @@ MIRA (player): "Okay."
 
 [Mira has been quiet since the Reiko read. The player selects DOI from the call log. The phone rings. Six rings — long enough that the player might think he won't answer.]
 
-[AUDIO: The line connects. No greeting. The sound of a store — a chime, the beep of a register, ambient air from an open door. Then a voice. Low, rough, the voice of a man who has been talking to as few people as possible for as long as possible.]
+[AUDIO: The line connects. No greeting. The sound of a store — fluorescent buzz, a register scanning milk (beep — beep — beep), a door chime as someone enters. Behind it all: the steady drone of refrigerator compressors, rhythmic as breathing. This is Doi's audio signature: the store is always on. It hums, beeps, chimes. The man inside it says as little as possible.]
 
 DOI: "Yanagi Mart."
 
 KENJI: "Mr. Doi? This is Detective Oda, Metropolitan Police. I'm calling about the Kitahara case."
 
-[Three seconds. The store sounds continue — the register, the chime. When Doi speaks, the tone has changed. Not defensive exactly — armored. A different armor from Mira's: where hers is performance, his is withdrawal.]
+[Three seconds. The store sounds continue — register, chime, compressor. When Doi speaks, the tone has changed. Not defensive exactly — armored. A different armor from Mira's: where hers is performance, his is withdrawal.]
 
 DOI: "What about it."
+
+[AUDIO: A register beep. A customer transaction completing in the background. Doi doesn't excuse himself for it — the store comes first, the detective second.]
 
 KENJI: "You gave a statement during the initial canvass. I'd like to follow up."
 
@@ -419,9 +463,9 @@ DOI: "I told them everything I know. Which is nothing."
 
 KENJI: "The canvass report summarizes your statement as 'no relevant observations.' I'd like to hear the full version."
 
-DOI: "That is the full version. I didn't see anything."
+DOI: "That is the full version. I didn't see anything. I run a store. I mind my own business."
 
-[He's lying. Not well — not with Reiko's practiced fluency. He's lying the way tired people lie: flatly, without investment in being believed, because the truth costs more than disbelief.]
+[He's lying. Not well — not with Reiko's practiced fluency. He's lying the way tired people lie: flatly, without investment in being believed, because the truth costs more than disbelief. The phrase "mind my own business" is the first euphemism — the Dignity Filter converting "I watch my grandson through a window and can't tell anyone why" into a general principle about minding his own.]
 
 ---
 
@@ -447,23 +491,25 @@ DOI: "I told him what I told you. Nothing."
 
 KENJI: "The girl who died — she reported you. She said you were watching children near the school. Are you aware of that?"
 
-[Silence. When Doi speaks, his voice is harder. Not louder — denser. Compressed.]
+[Silence. When Doi speaks, something has changed. His voice isn't harder — it's more polite. The gruff store owner who answered with "What about it" is now choosing words the way you choose steps on ice.]
 
-DOI: "Yes. I'm aware."
+DOI: "I'm aware of the report, yes."
+
+[AUDIO: The register beeps — a customer transaction, steady as a metronome. Doi waits for it to finish before continuing.]
 
 KENJI: "Would you like to explain what she saw?"
 
-DOI: "What she saw was a man behind a window in his own store. That's what she saw. What you people turned it into is your business."
+DOI: "I appreciate you asking, Detective. What she observed was a man in his own store, near a window. I'm sorry I can't be more helpful than that."
 
-[He's pulling in. Every direct question closes another door. The player is watching the same mechanism that failed Mira, in reverse: instead of a report being ignored, a question is being deflected. Push harder and Doi retreats further. The gruff man gets gruffer. This is the Pressure lesson: force does not produce information from a man who has already decided that talking to authority costs more than silence.]
+[The courtesy is the tell. Every degree of pressure produces a degree of politeness. The gruff man doesn't get gruffer — he gets formal. "I appreciate." "I'm sorry." "I understand." The player who notices the shift is tracking the Dignity Filter: the more it hurts, the more correct he sounds.]
 
 KENJI: "Mr. Doi—"
 
-DOI: "I run a store. I sell rice and cigarettes. The girl died and I'm sorry she died and I have nothing to do with it. Is that everything?"
+DOI: "I understand this is your job. I respect that. I run a store, I've been in this neighborhood twenty-three years, and I have nothing useful to add to your investigation. I apologize for the inconvenience."
 
-[He's ready to hang up. The player has hit the wall. If they continue pressing, Doi disconnects. The call ends short.]
+[He's ready to hang up. Not with a slam — with a courteous goodbye. The player has hit the wall, but the wall is made of manners, not hostility. Push harder and Doi gets more polite, more distant, more unreachable. If they continue pressing, Doi thanks them for their time and disconnects. The call ends short — ended by a man who said "please" and "thank you" the entire time he was shutting the door.]
 
-[DESIGN NOTE: This is the explicit Pressure failure. The player learns: this approach shuts Doi down. In Chapter 6, when Doi's false confession arrives, the player who used Pressure here understands why — Doi has been pressured by suspicion for years, and one more push collapsed his resistance in the wrong direction. The player who pressured and failed now has the context to understand the confession as exhaustion, not guilt.]
+[DESIGN NOTE: This is the explicit Pressure failure and the first display of the Dignity Filter under load. The player learns: pressure makes Doi more polite, not more honest. The escalating courtesy IS the resistance — every "I appreciate" is a locked door with a welcome mat. In Chapter 6, when Doi's false confession arrives, the player who pressured here recognizes the same mechanism inverted: a man who would rather confess to murder than lose the last shred of dignity that courtesy provides.]
 
 ---
 
@@ -485,21 +531,43 @@ DOI: "I've been here twenty-three years. I remember when it was just a neighborh
 
 [This echoes Mira's closing observation from Chapter 2 — "somebody takes care of it." Doi has the adult version: "somebody's project." Same observation, different vocabulary. Two people describing the same phenomenon from opposite ends of a life.]
 
-[NOTEBOOK PROMPT: "DOI re: neighborhood — 'gotten managed last 10 years. Somebody's project.' Echoes Mira's 'somebody takes care of it' (Ch 2). Cross-reference."]
+[AUDIO: The register beeps — a customer paying. Doi handles the transaction, muffled. A receipt printer buzzes. Bag rustle. Door chime. Silence again. When he returns to the phone, something in his register has loosened — as if the small business of completing a sale reminded him that he is, first, a man who runs a store, and only incidentally a man being questioned about a dead child.]
+
+DOI: "They replaced the streetlight on the corner last spring. You know what the old one was? A regular bulb. In a fixture. You could see your shoe. You could see a cat. Normal light. They put in an LED — blue-white, they call it, one of those — and now at night you can see the color of the rice on the shelves through the window from across the street. You can read a newspaper on the sidewalk. It's not a neighborhood anymore, it's an *operating theater.*"
+
+[Beat.]
+
+DOI: "Everybody said it was an improvement. Safer, they said. I had to put a curtain up. I've lived here twenty-three years without a curtain. Now I need one because the council decided the street was insufficiently illuminated."
+
+KENJI: "The council."
+
+DOI: "The council. The council picked the fixture. The council approved the contractor. The council has opinions about my store's awning, which is apparently the wrong color. Twenty-three years, the awning was fine. Now there's a color it's supposed to be and mine is the color it shouldn't be. My awning is an *eyesore,* Detective. A written notice. I have it somewhere."
+
+[DESIGN NOTE: This is Doi's first extended non-defensive beat. The Dignity Filter permits grumbling on a neutral topic — the streetlight, the awning, the bureaucratic intrusion — because complaining about small municipal absurdities is what older men do, and performing the role of "grumpy shopkeeper" is safer than answering questions about a dead girl. The specific complaint matters: the LED streetlight makes his store's interior visible from the street, which means anyone outside can see Doi watching his grandson through plate glass. He is not registering this connection consciously. The player, who does not yet know about Ren, files it as character texture. In Chapter 6, when Doi's custody situation surfaces, the player recognizes that the streetlight complaint was never really about the streetlight.]
+
+DOI: "You didn't call me to hear about lighting, Detective."
+
+KENJI: "No, but I wasn't stopping you."
+
+DOI: "Hm."
+
+[A single syllable. The first sound Doi has produced in the call that resembles acknowledgment. Kenji listening to the streetlight complaint without cutting him off has produced a fractional trust gain — not enough to unlock the real testimony, but enough that when Doi speaks next, the formality has eased one degree.]
+
+[NOTEBOOK PROMPT: "DOI re: neighborhood — 'gotten managed last 10 years. Somebody's project.' Echoes Mira's 'somebody takes care of it' (Ch 2). The council picks streetlights, awning colors, infrastructure. Doi has a *written notice* about his awning. Note: the new LED makes his store's interior visible from the street. He mentioned this specifically. Cross-reference."]
 
 ---
 
 ### Response: REMAIN SILENT
 
-[The store sounds fill the space. The register beeps. A customer enters — a bell chime. Doi says to them, muffled: "One moment." Then back to the phone.]
+[The store sounds fill the space. Register beep. Compressor hum. The door chime — a customer enters. Doi says to them, muffled, away from the phone: "One moment." The sound of a transaction: items on the counter, a bag rustling, coins. Then back to the phone. The store ran while the detective waited. It always runs.]
 
 DOI: "You still there?"
 
-[Kenji says nothing. Five seconds. Seven.]
+[Kenji says nothing. Five seconds. Seven. The compressor cycles. The fluorescents buzz.]
 
 DOI: "...I don't know what you want me to say."
 
-[His voice has changed. Not softer — more honest. Silence didn't produce information, but it produced something the player can work with: the admission that he has something he doesn't know how to say. Not a confession. A position — a man standing at the edge of speech, looking at the drop.]
+[His voice has changed. Not softer — more honest. Silence bypasses the Dignity Filter in a way questions can't. Questions give Doi something to be polite about. Silence gives him nothing but the truth and the quiet, and in the quiet the truth is louder. Not a confession. A position — a man standing at the edge of speech, looking at the drop.]
 
 ---
 
@@ -509,9 +577,17 @@ DOI: "You're not here to accuse. Fine. So what are you here for?"
 
 KENJI: "Information. Anything you noticed in the weeks before Mira Kitahara's death."
 
-DOI: "I noticed what I always notice. The kids walking home. The cars. The same things every day. Nothing stood out."
+[AUDIO: The compressor cycles off. In the gap, the store sounds thinner — just the fluorescent buzz and Doi's breathing, closer to the phone than before.]
 
-[NOTEBOOK PROMPT: "'The kids walking home. The cars.' — Doi is tracking something, even in denial. What cars?"]
+DOI: "I noticed what I always notice. The kids walking home. The cars. The same things every day."
+
+[Beat.]
+
+DOI: "I have my own situation, Detective. Family circumstances. It keeps me focused on the store. I don't look for trouble."
+
+[Two euphemisms in two sentences. "My own situation" = the custody order. "Family circumstances" = a raised voice, a protective order, a grandson he watches through plate glass. The player won't decode them yet. But they're in the notebook now, accumulating.]
+
+[NOTEBOOK PROMPT: "'The kids walking home. The cars.' — Doi is tracking something, even in denial. What cars? Also: 'my own situation,' 'family circumstances' — covering what?"]
 
 ---
 
@@ -529,7 +605,7 @@ KENJI: "When did he stop?"
 
 DOI: "Few weeks back. Before the — before the Kitahara girl. One day he was there, next day he wasn't. I didn't think much of it. Kids change routines."
 
-[Beat. Doi's voice shifts — almost imperceptibly. A note of something that isn't defensiveness.]
+[AUDIO: The store goes quiet for a moment — the register idle, no customers, just the compressor drone. In the gap, Doi's breathing is audible. Closer to the phone. His voice shifts — almost imperceptibly. A note of something that isn't defensiveness. Something closer to the "family circumstances" register — the place where real things live under polite words.]
 
 DOI: "I noticed because the bench looked wrong without him."
 
@@ -541,7 +617,9 @@ DOI: "I noticed because the bench looked wrong without him."
 
 ### SOUL READ — DOI
 
-[Mira has been quiet through the Doi call. The read comes late — not immediately after the call but after a pause, as if she had to gather herself.]
+[Mira has been quiet through the Doi call. The read comes late — not immediately after the call but after a pause, as if she had to gather herself. When she begins, the read is crisp — no static, no hesitation in the signal itself. The delay was hers, not the line's.]
+
+[AUDIO: The store sounds are gone. The line has disconnected. In the Soul Read space, the only sound is the wire-hum and Mira's voice — and the absence of the compressor drone feels like something has been removed from the room.]
 
 MIRA: "He's... sad. Really sad. Not about the girl — about something older. Sadness so old it's turned into furniture. It's just part of the room now."
 

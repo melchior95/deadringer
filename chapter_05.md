@@ -117,7 +117,7 @@ HARUKI: "She came to my desk. After class. On a Wednesday. She stood there — s
 
 HARUKI: "She said: 'Mr. Ise, Yui's mom's boyfriend hits her.' Just like that. No hedging. No buildup. She was nine and she sounded like a journalist filing a report."
 
-[NOTEBOOK PROMPT: "HARUKI — 'disruptive honesty' was his phrase. Meant as description, reads as label. In Mira's school file. He followed protocol on the Yui report: called parent → parent denied → council reviewed → nothing happened."]
+[NOTEBOOK PROMPT: "HARUKI — YUI REPORT PROTOCOL: Mira reported Yui's abuse to Haruki. He followed procedure: called the mother → mother denied → escalated to council → council reviewed → no action. Every step correctly executed. The procedure produced nothing. He didn't go outside channels. He didn't call child services directly. He thinks about the call to the mother every day."]
 
 ---
 
@@ -141,9 +141,13 @@ HARUKI: "I'll have them by this afternoon."
 
 [He's already moving. The player can hear the shift — a chair, papers, the quick breath of someone who has found a direction and is running toward it. This is Haruki's value and Haruki's danger: he does things immediately, which is exactly what the investigation needs and exactly how investigations get blown.]
 
-MIRA: "He's going to help too much. He's going to do something fast because fast feels like fixing."
+MIRA: "He's going to help too much. He's going to do something fast because fast feels like—"
 
-[Beat.]
+[A flicker. The briefest gap — a quarter-second where the wire-sound dips and her voice thins, like a radio signal passing through an underpass.]
+
+MIRA: "—fixing."
+
+[The word arrived a beat after the breath that formed it. Not a pause for effect — Mira doesn't pause before punchlines. Something else. The line recovers immediately and the player has already moved on.]
 
 MIRA: "He just offered you school records, parent lists, and building access. That's not cooperation. That's a man emptying his pockets."
 
@@ -152,6 +156,12 @@ MIRA: "He just offered you school records, parent lists, and building access. Th
 MIRA: "He's not wrong about wanting to help. He's wrong about the speed."
 
 [DESIGN NOTE: Mira's observation is the player's first ally-management tutorial. Haruki is useful and reckless. The player will need to calibrate how much information to share with him — enough to keep him coordinated, not so much that he acts alone.]
+
+---
+
+[NOTEBOOK PROMPT — PIN THIS: **"disruptive honesty"** — Haruki's phrase, coined by him at a parent-teacher conference, written into Mira's school file. He meant it as description. The file reads it as label. The phrase is in an institutional record and Haruki's name is attached to it. REMEMBER THIS. The phrase will return.]
+
+[DESIGN NOTE — PHRASE PIN: This is a deliberate load-bearing callout. Haruki's "disruptive honesty" reappears in Chapter 9's framing documents as the single most devastating use of institutional language in the case — Endo weaponized Haruki's own phrase to build the pathologizing profile of Mira. The player who remembers the phrase precisely feels the Ch 9 break land at full weight. A fast-moving player can miss the introduction. This prompt exists to insure the Ch 9 payoff. It is the one notebook entry in Chapter 5 flagged as "remember this" — every other entry is contextual. This is a pointer.]
 
 ---
 
@@ -182,13 +192,17 @@ MIRA: "She never did anything else."
 
 [The player calls Haruki. He answers before the first ring completes.]
 
-HARUKI: "Detective. I have the records. I've been going through them. There's — there's a lot. I organized them by date. Should I — do you want me to read them or should I send—"
+[AUDIO: No ring gap — the line connects mid-motion. Behind Haruki: the hollow echo of an empty classroom. Papers shuffling. A desk chair that squeaks when he moves, and he moves constantly — the phone held between ear and shoulder, hands free for the files. The sound of a man who has been alone with documents for hours, rehearsing the conversation he's about to have. Occasionally: a pen clicking, rapid-fire, the way other people tap their feet. This is Haruki's audio signature: the restless classroom, papers everywhere, a man generating noise because silence is the thing he can't hold.]
+
+HARUKI: "Detective. I have the records. I've been going through them since — well, since your last call, honestly, I pulled the archives from the counselor's office, which required a form, and the form goes through admin but I have a key to the records room because of my committee role, so I — anyway, I have them. I organized them by date. Should I — do you want me to read them or should I summarize or I could send photographs of the pages but the quality isn't—"
 
 KENJI: "Start with reports about adults near the school."
 
-HARUKI: "Right. Okay. So — the counselor's files show... there were reports. Not just Mira's. Other students. Three others, over a two-year period. Different children, different grades. They all reported the same thing, essentially: an adult who was 'always around.' Near the school. Near the park. Near the community center."
+HARUKI: "Right. Okay. So — the counselor's files show — and to understand the filing you should know that behavioral reports use a three-tier system, counselor to admin to council, but that's — the relevant thing is there were reports. Not just Mira's. Other students. Three others, over a two-year period. Different children, different grades, but essentially — they all reported the same thing: an adult who was 'always around.' Near the school. Near the park. Near the community center."
 
-[He's reading from the files. His voice shifts into the cadence of someone reading official language — clinical, documented, dead.]
+[The overflow. Data pouring in every direction — procedure, context, tangent, correction, back to the point. The player drowns in it. Useful information is embedded in the flood. But the flood is the point: Haruki fills silence because silence is where the guilt lives, and if he stops talking he'll arrive at the sentence he's been avoiding since Mira stood at his desk.]
+
+[He's reading from the files now. His voice shifts into the cadence of someone reading official language — clinical, documented, dead.]
 
 HARUKI: "Report one: October, two years before Mira. A third-grader told Aizawa that 'a man watches us at the park.' Aizawa documented it. Filed to the safety council. Council review: 'Assessed. No actionable concern. Community volunteer presence noted as context.'"
 
@@ -212,17 +226,27 @@ MIRA: "They didn't tell me. They didn't tell any of us. Each one reported alone 
 
 ### The Three Names
 
-HARUKI: "The three students who filed those reports — I cross-referenced with attendance records."
+HARUKI: "The three students who filed those reports — I cross-referenced with attendance records, and the attendance data uses a coding system where — actually that's not important, the point is —"
 
-[He pauses. The fast-talker goes slow.]
+[He stops.]
 
-HARUKI: "Two of them transferred out of the district within six months of filing. One... one is listed as a missing person."
+[AUDIO: The pen stops clicking. The chair stops squeaking. The papers stop shuffling. For the first time in the call, the classroom is silent. Two seconds. Three. The overflow has hit something it can't proceduralize.]
+
+[This is the tell. Haruki talks continuously — except once per call. One beat where the flood stops. The player who has been drowning in data should feel the absence like a held breath. What comes next is the thing the overflow was running from.]
+
+HARUKI: "Two of them transferred out of the district within six months of filing."
 
 [Beat.]
 
-HARUKI: "The missing one — Sora Hayashi. Third grade. He disappeared about four months after his report was filed."
+HARUKI: "One is listed as a missing person."
+
+[His voice has changed. The rapid connective tissue — the "so" and "actually" and "anyway" — is gone. Plain sentences. No tangents. The overflow stopped and what's underneath it is a teacher who just read a name he recognizes.]
+
+HARUKI: "Sora Hayashi. Third grade. He disappeared about four months after his report was filed."
 
 KENJI: "Tell me about him."
+
+[AUDIO: Papers. Haruki sets something down — the files — and when he speaks next, he's not reading. He's remembering. The pen clicks once, then stops.]
 
 HARUKI: "Sora? He was... quiet. Not a problem. Never flagged for anything behavioral. Good student — well, average grades, but he paid attention in a way that was... different. Focused. He drew these city things in his notebook instead of taking notes sometimes. I never marked him down for it. They were really good."
 
@@ -234,29 +258,141 @@ MIRA: "The boy who drew maps."
 
 MIRA: "I saw his drawings once. On the bench outside Doi's store. I didn't know they were his."
 
-[NOTEBOOK PROMPT: "SORA HAYASHI — the drawing boy. Third grade. Missing. Filed a report about 'a man who knows all our names.' Report dismissed by safety council. Disappeared 4 months later. MATCHES: bench artifact (Ch 2), Doi's drawing boy (Ch 3), colored pencil marks, graph paper maps. Identity confirmed."]
+[Beat. Then, quieter:]
+
+MIRA: "Yui mentioned him. Yesterday. A boy with graph paper who stopped coming to the river."
+
+[Quiet.]
+
+MIRA: "She noticed he was gone. She didn't tell anyone."
+
+[The player who listened to Yui's call connects the threads: Doi noticed the drawing boy's absence from the bench. Yui noticed his absence from the river. Two people saw the same disappearance, independently, and neither reported it — because the system had already taught both of them that reporting produces consequences for the reporter, not the problem. Sora vanished inside a silence the community had been building for years.]
+
+[NOTEBOOK PROMPT: "SORA HAYASHI — the drawing boy. Third grade. Missing. Filed a report about 'a man who knows all our names.' Report dismissed by safety council. Disappeared 4 months later. MATCHES: bench artifact (Ch 2), Doi's drawing boy (Ch 3), Yui's river boy (Ch 4), colored pencil marks, graph paper maps. Identity confirmed. THREE PEOPLE NOTICED HIS ABSENCE. NONE REPORTED IT."]
 
 ---
 
 ### The Ogawa File
 
-HARUKI: "There's something else in the records. A personnel action. A teacher — Ms. Ogawa. She was fired about a year before Mira died."
+[AUDIO: The overflow resumes — pen clicking, chair squeaking, papers shuffling. Haruki is back in the files, back in the data, the familiar territory where everything can be proceduralized and nothing has to be felt.]
+
+HARUKI: "There's something else in the records. A personnel action — actually it's filed separately, under staff disciplinary, not student reports, which is why nobody cross-referenced it, but I pulled it because the timeline overlaps — a teacher, Ms. Ogawa. She was fired about a year before Mira died."
 
 KENJI: "What happened?"
 
-HARUKI: "A complaint. Physical discipline — a parent said she grabbed a student's head to redirect his attention. The school launched a review. One-by-one student interviews. She was placed on leave. Then terminated."
+HARUKI: "A complaint. Physical discipline — well, alleged physical discipline. A parent said she grabbed a student's head to redirect his attention, and the school launched a review, which involves — the review process requires one-by-one student interviews with the counselor present, and those interviews are documented but the documentation goes to the council, and — she was placed on leave. Then terminated."
 
-[He's uncomfortable. He was there. He watched it happen.]
+[AUDIO: The pen stops clicking. He was there. He watched it happen.]
 
 HARUKI: "I don't know if the complaint was legitimate. The kid said she grabbed his head. She might have redirected him. I've done that. Every teacher has done that. The question is whether you do it in a school where somebody decides it's a problem."
 
 KENJI: "Who decided?"
 
-[Haruki goes quiet.]
+[AUDIO: Silence. The empty classroom. No pen, no papers, no chair. Second time the overflow has stopped. But this one isn't the tell — this is just a man who doesn't want to say the next sentence.]
 
 HARUKI: "The council reviewed it. Mr. Endo was... concerned. He wanted to make sure it was handled properly."
 
 [NOTEBOOK PROMPT: "OGAWA FIRING — teacher terminated after complaint. Council reviewed. Endo pushed for 'thorough handling.' One-by-one student interviews (conformity pressure). Compare: council reviewed and DISMISSED Mira's reports (same mechanism, opposite outcome). System fires a teacher in a week, ignores reports about a community leader for a year. Who benefits?"]
+
+---
+
+### Mira's Classroom
+
+[Mira says nothing after Haruki mentions Ms. Ogawa. Not the working silence she uses during evidence review — the silence of someone who has stopped moving entirely. Kenji finishes writing. The pen stops.]
+
+KENJI: "You knew her."
+
+[Not a question. Kenji has spent five chapters learning the difference between Mira's silences.]
+
+MIRA: "She was my teacher."
+
+[Beat.]
+
+MIRA: "Class 4-1. She had a photo of a cat on her desk that she'd taken herself. She kept a jar of dried mandarin peel by the window because she said the smell helped her think. She gave points for questions, not just answers — anyone who asked something she hadn't thought of got a point." 
+
+[She stops. She was doing the detail-inventory thing — the way she talks about places she lived in, people she knew. The way she talks about Doi's store and the broken vending machine. Neutral specificity as emotional insulation.]
+
+MIRA: "What did they say? To the class, I mean. When she didn't come back."
+
+[The question is not rhetorical. The player understands: Mira is asking because she wrote it down, and she wants to know if the notebook is in the case file.]
+
+[MECHANIC: The blue notebook — Mira's observation journal, recovered from the evidence box in Ch 2 — is open on Kenji's desk. He has been cross-referencing it against school records. He finds the section.]
+
+KENJI: "I have your notebook."
+
+[Beat.]
+
+MIRA: "I know."
+
+[Her voice doesn't change. She has known the notebook was in evidence for five chapters. She has not asked about it. The player understands: she's been waiting to be asked. Or she's been waiting until there was a reason.]
+
+KENJI: "There's a section. Starting in October."
+
+MIRA: "Yes."
+
+[Kenji reads. The player sees the notebook, rendered in Mira's handwriting:]
+
+---
+
+[VISUAL: Mira's observation notebook — the blue cover, the handwriting Kenji described in Ch 1 as "small and even and serious for a nine-year-old." The October section. Six entries, spread across five days.]
+
+> **Monday, October 14**
+> *Ms. Ogawa isn't here. Substitute's name is Ms. Fujita. She said Ms. Ogawa was "unavailable" and she couldn't give us more information. "Unavailable" is a word adults use when they don't want to answer the real question.*
+
+> **Tuesday, October 15**
+> *Still no Ms. Ogawa. We asked again this morning. Ms. Fujita said "I'm sure the school will keep you informed." Kenta said to me at lunch: "they're not going to tell us anything." I told him to keep asking. He said there's no point. I said the point is that we're supposed to know.*
+
+> **Wednesday, October 16**
+> *The counselor came to our class today. She didn't say why. She asked if anyone had "concerns" they wanted to "share in a comfortable and private setting." Nobody said anything. I didn't say anything either. I don't know why. I think it's because what I wanted to say wasn't a "concern." It was a question. They're different.*
+
+> **Thursday, October 17**
+> *Ms. Fujita brought us extra time at lunch. I think this was supposed to make us feel better. It didn't. Ryota said his mom got an email. He didn't know what it said. I asked him to ask her. He said he didn't want to get in trouble. I said you can't get in trouble for asking your mom a question. He said "you can at my house."*
+
+> **Friday, October 18 — the principal came**
+> *She sat down in the circle. She put her hands on her knees. She said: "I want you to know that we are here to protect you. I can't say more about what happened, but I want you to know that your safety is our number one priority."*
+> 
+> *She said "can't" four times. She said "protect" and "safety" and "priority." She did not say Ms. Ogawa's name. She did not say what happened. She did not say when we would know.*
+> 
+> *When she left, no one talked for a minute. Then Kenta said "that was useless." I told him not to say "useless" about adults. He asked me why. I didn't have an answer.*
+
+> **Later, Friday**
+> *Ms. Ogawa is gone. They said they can't tell us why. I think they can. I think "can't" means "won't." Those are different. I asked mom about this when I got home and she said they're the same. They're not. Can't is when the thing is impossible. Won't is when the thing is possible and the person has decided not to do it. The principal could tell us. She decided not to. That's a won't. She called it a can't so it would feel like nobody's fault.*
+
+---
+
+[Kenji reads the last entry without comment. He sets the notebook down on the desk.]
+
+[AUDIO: The apartment is very quiet. No train. No clock. The refrigerator hums twice and stops. Outside, a bicycle passes. Nothing else.]
+
+[Mira says nothing for a long moment. The player waits. They have learned, from seven calls across five chapters, that Mira's silences have content — she is not absent from them, she is working through something. The quality of this one is different. She is not calculating. She is sitting with something she has not sat with since she died.]
+
+MIRA: "I kept asking Ms. Fujita every day for a week and a half. The other kids stopped after three. I didn't because — I needed to know if it was a 'can't' or a 'won't.' I hadn't figured out the words yet, but that was the question. If they physically couldn't tell us, that was one kind of thing. If they chose not to, that was a different kind. And the difference matters because — if it's a 'can't,' then the information genuinely doesn't exist. If it's a 'won't,' then somebody decided that we didn't need to know."
+
+[Small pause.]
+
+MIRA: "We were the ones she was there for. They sent the email to parents. We found out from them. That meant someone decided that the people Ms. Ogawa existed to teach were the ones who didn't need to be told she was gone."
+
+[Her voice is completely level. The armor is on. But the player who has spent five chapters with Mira recognizes something underneath the levelness — not a crack, a seam. The place where the armor meets the person.]
+
+KENJI: "She said 'tell me more.' Is that in the notebook?"
+
+[He already knows. He's been reading it.]
+
+MIRA: "...yes. I wrote it in March. Four months before the October entries. She said 'that's interesting, tell me more' when I told her about the silver car. She didn't say 'good job' or 'I'll look into it' or 'you shouldn't worry about those things.' She said 'tell me more.' Which means she thought there was more. Nobody says 'tell me more' about something they've already decided is nothing."
+
+[She stops.]
+
+MIRA: "I noticed the difference. I didn't know what to do with it. I put it in the notebook and kept reporting to everyone else because that's all I knew how to do. And then October came and she wasn't there anymore and nobody would tell us why."
+
+[Pause. Smallest beat in the conversation.]
+
+MIRA: "I asked Ms. Fujita on the last day before I stopped asking: 'Can you at least tell us if Ms. Ogawa knows what happened?' She said she didn't have that information. I wrote that down too."
+
+[She doesn't say: *so I stopped asking.* She doesn't need to. The player understands: Mira Kitahara, who tracked the silver car and timed the supervision gap and carved out the distinction between "can't" and "won't," finally stopped asking the substitute teacher because there was nothing left to ask. Some silences are not defeat. They are the end of a line of inquiry that has produced all available data.]
+
+[DESIGN NOTE: This scene is doing three things simultaneously. First: it delivers the classroom texture — the week of silence, the principal's managed speech, the email to parents — from inside a nine-year-old's experience rather than from the institutional record. Second: it establishes that Ogawa specifically said "tell me more" to Mira's reports, which makes Ogawa's firing a personal loss rather than an abstract data point. Third: it plants the "can't vs won't" entry in the player's memory at Chapter 5, where it will sit for six more chapters before Endo uses the same language in Chapter 11 — "I can't give you information I don't have" — and the player who logged this moment will hear the echo. The notebook entry is eleven words. What it teaches about institutional language is not summarized by the game. The player carries it.]
+
+[NOTEBOOK PROMPT: "OGAWA — CLASS 4-1. Mira's teacher. Said 'tell me more.' Fired October. Kids asked every day. Principal: 'I can't say more — safety is our priority.' Email to parents, not students. Mira's entry: 'I think can't means won't. Those are different.' Mira kept asking 9 days after everyone else stopped. CROSS-REF: same council that dismissed Mira's reports fired the one teacher who listened to them."]
 
 ---
 
@@ -284,15 +420,57 @@ MIRA: "He built the pipe. And then he stood at the end of it."
 
 ---
 
+### SOUL READ — HARUKI
+
+[The call ends. The line disconnects. Mira is quiet for longer than usual before the read arrives — not the silence of degradation, the silence of someone organizing a difficult impression before delivering it. The wire-sound hums steady. When she speaks, her voice is slower than it was for Reiko, more careful than it was for Doi. This is the first NPC Mira knew personally while she was alive. The read carries the complication.]
+
+MIRA: "He's moving. All the way through. Every part of him is moving."
+
+[Beat.]
+
+MIRA: "If he stops, he has to feel something. He can't feel something. So he can't stop."
+
+[Pause. The read deepens, the way it deepened for Reiko — Mira arriving at the shape underneath the shape.]
+
+MIRA: "It's not that he's empty. It's the opposite. He's full. Full of data. Full of words. Full of procedure. Imagine a cup that got overfilled. The cup is the part of him that was useful — the teacher who asked questions and waited for the answer. The overflow is everything he has been since. He's been living as overflow for a while now. A year, maybe. Since me. Maybe since before me. I don't know when the overflow started. I know it isn't stopping."
+
+[She goes quiet. When she continues, her voice carries a quality the player hasn't heard before — the specific register of someone making a fair assessment about a person who tried and failed.]
+
+MIRA: "He was kind to me. I want to put that in the record. Mr. Ise asked me how I was doing and he waited for the answer. He let me finish my sentences. Most adults in school were — not unkind. Just busy. They heard the first five words of what I said and assumed the rest. He actually listened. That's not nothing."
+
+[Beat.]
+
+MIRA: "It's also not the thing I needed. What I needed was for him to do the thing the procedure was afraid of, and he didn't. He ran the call to Yui's mother the way the procedure said. The procedure was wrong. He couldn't be wrong alongside the procedure. That's — that's what kindness without stakes gets you. He was kind and the kindness didn't cost him anything and so it didn't help me. That's the whole shape of him, if you want it in one sentence."
+
+[A longer pause. Mira is not angry. She is being precise, the way she is always precise. But the precision is about someone she carried a specific kind of disappointment for.]
+
+MIRA: "The cup and the overflow are the same person. The cup is what he was. The overflow is what he is now, because the cup couldn't hold what he was carrying. Which is: the knowledge that he was the adult in the room. He was the adult in the room for me. He's been the adult in the room for a lot of children, and most of the time it was fine. One time it wasn't, and the time it wasn't was the time that mattered, and now he doesn't know how to be in a room with an adult's weight anymore. So he runs. He talks too fast. He explains too much. He fills the air so he doesn't have to occupy it."
+
+[She stops. Then — practical:]
+
+MIRA: "Use him, Kenji. He'll do everything you ask. He'll also do some things you don't ask, because doing something is how he proves to himself he's still an adult in a room. Those are the things that'll hurt us. Don't give him information he doesn't need. He can't hold it. Information falls out of him. Not because he's careless — because he's leaking."
+
+[NOTEBOOK PROMPT: "SOUL READ — HARUKI: Overflow. 'Full of data, full of words, full of procedure.' The overflow is how he manages the inability to stop moving. Stopping = feeling. Was kind to Mira ('let me finish my sentences'); kindness without stakes didn't cost him anything and therefore didn't save anyone. MIRA'S ADVICE: Use him, don't trust him with information he doesn't need. 'He's leaking.' He'll do what you ask. He'll also do things you don't ask. The second category will hurt us. (Foreshadows Ch 6 Point of No Return.)"]
+
+[DESIGN NOTE: Mira's first Soul Read on someone she knew while alive. The read is warmer than her reads of strangers because she carries a specific opinion; it is also more damning because the opinion is specific. Haruki was not cruel. He was kind. His kindness was load-bearing for a child who needed an adult with stakes, and his kindness did not have stakes. The "cup and overflow" metaphor lands the character in one image: he was adequate until one moment required him to be more, and the overflow has been what he is ever since. The tactical instruction — "use him, don't trust him with information" — foreshadows the Chapter 6 Point of No Return, where Haruki acts on information the player shared and his well-meaning uncoordinated action damages the investigation. The player who logged this read in Chapter 5 has been warned. The player who acts on the warning manages Haruki as Mira described. The player who doesn't pays the cost.]
+
+---
+
 ## SCENE 4: CALL — AIZAWA
 
 [The player selects AIZAWA, EMI from the call board. The phone rings. Three rings. When she answers, her voice is precise, measured, and slightly too controlled — the voice of someone who was expecting this call and has prepared for it the way she prepares for everything.]
 
+[AUDIO: A small sound on the line — a plastic click, rhythmic, between her words. Click. Pause. Click. A hand sanitizer bottle being pumped and released. Not used — the pump doesn't complete. Just the click of the mechanism, steady as a metronome. This is Aizawa's audio signature: the sanitizer click. The observable behavior of someone who maintains small perfections because the large ones are beyond her reach. The click rate is the health bar: steady means composed. The player should start counting.]
+
 AIZAWA: "Hello. This is Aizawa."
+
+[Click.]
 
 KENJI: "Ms. Aizawa. Detective Oda, Metropolitan Police. I'm calling about the Kitahara case."
 
 AIZAWA: "Yes. I've been expecting someone to follow up on the school records. How can I help?"
+
+[Click. Click.]
 
 [Her "how can I help" is different from Reiko's or Rina's. Theirs was performance. Aizawa's is procedure. She is offering institutional cooperation — bounded, documented, within the lines she has drawn for herself.]
 
@@ -330,15 +508,15 @@ AIZAWA: "I appreciate that, Detective. I did follow procedures. I documented eve
 
 KENJI: "Three students filed reports about the same concern. You documented all of them. What did you do after filing?"
 
-[Silence. Three seconds. The longest Aizawa has been quiet.]
+[Silence. Three seconds. The longest Aizawa has been quiet. Click. Click. Click — faster now. The steady metronome has accelerated.]
 
-AIZAWA: "I filed them. Through the appropriate channels. The safety council reviewed them."
+AIZAWA: "I filed them. Through the appropriate channels. The safety council reviewed each report according to established procedure."
 
 KENJI: "That's the process. I'm asking what you did."
 
-AIZAWA: "That IS what I did."
+AIZAWA: "That IS what I did. The process IS the action, Detective. Documentation ensures accountability. Filing ensures review. Review ensures appropriate response."
 
-[Her voice thins. The precision becomes a weapon — she is correct about what she says and the correctness is the defense. The player who pushes harder gets more precision, not more truth.]
+[Click-click-click. Her voice thins. Every sentence could appear in an official filing — and that's the point. The institutional language is the wall. She is correct about what she says and the correctness is the defense. The player who pushes harder gets more procedure, not more truth. The clicks get faster.]
 
 ---
 
@@ -362,11 +540,11 @@ AIZAWA: "It was a standard reassignment. Positions open, positions fill."
 
 [Aizawa is comfortable with silence. She lives in it — the silence of a classroom after the students leave, the silence of documentation without action, the silence between "I see" and "I do." She does not fill it the way Haruki does or perform through it the way Reiko does. She holds it.]
 
-[But the silence accumulates. After ten seconds, the precision begins to show its seams — not because Aizawa cracks, but because the structure she's maintaining becomes visible as a structure. The player can see the walls.]
+[But the clicks don't hold. Click... click... click-click... click-click-click. The silence is still — Aizawa is managing it perfectly — but her hands aren't. The sanitizer bottle accelerates independently of her voice, the body betraying what the institution protects. After ten seconds, the precision begins to show its seams — not because Aizawa cracks, but because the rhythm cracks for her.]
 
 AIZAWA: "Is there a specific report you'd like me to address?"
 
-[She's managing the silence by redirecting it into procedure. The player who recognizes this — who sits in the silence one more beat — gets the fracture.]
+[She's managing the silence by redirecting it into procedure. But the click rate is audible — the player who is tracking it hears the gap between Aizawa's controlled voice and her uncontrolled hands. The player who sits in the silence one more beat — past the clicks, past the redirect — gets the fracture.]
 
 ---
 
@@ -456,7 +634,7 @@ AIZAWA: "I chose the version of my job that let me sleep."
 
 MIRA: "She feels like she's holding something heavy very carefully... like if she drops it, it breaks everything."
 
-[Pause.]
+[Pause. The read took a half-beat longer to begin than the Rina read in Chapter 4 — not dramatically, not enough to flag. But the Reiko read in Chapter 3 arrived before the call ended. This one waited. The difference is measurable in seconds, not meaning. Not yet.]
 
 MIRA: "She believed me. That's the thing. She wasn't like the others — she actually believed me. She just decided that believing wasn't enough to act on."
 
@@ -626,7 +804,11 @@ MIRA: "He's on everything."
 
 [Her voice is quiet. The clinical tone is intact but the pace has changed — slower, each word measured.]
 
-MIRA: "Every report went through him. Every review. Every dismissal. He's the pipe and the filter and the drain."
+MIRA: "Every report went through him. Every review. Every—"
+
+[A gap. Not her usual pause-for-emphasis — those have rhythm, intention. This is an absence, a dropped stitch. The wire-sound fills it with a faint crackle that wasn't there in Chapter 3.]
+
+MIRA: "—dismissal. He's the pipe and the filter and the drain."
 
 [Beat.]
 

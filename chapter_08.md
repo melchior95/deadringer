@@ -32,7 +32,7 @@
 
 MIRA: "Answer it."
 
-[Her voice is quiet. Conserving. But the instruction is immediate — she knows what this call means.]
+[Her voice is quiet. Conserving. Two words where Chapter 3's Mira would have delivered ten — a joke about the caller, an observation about the ring tone, a running theory. Now: two words. The instruction is immediate but the voice behind it sounds like it's arriving from further away than it used to.]
 
 KENJI: "You sure?"
 
@@ -46,7 +46,7 @@ MIRA: "He's calling you. That means he doesn't know we're looking at him. Or he 
 
 ENDO: "Detective Tanaka? This is Masato Endo — I'm on the community safety council here in Yanagi. I hope I'm not interrupting."
 
-[His voice: mid-fifties, warm, steady. The voice of a man who has been speaking to people in positions of authority for decades and has calibrated himself to sound exactly like what they expect. Not rehearsed — *natural.* The warmth is real. The steadiness is real. Nothing about this voice sounds performed because it isn't performed.]
+[His voice: mid-fifties, warm, steady. The voice of a man who has been speaking to people in positions of authority for decades and has calibrated himself to sound exactly like what they expect. Not rehearsed — *natural.* The warmth is real. The steadiness is real. Nothing about this voice sounds performed because it isn't performed. But notice the rhythm: he speaks the way a conductor counts — every pause measured, every emphasis placed, every silence exactly long enough to convey weight without tipping into melodrama. He manages the air between his sentences the way he manages everything else.]
 
 KENJI: "Mr. Endo. What can I do for you?"
 
@@ -98,7 +98,7 @@ ENDO: "Thank you, detective. I know your time is valuable — I've worked with o
 
 ### Response: SILENCE
 
-[The player lets the space sit. Endo waits three seconds — the polite pause of someone who thinks the detective might be writing something down. Then he fills it. Not nervously. Not to avoid discomfort. He fills it because space, for Endo, is a resource to be managed, not endured.]
+[The player lets the space sit. Endo waits exactly three seconds — not two, not four. Three. The precise interval that communicates respect without conveying anxiety. Then he fills it. Not nervously. Not to avoid discomfort. He fills it the way he fills every space in Yanagi: as a resource to be managed, not endured. The player trained on Silence — who made Doi collapse, who made Reiko crack — discovers that Endo treats silence the way a conductor treats a rest: counted, measured, placed exactly where it serves the composition.]
 
 ENDO: "I imagine you're working through a considerable amount of information. Yanagi can be complicated for someone who doesn't know its history. I've been here long enough to provide that history, if it would help."
 
@@ -108,7 +108,7 @@ ENDO: "I imagine you're working through a considerable amount of information. Ya
 
 ### All Paths: Endo's Helpful Information
 
-Regardless of approach, Endo provides real, actionable intelligence:
+Regardless of approach, Endo provides real, actionable intelligence. Three items. Always three — the pattern of a man who has learned that two suggestions seem thin and four seem controlling, that three is the number that feels like generosity without triggering suspicion. He will do this every time he calls:
 
 ENDO: "I wanted to mention a few things that might be useful. First — the family two blocks east of the school, the Watanabe household. The father was working late shifts during the week Mira disappeared. I don't think anyone has mentioned this, but he may have seen something during his commute. He passes the school at unusual hours."
 
@@ -128,9 +128,9 @@ ENDO: "Third — and this is more of a community dynamics note — there's a jou
 
 [During the call, Endo says something the player must catch:]
 
-ENDO: "Mira was a remarkable child. Very observant. She had this... intensity when she was reporting something. This quality of — how to describe it — she would brace. Physically brace, before she delivered information she expected to be dismissed. Like she was preparing for impact."
+ENDO: "Mira was a remarkable child. Very observant. She had this... intensity when she was reporting something. This quality of — how to describe it — she would take a small breath. A fierce little breath, right before she said something she knew wouldn't be believed. Like she was physically bracing for the dismissal she'd already calculated was coming."
 
-[The player who has spent eight chapters with Mira should hear the wrongness. Endo is describing Mira's behavior from the inside — not the way someone who observed her at community events would describe it, but the way someone who *listened to her* would. "Brace." "Preparing for impact." These are descriptions of vocal quality, not visual observation. A community leader would say "she was persistent" or "she reported frequently." Endo is describing the specific emotional mechanics of Mira's delivery — the breath she took, the preparation, the bracing.]
+[The player who has spent eight chapters with Mira should hear the wrongness. "A fierce little breath." "Bracing for the dismissal she'd already calculated was coming." These are not visual observations. A community leader who saw Mira at events would say "she was persistent" or "she reported frequently." Endo is describing the specific vocal mechanics of Mira's delivery — the intake of air before a report, the preparation, the calculation. He is describing what Mira sounds like *through a phone,* heard from a room where the only input is audio. He knows the breath. He knows the rhythm. He knows the bracing. Because he listened to it through copper wire, over and over, with the sustained attention of a man who thought her voice was beautiful.]
 
 [He heard her. Through the exchange. He knows the exact shape of her voice because he listened to it through copper wire in a room beneath the community center. And he is describing it to her detective with genuine admiration.]
 
@@ -202,9 +202,19 @@ ENDO: "Doi has been under a cloud for some time. The community's been... aware o
 
 KENJI: "You know about his family situation?"
 
-ENDO: "The custody matter? Yes, it's been difficult for him. He mentioned once that he feels... trapped between wanting to see his grandson and knowing how it looks."
+ENDO: "The custody matter? Yes, it's been difficult for him. He mentioned once that he feels... trapped between wanting to see his grandson and knowing how it looks. I believe he said 'things got out of hand' — referring to the original incident. A sad situation."
 
-[The player who has called Doi — who earned Doi's confession and its collapse — should hear the echo. "Trapped between wanting to see his grandson and knowing how it looks" is not public knowledge. This is the emotional architecture of Doi's private grief, described by a man who should have no access to it. Endo is mirroring Doi's internal state with a fidelity that is only possible through listening — through the exchange, through the cables that run under Doi's street.]
+[A pause — measured, three seconds, the conductor spacing his movements:]
+
+ENDO: "And then there was a boy — Sora Hayashi — who used to sit outside Doi's shop every afternoon, drawing. Maps, mostly. Imaginary cities with all the infrastructure filled in — streets, bridges, underground lines. Lovely child. Quiet. The kind who notices things other children walk past."
+
+[He says this with the same warmth he says everything. The player hears a community leader describing a neighborhood kid. But the details are wrong for that. "Every afternoon." "Maps, mostly." "Underground lines." This isn't secondhand knowledge — this is surveillance described as fondness.]
+
+ENDO: "When he went missing... well. I think that's been weighing on Doi as well. Another child from the neighborhood. The community feels these things."
+
+[DESIGN NOTE: Endo names Sora with the wrong fidelity — too much detail about a missing boy's daily habits, his drawing subjects, his personality. The player who is tracking Endo's tells adds another: he describes Sora's behavior with listener's precision, not neighbor's. And he says "lovely child" the way he says "Mira" — with the pitch drop, the softened consonants, the voice of a man who has been hearing these children through copper wire.]
+
+[The player who has called Doi should hear two things. First: "wanting to see his grandson" — the grandson is information Doi only revealed after his confession collapsed in Chapter 6. Endo should not have this. Second: "things got out of hand" — Doi's exact phrase, word for word, from a conversation in his own store with his door closed. Endo is not paraphrasing Doi. He is *quoting* him. The fidelity is wrong. A community leader who heard about the custody situation through gossip would say "he has some family trouble." Only someone who listened — who heard Doi's voice through copper wire, through the cables that run under Doi's street — would reproduce the phrase with this precision.]
 
 [NOTEBOOK PROMPT: "ENDO — TELL #2: Describes Doi's internal emotional state ('trapped between wanting to see his grandson and knowing how it looks') with fidelity that doesn't match his stated source. This isn't community awareness — this is Doi's private grief. Endo heard this. Through the exchange. The cable runs under Doi's street. Endo's knowledge resolution is WRONG for a community leader. It's right for a LISTENER."]
 
@@ -220,7 +230,7 @@ KENJI: "Thank you, Mr. Endo."
 
 ENDO: "Thank you for your work. This community needs answers. We owe it to Mira."
 
-[He says her name. "Mira." Not "the Kitahara girl." Not "the child." Her name — spoken with the specific tenderness of a man who remembers her voice perfectly and considers that memory a form of preservation.]
+[He says her name. "Mira." Not "the Kitahara girl." Not "the child." Not "the victim." Her given name — spoken with a slight change in register, the pitch dropping a quarter-tone, the consonants softening. The way someone says a name they've said many times in private. The way someone says a name they've been *listening to* for months through copper wire. A community leader would say "the Kitahara family" or "the child." Endo says "Mira" the way Reiko says "Mira." Like someone who heard her voice so often they forgot the name wasn't theirs to use.]
 
 [The line disconnects. The apartment is quiet.]
 
@@ -352,13 +362,13 @@ AIZAWA: "Mr. Endo. He's been on the council for... a long time."
 
 KENJI: "The staffing change at the school. The one that affected the after-school program. Tell me about it."
 
-AIZAWA: "Mr. Ogawa left. His position was... restructured. The after-school tutoring schedule changed. Several students' routes home were affected because the program ended at a different time."
+AIZAWA: "Ms. Ogawa left. Her position was... restructured. The after-school tutoring schedule changed. Several students' routes home were affected because the program ended at a different time."
 
 KENJI: "Ogawa was asked to leave?"
 
 [Silence. Four seconds. The sanitizer clicks.]
 
-AIZAWA: "The committee recommended his position be... reviewed."
+AIZAWA: "The committee recommended her position be... reviewed."
 
 KENJI: "The same committee?"
 
@@ -458,7 +468,7 @@ AIZAWA: "I just wasn't brave enough to be the right person."
 
 ### SOUL READ — AIZAWA (Second)
 
-[Mira's read comes late — delayed by the degradation and by whatever happened during the Endo read. When it arrives, it's brief:]
+[Mira's read comes late — a full five seconds after the call ends. In Chapter 3, the read arrived before the phone stopped ringing. In Chapter 5, the delay was a beat. Now it's a gap the player measures in breaths. Delayed by the degradation and by whatever happened during the Endo read. When it arrives, it's brief:]
 
 MIRA: "She's... cracked. Like a cup that still holds water but you can see the line. She'll never be the same cup again."
 
