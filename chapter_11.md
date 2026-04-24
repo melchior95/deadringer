@@ -288,6 +288,8 @@ KAITO: "Nobody listened to her either."
 
 [He says this without bitterness. With the flat recognition of someone who understands being overlooked as a structural feature of the world rather than a personal failing.]
 
+[NOTEBOOK PROMPT — CASE ASSEMBLY: "KAITO CASE FILE — 9 silver car sightings, dates/times/locations delivered. Cross-reference with Fumiko's cable map: 7 of 9 sightings along active cable runs. Driver description from Ch 7 (tall, upright, 'knew where everything was without looking') corroborates Doi's partial plate. Independent observer, no institutional affiliation, no relationship to victim. Kaito's observations = Mira's observations at larger scale. Three independent witnesses now on record (Mira's notebook, Doi, Kaito). CONTRIBUTES TO SLOT #8 (Independent Corroboration)."]
+
 ---
 
 ### Aizawa Call (If Selected)
@@ -310,6 +312,8 @@ AIZAWA: "Because I always knew the originals might not survive the review proces
 
 AIZAWA: "I was prepared for someone to ask. I just didn't think it would take this long."
 
+[NOTEBOOK PROMPT — CASE ASSEMBLY: "AIZAWA CASE FILE — (1) District safety office welfare-check filed, bypassing Endo's council for the first time in her career. Stated reason: 'standard procedure routes through the person of interest.' (2) Personal copies of every incident report filed over five years. Originals submitted to council; copies kept in her desk, unsigned but content-matched. The council's review records can now be cross-referenced against Aizawa's archive. Procedural chain is legible from both ends. CONTRIBUTES TO SLOT #3 (Committee as Mechanism) and SLOT #6 (Framing Authorship — the archive reveals which original documents were altered or disappeared in council review)."]
+
 ---
 
 ### Doi Call (If Selected)
@@ -329,6 +333,8 @@ DOI: "Which kids walked home alone. Which parents worked late. Who was fighting.
 [Beat.]
 
 DOI: "He was the most trusted person in the neighborhood. I didn't tell him things because he asked. I told him because not telling him would have felt strange. That's how deep it went."
+
+[NOTEBOOK PROMPT — CASE ASSEMBLY: "DOI CASE FILE — Endo's visits to Yanagi Mart: every few days, frequency increased during local disturbances. Small-talk architecture: questions framed as concern ('I worry about X, do you see them?') that extracted behavioral information on specific children and families. Information Endo gathered via Doi: which children walked home alone, which parents worked late, domestic-trouble indicators, family-struggle signals. Doi's assessment: 'Not telling him would have felt strange.' Social infrastructure of community trust weaponized as informational input. CONTRIBUTES TO SLOT #7 (Social Access — Witness) and SLOT #2 (Social Access Pattern)."]
 
 ---
 

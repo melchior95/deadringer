@@ -156,7 +156,9 @@ MIRA: "..."
 
 [The player logs it silently. Endo continues, unaware that his precision has been recorded. The notebook gains a new entry, and the player has preserved the element of surprise.]
 
-[NOTEBOOK PROMPT: "ENDO — TELL #1: Describes Mira's reporting behavior as 'bracing, preparing for impact.' This is a LISTENER'S description, not an observer's. A committee chair would describe content ('she reported frequently'). Endo describes delivery mechanics — vocal quality, emotional preparation. How did he hear her voice closely enough to know this? Source: first call, unprompted. He offered this detail voluntarily."]
+[NOTEBOOK PROMPT — AUTO-LOG: "ENDO — TELL #1: Describes Mira's reporting behavior as 'bracing, preparing for impact.' This is a LISTENER'S description, not an observer's. A committee chair would describe content ('she reported frequently'). Endo describes delivery mechanics — vocal quality, emotional preparation. How did he hear her voice closely enough to know this? Source: first call, unprompted. He offered this detail voluntarily."]
+
+[DESIGN NOTE — AUTO-LOG PROMOTION: This prompt is no longer gated on a NOTE IT player choice. The tell is load-bearing for SLOT #1 (Impossible Knowledge) and cannot be missed. The prompt auto-fires when Endo delivers the "bracing" line, regardless of the player's response. Rushed players who choose a different option still receive the entry; the NOTE IT branch retains thematic value (the player has consciously flagged the tell) but the Log gain is path-independent.]
 
 ---
 

@@ -416,7 +416,9 @@ MIRA: "He built the pipe. And then he stood at the end of it."
 
 *"Six appearances: pharmacy board, community board, playground plaque, Reiko (volunteer search), Rina (playground renovation), COMMITTEE CHAIR (reporting structure). Name accumulation consistent with community leadership — or with someone positioned at every chokepoint."*
 
-[DESIGN NOTE: This is the moment the investigation shifts from "something is wrong with the system" to "someone designed the system to be wrong." Endo's name has been accumulating passively — community boards, casual mentions, background details. Now it appears on institutional documents. The shift is tonal: the player goes from collecting a name to tracking a presence.]
+[NOTEBOOK PROMPT — THREAD UPDATE: "ENDO NAME ACCUMULATION — six appearances logged across Ch 2–5: (1) pharmacy bulletin board, volunteer patrol organizer; (2) community intersection board, event organizer; (3) community park, playground equipment donor; (4) Reiko's account of the volunteer search after Mira's death; (5) Rina's mention re: playground renovation committee; (6) institutional role — chairs the safety council that reviewed and filed every report about 'an adult near the school.' The committee he chairs is the institutional response mechanism for the concern his presence generates. Same name, every junction. Not coincidence — architecture."]
+
+[DESIGN NOTE: This is the moment the investigation shifts from "something is wrong with the system" to "someone designed the system to be wrong." Endo's name has been accumulating passively — community boards, casual mentions, background details. Now it appears on institutional documents. The shift is tonal: the player goes from collecting a name to tracking a presence. The notebook prompt formalizes Kenji's in-scene accumulation as an explicit thread-type entry, gating SLOT #2 (Social Access Pattern) at the Board.]
 
 ---
 

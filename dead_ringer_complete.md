@@ -688,7 +688,9 @@ The residential thins. A dry cleaner. A small pharmacy with a cat sleeping in th
 
 [DESIGN NOTE: This is the first time Endo's name appears in the game. It is buried in a community notice among a dozen others. The player has no reason to notice it. If they do examine the board and log it, the name sits in their notebook as meaningless bureaucratic detail — until Chapter 5, when it reappears in school committee records. The seed is planted but will not germinate for hours of play.]
 
-[NOTEBOOK PROMPT: Optional. If player examines the board: "Community Safety Council — chair: M. Endo. Volunteer patrol schedule posted."]
+[NOTEBOOK PROMPT — AUTO-LOG ON PROXIMITY: "Community Safety Council — chair: M. Endo. Volunteer patrol schedule posted."]
+
+[DESIGN NOTE — AUTO-LOG PROMOTION: The prompt was originally examine-gated (Optional). Promoted to auto-log-on-proximity so rushed players still encounter Endo's name here. Triggers when Kenji passes within interaction range of the bulletin board, not requiring explicit examination. The name still reads as background detail — no emphasis, no highlight — but the Log receives the entry. This protects SLOT #2 (Social Access Pattern) completion for main-line-paced playthroughs. Players who stop to examine the board get the full visual callout; players who walk past still get the log entry at lower emotional charge.]
 
 MIRA: "The pharmacy cat's name is Mikan. She's been there for six years. She only likes children."
 
@@ -1079,6 +1081,10 @@ MIRA: "...you might be the first."
 [VISUAL: Wide shot. The Yanagi district from the park bench. Clean streets. Watered planters. A school where children are learning. A store where a man watches through a window. A bridge with a number nobody calls. A community center at the district's heart. A neighborhood that looks exactly the way someone wants it to look.]
 
 [AUDIO: The distant school chime. The river. The wind. And underneath — barely — the hum. The wire-sound. Running through the ground like a current that never stopped.]
+
+[NOTEBOOK PROMPT — THREAD: "M. ENDO — name accumulation. If logged: (1) pharmacy bulletin board, Community Safety Council volunteer patrol organizer; (2) community intersection board, repeated community-event organizer; (3) community park, playground equipment donor plaque. Three appearances across one neighborhood walk. Not flagged as significant. Community leadership pattern — or something else. KEEP COUNTING."]
+
+[DESIGN NOTE — THREAD ENTRY: This is a thread-type entry that auto-updates as the player examines optional Ch 2 elements containing the name M. Endo. A player who examined all three Ch 2 Endo surfaces gets count = 3; fewer examinations = lower count. The thread persists across chapters — subsequent NPC mentions (Reiko's volunteer search, Rina's playground renovation, Haruki's committee chair identification) auto-increment the thread rather than generating separate prompts. By Ch 5, the thread resolves into the SIX APPEARANCES entry with the committee-chair revelation. Gates SLOT #2 (Social Access Pattern).]
 
 ---
 
@@ -3310,7 +3316,9 @@ MIRA: "He built the pipe. And then he stood at the end of it."
 
 *"Six appearances: pharmacy board, community board, playground plaque, Reiko (volunteer search), Rina (playground renovation), COMMITTEE CHAIR (reporting structure). Name accumulation consistent with community leadership — or with someone positioned at every chokepoint."*
 
-[DESIGN NOTE: This is the moment the investigation shifts from "something is wrong with the system" to "someone designed the system to be wrong." Endo's name has been accumulating passively — community boards, casual mentions, background details. Now it appears on institutional documents. The shift is tonal: the player goes from collecting a name to tracking a presence.]
+[NOTEBOOK PROMPT — THREAD UPDATE: "ENDO NAME ACCUMULATION — six appearances logged across Ch 2–5: (1) pharmacy bulletin board, volunteer patrol organizer; (2) community intersection board, event organizer; (3) community park, playground equipment donor; (4) Reiko's account of the volunteer search after Mira's death; (5) Rina's mention re: playground renovation committee; (6) institutional role — chairs the safety council that reviewed and filed every report about 'an adult near the school.' The committee he chairs is the institutional response mechanism for the concern his presence generates. Same name, every junction. Not coincidence — architecture."]
+
+[DESIGN NOTE: This is the moment the investigation shifts from "something is wrong with the system" to "someone designed the system to be wrong." Endo's name has been accumulating passively — community boards, casual mentions, background details. Now it appears on institutional documents. The shift is tonal: the player goes from collecting a name to tracking a presence. The notebook prompt formalizes Kenji's in-scene accumulation as an explicit thread-type entry, gating SLOT #2 (Social Access Pattern) at the Board.]
 
 ---
 
@@ -5383,7 +5391,9 @@ MIRA: "..."
 
 [The player logs it silently. Endo continues, unaware that his precision has been recorded. The notebook gains a new entry, and the player has preserved the element of surprise.]
 
-[NOTEBOOK PROMPT: "ENDO — TELL #1: Describes Mira's reporting behavior as 'bracing, preparing for impact.' This is a LISTENER'S description, not an observer's. A committee chair would describe content ('she reported frequently'). Endo describes delivery mechanics — vocal quality, emotional preparation. How did he hear her voice closely enough to know this? Source: first call, unprompted. He offered this detail voluntarily."]
+[NOTEBOOK PROMPT — AUTO-LOG: "ENDO — TELL #1: Describes Mira's reporting behavior as 'bracing, preparing for impact.' This is a LISTENER'S description, not an observer's. A committee chair would describe content ('she reported frequently'). Endo describes delivery mechanics — vocal quality, emotional preparation. How did he hear her voice closely enough to know this? Source: first call, unprompted. He offered this detail voluntarily."]
+
+[DESIGN NOTE — AUTO-LOG PROMOTION: This prompt is no longer gated on a NOTE IT player choice. The tell is load-bearing for SLOT #1 (Impossible Knowledge) and cannot be missed. The prompt auto-fires when Endo delivers the "bracing" line, regardless of the player's response. Rushed players who choose a different option still receive the entry; the NOTE IT branch retains thematic value (the player has consciously flagged the tell) but the Log gain is path-independent.]
 
 ---
 
@@ -7217,6 +7227,8 @@ KAITO: "Nobody listened to her either."
 
 [He says this without bitterness. With the flat recognition of someone who understands being overlooked as a structural feature of the world rather than a personal failing.]
 
+[NOTEBOOK PROMPT — CASE ASSEMBLY: "KAITO CASE FILE — 9 silver car sightings, dates/times/locations delivered. Cross-reference with Fumiko's cable map: 7 of 9 sightings along active cable runs. Driver description from Ch 7 (tall, upright, 'knew where everything was without looking') corroborates Doi's partial plate. Independent observer, no institutional affiliation, no relationship to victim. Kaito's observations = Mira's observations at larger scale. Three independent witnesses now on record (Mira's notebook, Doi, Kaito). CONTRIBUTES TO SLOT #8 (Independent Corroboration)."]
+
 ---
 
 ### Aizawa Call (If Selected)
@@ -7239,6 +7251,8 @@ AIZAWA: "Because I always knew the originals might not survive the review proces
 
 AIZAWA: "I was prepared for someone to ask. I just didn't think it would take this long."
 
+[NOTEBOOK PROMPT — CASE ASSEMBLY: "AIZAWA CASE FILE — (1) District safety office welfare-check filed, bypassing Endo's council for the first time in her career. Stated reason: 'standard procedure routes through the person of interest.' (2) Personal copies of every incident report filed over five years. Originals submitted to council; copies kept in her desk, unsigned but content-matched. The council's review records can now be cross-referenced against Aizawa's archive. Procedural chain is legible from both ends. CONTRIBUTES TO SLOT #3 (Committee as Mechanism) and SLOT #6 (Framing Authorship — the archive reveals which original documents were altered or disappeared in council review)."]
+
 ---
 
 ### Doi Call (If Selected)
@@ -7258,6 +7272,8 @@ DOI: "Which kids walked home alone. Which parents worked late. Who was fighting.
 [Beat.]
 
 DOI: "He was the most trusted person in the neighborhood. I didn't tell him things because he asked. I told him because not telling him would have felt strange. That's how deep it went."
+
+[NOTEBOOK PROMPT — CASE ASSEMBLY: "DOI CASE FILE — Endo's visits to Yanagi Mart: every few days, frequency increased during local disturbances. Small-talk architecture: questions framed as concern ('I worry about X, do you see them?') that extracted behavioral information on specific children and families. Information Endo gathered via Doi: which children walked home alone, which parents worked late, domestic-trouble indicators, family-struggle signals. Doi's assessment: 'Not telling him would have felt strange.' Social infrastructure of community trust weaponized as informational input. CONTRIBUTES TO SLOT #7 (Social Access — Witness) and SLOT #2 (Social Access Pattern)."]
 
 ---
 

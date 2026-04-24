@@ -76,7 +76,9 @@ The residential thins. A dry cleaner. A small pharmacy with a cat sleeping in th
 
 [DESIGN NOTE: This is the first time Endo's name appears in the game. It is buried in a community notice among a dozen others. The player has no reason to notice it. If they do examine the board and log it, the name sits in their notebook as meaningless bureaucratic detail — until Chapter 5, when it reappears in school committee records. The seed is planted but will not germinate for hours of play.]
 
-[NOTEBOOK PROMPT: Optional. If player examines the board: "Community Safety Council — chair: M. Endo. Volunteer patrol schedule posted."]
+[NOTEBOOK PROMPT — AUTO-LOG ON PROXIMITY: "Community Safety Council — chair: M. Endo. Volunteer patrol schedule posted."]
+
+[DESIGN NOTE — AUTO-LOG PROMOTION: The prompt was originally examine-gated (Optional). Promoted to auto-log-on-proximity so rushed players still encounter Endo's name here. Triggers when Kenji passes within interaction range of the bulletin board, not requiring explicit examination. The name still reads as background detail — no emphasis, no highlight — but the Log receives the entry. This protects SLOT #2 (Social Access Pattern) completion for main-line-paced playthroughs. Players who stop to examine the board get the full visual callout; players who walk past still get the log entry at lower emotional charge.]
 
 MIRA: "The pharmacy cat's name is Mikan. She's been there for six years. She only likes children."
 
@@ -467,6 +469,10 @@ MIRA: "...you might be the first."
 [VISUAL: Wide shot. The Yanagi district from the park bench. Clean streets. Watered planters. A school where children are learning. A store where a man watches through a window. A bridge with a number nobody calls. A community center at the district's heart. A neighborhood that looks exactly the way someone wants it to look.]
 
 [AUDIO: The distant school chime. The river. The wind. And underneath — barely — the hum. The wire-sound. Running through the ground like a current that never stopped.]
+
+[NOTEBOOK PROMPT — THREAD: "M. ENDO — name accumulation. If logged: (1) pharmacy bulletin board, Community Safety Council volunteer patrol organizer; (2) community intersection board, repeated community-event organizer; (3) community park, playground equipment donor plaque. Three appearances across one neighborhood walk. Not flagged as significant. Community leadership pattern — or something else. KEEP COUNTING."]
+
+[DESIGN NOTE — THREAD ENTRY: This is a thread-type entry that auto-updates as the player examines optional Ch 2 elements containing the name M. Endo. A player who examined all three Ch 2 Endo surfaces gets count = 3; fewer examinations = lower count. The thread persists across chapters — subsequent NPC mentions (Reiko's volunteer search, Rina's playground renovation, Haruki's committee chair identification) auto-increment the thread rather than generating separate prompts. By Ch 5, the thread resolves into the SIX APPEARANCES entry with the committee-chair revelation. Gates SLOT #2 (Social Access Pattern).]
 
 ---
 
