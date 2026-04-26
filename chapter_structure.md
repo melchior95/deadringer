@@ -184,7 +184,19 @@ The escalation is reactive, not random. As Kenji investigates harder, Endo monit
 
 **Aizawa accessible:** Through school records and Haruki's context. Her calls are procedural walls — dates, sequences, filed reports. Getting past the wall requires patience, not pressure. The player who listens to what she's *not* saying learns more than from what she says. **Memory fragment trigger:** The Aizawa Procedure memory — Mira's POV, reporting Yui's abuse. Aizawa documents it, files it, produces no action. The player watches a true report enter the institutional machine and disappear. This is the third and final memory fragment; by now the player has experienced the failure chain from Mira's side three times (mother, peer, institution) and understands the pattern viscerally.
 
-**Player knowledge at chapter end:** The system had warnings and didn't act. Multiple children reported. The reports were absorbed by a specific committee. Something structural is wrong — and it has a chairman's name on it.
+**Kaito's first call:** If the player follows up on the notebooks, Kaito is now reachable. His spatial-temporal annotation is immediately, memorably strange — within thirty seconds the player clocks his speech quirk. Every answer comes with coordinates nobody asked for: "...she was at the bench. The third one. Near the willow, not the metal ones by the path." His annotations sound like surveillance transcripts, reinforcing the red herring. The player who matched his tempo gets more: precise spatial data that will later become critical evidence. (See character bible: KAITO — The Coordinates.)
+
+**Micro-Incident 1 — The Wrong Connection:** During the school records investigation, Kenji dials a follow-up contact — the school office or a number from the dismissed reports. The call connects, but it is not who he called. A woman's voice, mid-sentence, already talking — not to him. To someone else. A conversation already in progress:
+
+"...the reports from that year, I don't think anyone actually read them before they were—"
+
+The line cuts. Dead air. Then normal dial tone. Kenji checks his phone — he dialed correctly. He tries again. This time it connects normally. He mentions the odd connection to the person he reaches. The response, casual, almost bored: "Oh — yeah, the lines out here cross sometimes. Been like that for years. My mother used to say the phones in Yanagi have long memories."
+
+Mira's reaction: quiet for a moment. Then: "The static on that call was different. It had... layers. Like two things playing at once." She does not push it. She files it the way she files everything — as an observation waiting for a frame.
+
+*Late-game payoff:* The fragment was a real conversation — routed through the exchange. A teacher and an administrator discussing Mira's dismissed reports, years ago. The infrastructure recorded it. The "wrong connection" was the system leaking a real signal. The player who revisits this moment after the exchange reveal realizes: the lines were trying to tell Kenji something five chapters before he could hear it.
+
+**Player knowledge at chapter end:** The system had warnings and didn't act. Multiple children reported. The reports were absorbed by a specific committee. Something structural is wrong — and it has a chairman's name on it. The town's phones behave oddly — locals explain it as old infrastructure. A new contact (Kaito) talks like a surveillance transcript.
 
 ---
 
