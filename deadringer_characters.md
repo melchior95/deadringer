@@ -1115,9 +1115,39 @@ He is completely innocent — and structurally, he is the most suspicious person
 
 **Rule:** Kaito processes on delay. He responds to the previous question, not the current one. His answers are technically complete but feel incomplete because they arrive out of sync with the conversation's rhythm.
 
-**Speech pattern:** Fragments. Long pauses. "...I go there." / "...it's quiet." / "...she talked about things." Each answer is preceded by 3-5 seconds of processing silence. If the player fires rapid questions, they get surface fragments — the defensive output of a system that's still working on the last input. If the player matches his tempo, the full answers arrive.
+**Speech pattern:** Fragments. Long pauses. But what fills the pauses is specific: Kaito annotates every answer with spatial-temporal data nobody asked for. He cannot help it. Every memory is anchored to a location, a time, a direction, a duration. He does not experience the world as events — he experiences it as positions.
 
-**Tell:** When Kaito has something important, the delay gets *longer,* not shorter. The weight of the information extends the processing time. A 5-second pause for "I saw the car too" versus a 2-second pause for "I go to the river" — the length of the silence maps the significance of what follows.
+- "...she was at the bench. The third one. Near the willow, not the metal ones by the path."
+- "...the car came from the east side. Not the main road — the one behind the post office. It parked for eleven minutes."
+- "...that was a Wednesday. The recycling truck comes Wednesday. It was already gone, so after 2 PM."
+- "...I was at the river. The part past the bend where the reeds are tall. You can see the bridge from there but the bridge can't see you."
+
+If the player fires rapid questions, they get surface fragments — the defensive output of a system that's still working on the last input. If the player matches his tempo, the full coordinate-laden answers arrive.
+
+**Surface quirk — feelings as locations:** He answers emotional questions with spatial data. He does not have the vocabulary for feelings, so he gives coordinates. The interior experience translates to exterior positions.
+
+- "Did you miss her?" — Long pause. "...the bench was empty after March. The third one."
+- "Were you scared?" — "...the path behind the post office has no streetlights after the second turn."
+- "What was she like?" — "...she sat on the rocks by the river. The flat ones near the reeds. She didn't move for a long time. Most people move."
+
+He is not being evasive. He is being precise — in the only language he has. The player's first reaction is "this is weird." Their second reaction, after spending time with him, is "this is actually the most exact testimony anyone has given me." Their third reaction, after the case breaks: "he was mapping the crime the entire time and nobody asked him."
+
+**Why this works as misdirection:** His speech pattern sounds like surveillance transcripts. Timestamps. Locations. Durations. Sight lines. "You can see the bridge from there but the bridge can't see you" reads like a stalker's recon notes. This is why the community finds him unsettling. This is why the player's early-game suspicion of Kaito feels justified — he talks the way a guilty person would talk. The recontextualization: it is not surveillance. It is the only way he can describe the world. He tracks positions because positions do not require social interpretation. A bench is a bench. Eleven minutes is eleven minutes. In a community where everyone filters, edits, and manages reality, Kaito records it raw — and gets treated like a threat for it.
+
+**Tell:** When Kaito has something important, the delay gets *longer,* not shorter. The weight of the information extends the processing time. A 5-second pause for "...east entrance, behind the post office, eleven minutes" versus a 2-second pause for "...I go to the river" — the length of the silence maps the significance of what follows.
+
+**The contrast pair — Kaito and Mira:** Two characters who observe the same world through opposite lenses:
+
+| | Mira (Soul Read) | Kaito (Coordinates) |
+|---|---|---|
+| **Describes** | Emotional weather | Physical positions |
+| **Language** | Sensory metaphor | Spatial-temporal data |
+| **Example** | "He felt like a warm mug cracked on the underside" | "East entrance. Behind the post office. Eleven minutes" |
+| **Strength** | Reads what people hide | Records what people do |
+| **Weakness** | Biases of a nine-year-old | Cannot translate data into social language |
+| **Failure mode** | 80% accuracy — misread Rina, Doi, Reiko | 100% accurate — but nobody asked |
+
+Together, they are two halves of a complete observation. Mira provides the emotional truth; Kaito provides the physical evidence. Neither alone is enough. Sora completes the trio — his maps provide the infrastructure layer. Three children documented three aspects of the same system: emotional, behavioral, and physical. None of them were listened to.
 
 **Break mechanic:** Trust. Not pressure, not cleverness — the simple, sustained absence of hostility. Kaito has been misread his entire life. The player who doesn't misread him gets a witness who saw everything. The player who treats him the way the system treated Mira — dismissing what he says because of how he says it — reproduces the exact failure the game is about.
 
@@ -1155,12 +1185,12 @@ He didn't report any of it. Not because he didn't care. Because "they don't list
 
 ### THE INTERROGATION
 
-Calling Kaito should feel uncomfortable, not tense. He is slow. He processes questions on a delay. He gives answers that are technically complete but feel incomplete.
+Calling Kaito should feel uncomfortable, not tense. He is slow. He processes questions on a delay. He gives answers that are technically complete but feel incomplete — and filled with spatial data that sounds like surveillance even when it isn't.
 
 "Why were you at the river?"
-"...I go there."
-"Why?"
-"...it's quiet."
+"...the part past the bend. Where the reeds are tall. You can see the bridge from there but the bridge can't see you."
+"Why do you go there?"
+"...it's quiet. After 3 PM the path clears. Before that there's foot traffic from the school."
 
 If the player pressures aggressively, Kaito shuts down. Repeats "I didn't do anything" with flat exhaustion. The player sits in the silence they created.
 
@@ -1178,17 +1208,15 @@ Later: "People think he's scary because he doesn't react right. But he reacts. J
 
 ### THE BREAK
 
-Not from pressure. From trust.
+Not from pressure. From trust. The coordinates carry the testimony:
 
 "...she told me about the car."
 
 Pause.
 
-"I saw it too."
+"...I saw it too. East entrance. Behind the post office. Eleven minutes the first time. Fourteen the second. Third time it stayed for twenty-two minutes and the engine was running."
 
-Silence.
-
-"I wrote down when it came."
+"...I wrote it all down."
 
 "...I didn't tell anyone."
 
@@ -1196,23 +1224,23 @@ Silence.
 
 Mira, softly: "...you could've told me to keep trying."
 
-Kaito freezes.
+Kaito freezes. Then, for the first time in the game — an answer with no coordinates. No bench. No direction. No timestamp. Just:
 
-"...I thought you already knew."
+"...I thought you didn't need help."
 
-His voice cracks. Barely.
+Pause.
 
 "...you always knew things."
 
 Pause.
 
-"I thought you didn't need help."
+"...I thought you knew you were alone."
 
-That last line is the most devastating single sentence in the game. It reframes Mira's competence as the thing that isolated her most completely. She was so good at being right that the one person who believed her assumed she had it handled. Her strength became the reason no one stood beside her.
+The coordinates drop. The armor was spatial precision — describing the world as positions because positions do not require him to feel anything. When the coordinates disappear, what is left is a seventeen-year-old who watched a nine-year-old fight alone because her competence convinced him she didn't need anyone standing next to her. Her strength became the reason no one stood beside her.
 
 Mira doesn't respond immediately. When she does: "...okay."
 
-She doesn't say it's fine. She doesn't forgive him. She acknowledges it and moves on.
+She doesn't say it's fine. She doesn't forgive him. She acknowledges it and moves on. Because she is nine and she doesn't know what else to do with that information.
 
 ### RED HERRING TIMING
 
