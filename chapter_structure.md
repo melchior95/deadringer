@@ -153,7 +153,7 @@ The escalation is reactive, not random. As Kenji investigates harder, Endo monit
 
 **Player knows:** Mira has someone she needs to protect. Reiko and Doi are contactable but not fully open.
 
-**The Yui branch:** Mira discloses enough for Kenji to make contact. Calling Yui is the game's first major mechanical challenge — she is trained to protect the lie. The intent system matters here: Pressure shuts her down. Reassure is too slow. Silence works — Yui fills the space with fragments that reveal more than direct answers would.
+**The Yui branch:** Mira discloses enough for Kenji to make contact. Calling Yui is the game's first major mechanical challenge — she is trained to protect the lie. The intent system matters here: Pressure shuts her down. Reassure is too slow. Silence works — Yui fills the space with fragments that reveal more than direct answers would. **Yui's folding is audible from her first call** — the player hears soft, precise paper creasing beneath her performed composure. The folding is her self-regulation mechanism; its rhythm maps her emotional state (see character bible: FOLDING TELL SYSTEM).
 
 **The choice:** Pursue Yui's safety now (risking the larger case by diverting Kenji's attention and potentially alerting Yui's mother) or continue building evidence (leaving Yui in danger longer). This is the game's first real moral fork.
 
@@ -164,6 +164,7 @@ The escalation is reactive, not random. As Kenji investigates harder, Endo monit
 **Baseline investigation (runs regardless of Yui choice):**
 - **Rina available:** Through school contacts or Reiko, Rina becomes reachable. Her calls are socially polished, helpful-seeming, subtly corrosive. She provides the community's consensus narrative about Mira — the one that made it easy to dismiss her. **Memory fragment trigger:** The Rina Social Distortion memory — the notebook incident, Mira's POV. The ambiguity of what happened. The community's social physics revealed in miniature: truth becomes negotiable when the source is expendable. The player should log Rina's specific phrasing ("Mira just misunderstands things sometimes") — it will echo in the framing language three chapters later.
 - **Kaito's notebooks found:** Neighborhood canvassing for the Yui lead turns up secondary evidence — witness reports mention a boy in the neighborhood who tracked patterns. His notebooks — timestamped logs of the neighborhood's social patterns — are recovered. The player builds a theory: surveillance? Stalking? The notebooks look suspicious. This is the suspicion arc's early-mid phase.
+- **Phone phenomenon seed:** During Yui or Rina investigation, a contact mentions Yanagi's phone weirdness offhand — "You calling from Yanagi? The reception out there... my cousin says her calls cross all the time." The player files this as rural infrastructure. It is the first time someone outside Yanagi comments on the town's phone behavior. (See: THE YANAGI PHONE PHENOMENON — Folklore Layer.)
 
 **Player knowledge at chapter end:** Yui needs help (acted on or deferred). Mira cares about someone specific. The community had a consensus about Mira. A drawing boy stopped coming to the river and nobody asked why. And someone was watching the neighborhood with uncomfortable precision.
 
