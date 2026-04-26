@@ -56,6 +56,44 @@ The player's suspect shifts across the game. This arc transitions from suspectin
 
 ---
 
+## THE YANAGI PHONE PHENOMENON
+
+Yanagi's phone infrastructure is half-alive. The old exchange was partially decommissioned but never fully disconnected. Endo built his surveillance system on top of it. The side effect: the infrastructure bleeds into daily life. Calls route wrong. Static has structure. Lines echo. Wrong numbers connect to the right people. The town has lived with this for years and normalized it — the way a community normalizes any persistent strangeness that never quite rises to the level of a problem.
+
+Kenji, the outsider, is the one who notices it isn't normal.
+
+### Folklore Layer
+
+Different residents describe the phenomenon differently. No single official name — a shared understanding expressed through local folklore:
+
+| Who | What They Say | Chapter |
+|-----|--------------|---------|
+| Doi | "Phones here have always been funny. My grandmother used to say the lines have long memories." | Ch 3 |
+| Contact during Yui/Rina investigation | "You calling from Yanagi? The reception out there... my cousin says her calls cross all the time" | Ch 4 |
+| School office contact | "The phones in Yanagi have long memories" (after wrong connection) | Ch 5 |
+| Mira | "The static sounds different here. It's... layered" | Ch 5 |
+| Fumiko | "I have a file of phone anomalies in this district going back eight years. The telecom company inspected twice. Said the infrastructure was 'normal, just old.' I never published — it wasn't a story. Just a pattern I couldn't explain" | Ch 6 |
+| Haruki | "The students dare each other to call the bridge number at night. One of them told me she heard someone breathing. I told her it was wind in the cables" | Ch 7 |
+| Background legend | Years ago, a woman claimed she received a call from her dead husband. The call originated within Yanagi. She was told she imagined it. She didn't. The lines were carrying residual signals — the same mechanism that allows Mira to call Kenji. | Ambient |
+
+The town phenomenon predates Mira. She is not the first signal to push through. She is the first one who reached someone who listened.
+
+### Escalation Curve
+
+| Phase | Chapters | Player Experience | What's Actually Happening |
+|---|---|---|---|
+| **Local color** | Ch 1-3 | Bridge number static. Doi mentions phone weirdness. Kenji writes it off as bad rural infrastructure | The exchange exists. It has always been bleeding |
+| **Unsettling** | Ch 4-5 | Micro-Incident 1: call routes to wrong person, but the wrong person is relevant. A local shrugs: "Yanagi phones do that." Mira: "The static sounds different here. It's layered" | Endo is monitoring. The investigation generates activity on the exchange |
+| **The Pivot** | Ch 7 | Micro-Incident 2: breathing on the line. A child. Alive. Present tense. Mira: "That wasn't me. That was someone alive." | Sora is near an active cable run. His fear generates the same clarity-signal Mira generated |
+| **Active** | Ch 8-9 | Calls bleed into each other. Echoes during NPC conversations. The phones feel watched | Endo is monitoring harder. His increased activity creates more bleed-through |
+| **Revelatory** | Ch 10-12 | The exchange room. Everything explains itself. The town's "funny phones" were surveillance architecture | Full reveal. Mira amplified. The other children heard |
+
+### Design Principle
+
+The escalation is reactive, not random. As Kenji investigates harder, Endo monitors more through the exchange, which causes more infrastructure bleed-through, which produces more phone weirdness. The player should feel that the town is responding to their investigation. That is the present-tense momentum engine.
+
+---
+
 ## ACT I: THE FIRST CALL (Chapters 1–3)
 
 ### Chapter 1 — 3:47 AM
