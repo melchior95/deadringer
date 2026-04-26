@@ -239,7 +239,9 @@ The silver car is registered to a holding company. The holding company's communi
 
 **Fumiko's blind spot (player trap):** Fumiko pushes a lead on a family that moved out of Yanagi — connects them to the disappearance pattern. The timeline fits. The family had a child flagged as "behavioral." Following this lead costs the player time during the chapter where every other thread is paying off. The family left for economic reasons, not because of Endo. Fumiko overfitted. The recovery mechanic is Mira's Soul Read on the wrongly-flagged family: "They're not hiding anything relevant. They're just sad about leaving. It's a different kind of sad." The player who follows this lead learns to trust Fumiko's instincts while verifying her conclusions. The player who skips it never encounters the trap — but also never learns the lesson that matters in the late game.
 
-**Kaito's notebooks recontextualized:** Evidence revealed as observation, not surveillance. His logs are social patterns, not stalking. Residual suspicion may remain, but the shape of his data is clearly civilian, not criminal. His logs become critical evidence — the vehicle that didn't fit the pattern.
+**Kaito's notebooks recontextualized:** Evidence revealed as observation, not surveillance. His logs are social patterns, not stalking. Residual suspicion may remain, but the shape of his data is clearly civilian, not criminal. His logs become critical evidence — the vehicle that didn't fit the pattern. His spatial-temporal annotations — the coordinates the player found unsettling — turn out to be the most precise testimony in the case.
+
+**Haruki's breathing dismissal (pivot setup):** During conversation, Haruki mentions offhand: "The students have a thing — they dare each other to call the bridge number at night. One of them told me she heard someone breathing. I told her it was wind in the cables." A child reported hearing breathing on the phone lines. An adult dismissed it. The failure chain — a child says something true, an adult explains it away — repeats in miniature, in real time, through the phone phenomenon itself. The player hears this before the breathing happens. After the pivot, it recontextualizes.
 
 **Fumiko's infrastructure map (enters evidence):** Among the documents Fumiko provides during the convergence is a folded city planning document from the municipal archives — telecommunications infrastructure of the Yanagi district, cable runs, junction boxes, the old exchange routes. She obtained it for a community center article. She annotated it in red pen. She doesn't know its significance. It enters the player's evidence as one document among many. It becomes the most important piece of paper in the game three chapters later.
 
@@ -247,7 +249,51 @@ The silver car is registered to a holding company. The holding company's communi
 
 **The framing surfaces:** Evidence appears connecting Mira to Sora — fabricated chat logs, planted items creating the impression of "a difficult dynamic." The player, who knows Mira by now, recognizes fabrication. The framing's language echoes Rina's: "misunderstands," "difficult," "says things." The player who logged Rina's phrasing in Ch 4 sees it here — the community consensus Rina provided was the precondition for the frame to work. Endo didn't need to invent the "liar" reputation. It was already built. Rina is recontextualized: not a villain, but a mechanism. Among the planted evidence: a page from one of Sora's maps. Genuine. In the lower right corner, a river with a bend, two tiny figures on a bank. *Sora artifact — this one is real among the fabricated.*
 
-**Player knowledge at chapter end:** Endo is connected. Not proven — connected. The player has a suspect they can see but can't touch. The community's most helpful man is at the center of every thread.
+### THE PIVOT — "The Breathing" (Micro-Incident 2)
+
+**Placement:** End of Chapter 7, after the Endo convergence. The player has just connected the silver car to Endo's holding company — multiple data streams on the same name. They are processing one paradigm shift when the second one hits. Two revelations in one chapter, stacked.
+
+**The scene:** The chapter's investigation content is winding down. Kenji is on a late-night call or reviewing evidence. The work of the day is settling.
+
+The static on the line changes. Not louder — *textured.* Layered. Like two signals running on the same wire.
+
+Mira: "...wait."
+
+She goes quiet. Not the dramatic quiet of a reveal — the still, focused quiet of someone straining to hear. This is a reversal: Mira is usually the one providing commentary. Now she is *listening.*
+
+Mira: "Don't talk."
+
+Under the static — barely, almost below the threshold of hearing — rhythmic sound. Inhale. Exhale. Inhale. Shallow. Small.
+
+Four seconds. The breathing is there. Present. Unmistakable once the player hears it.
+
+Then it is gone. The static returns to normal.
+
+Mira, after a long pause:
+
+"That wasn't me."
+
+Beat.
+
+"That was someone alive."
+
+Kenji asks what she heard.
+
+"Breathing. A child. They're... close. Not close to you. Close to *the lines.*"
+
+Beat.
+
+"Kenji. Someone is *in there.*"
+
+**Why each line matters:**
+- **"Don't talk"** — Mira has never given Kenji an order before. She advises, observes, tests. This is command. The player feels the shift in her register before they understand why.
+- **"That wasn't me"** — Eliminates the ghost explanation. This is not Mira's phenomenon. It is something else.
+- **"Close to the lines"** — Not "in the town" or "nearby." In the infrastructure. The phone system is not just a communication tool or a surveillance device. It is a container.
+- **"Someone is in there"** — Five words that change the game from past-tense mystery to present-tense rescue.
+
+**What the player knows vs. suspects:** The player knows a living child is generating a signal inside Yanagi's phone infrastructure. They suspect — if they have been paying attention — that three people mentioned a child's absence (Doi's drawing boy, Yui's city-map boy, Haruki's quiet student). Three independent mentions. No one reported it. The breathing does not identify itself. The player suspects before they know, which is more powerful than a clean reveal.
+
+**Player knowledge at chapter end:** Endo is connected. Not proven — connected. The community's most helpful man is at the center of every thread. AND: someone alive — a child — is inside Yanagi's phone infrastructure. The investigation is no longer about what happened. It is about what is happening. The genre shifts from mystery to rescue.
 
 ---
 
