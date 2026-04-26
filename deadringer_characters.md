@@ -1761,6 +1761,25 @@ Both are people the investigation *saves.* Not from the killer — from the syst
 
 **Symbolic action:** The substitution. She replaces dangerous answers with safe ones — "fine" for "afraid," "sometimes" for "every night," "we were in different grades" for "she was my only friend." Each substitution is a survival decision made in real time, visible to the player who is tracking what she avoids. The crane on the windowsill — the one thing she didn't substitute, didn't hide, didn't optimize — is the proof that the architecture has a crack.
 
+**Audible signature — the folding:** Yui folds origami while she talks. The player hears it — soft, precise paper creasing under her words. She doesn't announce it. She doesn't explain it. It is just there, the way Aizawa's sanitizer clicks are there. A rhythm beneath the conversation that the player gradually learns to read.
+
+She does it automatically. It is self-regulation — the same architecture of avoidance she applies to everything, externalized as physical ritual. Folding produces order from flat material. Each crease is a decision with a predictable result. This is the opposite of her home life, where decisions produce unpredictable results and the safest strategy is to make as few decisions as possible.
+
+**Folding tell system:**
+
+| Folding Pattern | What It Means | Player Reads It As |
+|---|---|---|
+| Steady, regular creasing | Composed. The architecture is holding. She is in performance mode — helpful, polished, "easy child" | Safe territory. She is managing the conversation |
+| Folding speeds up | Anxiety rising. The question is approaching dangerous territory | Getting warmer. The answer matters |
+| Folding STOPS | The real answer is imminent. The architecture has cracked. What comes next is unfiltered | Equivalent of Aizawa's sanitizer click stopping mid-sentence |
+| Paper tearing or crumpling | The break. Only happens once in the game | Total structural collapse |
+
+**The parallel with Aizawa:** Aizawa clicks the sanitizer bottle. Yui folds paper. Both are women using physical ritual to maintain control. The contrast maps their positions in the system: Aizawa's clicks are institutional — clean hands, sanitized procedure, adult, public, loud enough to be heard across a room. Yui's folding is private — a child making small, precise things in hiding, practiced silently so it doesn't attract attention. Both tells accelerate toward the break. Both stop when the real thing arrives. The player who has learned to track Aizawa's clicks in Ch 5 is already trained to track Yui's folding in Ch 4. The game teaches the mechanic through one character and applies it to another.
+
+**The physical object:** At a key trust threshold, something arrives at Kenji's apartment. No note. No return address. A small paper crane, slightly lopsided, made from notebook paper. The player who remembers the windowsill crane — the one Mira helped fold badly, the one defiant thing Yui left visible — recognizes this immediately. She is extending the same gesture to Kenji. Saying "I trust you" in the only language she has that feels safe. Words are dangerous. Paper is something she controls. This gives Yui physical presence outside of phone calls — a tangible artifact in Kenji's space, like Sora's graph paper fragments. The investigation accumulates objects from children who cannot speak directly.
+
+**Epilogue echo:** In the epilogue, Yui keeps her folds on a shelf instead of hidden in a shoebox. If there is an epilogue call, Yui talks without folding. The player notices the absence. She doesn't need the ritual anymore. She is learning that her hands can be still.
+
 ---
 
 ### THE CHILD FIRST
@@ -1845,11 +1864,13 @@ When the call happens:
 
 Kenji identifies himself. Police. Yui's voice changes immediately — not to panic, but to *performance.* She becomes helpful, polite, slightly cheerful. She asks how she can help. She sounds like a well-adjusted child having a normal conversation with a normal adult about a normal situation. The performance is flawless. It is also, to a listener who has spent time with Mira, profoundly recognizable: this is what compliance sounds like when it's built on fear.
 
+Under her voice — barely audible at first — the sound of paper being folded. Steady. Precise. The rhythm of a child who folds to stay calm, to maintain the architecture. The player may not consciously register it on the first call. By the second, they will.
+
 Mira, listening: "She's doing the voice. The one she uses when someone might check on her. It's the same voice she uses with teachers." A pause. "It's not real."
 
-If the player pushes directly — asks about Takeshi, asks about bruises, asks about home life — Yui shuts down. Not dramatically. She just becomes less present. Answers get shorter. Details get vaguer. She is retreating into the architecture of avoidance, performing the disappearance she's been practicing for four years.
+If the player pushes directly — asks about Takeshi, asks about bruises, asks about home life — Yui shuts down. Not dramatically. She just becomes less present. Answers get shorter. Details get vaguer. The folding speeds up — smaller, tighter folds, the sound quickening. She is retreating into the architecture of avoidance, performing the disappearance she's been practicing for four years.
 
-If the player is patient — asks about school, asks about friends, asks about Mira — Yui's voice changes again. Not to openness. To something more fragile: the sound of a child who wants to answer but has been trained to understand that answering has consequences she'll pay for when the phone call ends and the caller moves on to other things.
+If the player is patient — asks about school, asks about friends, asks about Mira — Yui's voice changes again. Not to openness. To something more fragile: the sound of a child who wants to answer but has been trained to understand that answering has consequences she'll pay for when the phone call ends and the caller moves on to other things. The folding slows. Not stops — slows. She is not safe enough to put the paper down. But the rhythm is less urgent.
 
 The player must navigate this. The game does not tell them how. The five-option dialogue system (reassure / pressure / redirect / silence / bluff) is all they have, and silence — the willingness to sit with Yui's pauses, to not fill them, to let her reach the words in her own time — is what works.
 
@@ -1857,9 +1878,13 @@ If the player earns Yui's trust, she says one thing:
 
 "Mira said she told someone about me. Did anyone come?"
 
+The folding stops.
+
+Twelve seconds of absolute silence. No paper. No voice. No performance.
+
 Kenji says no.
 
-Yui is quiet for a long time. Then:
+Then — the sound of paper being slowly, deliberately torn. Not angry. Careful. She is destroying the fold she was making because the thing it represented — the expectation that an adult would come — just collapsed.
 
 "She said they would."
 
