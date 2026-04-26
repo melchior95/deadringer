@@ -71,7 +71,7 @@ Different residents describe the phenomenon differently. No single official name
 | Doi | "Phones here have always been funny. My grandmother used to say the lines have long memories." | Ch 3 |
 | Contact during Yui/Rina investigation | "You calling from Yanagi? The reception out there... my cousin says her calls cross all the time" | Ch 4 |
 | School office contact | "The phones in Yanagi have long memories" (after wrong connection) | Ch 5 |
-| Mira | "The static sounds different here. It's... layered" | Ch 5 |
+| Mira | "The static on that call was different. It had... layers. Like two things playing at once" (after wrong connection) | Ch 5 |
 | Fumiko | "I have a file of phone anomalies in this district going back eight years. The telecom company inspected twice. Said the infrastructure was 'normal, just old.' I never published — it wasn't a story. Just a pattern I couldn't explain" | Ch 6 |
 | Haruki | "The students dare each other to call the bridge number at night. One of them told me she heard someone breathing. I told her it was wind in the cables" | Ch 7 |
 | Background legend | Years ago, a woman claimed she received a call from her dead husband. The call originated within Yanagi. She was told she imagined it. She didn't. The lines were carrying residual signals — the same mechanism that allows Mira to call Kenji. | Ambient |

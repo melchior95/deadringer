@@ -639,6 +639,8 @@ Questions that need build-time resolution.
 
 8. **Accessibility — audio description asset production.** Significant additional voice work for a secondary layer. Requires buy-in during localization and audio budgeting. Flag to production.
 
+9. **Phone phenomenon — formal system or narrative texture?** The Yanagi phone phenomenon (escalating from local color through the Ch 7 pivot to full infrastructure reveal) is currently documented as narrative beats in `chapter_structure.md` and audio design in `deadringer_audio_signatures.md` §4B. Decision: it remains **narrative texture**, not a tracked gameplay system. The player does not have a "phone anomaly" UI element or notebook category. The phenomenon is experienced through NPC dialogue, ambient audio, and the two micro-incidents — not through a formal mechanic. Rationale: adding a formal tracking system would foreground the infrastructure mystery at the expense of the character investigation. The phone weirdness works best when it accumulates unconsciously until the Ch 7 pivot makes the player recontextualize everything at once.
+
 ---
 
 ## 10. CROSS-REFERENCES

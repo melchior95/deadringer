@@ -1185,12 +1185,21 @@ He didn't report any of it. Not because he didn't care. Because "they don't list
 
 ### THE INTERROGATION
 
-Calling Kaito should feel uncomfortable, not tense. He is slow. He processes questions on a delay. He gives answers that are technically complete but feel incomplete — and filled with spatial data that sounds like surveillance even when it isn't.
+Calling Kaito should feel uncomfortable, not tense. He is slow. He processes questions on a delay. In surface-fragment mode (rapid questions, low trust), his answers are sparse — but even the fragments come with spatial anchors:
+
+"Why were you at the river?"
+"...the part past the bend."
+"Why?"
+"...it's quiet there."
+
+If the player matches his tempo and earns trust, the full coordinate-laden answers arrive:
 
 "Why were you at the river?"
 "...the part past the bend. Where the reeds are tall. You can see the bridge from there but the bridge can't see you."
 "Why do you go there?"
 "...it's quiet. After 3 PM the path clears. Before that there's foot traffic from the school."
+
+Both modes sound like surveillance — the sparse version is unsettling, the detailed version is alarming. Neither is criminal.
 
 If the player pressures aggressively, Kaito shuts down. Repeats "I didn't do anything" with flat exhaustion. The player sits in the silence they created.
 

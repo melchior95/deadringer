@@ -144,12 +144,18 @@ For each significant NPC: signature, bed, tics, state variations.
 **Tics:**
 - Her breath is contained. Measured. Too controlled for an eleven-year-old.
 - A small throat-clearing sound before difficult words.
+- **Paper folding (primary tell):** Soft, precise creasing sounds beneath her voice. Yui folds origami while she talks — the sound is her self-regulation mechanism and the player's audible health bar.
+  - *Steady creasing (~2-3 second intervals):* Composed. Architecture holding. The folds are deliberate, each crease clean.
+  - *Accelerating (~1 second intervals, tighter):* Anxiety rising. The paper sounds sharper — smaller folds, less precision, more urgency.
+  - *Stops:* The real answer is imminent. Absolute silence — no paper, no breath, no performance. Equivalent of Aizawa's sanitizer click stopping.
+  - *Paper tearing (once only):* The break. Slow, deliberate. Not angry — careful destruction. The sound of the fold she was making being unmade. Occurs during "Did anyone come?" — twelve seconds of silence, then the tear, then "She said they would."
 
 **State variations:**
-- **Ch 4 (default):** the bed is the absence. The clock is the loudest element.
-- **Ch 4 PRESSURE (shutdown):** even the clock seems to quieten. The bed collapses to her breath alone. This is the audio of a child making herself as small as possible in an apartment where sounds don't carry.
-- **Ch 4 SILENT (the fragments work):** the bed remains curated-absence, but Yui's voice gains texture — fabric shifts more, small sounds emerge from a girl who is momentarily less controlled.
-- **Epilogue:** a garden. Birds. Wind. The grandmother's kitchen radio in the distance. This is the first time Yui is heard in a space with ambient life. The contrast is the scene's entire emotional weight.
+- **Ch 4 (default):** the bed is the absence. The clock is the loudest element. Paper folding is the secondary rhythm — steady, regular, almost soothing against the quiet.
+- **Ch 4 PRESSURE (shutdown):** even the clock seems to quieten. The bed collapses to her breath and the folding alone. Folding accelerates — tighter, faster, the paper sounds sharper. This is the audio of a child making herself as small as possible in an apartment where sounds don't carry.
+- **Ch 4 SILENT (the fragments work):** the bed remains curated-absence, but Yui's voice gains texture — fabric shifts more, small sounds emerge from a girl who is momentarily less controlled. The folding slows but does not stop. She is not safe enough to put the paper down.
+- **Ch 4 BREAK ("Did anyone come?"):** folding stops. Twelve seconds of absolute silence. Then the slow tear — paper being deliberately destroyed. The loudest thing in the scene is the absence of the sound the player has come to expect.
+- **Epilogue:** a garden. Birds. Wind. The grandmother's kitchen radio in the distance. No folding. This is the first time Yui is heard in a space with ambient life and without paper in her hands. The contrast is the scene's entire emotional weight.
 
 **CRITICAL DESIGN NOTE:** Yui's apartment has the least ambient sound of any scene in the game. The sound designer must resist filling the space. Every instinct to add texture should be audited — is this sound serving the scene, or am I uncomfortable with silence? The discomfort is the design.
 
@@ -394,6 +400,42 @@ Real birds. Wind through ornamental grasses. A neighbor's distant television. Th
 ### 4.8 Sora's Classroom (Epilogue)
 
 Ambient classroom after-hours. Distant corridor voices. Old wall clock. A fan somewhere. The specific quiet of a space that was loud and will be loud again.
+
+---
+
+## 4B. THE YANAGI PHONE PHENOMENON — AUDIO DESIGN
+
+The town's phone infrastructure is half-alive. These sounds escalate across the game as the exchange bleeds into daily calls. The escalation is reactive — it intensifies as Kenji investigates and Endo monitors harder.
+
+### Layered Static
+
+The baseline phone phenomenon. Yanagi calls have a subtle secondary texture beneath normal static — structured, almost rhythmic, like two signals running on the same wire. This is the exchange's ambient bleed-through.
+
+- **Ch 1-3 (ambient):** Barely perceptible. A slight texture to the bridge number's static — patterned, not random. Most players will not consciously register it. The static has periodicity, as if something is cycling in the infrastructure.
+- **Ch 4-5 (noticeable):** The layering becomes audible during calls to Yanagi numbers. A second frequency beneath the primary signal. Mira describes it as "layers — like two things playing at once."
+- **Ch 8-9 (active):** The layering is pronounced. Calls develop faint echoes — a doubling in the audio, as if the line is being mirrored. Fragments of other conversations intrude at the edges of calls. Brief, half-audible, never fully intelligible.
+- **Ch 10-12 (the exchange):** Full infrastructure sound. The static resolves into the exchange's operational frequency — the sound of decades-old telephone infrastructure that never fully shut down.
+
+### The Wrong Connection (Ch 5 — Micro-Incident 1)
+
+A call routing error. The audio signature: normal dial tone, normal ring, then a *click* that sounds slightly different from a standard connection — a half-second of dead air followed by a voice already mid-sentence. The voice is not addressing Kenji. It is a conversation already in progress, bleeding through. When the line cuts, there is a distinct pop — not a hang-up, a disconnect. The infrastructure releasing.
+
+### The Breathing (Ch 7 — Micro-Incident 2 / THE PIVOT)
+
+The most important single audio event in the game. The scene's audio must be designed with extreme precision:
+
+- **Setup:** The static on the line changes texture — the layered quality from earlier chapters becomes more prominent, more structured. The two-signal effect is no longer subtle.
+- **Mira's "wait":** Her voice drops to near-whisper. The Soul Read processing tone (if one exists) stops.
+- **The breathing itself:** Shallow. Small. Rhythmic. A child's breathing — not distressed, not panicked, but measured the way a frightened child measures breath to stay quiet. Audible for exactly four seconds. It is present in the infrastructure layer, not the call layer — as if it is coming from inside the wire, not from a phone.
+- **Disappearance:** The breathing fades rather than cuts. The static returns to its previous texture. The infrastructure settles.
+- **Critical:** The breathing must be unmistakable once the player hears it but not startling. It is not a jump scare. It is the quiet horror of realizing something alive is inside a system designed for signals.
+
+### Call Bleed-Through (Ch 8-9)
+
+Post-pivot, calls carry echo artifacts:
+- **Faint doubling:** A 50-100ms delay on certain words, as if the line is being monitored and the monitoring creates a reflection.
+- **Fragment intrusion:** Brief (1-3 second) bleeds of other audio — a voice, ambient sound from a different location, a phone ringing somewhere else in the network. These are real conversations being routed through the exchange. Never fully intelligible. Always at the edge of perception.
+- **Selective intensity:** The bleed-through is stronger on calls to certain NPCs — mapping to which conversations Endo is monitoring most closely. This is a subtle clue layer the player may or may not track consciously.
 
 ---
 
