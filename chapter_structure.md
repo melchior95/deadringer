@@ -303,7 +303,11 @@ Beat.
 
 **Player knows:** Endo is connected to the silver car, the holding company, and the committee that dismissed every report. But he is a community pillar with fifteen years of social capital.
 
-**Endo calls Kenji.** He does not wait to be found. He calls. Warm, helpful, offering cooperation. This is the most dangerous call in the game because the player knows (or suspects) and Endo sounds like help.
+**Endo calls Kenji.** He does not wait to be found. He calls. Warm, helpful, offering cooperation. This is the most dangerous call in the game because the player knows (or suspects) and Endo sounds like help. After the pivot, the register changes: he is calling on the same lines where a child was breathing. His helpfulness is a man standing in front of his basement door, smiling, offering coffee.
+
+**Post-pivot: dual-weight calls.** Every call from this chapter forward carries two functions simultaneously: investigating the case AND listening for the signal. The player's relationship to the phone has changed — it is no longer just a tool. It is an environment with its own behavior, possibly compromised. The player should feel monitored.
+
+**Phone bleed-through escalates:** Calls develop faint echoes — a doubling in the audio, as if someone is listening on a parallel line. Fragments of other conversations intrude at the edges of calls. Not dramatic. Subtle enough to dismiss. But consistent enough to pattern. Endo is monitoring harder as the investigation closes on him, and his increased activity on the exchange creates more infrastructure bleed-through. The system is straining.
 
 **Endo as NPC:** Every call produces actionable information. He suggests leads. He provides context. He connects Kenji to people. The leads are real. The information is accurate. He is helping the investigation go in every direction except toward him.
 
@@ -322,6 +326,8 @@ Beat.
 **Player knows:** Endo is the suspect. His knowledge pattern is impossible without hidden access. The framing evidence from Ch 7 needs deconstruction.
 
 **Structure note:** This is a free-investigation chapter. Multiple concurrent leads are available — framing evidence, Endo's property, Reiko, the Ogawa thread. The player chooses which to pursue and in what order. The density is intentional: the investigation is accelerating because there are more threads than the player has time for. Items below are available paths, not a linear sequence.
+
+**Infrastructure tracking (post-pivot secondary rhythm):** While deconstructing evidence, the player is also tracking phone anomalies — which calls bleed, which locations produce static, whether the breathing returns. The investigation and the infrastructure run in parallel. The phone bleed-through continues from Ch 8: echoes on calls, fragments intruding. Which conversations Endo monitors — visible through which calls produce bleed-through — maps to his surveillance priorities. Reiko's static phone call (below) gains additional resonance: the phone phenomenon the town normalized was the infrastructure that could have saved Mira.
 
 **Evidence examination:** The player deconstructs Endo's planted evidence piece by piece. Each item traces back to Endo's access. The map page is the anomaly — not incriminating, not fabricated. A child's drawing that includes, in one small corner, evidence that Sora noticed the same girl the community chose not to see.
 
