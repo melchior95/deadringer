@@ -468,45 +468,81 @@ ENDO: "You're looking at this from a very specific angle, detective."
 
 ---
 
-### Phase 4: The Shift
+### Phase 4: The Shift — Escalation Ladder
 
 [The conversation changes register. Endo is no longer offering information. He is managing the frame. And for the first time, he uses "I." Not "the community." Not "the council." Not "we." The institutional buffer drops and the man behind it stands up.]
 
-ENDO: "Communities require management. You understand that. Every neighborhood has its difficulties — families in crisis, children at risk, systems that don't respond fast enough. Someone has to hold it together. Someone has to know what's happening and make decisions about how to respond."
+[DESIGN NOTE: Phase 4 is a five-beat escalation that takes the player from agreement to rejection. Each beat is designed to produce a specific emotional response. The Nishida argument is CORE content — all players experience it through the Ogawa call in Ch 8. This is the second half of the split delivery: Ogawa gave the facts neutrally. Endo claims them.]
 
-KENJI: "And when a child reports something accurate? When a nine-year-old files six observations and every one traces back to the same access pattern?"
+---
 
-ENDO: "*I've* given more to this neighborhood than anyone in this room. That should count for something."
+#### Beat 1 — The Diagnosis (the player agrees)
 
-[The player hears two things. First: *should count for something* — Endo is no longer redirecting. He is bargaining. Not for mercy — for credit. For recognition that his decades of genuine service — the drainage problems, the school funding, the volunteer searches, the committee work — are part of the ledger. Second: *I've.* The emphasis is slight, but it's the first time Endo has claimed personal ownership rather than institutional credit. The conductor has stepped out from behind the orchestra. He is no longer gesturing at the community when the audience applauds. He is saying: this was me. All of it. The good and the thing you're about to name.]
+ENDO: "Do you know what happens to children who see clearly, detective? In communities that don't?"
 
-KENJI: "It doesn't."
+[He is calm. Not bargaining. Not performing. The voice of a man who has thought about this for decades.]
 
-[Silence. The first silence Kenji has offered in the confrontation. And for the first time, Endo doesn't fill it.]
-
-[Three seconds. Five. Seven.]
-
-[DESIGN NOTE: If the player has uncovered the Nishida thread (Ogawa's prior report, deep Ch 9 path), Endo references Fujisawa. If not, he skips to "You call her honest." The Fujisawa argument is his strongest moment — a specific case where truth suppression prevented worse damage. Available only to players who dug deep enough to earn it.]
-
-[IF NISHIDA THREAD DISCOVERED:]
-
-ENDO: "Do you know what happened in Fujisawa, detective?"
-
-[His voice is calm. Not performing. Not bargaining. The voice of a man presenting evidence he has carried for years.]
-
-ENDO: "A teacher filed a report. Ambiguous. Observational. No evidence beyond one person's instinct. The district investigated publicly. Four months. The school lost its after-school program. Three staff were reassigned — not the accused, the ones associated with the investigation. Twenty-two families pulled their children. The man who was named was never charged. Never exonerated. Eighteen months later, he was dead."
+ENDO: "The system labels them. 'Intense.' 'Difficult.' 'Disruptive.' The community absorbs their reports and produces silence. Adults say 'can't' when they mean 'won't.' Teachers say 'we'll look into it' and the looking takes forever because looking is the system's way of not seeing."
 
 [Beat.]
 
-ENDO: "I watched that happen. I was on an advisory panel for the prefecture. I read the reports. I saw what an ambiguous truth, handled by a system that is not equipped to handle ambiguity, does to a community. It doesn't produce justice. It produces damage."
+ENDO: "You've watched it happen. Eleven chapters of it. Every person you've spoken to — Aizawa, Haruki, Doi, the school contacts — they all saw something. They all reported something. And the system took their reports and filed them in the place where reports go to become nothing."
+
+[The player has spent eleven chapters watching this exact mechanism. Endo is describing the game the player just played. He is *right.* The system does label children who see clearly. The community does absorb reports and produce silence. Every NPC has demonstrated this. The horror of Beat 1 is agreement — the player cannot argue with the diagnosis because the player has lived it.]
+
+---
+
+#### Beat 2 — The Nishida Precedent (the player is uncomfortable)
+
+ENDO: "You spoke to Ogawa. So you know about the aide."
+
+[His voice does not change. It sharpens — not in pitch but in precision. He is no longer generalizing. He is presenting a case.]
+
+ENDO: "The aide was a real concern. Ogawa was right to file. The threat was genuine — a man with access to children, a pattern of behavior that anyone paying attention could see."
+
+[Beat.]
+
+ENDO: "A teacher in Fujisawa filed a similar report. Ambiguous. Observational. The district investigated publicly. Four months. The school lost its after-school program. Three staff were reassigned. Twenty-two families pulled their children. The man who was named was never charged. Never exonerated. Eighteen months later, he was dead."
+
+[Beat.]
+
+ENDO: "I watched that happen. I saw what an ambiguous truth, handled publicly by a system not equipped for ambiguity, does to a community. It doesn't produce justice. It produces damage."
 
 [He pauses. When he continues, the warmth is gone. What remains is conviction — the quiet certainty Mira described in her read: *he's never not sure.*]
 
-ENDO: "A teacher at this school filed a similar report. Ambiguous. Observational. I chose the version where Fujisawa didn't happen here. The aide was moved. The school continued. No families fractured. No man died. You call it silencing. I call it choosing the outcome where the fewest people are destroyed by something that was never proven."
+ENDO: "So when Ogawa filed her report here — I chose differently. The aide was moved. Quietly. No scandal. No trial. No assessment hearings where a seven-year-old testifies. No newspaper article. The school continued. The family stayed. The community survived."
 
-[The player who has tracked the Nishida thread through Fumiko or the exchange records hears Endo justify his philosophy with a specific case — and cannot easily dismiss it. The Fujisawa outcome was real. The damage was real. Endo's intervention in the Nishida case prevented that damage. The horror is not that he's wrong. The horror is that the same logic, applied to Mira, produced a dead child.]
+[Beat.]
 
-[END CONDITIONAL]
+ENDO: "She's in university now. The child Ogawa was protecting. Did she tell you that?"
+
+[Beat.]
+
+ENDO: "I built the system that did that. The quiet transfer. The buried file. The community that survived."
+
+[The player who heard Ogawa's testimony in Ch 8 — "I don't know if that's justice. But I know she's okay" — now hears the architect claim credit for the outcome. The facts are the same. The framing is different. Ogawa delivered them as a wound she carries. Endo delivers them as a precedent that justifies everything that came after.]
+
+---
+
+#### Beat 3 — The Tool Applied to Mira (the player resists)
+
+[Endo's voice shifts again. Not colder — warmer. He is describing someone he admired.]
+
+ENDO: "Mira was extraordinary."
+
+[He says her name the way he always has — the pitch dropping, the consonants softening. The intimacy of a man who heard her voice through copper wire for years.]
+
+ENDO: "Perceptive. Persistent. She documented everything. She reported six times. Each time the committee dismissed her, she came back. She came back with more detail, more dates, more observations. She was nine years old and she had the investigative instincts of a thirty-year journalist."
+
+[Beat.]
+
+ENDO: "I tried every institutional tool. Committee dismissal — she came back. Social discrediting — she persisted. I removed Ogawa because Ogawa was going to listen. I discredited Mira's reports because Mira was going to be heard."
+
+[Beat.]
+
+ENDO: "None of it was enough. She was the most stubborn signal I have ever encountered."
+
+[The word *signal* lands. The player who has been tracking the phone phenomenon — who heard the breathing, who heard "He heard us," who knows the exchange carries voices — hears Endo describe a child the way an engineer describes interference. Not a person. A signal. Something to be managed, routed, contained.]
 
 ENDO: "You call her honest. I call her unfinished."
 
@@ -514,7 +550,61 @@ ENDO: "You call her honest. I call her unfinished."
 
 ENDO: "Do you know what the world does to children who keep speaking? It breaks them. I know. It broke me first."
 
-[DESIGN NOTE: With the Fujisawa argument, Phase 4 operates on two levels. The abstract philosophy ("communities require management") is Endo's fallback for all players. The Fujisawa evidence is the version that produces genuine hesitation — available only to players who invested in the Ogawa thread. The reward for deep investigation is not more certainty about the villain. It is less.]
+---
+
+#### Beat 4 — The Justification (the player understands and rejects)
+
+ENDO: "When the method works, a child is spared. The community survives. The surface holds. Nobody testifies. Nobody fractures. The quiet transfer, the buried file — they're ugly. I know they're ugly. But the alternative is Fujisawa. The alternative is a community that tears itself apart processing an ambiguous truth it is not equipped to hold."
+
+[Beat.]
+
+ENDO: "When the method fails — when the signal can't be contained — the surface breaks. Court proceedings. Media. A seven-year-old testifying. Neighbors who looked the other way forced to explain why. The community doesn't survive that."
+
+[He pauses. The longest pause of the confrontation. When he speaks, his voice has the quality of something he has said to himself many times, in the exchange room, alone, listening to the lines carry the voices of children he catalogued and filed and absorbed.]
+
+ENDO: "I am not asking you to forgive me. I am asking you to understand that I tried everything else first."
+
+[The player understands. That is the horror. The player can trace the logic — from Fujisawa to the Nishida precedent to the institutional tools to the escalation — and the logic is coherent. It is monstrous, but it is not insane. Endo is not a man who lost control. He is a man who maintained control so completely that control became the only value. The system worked once. And because it worked once, he applied it everywhere. To everything. To everyone.]
+
+---
+
+#### Beat 5 — The Gap (the player feels the knife)
+
+[Silence. Kenji has been listening. Now he speaks — or Mira does. The voice that names the gap depends on who has the energy left.]
+
+[IF MIRA CAN SPEAK — faint, through static, through the post-amplification crash:]
+
+MIRA: "The... aide."
+
+[A pause. The signal wavers. Comes back.]
+
+MIRA: "The aide was the danger. You removed... the danger. The child was safe."
+
+[Beat. The wire-sound roughens.]
+
+MIRA: "I wasn't the danger. I was... the one pointing at it."
+
+[The static thickens. Her voice thins to almost nothing.]
+
+MIRA: "You saved the Nishida child... by removing the threat. You killed me... by removing the witness."
+
+[IF MIRA CANNOT SPEAK — signal too degraded, Kenji delivers it:]
+
+KENJI: "The Nishida suppression removed a threat. The aide was the problem. Remove the aide, child is safe, community survives. The tool worked because the tool matched the problem."
+
+[Beat.]
+
+KENJI: "Mira wasn't a threat. She was a witness. She wasn't the fire — she was the person pointing at the fire."
+
+[Beat.]
+
+KENJI: "You saved the Nishida child by removing the danger. You killed Mira by removing the one who saw it."
+
+[END VARIANT]
+
+[The logical break in Endo's framework. He treated a witness the same way he treated a threat, and he can't see the difference because in his framework, both disrupt the surface equally. Truth and danger produce the same outcome — community fracture. So in his system, they are the same input. A child reporting abuse and a child being abused generate the same signal: noise that must be contained. The horror is the category error, not the logic. The method is coherent. The application is monstrous. And Endo — who has never not been sure — cannot see the gap because the gap is the thing his certainty was built to cover.]
+
+[Endo does not respond to Beat 5. Not because he is broken. Because he has no answer. The diagnosis was correct. The precedent was real. The justification was coherent. But the gap — the difference between a threat and a witness — is the thing his entire system was designed to not see. His silence here is not the measured pause of a man selecting his next redirect. It is the silence of a man who has encountered the boundary of his own architecture.]
 
 [AUDIO: Mira. Faint. Through the crash. Through the static. Through everything that has reduced her voice to almost nothing. Her words arrive the way they did in Chapter 7's close — the sound of her voice reaching Kenji before the meaning does, structured audio resolving into language a half-second late.]
 
@@ -544,7 +634,7 @@ KENJI: "You're within your rights."
 
 [He stands. He has presented the evidence. He has not arrested Endo — the case is circumstantial, the warrant is being processed through channels that bypass Endo's institutional control. But the confrontation has achieved its purpose: Endo knows what Kenji knows. And Endo will act.]
 
-[NOTEBOOK PROMPT: "CONFRONTATION: Endo presented with evidence chain — informational tells (heard Mira's hesitation from written reports), cable route correspondence (knowledge density maps to infrastructure), nursery receipts (one plant per disappearance, fifteen years), committee records (40 behavioral reports dismissed, all under his review), substation inspections (annual sign-offs while visiting regularly). RESPONSES: Phase 1 — helpful, cooperative. Phase 2 — first silence when confronted with tell. Phase 3 — 'looking at this from a specific angle.' Phase 4 — 'communities require management,' then 'she was unfinished.' Phase 5 — 'legal counsel.' THE BOUNDARY: Endo adjusting. He now knows we have the exchange room, the garden, the substation. He will act before the warrant."]
+[NOTEBOOK PROMPT: "CONFRONTATION: Endo presented with evidence chain — informational tells (heard Mira's hesitation from written reports), cable route correspondence (knowledge density maps to infrastructure), nursery receipts (one plant per disappearance, fifteen years), committee records (40 behavioral reports dismissed, all under his review), substation inspections (annual sign-offs while visiting regularly). RESPONSES: Phase 1 — helpful, cooperative. Phase 2 — first silence when confronted with tell. Phase 3 — 'looking at this from a specific angle.' Phase 4 — ESCALATION LADDER: Beat 1 (diagnosis — correct, player agrees), Beat 2 (Nishida precedent — 'I built the system that did that'), Beat 3 (tool applied to Mira — 'the most stubborn signal'), Beat 4 (justification — 'I tried everything else first'), Beat 5 (THE GAP — 'You saved the Nishida child by removing the danger. You killed Mira by removing the one who saw it.' CATEGORY ERROR: he treated a witness like a threat). Phase 5 — 'legal counsel.' THE BOUNDARY: Endo adjusting. He now knows we have the exchange room, the garden, the substation. He will act before the warrant."]
 
 ---
 
