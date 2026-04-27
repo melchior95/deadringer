@@ -87,6 +87,14 @@ MIRA: "He was helpful."
 
 [DESIGN NOTE: The absence of Mira's humor is the degradation signal. In every previous chapter, the call board moment included a Mira commentary beat. In Ch 7, the silence IS the beat.]
 
+[Between the call board and the first call, a text from Haruki. Brief — he's contained, following Kenji's instructions, but still feeding what he finds.]
+
+HARUKI (text): *"Detective — reviewing student incident reports for the committee records. Minor item: students dare each other to call the bridge number at night. A third-grader told me she heard someone breathing on the line. I told her it was wind in the cables. Probably nothing. Documenting everything now."*
+
+[Kenji reads it. Files it. The bridge number produced static and white noise in Ch 3 — not breathing. Wind in the cables is a reasonable explanation. A child hearing breathing where an adult hears infrastructure. The player files it with everything else.]
+
+[DESIGN NOTE: The setup for the pivot. Haruki dismissed a student's accurate report — a child who heard breathing on the same infrastructure — using the same mechanism that dismissed Mira's reports: an adult explaining away what a child observed. The parallel is structural. When the pivot fires at the end of this chapter, the player will remember Haruki's text and realize: the student was right. Another child reported something true. Another adult explained it away.]
+
 ---
 
 ## SCENE 3: CALL — FUMIKO (The Convergence Files)
@@ -303,13 +311,13 @@ KAITO: "...a lot of things don't fit."
 
 [He describes fragments, each preceded by its own delay: a pattern in which houses had visitors on which evenings (three-second pause). A regularity to certain adults' walking routes that suggested they were following a schedule, not a habit (two-second pause — familiar data). The way community events always had the same volunteer coordinator, and the coordinator always positioned himself near the arrivals, watching who came and who didn't (eight-second pause — this one matters).]
 
-KAITO: "...the volunteer man. He was always there. Every event. He always stood near the door."
+KAITO: "...the volunteer man. East entrance. Community center. Three meters from the door, left side. He was always there. Every event. Same position. Like a fixed object."
 
 KENJI: "The volunteer man."
 
 [Five-second delay.]
 
-KAITO: "...I don't know his name. But he was always watching who showed up. Like he was keeping attendance."
+KAITO: "...I don't know his name. But he stood where he could see arrivals without being in the path. The angle covers the gate and the parking area. If you wanted to track who showed up without being noticed — that's the position."
 
 [The player who has connected Endo to the silver car now hears Kaito describing Endo's behavioral pattern without naming him. The convergence deepens.]
 
@@ -403,7 +411,15 @@ KENJI: "Did you see the driver at all?"
 
 [Nine-second delay. The longest silence in the call. The weight of the information stretches the processing time — the delay-length is the tell, and nine seconds means what follows is the most important thing Kaito has said.]
 
-KAITO: "...once. From behind. Walking from the car to the store. Tall. Upright. He walked like he was... familiar. Like he knew where everything was without looking."
+KAITO: "...once. From behind. East entrance to the convenience store — forty-two meters along the main road. Tall. Upright. He walked like he was... familiar. Like he knew where everything was without looking. The route he took — it's not the shortest path. It's the path that passes the school gate."
+
+KENJI: "Nine times you watched this. Were you scared?"
+
+[Seven-second delay. The longest personal pause — not the weight of evidence, the weight of an emotional question arriving in a format Kaito doesn't have language for.]
+
+KAITO: "...the path behind the post office has no streetlights after the second turn. I stopped taking it in March."
+
+[He didn't answer the question about fear. He answered with geography — a route he abandoned. The spatial change IS the emotional answer. When Kaito was scared, he didn't feel scared. He changed positions. The coordinates are where his feelings go when he doesn't have words for them.]
 
 [NOTEBOOK PROMPT: "KAITO — VEHICLE LOGS (full): 9 sightings total, March through April. Silver sedan, Shinagawa plates. 3x driver stayed in car, 2x driver exited to store, 4x car sat idle. Driver description: tall, upright, 'walked like he was familiar — knew where everything was without looking.' Corroborates Doi's 3 sightings (March 3/7/12) and Mira's records. KAITO'S NOTEBOOKS ARE OBSERVATION, NOT SURVEILLANCE — neighborhood pattern tracking, same instinct as Mira at a different scale."]
 
@@ -661,6 +677,66 @@ MIRA: "I reported six times. And every time, the committee that reviewed my repo
 
 ---
 
+## SCENE 9: THE PIVOT — "THE BREATHING"
+
+[VISUAL: Late evening. The apartment. The evidence map is pinned above the desk — every thread leading to Endo's name at the center. The work of the chapter is settling. Kenji is making one last call — a follow-up, administrative, routine. The kind of call that closes a day.]
+
+[The call connects. Nothing unusual. Kenji speaks to a school administrative contact — scheduling, records access, the bureaucratic infrastructure of an investigation that has found its shape and needs to formalize it.]
+
+[Then the static changes.]
+
+[Not louder. Not the crackle of a bad connection or the hiss of old lines. The texture of the sound on the line shifts — like two signals running on the same wire. Layered. The player who heard the wrong connection in Ch 5 recognizes the quality. The player who heard Fumiko describe phone anomalies clustering around dates feels the pattern tighten.]
+
+MIRA: "...wait."
+
+[She goes quiet. Not the dramatic quiet of a reveal — the still, focused quiet of someone straining to hear. This is a reversal: Mira is usually the one providing commentary. Now she is listening.]
+
+MIRA: "Don't talk."
+
+[Mira has never given Kenji an order before. She advises. She observes. She tests. This is command. The player feels the shift in her register before they understand why.]
+
+[Kenji holds the phone. The administrative contact has hung up — or the line dropped. What remains is the static, textured, layered.]
+
+[Under the static — barely, almost below the threshold of hearing — rhythmic sound.]
+
+[Inhale. Exhale. Inhale.]
+
+[Shallow. Small.]
+
+[AUDIO: Four seconds. The breathing is there. Present. Unmistakable once the player hears it. Not Mira's voice. Not static shaped like breath. Breath. A chest rising and falling. Small lungs. A child.]
+
+[Then it is gone. The static returns to normal. The line is dead.]
+
+[Long silence. Kenji holds the phone. The apartment is completely still — no clock, no train, no wire-sound. Everything has stopped.]
+
+MIRA: "That wasn't me."
+
+[Beat.]
+
+MIRA: "That was someone alive."
+
+[Kenji's voice is careful. The voice of a man who knows what he just heard and needs to hear it confirmed.]
+
+KENJI: "What did you hear?"
+
+MIRA: "Breathing. A child. They're... close. Not close to you. Close to the lines."
+
+[Beat.]
+
+MIRA: "Kenji."
+
+[The longest pause Mira has ever taken. When she speaks, her voice has a quality the player has never heard — not clinical, not deadpan, not analytical. Certain.]
+
+MIRA: "Someone is in there."
+
+[Five words. The game changes.]
+
+[The player who has been tracking Sora artifacts since Chapter 2 — the bench marks, the drawing boy at Doi's store, Yui's city-map boy, Haruki's text about a student who "heard breathing" on the bridge number — now has a shape forming. Three people mentioned a child's absence. None reported it. A child is breathing inside the infrastructure. The breathing does not identify itself. The player suspects before they know.]
+
+[DESIGN NOTE: This is the pivot — the Parasite basement moment. Everything before was past-tense investigation: what happened to Mira, what happened to Sora, what did the committee do. Everything after is present-tense rescue. A child is alive inside Yanagi's phone infrastructure — near the cables, near the exchange, in whatever space Endo has been using. The investigation is no longer about what happened. It is about what is happening. The past-tense patience that served the player for seven chapters is now in tension with present-tense urgency. Both are still needed. But the weight has changed. And Haruki's text — "wind in the cables" — lands retroactively: another child who reported something true, another adult who explained it away. The system that silenced Mira silenced this student too. The breathing the student heard was real.]
+
+---
+
 ## END-OF-CHAPTER STATE
 
 ### Player Knowledge (New This Chapter)
@@ -674,6 +750,8 @@ MIRA: "I reported six times. And every time, the committee that reviewed my repo
 - Sora artifact: genuine map page among fabricated framing. River, bend, two figures. Planted without examination.
 - [If blind spot followed] Fumiko overfits. Inoue family not connected to pattern. Lesson: verify Fumiko's edges.
 - Mira's signal is degrading. She trails off. She reaches for words. She goes silent during transitions. The player can hear the change.
+- Haruki's text: student reported hearing breathing on the bridge number line. Haruki dismissed as "wind in the cables." Filed as minor — but the student was right.
+- THE PIVOT: Someone alive — a child — is inside Yanagi's phone infrastructure. Breathing heard on the line for four seconds. Mira confirmed: "That wasn't me. That was someone alive." "Someone is in there." Investigation shifts from past-tense mystery to present-tense rescue.
 
 ### Notebook Contents (New Entries)
 - SILVER CAR REGISTRATION — Bright Future Community Services → Masato Endo. Convergence: Doi's sightings + Kaito's logs + Mira's records = one holding company, one liaison.
@@ -711,7 +789,8 @@ MIRA: "I reported six times. And every time, the committee that reviewed my repo
 - Endo Name Count: 9 (community board, pharmacy notice, playground plaque, volunteer search, committee chair, playground renovation, Mira observation, holding company liaison, Fumiko's institutional timeline).
 
 ### Threads Open
-- Endo direct contact → Ch 8 (he calls Kenji — the most dangerous call in the game)
+- The breathing → Ch 8-9 (living child in infrastructure — present-tense rescue thread)
+- Endo direct contact → Ch 8 (he calls Kenji — the most dangerous call in the game, on the same lines where a child was breathing)
 - Infrastructure map + Endo's knowledge pattern → Ch 9-10 (overlay reveals exchange location)
 - Framing deconstruction → Ch 9 (Sora's map page anomaly, Haruki's break, full Rina recontextualization)
 - Garden → Ch 9 (botanical timeline, nursery receipts, three-week gap)
