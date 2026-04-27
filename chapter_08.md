@@ -34,6 +34,8 @@ MIRA: "Answer it."
 
 [Her voice is quiet. Conserving. Two words where Chapter 3's Mira would have delivered ten — a joke about the caller, an observation about the ring tone, a running theory. Now: two words. The instruction is immediate but the voice behind it sounds like it's arriving from further away than it used to.]
 
+[AUDIO: Under the ring tone — so faint the player might not catch it — a doubling. The faintest echo, as if the ring is being heard from two places simultaneously. The same infrastructure where a child was breathing twelve hours ago. The phone is no longer just a tool. It is an environment — and the environment may be compromised.]
+
 KENJI: "You sure?"
 
 MIRA: "He's calling you. That means he doesn't know we're looking at him. Or he knows and he's managing it. Either way — you learn more by answering."
@@ -314,6 +316,8 @@ MIRA: "I think he thinks he was helping me."
 
 [Kenji glances at the phone. In the early chapters, Mira would have commented on the call board — something dry about the mathematics of impossible choices. Now the phone is quiet. He notices the way you notice a clock that has stopped: not because of the silence, but because you keep looking at the place where the sound used to be.]
 
+[Every call from this chapter forward carries dual weight. The player is no longer just investigating — they are listening. Beneath every conversation, beneath every silence, beneath every NPC's audio signature: is the signal there? Is the breathing back? The phone has become both tool and listening post. Endo is calling on the same lines where a child was breathing. His helpfulness is a man standing in front of his basement door, smiling, offering coffee.]
+
 ---
 
 ## SCENE 5: CALL — AIZAWA (The Break)
@@ -456,6 +460,8 @@ AIZAWA: "I chose the version of my job that let me sleep."
 
 [A silence. The kind that fills a room. The kind that fills a career, a decision, a life built around the knowledge that you saw what you saw and chose the path where seeing was enough.]
 
+[AUDIO: And in that silence — so faint it might be imagination — a fragment. Not Aizawa. Not Mira. A voice, distant, as if speaking from very far down a long hallway. Two words, indistinct. Then gone. The bleed-through — another conversation, routed through the same infrastructure, leaking at the edges. The exchange straining under attention it was never designed to carry. Aizawa didn't hear it. The player may not have either. But it was there.]
+
 [The player sits in it. The game does not offer a response prompt. There is nothing to say to a person who has just described the shape of their own failure with complete accuracy.]
 
 [Then Aizawa, quieter — almost to herself:]
@@ -545,6 +551,8 @@ MIRA: "He remembered my voice better than my mom does."
 - Aizawa's break: "I chose the version of my job that let me sleep." She believed Mira, documented everything, followed procedure that was designed to absorb information without producing action. Closest person to helping. Chose the institution.
 - Contrast established: Aizawa broke under the same institutional pressure Endo mastered. Same system, opposite outcomes.
 - Mira's inference: the cables under the community center are where Endo listens. Pattern recognition, not proof.
+- Dual-weight calls: every call now serves two functions — investigating the case AND listening for the breathing signal. The phone is both tool and compromised environment.
+- Phone bleed-through: faint audio artifacts appearing — echoes, a doubling on the ring tone, a fragment of another conversation during the Aizawa call. The exchange is straining under Endo's increased monitoring. Not dramatic — subtle enough to dismiss. But consistent enough to pattern.
 
 ### Notebook Contents (New Entries)
 - ENDO — CALL 1: Warm, helpful, cooperative. Real leads offered. Silver car holding company liaison calling the detective to help. The most dangerous helpfulness in the game.

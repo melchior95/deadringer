@@ -27,6 +27,8 @@
 
 [AUDIO: No ambient commentary from Mira. The apartment's silence has a different quality than in Chapter 1 — not the empty silence of a cold case, but the dense silence of too many threads to hold.]
 
+[Beside the case evidence, a secondary map has formed — notes in Kenji's hand, pinned to the edge of the desk. Which calls produced static. Which connections bled. Where the wrong connection happened (Ch 5 — school office). Where Fumiko logged anomaly clusters. Where the breathing came through (Ch 7 — late evening). The phone phenomenon the town normalized — "just old lines," "you get used to it" — is now a second investigation running parallel to the first. Which calls bleed maps to which locations Endo monitors. The infrastructure and the surveillance are the same thing.]
+
 [Kenji stands over the desk. The player sees the available investigation paths — not a call board this time, but a LEAD board. Multiple concurrent lines of inquiry, each requiring time and resources, each producing something the case needs.]
 
 [MECHANIC: Free-investigation structure. The player chooses which leads to pursue from the available paths. Not all paths are phone calls — some are physical investigation, some are document examination, some are follow-up calls. The player has time for 3-4 paths total. Which ones they choose shapes the chapter's revelations.]
@@ -264,6 +266,8 @@ Regardless of response, the call ends the same way.
 REIKO: "I should have listened through the static."
 
 [She says this simply. Not crying. Not performing grief. Just the arithmetic — the specific, unbearable calculation of a mother who had the chance and chose sleep.]
+
+[The player connects it: every person in Yanagi has been hearing the phone weirdness for years. "Just old lines." "You get used to it." "The lines have long memories." They all normalized it. The school contact laughed about it. Fumiko logged it without understanding it. The student who heard breathing was told it was wind. And Reiko — Reiko heard her daughter calling through the same infrastructure and told her to call back later because the line was bad. The phone phenomenon the town dismissed as rural infrastructure was the system that could have saved Mira. Everyone heard it. No one listened.]
 
 ---
 
@@ -512,6 +516,7 @@ MIRA: "When I happened."
 - [If Ogawa deep] Ogawa heard audio on a dead phone line — the exchange bleeding through. Mira was not the first signal. She was the first one who got through.
 - [If Endo called] Tell #3: Endo normalizes cable infrastructure as municipal maintenance. Preemptive reframing.
 - Sora is alive — Mira's inference from the garden timeline. Two plants means two events, separated by three weeks. Sora was held, not killed immediately.
+- Infrastructure tracking: phone anomaly pattern maps to Endo's surveillance priorities. Which calls bleed, which locations produce static — the same infrastructure that enabled surveillance generated the phone phenomenon the town normalized. The "old lines" excuse was the sound of Endo's monitoring. Reiko's "bad connection" recontextualized: the town phenomenon that everyone dismissed is the thing that could have saved Mira.
 
 ### Notebook Contents (New Entries)
 - FRAMING — Full deconstruction: council access, council formatting, post-death fabrication. Every piece → Endo.
