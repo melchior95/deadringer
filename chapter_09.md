@@ -536,7 +536,7 @@ MIRA: "When I happened."
 - NISHIZAWA, RINA — Called (Ch 4)
 - ISE, HARUKI — Incoming/Called (Ch 5), Called (Ch 6), Called (Ch 9) — break
 - AIZAWA, EMI — Called (Ch 5), Called (Ch 8)
-- ARAI, FUMIKO — Called (Ch 6), Called (Ch 7), [If Ogawa] Called (Ch 9)
+- ARAI, FUMIKO — Called (Ch 6), Called (Ch 7), Called (Ch 9)
 - NISHIMURA, KAITO — Called (Ch 7)
 - ENDO, MASATO — Incoming (Ch 8), [If called] Called (Ch 9)
 

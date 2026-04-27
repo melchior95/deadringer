@@ -514,7 +514,7 @@ MIRA: "But I'm glad it was you. Not because you're special. Because you pick up.
 - NISHIZAWA, RINA — Called (Ch 4)
 - ISE, HARUKI — Incoming/Called (Ch 5), Called (Ch 6), Called (Ch 9), [If called] Called (Ch 10)
 - AIZAWA, EMI — Called (Ch 5), Called (Ch 8), [If called] Called (Ch 10)
-- ARAI, FUMIKO — Called (Ch 6), Called (Ch 7), [If Ogawa] Called (Ch 9), Called (Ch 10)
+- ARAI, FUMIKO — Called (Ch 6), Called (Ch 7), Called (Ch 9), Called (Ch 10)
 - NISHIMURA, KAITO — Called (Ch 7)
 - ENDO, MASATO — Incoming (Ch 8), [If called] Called (Ch 9), [If called] Called (Ch 10)
 

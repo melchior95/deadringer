@@ -610,7 +610,7 @@ KENJI: "I will."
 - NISHIZAWA, RINA — Called (Ch 4)
 - ISE, HARUKI — Incoming/Called (Ch 5), Called (Ch 6), Called (Ch 9), [If called] Called (Ch 10), [If called] Called (Ch 11)
 - AIZAWA, EMI — Called (Ch 5), Called (Ch 8), [If called] Called (Ch 10), [If called] Called (Ch 11)
-- ARAI, FUMIKO — Called (Ch 6), Called (Ch 7), [If Ogawa] Called (Ch 9), Called (Ch 10), [If called] Called (Ch 11), Called (Ch 12) — alert
+- ARAI, FUMIKO — Called (Ch 6), Called (Ch 7), Called (Ch 9), Called (Ch 10), [If called] Called (Ch 11), Called (Ch 12) — alert
 - NISHIMURA, KAITO — Called (Ch 7), [If called] Called (Ch 11)
 - ENDO, MASATO — Incoming (Ch 8), [If called] Called (Ch 9), [If called] Called (Ch 10), In-person (Ch 11), [Intercepted] (Ch 12)
 - SORA HAYASHI — Mira's final call (Ch 12) — through the exchange

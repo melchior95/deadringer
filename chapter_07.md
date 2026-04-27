@@ -613,9 +613,9 @@ Whether the player discovers it through analysis, investigation, Mira's observat
 
 ---
 
-## SCENE 7: THE OGAWA THREAD (Optional — Independent Discovery)
+## SCENE 7: THE OGAWA THREAD (Independent Discovery Path)
 
-[This scene fires only if the player did NOT call Fumiko this chapter but is cross-referencing Endo's institutional involvement with the school records from Ch 5. If the player called Fumiko, the Ogawa connection was delivered in File Two.]
+[This scene fires only if the player did NOT call Fumiko this chapter but is cross-referencing Endo's institutional involvement with the school records from Ch 5. If the player called Fumiko, the Ogawa connection was delivered in File Two. Either way, the Ogawa thread leads to her becoming callable in Ch 8 (core content).]
 
 [While reviewing committee assignments, Kenji notices the overlap himself: the review committee that recommended Ogawa's termination has a familiar name on the signature line.]
 

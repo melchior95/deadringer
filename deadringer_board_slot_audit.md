@@ -372,7 +372,7 @@ Complete list of notebook prompts, tagged by type, NPCs, threads, and Board slot
 | 200 | EVIDENCE | Reiko, Mira | Reiko static call | #4 (contributing) |
 | 246 | EVIDENCE | Sora, Endo | Sora's map | #4, #5 (contributing) |
 | 262 | [omitted] | — | — | — |
-| 270 | EVIDENCE | Ogawa, Mira | Ogawa cross-ref (optional) | #3 (contributing) |
+| 270 | EVIDENCE | Ogawa, Mira | Ogawa cross-ref | #3 (contributing) |
 | 296 | EVIDENCE | Ogawa, Nishida | Nishida report | — (Endo philosophy deep) |
 | 308 | [omitted] | — | — | — |
 | 332 | EVIDENCE | Ogawa | Ogawa deep | #3 (contributing) |
