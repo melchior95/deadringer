@@ -17,6 +17,7 @@ This document maps the information economy of the investigation: who the player 
 | Haruki | Ch 5 | He contacts Kenji voluntarily | Ch 5 onward |
 | Aizawa | Ch 5 | Through school records / Haruki's leads | Ch 5 onward |
 | Fumiko | Ch 6 | Through community contacts / trail of prior questions | Ch 6 onward |
+| Ogawa | Ch 8 | Through Fumiko/Haruki — former teacher who filed Nishida report | Ch 8 only (single scene) |
 | Endo | Ch 5 (name) / Ch 8 (voice) | Named in school committee records; calls Kenji directly in Ch 8 | Ch 8 onward |
 | Sora | — | Not directly contactable until Ch 12 | Mira reaches him |
 
@@ -38,7 +39,8 @@ What the player must know before a door opens:
 | Garden discovery | Street observation + financial records (Ch 9) | Nursery receipts, botanical timeline, three-week gap |
 | Infrastructure map + knowledge pattern | Fumiko's map (Ch 7) overlaid with Endo's access signature (Ch 8–9) | Exchange room location (Ch 10), bridge number resolved |
 | Exchange room | Physical investigation of community center | Mira amplified, other children heard, switchboard duel |
-| Framing deconstruction | Examining planted evidence (Ch 9) | Sora's map page anomaly, Haruki's break, Rina recontextualized, Ogawa thread (if pursued) |
+| Nishida testimony | Ogawa callable (Ch 8, through Fumiko/Haruki) | Endo's "he was right once" dilemma — core content for Ch 11 confrontation |
+| Framing deconstruction | Examining planted evidence (Ch 9) | Sora's map page anomaly, Haruki's break, Rina recontextualized, Ogawa thread |
 
 ---
 
@@ -51,6 +53,7 @@ The player's suspect shifts across the game. This arc transitions from suspectin
 | Early | Ch 3 | Doi | Surface-level misdirect — looks guilty, isn't |
 | Early-Mid | Ch 4–5 | Kaito | Behavioral suspicion — acts wrong, resolved through patience |
 | Mid | Ch 5–6 | Aizawa | Institutional suspicion — "she knew everything" theory |
+| Mid | Ch 6–7 | Endo (felt) | Investigation backfire — Doi's pressure traces to player's calls, Yui goes dark, timestamp anomaly proves Endo adjusted before informed |
 | Mid | Ch 4–7 | Rina | Social complicity — "she built the conditions" realization |
 | Late | Ch 7+ | Endo | Pattern recognition — the helpful man who knows too much |
 
@@ -219,6 +222,8 @@ Mira's reaction: quiet for a moment. Then: "The static on that call was differen
 
 **Haruki's point of no return (branching):** Before his break scene, while still operating on reckless guilt, Haruki pushes a lead without coordinating with Kenji. He visits a family connected to one of the dismissed reports. He means well. He is right about the connection. But the visit alerts people the investigation hasn't reached yet. The player cannot undo this. The consequences cascade into Ch 7 — NPCs may be less cooperative, information may be harder to access, Endo may adjust earlier.
 
+**Investigation backfire:** Doi pressure recontextualized (investigation backfire). Yui goes dark (ACT/DELAY variants).
+
 **Player knowledge at chapter end:** Doi is innocent but damaged. The silver car is a real lead. A journalist has been tracking this pattern for over a decade. Someone the player trusted (Haruki) has acted without coordination and the ripples are spreading.
 
 ---
@@ -244,6 +249,8 @@ The silver car is registered to a holding company. The holding company's communi
 **Haruki's breathing dismissal (pivot setup):** During conversation, Haruki mentions offhand: "The students have a thing — they dare each other to call the bridge number at night. One of them told me she heard someone breathing. I told her it was wind in the cables." A child reported hearing breathing on the phone lines. An adult dismissed it. The failure chain — a child says something true, an adult explains it away — repeats in miniature, in real time, through the phone phenomenon itself. The player hears this before the breathing happens. After the pivot, it recontextualizes.
 
 **Fumiko's infrastructure map (enters evidence):** Among the documents Fumiko provides during the convergence is a folded city planning document from the municipal archives — telecommunications infrastructure of the Yanagi district, cable runs, junction boxes, the old exchange routes. She obtained it for a community center article. She annotated it in red pen. She doesn't know its significance. It enters the player's evidence as one document among many. It becomes the most important piece of paper in the game three chapters later.
+
+**Timestamp anomaly:** Endo adjusted before officially informed. Mira: "He heard us."
 
 **Ogawa thread deepens (optional):** The player cross-referencing Endo's involvement in school decisions notices he was on the review committee that recommended Ogawa's termination. Same committee that dismissed Mira's reports. Same committee, opposite outcomes.
 
@@ -308,6 +315,8 @@ Beat.
 **Post-pivot: dual-weight calls.** Every call from this chapter forward carries two functions simultaneously: investigating the case AND listening for the signal. The player's relationship to the phone has changed — it is no longer just a tool. It is an environment with its own behavior, possibly compromised. The player should feel monitored.
 
 **Phone bleed-through escalates:** Calls develop faint echoes — a doubling in the audio, as if someone is listening on a parallel line. Fragments of other conversations intrude at the edges of calls. Not dramatic. Subtle enough to dismiss. But consistent enough to pattern. Endo is monitoring harder as the investigation closes on him, and his increased activity on the exchange creates more infrastructure bleed-through. The system is straining.
+
+**Ogawa callable:** Nishida testimony (core content). The dilemma: the system worked once.
 
 **Endo as NPC:** Every call produces actionable information. He suggests leads. He provides context. He connects Kenji to people. The leads are real. The information is accurate. He is helping the investigation go in every direction except toward him.
 
