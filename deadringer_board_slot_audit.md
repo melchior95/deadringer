@@ -130,7 +130,7 @@ For each slot: required entries (minimum for COMPLETE state), contributing entri
 
 **Thoroughness notes:** COMPLETE at 2 entries. Both required entries are in Ch 5, reached via Haruki's incoming call (mandatory). Slot is reachable by every playthrough at minimum COMPLETE.
 
-**For a richer presentation:** the deep Ogawa thread (optional) adds the Nishida layer (from ogawa-incident.md) which contextualizes Endo's methodology. This doesn't gate the slot but enriches its confrontation delivery.
+**For a richer presentation:** the Ogawa thread adds the Nishida layer (from ogawa-incident.md), now core content delivered via the Ch 8 Ogawa call, which contextualizes Endo's methodology. This doesn't gate the slot but enriches its confrontation delivery.
 
 **Reachability:** STRONG. This is the safest slot — every player reaches it.
 
@@ -373,7 +373,7 @@ Complete list of notebook prompts, tagged by type, NPCs, threads, and Board slot
 | 246 | EVIDENCE | Sora, Endo | Sora's map | #4, #5 (contributing) |
 | 262 | [omitted] | — | — | — |
 | 270 | EVIDENCE | Ogawa, Mira | Ogawa cross-ref (optional) | #3 (contributing) |
-| 296 | EVIDENCE | Ogawa, Nishida (optional) | Nishida report | — (Endo philosophy deep) |
+| 296 | EVIDENCE | Ogawa, Nishida | Nishida report | — (Endo philosophy deep) |
 | 308 | [omitted] | — | — | — |
 | 332 | EVIDENCE | Ogawa | Ogawa deep | #3 (contributing) |
 | 378 | EVIDENCE | Ogawa | Ogawa almost-call | #4 (contributing) |
@@ -446,7 +446,7 @@ Testing whether slots complete under different playstyles.
 
 ### 6.1 Completionist Playthrough
 
-Player examines every optional element, pursues every side-thread (Ogawa deep), cultivates every NPC relationship.
+Player examines every optional element, pursues every side-thread, cultivates every NPC relationship. Ogawa thread and Nishida testimony are core content (Ch 8 call).
 
 **Result:** all 8 slots COMPLETE. Ch 11 Board is at maximum density. Confrontation plays out with richest contradiction presentation.
 
@@ -475,7 +475,7 @@ Player moves quickly through dialogue, skips all optional investigation, chooses
 
 ### 6.4 Ogawa-Deep Playthrough
 
-Player pursues the optional Ogawa thread fully (Ch 5 → Ch 7 → Ch 9 deep path including Nishida report).
+Player engages the Ogawa thread fully (Ch 5 → Ch 7 → Ch 8 mandatory Ogawa call delivering Nishida testimony).
 
 **Result:** 
 - Slot #3 (COMMITTEE AS MECHANISM) reaches RICH state (beyond COMPLETE — additional contributing entries stack).

@@ -272,7 +272,7 @@ Failure to present anything during a phase (the player is stuck or loses the thr
 
 ### 5.6 Thoroughness Gating (Outcome Density)
 
-A player who completed every chapter's optional content and pursued the deep Ogawa thread enters Ch 11 with 7 or 8 complete slots. A player who moved through the main line has 4 or 5 complete. A player who missed key investigative beats has 3.
+A player who completed every chapter's content, including the Ogawa testimony (now core, delivered via Ch 8 call), enters Ch 11 with 7 or 8 complete slots. A player who moved through the main line has 4 or 5 complete. A player who missed key investigative beats has 3.
 
 The confrontation plays through all five phases regardless. But the *density* of what the player can present affects:
 - The specificity of Endo's final statement (more complete slots = more specific admissions of philosophy, not guilt)

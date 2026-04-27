@@ -292,7 +292,7 @@ The player cannot dismiss this. Because the player has seen what Fujisawa produc
 - **Deep:** Through exchange records or Fumiko's contacts, the player discovers the Nishida report — Ogawa had filed a previous concern that was buried. The prior suppression's "success" is revealed.
 - **Almost-call:** Haruki or school records mention Ogawa's report of hearing audio on a dead phone line. The player who has been tracking the exchange infrastructure connects this to the cables.
 
-**Chapter 11 (the confrontation):** If the player has uncovered the Nishida thread, Endo references Fujisawa during the philosophical shift — his strongest argument, his most dangerous moment of near-correctness.
+**Chapter 11 (the confrontation):** Endo references Fujisawa during the philosophical shift — his strongest argument, his most dangerous moment of near-correctness. The Nishida thread is core content, delivered unconditionally as part of the 5-beat escalation ladder.
 
 ---
 

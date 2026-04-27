@@ -419,7 +419,7 @@ Alphabetical index of every spec doc. One-line purpose per file.
 - **`deadringer_ui_art_prompts.md`** — UI prompts for notebook / call / Board + supporting elements
 - **`epilogue.md`** — Epilogue script (11 character resolutions + title screen)
 - **`epilogue_production.md`** — Per-scene production spec for the epilogue
-- **`ogawa-incident.md`** — Ogawa thread layered reveal design (optional deep path)
+- **`ogawa-incident.md`** — Ogawa thread — core Nishida testimony (Ch 8 call + Ch 11 confrontation)
 - **`preface.md`** — Manuscript-level structural note (Ch 1 and Ch 9 header conventions)
 
 ---

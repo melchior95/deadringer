@@ -165,7 +165,7 @@ Per-NPC summary of how each intent functions across all that NPC's calls. For pe
 | REMAIN SILENT | She fills silence strategically, demonstrating value. Useful opener; diminishing returns. | 0 → +1 |
 | BLUFF | Highest-risk NPC for bluffs. If plausible, accelerates her disclosure. If caught ("Don't insult me"), hard trust loss. | +2 / –2 |
 
-**Key calls:** Ch 6 first call (sets the terms), Ch 7 blind spot, Ch 9 (Ogawa path, conditional), Ch 10, Ch 11 one-key testimony, Ch 12 publication decision.
+**Key calls:** Ch 6 first call (sets the terms), Ch 7 blind spot, Ch 8 (Ogawa — core Nishida testimony), Ch 10, Ch 11 one-key testimony, Ch 12 publication decision.
 
 **Meta-system:** The Fumiko Publication Timer. See `deadringer_systems.md` §5.4.
 
