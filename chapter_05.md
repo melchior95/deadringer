@@ -782,6 +782,34 @@ AIZAWA: "You did the right thing."
 
 ---
 
+### THE WRONG CONNECTION
+
+[Between the memory fragment and the pattern work, a small thing. Kenji, cross-referencing Haruki's school records, dials a contact at the school office — a staff member whose name appears on the filing chain for one of the dismissed reports.]
+
+[The phone rings. Once. Then — not a ring. Not silence. A connection, mid-stream, as if Kenji has been patched into a conversation already in progress.]
+
+VOICE (WOMAN, UNFAMILIAR): "—the reports from that year. Three of them. All the same subject. I said we should have—"
+
+[The line cuts. Dead. Kenji pulls the phone from his ear, checks the display. Redials. The phone rings normally this time. The school office contact answers on the second ring.]
+
+SCHOOL CONTACT: "Hello? Yes, this is— oh, sorry, the phones out here do that sometimes. You calling from the Yanagi exchange? The lines have long memories."
+
+[She laughs. The kind of laugh that means she's said this before — a local joke, worn smooth.]
+
+[Kenji asks his questions. Gets his answers. Hangs up. The call was routine. The fragment was not.]
+
+MIRA: "The static on that call was different. It had... layers. Like two things playing at once."
+
+[Beat.]
+
+MIRA: "Did you hear what she said? 'The reports from that year.' Which year?"
+
+[Kenji didn't record it. The fragment was four seconds long and sounded like crossed lines — the kind of thing that happens on old infrastructure. He files it. The player files it. Rural infrastructure.]
+
+[DESIGN NOTE: The wrong connection is the first phone anomaly the player experiences directly. In retrospect — after Ch 7's pivot and Ch 8-9's escalation — this moment recontextualizes. The fragment was a real conversation: a teacher and an administrator discussing Mira's dismissed reports, routed through the exchange's aging infrastructure. The lines weren't crossed. They were leaking. The player who revisits this moment after the exchange reveal realizes: the infrastructure was trying to tell Kenji something five chapters before he could hear it.]
+
+---
+
 ## SCENE 5: PATTERN RECOGNITION
 
 [The calls are done. The records are spread across Kenji's desk — school files, counselor notes, committee meeting minutes, attendance records. The blue notebook sits open. Kenji's pocket notebook is full.]
@@ -873,6 +901,7 @@ MIRA: "How many times does a helpful person's name appear before it stops meanin
 - Aizawa: believed Mira, documented everything, filed through channels, never acted independently. Previous school: reprimanded for aggressive reporting. "I chose the version of my job that let me sleep."
 - Memory Fragment #3 completed: Mira reported Yui's abuse to Aizawa. Report was perfect — documented, filed, routed to committee chaired by Endo. Nothing happened. All three Memory Fragments now experienced (mother, peer, institution).
 - System pattern: reports entered the machine and disappeared. The machine was designed by the person the reports were about. The system isn't broken — it's functioning as designed.
+- Phone anomaly: wrong connection during routine call — fragment of unknown conversation about "the reports from that year." School contact dismisses as local phone weirdness: "The lines have long memories." Mira noted the static was "different... layered." Filed as rural infrastructure.
 
 ### Notebook Contents (New Entries — Player-Assembled)
 - HARUKI — voluntary contact. "Disruptive honesty" was his phrase. Protocol failure on Yui report.
@@ -893,6 +922,7 @@ MIRA: "How many times does a helpful person's name appear before it stops meanin
 - NISHIZAWA, RINA — Called (Ch 4)
 - ISE, HARUKI — Incoming (Ch 5) + Called (Ch 5)
 - AIZAWA, EMI — Called (Ch 5)
+- SCHOOL OFFICE — Called (Ch 5) — wrong connection anomaly
 
 ### Mechanical State
 - Notebook: DENSE (institutional evidence layer added to personal observations. Timeline constructed.)
@@ -912,6 +942,7 @@ MIRA: "How many times does a helpful person's name appear before it stops meanin
 - Endo as committee chair → Ch 7-8 (name becomes voice)
 - Ogawa thread → Ch 7 (cross-reference Endo's committee role with the firing)
 - Kaito contact → Ch 6 or 7 (still callable, notebooks provide vehicle evidence)
+- Phone anomaly → ongoing (wrong connection, "long memories," Mira's observation about layered static)
 - [If Delay] Yui intervention → Ch 6 (deferred crying scene)
 
 ### Emotional Arc
