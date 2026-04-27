@@ -510,6 +510,18 @@ FUMIKO: "The case eight years ago — the child matches one of the three school 
 
 [NOTEBOOK PROMPT: "FUMIKO ARAI — 14-year observation pattern. Historical case: child, Senzoku Ward, 8 years ago. 'Difficult,' 'prone to fabrication.' Missing, ruled runaway. MATCHES one of Haruki's three dismissed reports. Same language, different decade. Two streams converge: Haruki's institutional access + Fumiko's historical pattern = same name at every junction."]
 
+FUMIKO: "One more thing. This one I never published. Too thin."
+
+[AUDIO: A folder opens. Papers shuffle — heavier stock, not notepad. Archival.]
+
+FUMIKO: "Phone anomalies. The Yanagi exchange — wrong numbers, conversations bleeding through, static that doesn't match weather or line load. I've been logging them for eight years. Telecom came out twice. Said it was normal. 'Just old lines.'"
+
+[She pauses.]
+
+FUMIKO: "The anomalies cluster around dates. I haven't connected the dates to anything yet. But I haven't thrown the file away, either."
+
+[The player who heard the wrong connection in Ch 5 — the fragment about "the reports from that year" — now has the word "pattern" applied to both the disappearances and the phones. Two things the player filed as coincidence have been filed by a professional as observations.]
+
 ---
 
 ### SOUL READ — FUMIKO
@@ -631,6 +643,7 @@ MIRA: "Because tomorrow you're going to find out who owns the car. And the answe
 - Doi's real story: grandfather watching grandson Ren through store window. Protective order from custody dispute (raised voice). Watches school dismissal daily. "I'd rather be a murderer than say that sentence."
 - Silver car testimony (Doi): 3 sightings, March 3/7/12. Partial plate 47-83, Shinagawa registration. Matches Mira and Kaito's records exactly. Doi suppressed because "last time I told someone something true, they took my grandson."
 - Fumiko Arai: reporter, Yanagi Ward Community Bulletin. 14-year observation pattern. Historical case: child from Senzoku Ward, 8 years ago, "difficult," "prone to fabrication," missing, ruled runaway. Matches one of the three dismissed school reports. Two evidence streams converge.
+- Fumiko's phone anomaly file: 8 years of logged phone weirdness in Yanagi — wrong numbers, bleed-through, static patterns clustering around specific dates. Telecom inspected twice, said "normal, just old." She never published — "too thin." The player now has "pattern" applied to both disappearances and phones.
 - Fumiko's terms: information trade. She will hold if kept informed, publish if shut out.
 - Haruki visited the Murakami family without coordination. Family called Endo. Endo now knows the investigation found the dismissed reports. Window shortened.
 - Mira's fallibility: she acknowledged reporting Doi incorrectly. "I was nine. I didn't have a system." This makes her other assessments more trustworthy — she corrects herself.
