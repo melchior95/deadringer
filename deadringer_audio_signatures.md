@@ -283,6 +283,26 @@ For each significant NPC: signature, bed, tics, state variations.
 
 ---
 
+### 3.8.1 OGAWA SATOKO
+
+**Signature:** stillness. Not Endo's calculated stillness — the genuine stillness of someone who stopped running.
+
+**Bed:**
+- Library ambient. Distant page turns from other patrons. A low climate-control hum.
+- The particular quiet of a public space where people are deliberately silent.
+- No clock — she is not watching time. No personal tics.
+- The most stripped-down audio bed in the game.
+
+**Tics:**
+- **None.** She doesn't fidget. She doesn't perform. Her voice arrives without decoration. The absence of tics IS the signature — every other NPC has tells, behaviors, nervous energy. Ogawa has none because she has nothing left to manage.
+
+**State variations:**
+- **Ch 8 call (only appearance):** Her voice doesn't change because she has only one mode: honest. No performance variations. No escalation. The testimony is the only time the player hears her.
+
+**CRITICAL:** Ogawa's audio must feel like arriving somewhere calm after eleven chapters of tension. The library is not dramatic. It is not significant. It is just where she works now. The contrast with every other NPC's layered, tic-filled audio is the point — she has stopped carrying the weight that everyone else in this game still carries.
+
+---
+
 ### 3.9 ENDO MASATO
 
 **Signature:** measured silence.

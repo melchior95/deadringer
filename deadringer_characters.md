@@ -980,6 +980,27 @@ He heard her more clearly than anyone — and decided the world would be better 
 
 ---
 
+## OGAWA SATOKO — The Honest Witness
+
+**Occupation:** Former elementary school teacher, now a library clerk in a different ward
+**Role:** The person who filed the Nishida report — flagged a classroom aide as a concern for a child's safety. The system responded by burying the report and transferring the aide quietly. Ogawa was fired for persisting.
+
+### GAMEPLAY IDENTITY — "The Honest Witness"
+
+**Rule:** Ogawa delivers the Nishida facts neutrally in Ch 8. She is not an advocate or an adversary — she is a person telling the truth about something complicated.
+
+**Voice:** Different from every other NPC. Not performing, not managing, not broken. Quiet. Settled. Someone who grieved something and came out the other side into a smaller, stabler life. Cooperative but not eager. Answers questions without volunteering. Her speech does not reach for emphasis. She states things. She pauses. She moves on.
+
+**The key characterization:** She filed the report because it was right. She hated the suppression. But the child is fine — grew up, no court record, no newspaper article, no neighborhood that knows her name. "I don't know if that's justice. But I know she's okay." The sentence is not defiant and not defeated. It is the conclusion of someone who spent years turning the question over and arrived at something that isn't resolution but is stable enough to stand on.
+
+**Function:** Split delivery of the Nishida dilemma. Ogawa delivers the facts (Ch 8). Endo claims them as his defense (Ch 11). The player encounters moral ambiguity through a victim of the system who concedes the system worked once. The juxtaposition — the woman who was punished for doing the right thing admitting the outcome wasn't catastrophic — is the thing the player has to sit with when Endo uses the same case to justify everything.
+
+**No behavioral grid.** Single-scene NPC. No state variations. She appears once, says what she knows, and returns to a life the game doesn't follow.
+
+**Callable:** Ch 8 only. Reachable through Fumiko or Haruki. Appears on the same call board as Endo — the juxtaposition is the design.
+
+---
+
 ## RINA NISHIZAWA — The Social Filter
 
 **Age:** 10 (one grade ahead of Mira at the same school — not a classmate in the same class, but close enough in the social ecosystem to shape Mira's reputation across grade lines)

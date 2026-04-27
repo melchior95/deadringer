@@ -305,6 +305,7 @@ MIRA: "I think he thinks he was helping me."
 | Contact | Source | Status |
 |---------|--------|--------|
 | ENDO, MASATO | Incoming — offered continued cooperation | NEW — callable |
+| OGAWA, SATOKO | Through Fumiko/Haruki — former teacher, filed Nishida report | NEW — callable |
 | ARAI, FUMIKO | Returning — follow-up on convergence | Available |
 | ISE, HARUKI | Returning — post-break, colder, more focused | Available |
 | AIZAWA, EMI | Returning — school committee knowledge deepened | Available |
@@ -313,6 +314,8 @@ MIRA: "I think he thinks he was helping me."
 | SAKAMOTO, YUI | [If Delay path] Still in danger | Conditional |
 
 [DESIGN NOTE: Endo is the highest-value NPC per call slot and the antagonist. Each call is a trade — information for recalibration.]
+
+[DESIGN NOTE: Endo and Ogawa on the same call board — the man who controls the system and the woman it crushed. The juxtaposition is the point. Spending a slot on Ogawa costs investigation time — the player who chooses to understand the past pays with time in the present. But what Ogawa delivers reframes the entire confrontation in Ch 11.]
 
 [Kenji glances at the phone. In the early chapters, Mira would have commented on the call board — something dry about the mathematics of impossible choices. Now the phone is quiet. He notices the way you notice a clock that has stopped: not because of the silence, but because you keep looking at the place where the sound used to be.]
 
@@ -494,17 +497,103 @@ MIRA: "She was the closest one."
 
 ---
 
+## SCENE 5B: CALL — OGAWA (The Nishida Testimony)
+
+[The player selects OGAWA. The phone rings. Two rings. A click.]
+
+[AUDIO: The audio bed shifts immediately. Gone: the apartment hum, the Yanagi static, the layered signals the player has been navigating for eight chapters. In its place: library ambient. Distant page turns. A low climate-control hum. The particular quiet of a public space where people are deliberately silent. No clock. No personal tics. The most stripped-down audio bed in the game. After eight chapters of tension, the player arrives somewhere calm — and the calm is unsettling because nothing in this game has been calm.]
+
+OGAWA: "Hello?"
+
+[Her voice is different from every NPC the player has heard. Not performing. Not managing. Not broken. Not wary. Quiet. Settled. The voice of someone who grieved something once and came out the other side into a smaller, stabler life. She sounds like someone who works at a library now because she chose a life where no one asks her to be brave.]
+
+KENJI: "Ms. Ogawa? This is Detective Oda. I'm investigating a case connected to Yanagi Ward. Fumiko Arai suggested you might be able to help."
+
+OGAWA: "Fumiko. Yes. She called to let me know you might reach out."
+
+[A beat. She doesn't volunteer more. Every other NPC in this game fills silence — with performance, with anxiety, with management, with helpfulness. Ogawa lets the silence exist. She is cooperative but not eager. She answers what is asked.]
+
+KENJI: "You were a teacher at Yanagi Elementary. You filed a report — the Nishida case. Can you tell me about it?"
+
+[A pause. Not the measured pause of Endo's calculations. Not the anxious pause of Aizawa's guilt. A pause that has the quality of someone deciding whether to open a door they closed a long time ago. Then she opens it.]
+
+OGAWA: "Yes. The aide was a real concern."
+
+[She says it simply. No drama. No buildup. The way someone who has told this story to herself many times — in the dark, in the years since — delivers the version that has been refined to its bones.]
+
+OGAWA: "I noticed behavior that worried me. Small things — how the aide positioned himself during activities, which children he offered to help, the pattern of who he was alone with and when. None of it was evidence. All of it was instinct. I filed a report."
+
+KENJI: "What happened?"
+
+OGAWA: "The report went to the school administration. The administration forwarded it to the community safety council. The council chair reviewed it."
+
+[She doesn't say Endo's name. The player fills it in.]
+
+OGAWA: "The aide was transferred. Quietly. No formal investigation. No hearing. No police. He was moved to a different school in a different ward, and then — I learned later — he left education entirely. He's a clerk somewhere now."
+
+KENJI: "And the child?"
+
+[A longer pause. When she speaks again, something shifts in her register — not emotional collapse, not Aizawa's cracking. Something more like the careful, measured voice of a person describing a wound that healed in a shape they didn't expect.]
+
+OGAWA: "The child stayed in school. Nobody knew. No assessment hearings where she had to testify. No newspaper article where a seven-year-old's name gets redacted but everyone in the neighborhood knows who it is. No courtroom. No social worker visits. No other parents pulling their children out because the school became 'the school where that happened.'"
+
+[Beat.]
+
+OGAWA: "The family stayed. The community didn't fracture."
+
+[She pauses again. The library ambient fills the space — page turns, climate control, the quiet of a building designed for people who want to be left alone with their thoughts.]
+
+OGAWA: "I filed the report because it was the right thing to do. And what they did with it — the quiet transfer, the suppression — I hated it. I hated that they didn't prosecute. I hated that they made it disappear. I hated that they fired me for pressing the point."
+
+[Beat.]
+
+OGAWA: "I was right to file. They were wrong to bury it. I believe that."
+
+[Beat.]
+
+OGAWA: "But the child is fine. She grew up. She doesn't have a court record. She doesn't have a newspaper article. She doesn't have a neighborhood that knows her name."
+
+[Longer pause. The library is very quiet.]
+
+OGAWA: "I don't know if that's justice. But I know she's okay."
+
+[AUDIO: Silence. Not the charged silence of Endo's pauses. Not the anxious silence of Aizawa's guilt. The silence of a completed statement from a person who has nothing more to manage. The honest witness has testified.]
+
+[Mira does not comment. No Soul Read. No observation. No "she's telling the truth" or "she's scared" or "she's angry-tired." Nothing. The absence is the read — Mira, who has had an opinion about every person the player has encountered, who has read souls and made jokes and corrected Kenji's assumptions and delivered the sharpest one-line assessments in the game — has nothing to say about Ogawa. Because Ogawa just described a version of the system that worked, and Mira was destroyed by the same system when it didn't, and there is no observation that resolves that.]
+
+KENJI: "Thank you, Ms. Ogawa."
+
+OGAWA: "Detective."
+
+[A beat.]
+
+OGAWA: "Whoever is chairing that council now — the person who did what they did with my report — they made the decision they could live with. I couldn't live with it. That's why I left."
+
+[She doesn't say: "and whoever they are, they're still making decisions." She doesn't need to. The player has met the man. The player knows what his decisions look like when the method works, and what they look like when it doesn't.]
+
+OGAWA: "Good luck."
+
+[Click. The library ambient cuts to the apartment. The Yanagi static returns — the layered, watched, weighted silence the player has been living in. After the library, it feels like stepping back into surveillance.]
+
+[NOTEBOOK PROMPT: "OGAWA — NISHIDA TESTIMONY: Former teacher, filed report on classroom aide. Aide was a real concern — behavioral pattern, instinct, not hard evidence. Report went to council chair (Endo). Aide transferred quietly. No prosecution. No hearing. Child spared: no testimony, no newspaper, no community fracture. Ogawa fired for pressing the point. 'I hated what they did. But the child is fine.' THE DILEMMA: The system that destroyed Mira worked once. The method that buried a child's reports protected a different child from public exposure. Same mechanism, opposite outcomes. Ogawa: 'I don't know if that's justice.' MIRA SAID NOTHING."]
+
+[DESIGN NOTE: The player has spent eight chapters building a case against Endo's system. Every piece of evidence says: the system fails children. Now a victim of that system — someone destroyed by it — says: "But it worked once. And the child it worked for is okay." The dilemma is no longer intellectual. It's felt. The split delivery completes in Ch 11 when Endo claims the Nishida case as his defense.]
+
+---
+
 ## SCENE 6: CLOSE
 
-[VISUAL: Evening. The apartment. Kenji at the desk. Two calls processed. Two completely different experiences of the same system.]
+[VISUAL: Evening. The apartment. Kenji at the desk. The calls processed — each a different experience of the same system.]
 
 [He looks at his notes from the Endo call: helpful, warm, cooperative, offering leads, connecting people. Every word accurate. Every lead real. The most useful NPC he has ever spoken to.]
 
 [He looks at his notes from the Aizawa call: cracked, honest, devastating. A person who saw the truth and chose the version of her job that absorbed it instead of acting on it.]
 
-[He puts the notes side by side. Endo's composure. Aizawa's collapse. Same system. Same committee. Same institutional pressure. One person it broke. One person it made.]
+[IF OGAWA CALLED: He looks at his notes from the Ogawa call. Three words, circled: *But she's okay.* Not a defense of the system. Not an accusation. A fact. A child who was protected by the same method that destroyed Mira. He stares at those three words and cannot make them mean what he needs them to mean.]
 
-[Kenji writes in the margin: *She chose sleep. He chose architecture.*]
+[He puts the notes side by side. Endo's composure. Aizawa's collapse. [IF OGAWA CALLED: Ogawa's quiet.] Same system. Same committee. Same institutional pressure. One person it broke. One person it made. [IF OGAWA CALLED: One person it spat out into a library in a different ward, carrying the weight of being right and being irrelevant at the same time.]]
+
+[Kenji writes in the margin: *She chose sleep. He chose architecture.* [IF OGAWA CALLED: Below it, smaller: *And it worked once.*]]
 
 [He picks up Fumiko's infrastructure map. Traces the cable routes again. Community center. School. Doi's street. The lines run under every place that matters. And the man who chairs the safety council — the man who offered help, who described Mira's voice with the precision of someone who heard her through copper wire — works in the building above those lines.]
 
@@ -553,6 +642,7 @@ MIRA: "He remembered my voice better than my mom does."
 - Mira's inference: the cables under the community center are where Endo listens. Pattern recognition, not proof.
 - Dual-weight calls: every call now serves two functions — investigating the case AND listening for the breathing signal. The phone is both tool and compromised environment.
 - Phone bleed-through: faint audio artifacts appearing — echoes, a doubling on the ring tone, a fragment of another conversation during the Aizawa call. The exchange is straining under Endo's increased monitoring. Not dramatic — subtle enough to dismiss. But consistent enough to pattern.
+- [IF OGAWA CALLED] OGAWA TESTIMONY — Nishida case: Ogawa filed report on classroom aide. Aide transferred quietly by council chair. No prosecution, no hearing. Child spared public exposure — grew up, no court record, no newspaper, no neighborhood that knows her name. Ogawa fired for pressing the point. THE DILEMMA: the system that destroyed Mira worked once. Same method, opposite outcome. "I don't know if that's justice. But I know she's okay." Mira said nothing — no Soul Read, no comment. The silence IS the read.
 
 ### Notebook Contents (New Entries)
 - ENDO — CALL 1: Warm, helpful, cooperative. Real leads offered. Silver car holding company liaison calling the detective to help. The most dangerous helpfulness in the game.
@@ -562,6 +652,7 @@ MIRA: "He remembered my voice better than my mom does."
 - SOUL READ — ENDO: Locked room. Wall. Sadness. Certainty. No doors, no hiding. "He thinks he was helping me."
 - AIZAWA — BREAK: "I chose the version of my job that let me sleep." Documented everything, acted on nothing. The system's most faithful servant and its most honest failure.
 - SOUL READ — AIZAWA (2nd): "Cracked cup." Truth-telling. "The closest one."
+- [IF OGAWA CALLED] OGAWA — NISHIDA TESTIMONY: Aide was real concern. Transferred quietly. Child spared. Ogawa fired. "I don't know if that's justice." MIRA SAID NOTHING.
 - MIRA — INFERENCE: Cables under community center = Endo's listening post. Pattern recognition.
 
 ### Phone Log
