@@ -30,6 +30,10 @@ MIRA: "They're looking at Doi's store."
 
 [She's right. The cluster of neighbors is oriented toward Yanagi Mart. The mother who crossed the street crossed to avoid it. The investigation has been quiet — Kenji's calls, Kenji's files, Kenji's apartment. But information travels through communities the way water travels through cracks, and the cracks in Yanagi all lead to the same place: the man who was reported by the dead girl.]
 
+[A neighbor passes below the window, phone to her ear. Fragments reach through the glass: "—the detective called about him last week. No, the one looking into the girl's case—"]
+
+[Kenji freezes. The neighbor isn't hostile. She isn't gossiping maliciously. She is passing along a fact: a detective called about Doi. That fact traveled the way all facts travel in Yanagi — through the community network, contact to contact, until the ambient suspicion found its shape. His calls did this. Not Mira's report from fifteen years ago — his calls, this week, through these lines.]
+
 MIRA: "This is what happens. Someone asks questions and the questions land on whoever's easiest to blame."
 
 [Beat.]
@@ -43,6 +47,8 @@ KENJI: "You reported what you saw."
 MIRA: "I reported it wrong. I saw a man watching children and I didn't have the context for what watching can mean when the watcher isn't dangerous. He was watching his grandson. I was nine and I didn't know the difference."
 
 [She delivers this with clinical precision. It is not a confession — it's a correction. The first time Mira has explicitly acknowledged her own error in the investigation.]
+
+[But there is a second weight now. Mira's original report started the labeling — fifteen years ago, a nine-year-old's mistake. Kenji's investigation accelerated it — this week, a detective's phone calls. The neighbor on the street confirms the mechanism: the player's calls traveled through the same community infrastructure that produced the original persecution. The investigation isn't neutral. It generates consequences that route through the network Endo built.]
 
 ---
 
