@@ -201,7 +201,7 @@ KENJI: "That could be dedication."
 
 FUMIKO: "It could. Here's what dedication doesn't explain: he was on the review committee that recommended the termination of a teacher named Ogawa. Same year he dismissed Mira's reports. Same committee. One decision removed a teacher who was beginning to listen to a student. The other decision ensured the student's reports went nowhere."
 
-[NOTEBOOK PROMPT: "ENDO — OGAWA CONNECTION (optional thread): Endo on the review committee that recommended Ogawa's termination AND the committee that dismissed Mira's reports. Same committee, opposite outcomes. Ogawa was fired for beginning to listen. Reports were dismissed to ensure no one else did. If deliberate: Endo used the same institutional position to silence the reporter AND remove the one adult who was starting to respond."]
+[NOTEBOOK PROMPT: "ENDO — OGAWA CONNECTION: Endo on the review committee that recommended Ogawa's termination AND the committee that dismissed Mira's reports. Same committee, opposite outcomes. Ogawa was fired for beginning to listen. Reports were dismissed to ensure no one else did. Endo used the same institutional position to silence the reporter AND remove the one adult who was starting to respond. Ogawa callable in Ch 8 — Nishida testimony is core evidence for confrontation."]
 
 ---
 
@@ -807,7 +807,7 @@ MIRA: "Someone is in there."
 - SOUL READ — KAITO: "Doesn't know how to show it properly." New: someone listening. "Window opened."
 - FRAMING — Language analysis → Rina's vocabulary weaponized. Chat logs fabricated post-death.
 - SORA ARTIFACT — Map page. River, bend, two figures. Real among fabricated.
-- [Optional] ENDO-OGAWA — Same committee fired listener and buried reports.
+- ENDO-OGAWA — Same committee fired listener and buried reports. Ogawa callable Ch 8 (core content).
 - [If blind spot] FUMIKO BLIND SPOT — Inoue family: not connected. Verify edges.
 
 ### Phone Log

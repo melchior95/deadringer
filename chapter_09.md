@@ -313,9 +313,9 @@ MIRA: "He didn't even know us. He just... thought we fit."
 
 ---
 
-## PATH E: OGAWA THREAD (Deep, Optional)
+## PATH E: OGAWA THREAD (Deepening)
 
-[This path is available only if the player has been pursuing the Ogawa thread across chapters. Through Fumiko's contacts — or through evidence obtained from Aizawa's newly cooperative state — Kenji discovers what Ogawa was doing before her termination. The path has two sub-layers: the cross-referencing (standard deep) and the Nishida report (deepest).]
+[The player called Ogawa in Ch 8 and received the Nishida testimony (core content). This path deepens that foundation — through Fumiko's contacts or Aizawa's newly cooperative state, Kenji discovers additional context about what Ogawa was doing before her termination. The Nishida report is already known; this path adds the cross-referencing details and the infrastructure foreshadow.]
 
 ### Layer 1: The Cross-Referencing
 
@@ -511,9 +511,9 @@ MIRA: "When I happened."
 - The garden: botanical timeline confirmed. One plant per disappearance. Final two: shrub ~3 weeks pre-Mira (Sora), sapling day after (Mira). Three-week gap maps the sequence. Pattern proven through botany.
 - Reiko's static call: Mira called from school ~1 week before death. Heavy static — exchange bleed-through. Reiko sleeping between shifts. "Call back later, the line is bad." Mira didn't call back. The exchange destroyed the last call and enabled the surveillance.
 - Sora's map recontextualized: underground lines match Fumiko's cable routes. Sora was mapping the switchboard from surface observation. Endo planted the page without examining it.
-- [If Ogawa] Ogawa was cross-referencing Mira's observations independently — walking routes, verifying car sightings. Committee fired her for beginning to act on information. Same committee, same chair.
-- [If Ogawa deep] Ogawa had filed a prior report about aide Nishida — ambiguous grooming concern. Endo buried it. Nishida quietly transferred. Community survived. Endo's philosophy has experiential roots.
-- [If Ogawa deep] Ogawa heard audio on a dead phone line — the exchange bleeding through. Mira was not the first signal. She was the first one who got through.
+- Ogawa was cross-referencing Mira's observations independently — walking routes, verifying car sightings. Committee fired her for beginning to act on information. Same committee, same chair.
+- Nishida report (confirmed via Ogawa Ch 8 call): aide was a real concern, quietly transferred, child spared. Endo's philosophy has experiential roots — the suppression worked once.
+- [If Ogawa deep path pursued in Ch 9] Ogawa heard audio on a dead phone line — the exchange bleeding through. Mira was not the first signal. She was the first one who got through.
 - [If Endo called] Tell #3: Endo normalizes cable infrastructure as municipal maintenance. Preemptive reframing.
 - Sora is alive — Mira's inference from the garden timeline. Two plants means two events, separated by three weeks. Sora was held, not killed immediately.
 - Infrastructure tracking: phone anomaly pattern maps to Endo's surveillance priorities. Which calls bleed, which locations produce static — the same infrastructure that enabled surveillance generated the phone phenomenon the town normalized. The "old lines" excuse was the sound of Endo's monitoring. Reiko's "bad connection" recontextualized: the town phenomenon that everyone dismissed is the thing that could have saved Mira.
@@ -524,8 +524,8 @@ MIRA: "When I happened."
 - GARDEN — Botanical timeline. Plant per disappearance. 3-week gap. Pattern proof.
 - REIKO — STATIC CALL — Mira's last reach. Exchange bleed-through. "Call back later." Final failure.
 - SORA MAP — Infrastructure match. Underground lines = cable routes. Drawn by the child Endo targeted.
-- [Optional] OGAWA DEEP — Cross-referencing Mira's observations. Fired for verifying.
-- [Optional] ENDO TELL #3 — Cable normalization. Preemptive reframe.
+- OGAWA DEEP — Cross-referencing Mira's observations. Fired for verifying. (Nishida testimony already received in Ch 8.)
+- ENDO TELL #3 — Cable normalization. Preemptive reframe.
 
 ### Phone Log
 - MIRA — 3:47 AM (Ch 1)
