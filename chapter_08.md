@@ -589,11 +589,11 @@ OGAWA: "Good luck."
 
 [He looks at his notes from the Aizawa call: cracked, honest, devastating. A person who saw the truth and chose the version of her job that absorbed it instead of acting on it.]
 
-[IF OGAWA CALLED: He looks at his notes from the Ogawa call. Three words, circled: *But she's okay.* Not a defense of the system. Not an accusation. A fact. A child who was protected by the same method that destroyed Mira. He stares at those three words and cannot make them mean what he needs them to mean.]
+[He looks at his notes from the Ogawa call. Three words, circled: *But she's okay.* Not a defense of the system. Not an accusation. A fact. A child who was protected by the same method that destroyed Mira. He stares at those three words and cannot make them mean what he needs them to mean.]
 
-[He puts the notes side by side. Endo's composure. Aizawa's collapse. [IF OGAWA CALLED: Ogawa's quiet.] Same system. Same committee. Same institutional pressure. One person it broke. One person it made. [IF OGAWA CALLED: One person it spat out into a library in a different ward, carrying the weight of being right and being irrelevant at the same time.]]
+[He puts the notes side by side. Endo's composure. Aizawa's collapse. Ogawa's quiet. Same system. Same committee. Same institutional pressure. One person it broke. One person it made. One person it spat out into a library in a different ward, carrying the weight of being right and being irrelevant at the same time.]
 
-[Kenji writes in the margin: *She chose sleep. He chose architecture.* [IF OGAWA CALLED: Below it, smaller: *And it worked once.*]]
+[Kenji writes in the margin: *She chose sleep. He chose architecture.* Below it, smaller: *And it worked once.*]
 
 [He picks up Fumiko's infrastructure map. Traces the cable routes again. Community center. School. Doi's street. The lines run under every place that matters. And the man who chairs the safety council — the man who offered help, who described Mira's voice with the precision of someone who heard her through copper wire — works in the building above those lines.]
 
@@ -642,7 +642,7 @@ MIRA: "He remembered my voice better than my mom does."
 - Mira's inference: the cables under the community center are where Endo listens. Pattern recognition, not proof.
 - Dual-weight calls: every call now serves two functions — investigating the case AND listening for the breathing signal. The phone is both tool and compromised environment.
 - Phone bleed-through: faint audio artifacts appearing — echoes, a doubling on the ring tone, a fragment of another conversation during the Aizawa call. The exchange is straining under Endo's increased monitoring. Not dramatic — subtle enough to dismiss. But consistent enough to pattern.
-- [IF OGAWA CALLED] OGAWA TESTIMONY — Nishida case: Ogawa filed report on classroom aide. Aide transferred quietly by council chair. No prosecution, no hearing. Child spared public exposure — grew up, no court record, no newspaper, no neighborhood that knows her name. Ogawa fired for pressing the point. THE DILEMMA: the system that destroyed Mira worked once. Same method, opposite outcome. "I don't know if that's justice. But I know she's okay." Mira said nothing — no Soul Read, no comment. The silence IS the read.
+- OGAWA TESTIMONY — Nishida case: Ogawa filed report on classroom aide. Aide transferred quietly by council chair. No prosecution, no hearing. Child spared public exposure — grew up, no court record, no newspaper, no neighborhood that knows her name. Ogawa fired for pressing the point. THE DILEMMA: the system that destroyed Mira worked once. Same method, opposite outcome. "I don't know if that's justice. But I know she's okay." Mira said nothing — no Soul Read, no comment. The silence IS the read.
 
 ### Notebook Contents (New Entries)
 - ENDO — CALL 1: Warm, helpful, cooperative. Real leads offered. Silver car holding company liaison calling the detective to help. The most dangerous helpfulness in the game.
@@ -652,7 +652,7 @@ MIRA: "He remembered my voice better than my mom does."
 - SOUL READ — ENDO: Locked room. Wall. Sadness. Certainty. No doors, no hiding. "He thinks he was helping me."
 - AIZAWA — BREAK: "I chose the version of my job that let me sleep." Documented everything, acted on nothing. The system's most faithful servant and its most honest failure.
 - SOUL READ — AIZAWA (2nd): "Cracked cup." Truth-telling. "The closest one."
-- [IF OGAWA CALLED] OGAWA — NISHIDA TESTIMONY: Aide was real concern. Transferred quietly. Child spared. Ogawa fired. "I don't know if that's justice." MIRA SAID NOTHING.
+- OGAWA — NISHIDA TESTIMONY: Aide was real concern. Transferred quietly. Child spared. Ogawa fired. "I don't know if that's justice." MIRA SAID NOTHING.
 - MIRA — INFERENCE: Cables under community center = Endo's listening post. Pattern recognition.
 
 ### Phone Log

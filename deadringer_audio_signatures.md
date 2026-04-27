@@ -299,7 +299,7 @@ For each significant NPC: signature, bed, tics, state variations.
 **State variations:**
 - **Ch 8 call (only appearance):** Her voice doesn't change because she has only one mode: honest. No performance variations. No escalation. The testimony is the only time the player hears her.
 
-**CRITICAL:** Ogawa's audio must feel like arriving somewhere calm after eleven chapters of tension. The library is not dramatic. It is not significant. It is just where she works now. The contrast with every other NPC's layered, tic-filled audio is the point — she has stopped carrying the weight that everyone else in this game still carries.
+**CRITICAL:** Ogawa's audio must feel like arriving somewhere calm after eight chapters of tension. The library is not dramatic. It is not significant. It is just where she works now. The contrast with every other NPC's layered, tic-filled audio is the point — she has stopped carrying the weight that everyone else in this game still carries.
 
 ---
 

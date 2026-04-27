@@ -252,7 +252,7 @@ The silver car is registered to a holding company. The holding company's communi
 
 **Timestamp anomaly:** Endo adjusted before officially informed. Mira: "He heard us."
 
-**Ogawa thread deepens (optional):** The player cross-referencing Endo's involvement in school decisions notices he was on the review committee that recommended Ogawa's termination. Same committee that dismissed Mira's reports. Same committee, opposite outcomes.
+**Ogawa thread deepens:** The player cross-referencing Endo's involvement in school decisions notices he was on the review committee that recommended Ogawa's termination. Same committee that dismissed Mira's reports. Same committee, opposite outcomes. Ogawa becomes callable in Ch 8 — core content for the Nishida dilemma.
 
 **The framing surfaces:** Evidence appears connecting Mira to Sora — fabricated chat logs, planted items creating the impression of "a difficult dynamic." The player, who knows Mira by now, recognizes fabrication. The framing's language echoes Rina's: "misunderstands," "difficult," "says things." The player who logged Rina's phrasing in Ch 4 sees it here — the community consensus Rina provided was the precondition for the frame to work. Endo didn't need to invent the "liar" reputation. It was already built. Rina is recontextualized: not a villain, but a mechanism. Among the planted evidence: a page from one of Sora's maps. Genuine. In the lower right corner, a river with a bend, two tiny figures on a bank. *Sora artifact — this one is real among the fabricated.*
 
@@ -350,10 +350,10 @@ Beat.
 
 This call must land before the notebook scene in Ch 11. It establishes Reiko's final failure — the call she could have taken — so that the notebook scene has its full weight.
 
-**Ogawa thread (deep, optional):** Three sub-layers available depending on investigation depth:
-- *Standard:* Ogawa was cross-referencing Mira's observations independently. The firing was removal, not institutional randomness.
-- *Deep (Nishida thread):* Before the cross-referencing, Ogawa filed a prior report about a teacher's aide named Nishida — ambiguous grooming concern. Endo's council buried it. Nishida was quietly transferred. The suppression worked: no scandal, no community fracture. This is the experiential foundation for Endo's philosophy — he was arguably right once, and that success became the template for burying Mira.
-- *Almost-call:* Ogawa heard structured audio on a dead phone line in her classroom. The exchange was active, bleeding through the old cable runs. Foreshadows the infrastructure reveal in Ch 10. Mira was not the first signal to push through — she was the first one who got through.
+**Ogawa thread (core content):** Ogawa is callable in Ch 8, delivering the Nishida testimony as core content for the Ch 11 confrontation. Three layers surface through the call:
+- *Primary (Nishida testimony):* Ogawa filed a report about a classroom aide. Endo's council buried it. Aide quietly transferred. The suppression worked: no scandal, no community fracture. The child is fine. This is the experiential foundation for Endo's philosophy — he was right once, and that success became the template for burying Mira. Delivered in Ch 8, claimed by Endo in Ch 11.
+- *Secondary:* Ogawa was cross-referencing Mira's observations independently. The firing was removal, not institutional randomness.
+- *Almost-call:* Ogawa heard structured audio on a dead phone line in her classroom. The exchange was active, bleeding through the old cable runs. Foreshadows the infrastructure reveal in Ch 10.
 
 **Player knowledge at chapter end:** The framing is Endo's work. Haruki's words were weaponized. The garden proves the pattern. Sora was watching. The infrastructure pattern is emerging. Someone is alive and needs finding.
 
@@ -511,19 +511,17 @@ The static call MUST precede the notebook scene. The sequence is: Reiko learns s
 
 ---
 
-## OGAWA INCIDENT — OPTIONAL THREAD (Three-Layer Reveal)
+## OGAWA INCIDENT — CORE THREAD (Nishida Dilemma)
 
 | Chapter | What surfaces | How | Layer |
 |---------|--------------|-----|-------|
 | Ch 5 | Ogawa personnel file — a firing, a gap | School records via Haruki | Background |
 | Ch 7 | Endo on review committee — same committee, opposite outcomes | Cross-referencing Endo's institutional involvement | Selective response |
-| Ch 8 | Endo references "staffing change" casually — normalizing | Endo's first call | Normalization |
-| Ch 9 | Ogawa was cross-referencing Mira's observations — firing was removal | Fumiko's contacts | Tactical removal |
-| Ch 9 | Ogawa filed prior report (Nishida) — Endo buried it, community survived | Fumiko deep / exchange records | Experiential foundation |
+| Ch 8 | **Ogawa callable — full Nishida testimony** | Through Fumiko/Haruki, call board | **Core content** |
 | Ch 9 | Ogawa heard audio on dead phone line — exchange bleed-through | Haruki / school records | Infrastructure foreshadow |
-| Ch 11 | Endo references Fujisawa — his strongest argument for truth suppression | Confrontation Phase 4 (conditional) | Player hesitation |
+| Ch 11 | **Endo claims Nishida precedent — 5-beat escalation ladder** | Confrontation Phase 4 | **Core content** |
 
-Not required for the main case. The deeper the player goes, the more morally complex Endo becomes. Layer 1-2 produce anger. Layer 3 produces horror. The Nishida thread + Fujisawa produce hesitation. The reward for deep investigation is less certainty about the villain, not more.
+The Nishida dilemma is required for the Ch 11 confrontation. Split delivery: Ogawa delivers the facts neutrally in Ch 8. Endo claims them as his defense in Ch 11. The reward for encountering both sides is not less certainty — it's the specific horror of understanding the category error: Endo treated a witness the same way he treated a threat.
 
 ---
 
