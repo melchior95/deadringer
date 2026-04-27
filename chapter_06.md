@@ -628,9 +628,19 @@ GRANDMOTHER: "Someone from the community council called this morning. They said 
 
 [The word lands. The player knows what "helpful" means in Yanagi. The player knows which council. Which someone.]
 
+GRANDMOTHER: "He was very specific. He said you'd been asking about her — about the folding. Her nervous habit."
+
+[Kenji goes still.]
+
+[The folding. Yui's origami. The steady crease of paper that ran beneath every word of the Ch 4 call — the sound Kenji heard through the phone when Yui's performance fell away. The sound that stopped when he asked "Did anyone come?" The paper that tore.]
+
+[Kenji never told anyone about the folding. He heard it on the phone. Mira described it on the phone. On a line that routes through the Yanagi exchange.]
+
+[The grandmother doesn't notice the silence. She is still being polite.]
+
 GRANDMOTHER: "I'm sure you understand."
 
-[She waits — not for an argument, but for the polite conclusion she has already scripted. Kenji hears what the player hears: a door closing. Not slammed. Not hostile. Closed by someone who thinks she is protecting a child, because a helpful man from the community council told her so.]
+[She waits — not for an argument, but for the polite conclusion she has already scripted. Kenji hears what the player hears: not just a door closing, but the sound of a specific detail that traveled from a private call to a community council chair to a grandmother's living room. The path is visible: phone call → exchange → Endo → grandmother. Every word on every line.]
 
 KENJI: "I understand. Please tell Yui—"
 
@@ -642,7 +652,15 @@ GRANDMOTHER: "Thank you, detective."
 
 MIRA: "He knows about Yui."
 
-[Three words. Not the analytical voice. Not the detective-partner voice. The voice of a child who once needed a grandmother to pick up the phone and instead got a committee.]
+[Beat.]
+
+MIRA: "Kenji — the folding. I told you about the folding. On the phone. I described it to you before you called her."
+
+[She is putting it together faster than Kenji. She was the one who said it — "She folds origami. Cranes, mostly." Chapter 4. On the phone. On a line that runs through the Yanagi exchange. And now a man from the community council has used that detail to close a door around a child he shouldn't know anything about.]
+
+MIRA: "How did he know what I said?"
+
+[The question is rhetorical. She already knows. The player already knows. But the question hangs there — not because it needs an answer but because it needs to be felt.]
 
 [MECHANIC: Yui's contact is LOCKED on the call board. Grayed out. The player cannot call her for 1-2 chapters. To re-establish contact, the player must route around the block — through Haruki (who can reach the school) or CPS (which bypasses community channels). The cost is time and a call slot spent on infrastructure instead of investigation.]
 
@@ -664,13 +682,15 @@ MIRA: "She always picks up between one and three."
 
 [Seven rings. Eight. The line goes to voicemail — a generic carrier message, no personal greeting. Kenji hangs up. Dials again.]
 
-[Ring. Ring. Ring. Ring. Ring. Ring. Nothing.]
+[Ring. Ring. Ring —]
 
-[Then — a text notification. From the mother's number. Not Yui's phone.]
+[A text notification. Mid-ring. The phone is still calling Yui's house and the text arrives while the line is still open. From the mother's number. Not Yui's phone.]
 
 [TEXT: "Please don't call this number again."]
 
-[The syntax is wrong. Not a child's phrasing. Not even a mother managing a boundary. The sentence has the flat, warning quality of a man who found something on a phone and is making it stop.]
+[The timing is wrong. The text arrived while the phone was ringing. Someone knew Kenji was calling *right now* — not after the fact, not because the grandmother mentioned it, not through community gossip. Right now. In real time. Watching the call attempt through the same infrastructure that carries it.]
+
+[The syntax is wrong too. Not a child's phrasing. Not even a mother managing a boundary. The sentence has the flat, warning quality of a man who found something on a phone and is making it stop.]
 
 MIRA: "That's not her."
 

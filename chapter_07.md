@@ -701,7 +701,17 @@ MIRA: "He heard us."
 
 [Not "he heard Haruki." Not "he heard the investigation." *Us.* The player and Mira. On the phone. Through the lines. The pronoun is precise — she is including herself and Kenji in the set of people Endo has been monitoring. Every call they've made since Chapter 3 traveled through the Yanagi exchange. Every conversation. Every Soul Read. Every moment where Mira said something only Kenji should have heard.]
 
-[She doesn't explain. She doesn't need to. The timestamp anomaly from Fumiko provides the mechanism. The pronoun provides the horror.]
+[A long silence. When she speaks again, her voice has changed — not the analytical register, not the detective-partner voice. The voice of someone understanding the shape of what was taken from them.]
+
+MIRA: "Every call. Every read. Every time I told you what I saw in someone — he heard it. He heard me describe Doi's guilt. He heard me tell you about Yui's folding. He heard me read Fumiko. He heard me say which leads to follow and which people to trust and which doors were opening."
+
+[Beat.]
+
+MIRA: "We gave him everything, Kenji."
+
+[The line that concentrates the distributed horror into a single point. Not "he listened" — that's a mechanism. "We gave him everything" — that's a cost. Every strategy conversation. Every vulnerability Mira shared. Every Soul Read that revealed an NPC's inner state. Endo didn't just monitor the investigation. He received a complete emotional map of every person the player touched, delivered by the most perceptive observer in Yanagi, for free, through copper wire.]
+
+[She doesn't speak again for a full scene.]
 
 [DESIGN NOTE: This completes the midgame shock sequence. The player now has consequences (Ch 6: Doi's persecution accelerated, Yui locked out) and a mechanism (Ch 7: Endo adjusted before he should have known + "He heard us"). The connection — the exchange, the monitored calls, the phone phenomenon — is available for the player who has been tracking the folklore. The player who hasn't just feels the dread: the investigation has been transparent from the start. Post-Ch 7, every call carries triple weight: investigation + listening for the breathing signal + being listened to.]
 
