@@ -600,6 +600,116 @@ MIRA: "Everyone is his alarm system. Nobody signed up."
 
 ---
 
+## SCENE 5B: YUI GOES DARK
+
+[The Haruki fallout settles. Mira is quiet — not the conservation quiet of later chapters, but the quiet of someone processing the weight of a system that turns help into harm. Kenji looks at the call board. Among the contacts: Yui Sakamoto.]
+
+[He hasn't spoken to Yui since Chapter 4. The decision to call — or not call — happened there. Now, after watching Doi's persecution accelerate and Haruki's good intentions travel straight to Endo, the instinct is to check. To make sure the last vulnerable person the investigation touched is still safe.]
+
+[He dials.]
+
+---
+
+### [IF ACT PATH — Yui was saved in Ch 4]
+
+[The line connects. Two rings. Three. A click — someone picks up. Not Yui.]
+
+GRANDMOTHER: "Hello?"
+
+KENJI: "Good afternoon. This is Detective Oda. I was hoping to speak with Yui."
+
+[A pause. The grandmother's voice is polite — the politeness of a woman who has been running interference for a grandchild her entire life and knows exactly how to close a door without slamming it.]
+
+GRANDMOTHER: "I don't think it's a good idea for Yui to talk to anyone right now."
+
+KENJI: "I understand. I just wanted to—"
+
+GRANDMOTHER: "Someone from the community council called this morning. They said the investigation might be distressing for her. They were very concerned. Very... helpful."
+
+[The word lands. The player knows what "helpful" means in Yanagi. The player knows which council. Which someone.]
+
+GRANDMOTHER: "I'm sure you understand."
+
+[She waits — not for an argument, but for the polite conclusion she has already scripted. Kenji hears what the player hears: a door closing. Not slammed. Not hostile. Closed by someone who thinks she is protecting a child, because a helpful man from the community council told her so.]
+
+KENJI: "I understand. Please tell Yui—"
+
+GRANDMOTHER: "Thank you, detective."
+
+[Click.]
+
+[AUDIO: The dial tone. Flat. The connection severed cleanly — no static, no bleed-through, no phone phenomenon. Just a grandmother doing what grandmothers do: protecting. And Endo, invisible, having already been there.]
+
+MIRA: "He knows about Yui."
+
+[Three words. Not the analytical voice. Not the detective-partner voice. The voice of a child who once needed a grandmother to pick up the phone and instead got a committee.]
+
+[MECHANIC: Yui's contact is LOCKED on the call board. Grayed out. The player cannot call her for 1-2 chapters. To re-establish contact, the player must route around the block — through Haruki (who can reach the school) or CPS (which bypasses community channels). The cost is time and a call slot spent on infrastructure instead of investigation.]
+
+[NOTEBOOK PROMPT: "YUI — LOCKED. Grandmother blocked access. 'Someone from the community council called.' ENDO KNOWS ABOUT YUI. He called BEFORE Kenji did. He is responding to the investigation in real time. The same mechanism that accelerated Doi's persecution — calls traveling through the community network — has now reached Yui. Route around: Haruki (school access) or CPS (bypasses community). PRIORITY."]
+
+---
+
+### [IF DELAY PATH — Yui still in danger]
+
+[The line rings. Once. Twice. Three times. Four. The player who called Yui in Chapter 4 remembers: she picks up between one and three rings. Always.]
+
+[Five rings. Six. Nothing.]
+
+MIRA: "She's not picking up."
+
+[Beat.]
+
+MIRA: "She always picks up between one and three."
+
+[Seven rings. Eight. The line goes to voicemail — a generic carrier message, no personal greeting. Kenji hangs up. Dials again.]
+
+[Ring. Ring. Ring. Ring. Ring. Ring. Nothing.]
+
+[Then — a text notification. From the mother's number. Not Yui's phone.]
+
+[TEXT: "Please don't call this number again."]
+
+[The syntax is wrong. Not a child's phrasing. Not even a mother managing a boundary. The sentence has the flat, warning quality of a man who found something on a phone and is making it stop.]
+
+MIRA: "That's not her."
+
+[Beat.]
+
+MIRA: "That's not her mother either."
+
+[She doesn't say the name. She doesn't need to. The player who chose to delay Yui's rescue in Chapter 4 — who prioritized something else, who had reasons, who was told it was a triage — now hears the silence where a child's voice should be. The player's call to the household generated noise. Through community gossip. Through the exchange. Through the ambient signals that travel through Yanagi's infrastructure. The child who was already in danger is now in more danger, and the investigation is the reason.]
+
+[AUDIO: The phone is quiet. No ring-back. No static. No bleed-through. The most ordinary silence in the game — and the worst.]
+
+[MECHANIC: Yui's contact is LOCKED on the call board. Grayed out. The player cannot reach her directly. To re-establish contact, the player must spend a call slot on Haruki (school access) AND trigger a CPS intervention — a two-step process that costs two chapters of time. The DELAY path compounds: the player who deferred Yui's safety once now pays double to reach her again.]
+
+[NOTEBOOK PROMPT: "YUI — LOCKED. No answer. Text from mother's phone: 'Please don't call this number again.' NOT YUI'S VOICE. Takeshi found out — the investigation's calls generated noise through the community network. Yui was already in danger (DELAY path). Now worse. MUST reach her through Haruki + CPS. Two-step recovery. TWO CHAPTERS."]
+
+---
+
+### [BOTH PATHS — Mira's Response]
+
+[Later. Between scenes. After the Yui call has settled and Kenji is processing the Haruki fallout and the Doi data. A gap in the work — the kind of quiet moment where Mira's observations usually arrive.]
+
+[IF DELAY PATH:]
+
+MIRA: "I asked you to call her first."
+
+[She did. Chapter 4, Scene 1: "Call Yui first. Please." The player who remembers this feels the weight of a promise they didn't break — they just deferred. The player who doesn't remember still hears the accusation in Mira's voice. She is not angry. She is accurate. The way she was accurate about Doi, about the committee, about everything. Accuracy is worse than anger.]
+
+[IF ACT PATH:]
+
+MIRA: "She's safe. He just closed the door."
+
+[A beat. Then, quieter:]
+
+MIRA: "He closes doors the way my committee closed reports. Quietly. So nobody hears the lock."
+
+[END CONDITIONAL]
+
+---
+
 ## SCENE 6: CLOSE
 
 [VISUAL: Evening. The apartment. The desk is buried — silver car data from three sources aligned, Fumiko's historical case laid beside Haruki's school records, Doi's real testimony noted in Kenji's hand. The case file has doubled in thickness since Chapter 3. The blue notebook sits at the center, its entries now surrounded by adult observations that confirm what a nine-year-old documented alone.]
@@ -653,6 +763,8 @@ MIRA: "Because tomorrow you're going to find out who owns the car. And the answe
 - Fumiko's terms: information trade. She will hold if kept informed, publish if shut out.
 - Haruki visited the Murakami family without coordination. Family called Endo. Endo now knows the investigation found the dismissed reports. Window shortened.
 - Mira's fallibility: she acknowledged reporting Doi incorrectly. "I was nine. I didn't have a system." This makes her other assessments more trustworthy — she corrects herself.
+- INVESTIGATION BACKFIRE — Doi's pressure: A neighbor confirms the acceleration traced back to the player's calls. "The detective called about him last week." The investigation isn't neutral — it generates consequences that route through Endo's community network.
+- YUI — LOCKED. [ACT path: Grandmother blocked access after "someone from the community council called." Endo knows about Yui and closed the door before Kenji could reach her. 1-2 chapter lockout.] [DELAY path: No answer. Text from mother's phone — "Please don't call this number again." Not Yui's voice. Takeshi found out through community noise generated by the investigation. 2 chapter lockout + CPS required.]
 
 ### Notebook Contents (New Entries)
 - DOI — false confession collapsed. Details don't match Mira. Real story: Ren, custody, the window. Innocent.
