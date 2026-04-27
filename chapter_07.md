@@ -221,6 +221,26 @@ FUMIKO: "I still don't know why. But the routes connect the community center to 
 
 [MECHANIC: The infrastructure map enters the player's evidence. It sits among Fumiko's other documents — important but not yet decoded. Its significance becomes clear in Ch 9-10 when overlaid with Endo's knowledge pattern. The player who pays attention to this document now has a head start. The player who files it has the evidence they'll need later.]
 
+[Beat. Fumiko's tone shifts — the journalist's voice, the one that separates observation from speculation.]
+
+FUMIKO: "One more thing. A date problem."
+
+[She describes a council session that was rescheduled — a committee review of student behavioral reports, moved up by three days. The rescheduling is documented in the council's minutes, signed by the chair.]
+
+FUMIKO: "The session was moved to the fourteenth. The original date was the seventeenth — the same day your colleague visited the Murakami family."
+
+KENJI: "He moved the session before Haruki told him we'd found the reports."
+
+FUMIKO: "I have the dates. I don't have explanations. But yes — the fourteenth predates the visit. By three days. He adjusted before anyone officially told him."
+
+[She lets it sit. Fumiko presents dates the way she presents everything — flatly, without speculation, the way a journalist with fourteen years of pattern-watching lets the data speak for itself.]
+
+KENJI: "How?"
+
+FUMIKO: "That's your question, not mine. I just have the dates."
+
+[NOTEBOOK PROMPT: "FUMIKO — TIMESTAMP ANOMALY: Council session rescheduled from 17th to 14th. The 17th = Haruki's Murakami family visit (when Endo was officially alerted to investigation reaching school records). Endo moved the session THREE DAYS before he should have known. How? Cross-reference with phone exchange monitoring — the investigation's calls travel through Yanagi infrastructure. He has been listening."]
+
 ---
 
 ### SOUL READ — FUMIKO (Second)
@@ -675,6 +695,16 @@ MIRA: "I reported six times. And every time, the committee that reviewed my repo
 
 [The player feels it land. Not with the force of a revelation — with the weight of a pattern finally named. Mira reported her own killer to her own killer's committee. The system didn't fail her randomly. It failed her architecturally. The man who silenced her was the man she was speaking to.]
 
+[The wire-sound shifts. Mira, quieter than the observation that preceded it. Not analytical. Not the detective-partner voice. Something smaller.]
+
+MIRA: "He heard us."
+
+[Not "he heard Haruki." Not "he heard the investigation." *Us.* The player and Mira. On the phone. Through the lines. The pronoun is precise — she is including herself and Kenji in the set of people Endo has been monitoring. Every call they've made since Chapter 3 traveled through the Yanagi exchange. Every conversation. Every Soul Read. Every moment where Mira said something only Kenji should have heard.]
+
+[She doesn't explain. She doesn't need to. The timestamp anomaly from Fumiko provides the mechanism. The pronoun provides the horror.]
+
+[DESIGN NOTE: This completes the midgame shock sequence. The player now has consequences (Ch 6: Doi's persecution accelerated, Yui locked out) and a mechanism (Ch 7: Endo adjusted before he should have known + "He heard us"). The connection — the exchange, the monitored calls, the phone phenomenon — is available for the player who has been tracking the folklore. The player who hasn't just feels the dread: the investigation has been transparent from the start. Post-Ch 7, every call carries triple weight: investigation + listening for the breathing signal + being listened to.]
+
 ---
 
 ## SCENE 9: THE PIVOT — "THE BREATHING"
@@ -745,6 +775,8 @@ MIRA: "Someone is in there."
 - Endo's institutional footprint: never absent from child welfare review committees, safety council, volunteer coordination. Every institutional gate that could have caught the pattern — Endo was the gatekeeper.
 - Ogawa thread (optional): Endo on the committee that fired Ogawa AND dismissed Mira's reports. Same committee, opposite outcomes. The listener removed, the reports buried.
 - Fumiko's infrastructure map: old telephone exchange cables, decommissioned 1980s, run under community center, school, Doi's street. Significance unclear. Map annotated in red pen. Enters evidence.
+- TIMESTAMP ANOMALY: Council session rescheduled from 17th to 14th — three days before Haruki's Murakami visit. Endo adjusted before anyone officially told him. Mechanism: the investigation's calls travel through Yanagi's phone infrastructure. He has been listening.
+- "HE HEARD US" — Mira's realization. Not "he heard Haruki." Us. The player and Mira. Every call since Ch 3 traveled through the exchange. Every conversation. Every Soul Read. The investigation has been transparent from the start.
 - Kaito's notebooks recontextualized: observation, not surveillance. 9 vehicle sightings with timestamps, behavioral detail. Driver described as "familiar — knew where everything was without looking." Kaito's logs are critical evidence, not pathology.
 - Framing surfaced: fabricated documents connecting Mira to Sora. Chat logs with post-death metadata. Language traces to Rina's community vocabulary ("misunderstands," "difficult," "says things"). Rina recontextualized: not villain, mechanism. She built conditions; someone weaponized them.
 - Sora artifact: genuine map page among fabricated framing. River, bend, two figures. Planted without examination.
@@ -760,6 +792,8 @@ MIRA: "Someone is in there."
 - FUMIKO — INFRASTRUCTURE MAP — Cable routes under Yanagi. Significance unclear. Red annotations.
 - KAITO — FULL VEHICLE LOGS — 9 sightings, March-April. Driver: tall, familiar, "knew where everything was."
 - SOUL READ — FUMIKO (2nd): Scared of being wrong. 14 years of right → fear of the 20%.
+- FUMIKO — TIMESTAMP ANOMALY — Council session moved from 17th to 14th. Endo adjusted 3 days before Haruki's visit. He knew before he was told. How: phone exchange monitoring.
+- MIRA — "He heard us." The investigation has been transparent. Every call routed through the same infrastructure Endo controls.
 - SOUL READ — KAITO: "Doesn't know how to show it properly." New: someone listening. "Window opened."
 - FRAMING — Language analysis → Rina's vocabulary weaponized. Chat logs fabricated post-death.
 - SORA ARTIFACT — Map page. River, bend, two figures. Real among fabricated.
