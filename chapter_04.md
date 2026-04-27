@@ -96,7 +96,7 @@ MIRA: "Call Yui first. Please."
 
 [MECHANIC: The call screen. The player selects SAKAMOTO (MOTHER'S PHONE). The phone rings. Four rings. Five. Six. The player might think no one will answer.]
 
-[AUDIO: The line connects. A small sound — not a greeting. A diagnostic. The sound of someone checking the caller ID, finding nothing recognizable, and answering anyway because not answering an unknown number could mean missing something she'll be asked about later. Behind her: nothing. Not silence — curated absence. No television, no music, no footsteps. The careful quiet of a room chosen because it's the room where sounds don't carry. A clock ticks. Fabric shifts — she's sitting on something soft, positioned for a fast exit.]
+[AUDIO: The line connects. A small sound — not a greeting. A diagnostic. The sound of someone checking the caller ID, finding nothing recognizable, and answering anyway because not answering an unknown number could mean missing something she'll be asked about later. Behind her: nothing. Not silence — curated absence. No television, no music, no footsteps. The careful quiet of a room chosen because it's the room where sounds don't carry. A clock ticks. Fabric shifts — she's sitting on something soft, positioned for a fast exit. And beneath it all — barely audible, easy to miss — the faint, rhythmic crease of paper being folded. Slow. Steady. Every two or three seconds. Hands that are always working, even when the rest of the body is still.]
 
 YUI: "Hello?"
 
@@ -242,7 +242,7 @@ YUI: "She paid attention to everyone."
 
 [Gap: ten seconds. The longest in the call. The real answer isn't just close — it's here.]
 
-[AUDIO: Something small. Paper. The sound of a girl's fingers working a fold — origami, automatic, the way other people fidget with pens. She's folding something while she talks, the muscle memory running beneath the conversation like a second pulse.]
+[AUDIO: The folding. It's been there since the start of the call — steady, precise, barely audible beneath the performance. Now, with the performance falling away, it surfaces. Paper against paper. Origami. Automatic. The player who has been listening hears it clearly for the first time: the constant beneath Yui's voice, the rhythm her hands keep while the rest of her disappears.]
 
 YUI: "She paid attention to me."
 
@@ -256,11 +256,15 @@ YUI: "Mira said she told someone about me."
 
 YUI: "Did anyone come?"
 
+[The folding stops.]
+
 [Kenji can feel the weight of this question. It is not a question about the case. It is a question about whether the system works — whether a child's report, delivered to an adult, produces a response. Mira reported Yui's situation. The system absorbed it. Yui has been waiting.]
 
 KENJI: "No."
 
-[Long silence. Twelve seconds. The longest silence in the game so far.]
+[Long silence. Twelve seconds. The longest silence in the game so far. No paper. No voice. No performance. The folding rhythm that has run beneath every word of this call — gone. What's left is the clock, the fabric, and a child holding her breath on the other end of a phone line.]
+
+[Then — the sound of paper being slowly, deliberately torn.]
 
 YUI: "She said they would."
 
@@ -712,7 +716,9 @@ Regardless of approach:
 
 ## SCENE 6: EVIDENCE — KAITO'S NOTEBOOKS
 
-[Between calls, a secondary thread surfaces. Kenji, canvassing the neighborhood for the Yui lead — contacting school contacts, checking addresses — encounters a mention in witness statements: a teenager seen near the river, near the school, always watching. Described as "that kid who hangs around." The statements are from neighbors, volunteered during the initial canvass after Mira's death.]
+[Between calls, a secondary thread surfaces. Kenji, canvassing the neighborhood for the Yui lead — contacting school contacts, checking addresses — hits a dead patch on his second call. Static. Redials. A school contact picks up and laughs: "You calling from Yanagi? The reception out there... my mother says those lines have been funny since the exchange was built. You get used to it." Kenji files it. The player files it. Rural infrastructure.]
+
+[The same canvass turns up a mention in witness statements: a teenager seen near the river, near the school, always watching. Described as "that kid who hangs around." The statements are from neighbors, volunteered during the initial canvass after Mira's death.]
 
 [VISUAL: The case file, supplementary folder. A witness statement: "There's a boy — older, maybe sixteen, seventeen — who walks around the neighborhood. He carries notebooks. He sits in places and writes things down. I've seen him near the school, near the river, near the park. He was there the week before the girl disappeared."]
 
