@@ -89,7 +89,15 @@ MIRA: "'I wanted to make sure you were alright... the investigation has been...'
 
 MIRA: "'Whatever the detective tells you... I want you to know the community is here for you.' He sounds — Kenji, he sounds like he means it. That's the worst part. He *does* mean it."
 
-[DESIGN NOTE: Endo to Reiko is his strongest move. He organized the volunteer search for Mira. He is Reiko's community support. His concern sounds genuine because it IS genuine — he genuinely cares about Reiko's wellbeing. He also needs her to doubt Kenji. The player hears his conductor pattern through the intercept — the three-second pauses, the preemptive framing — from inside the exchange.]
+[Beat.]
+
+MIRA: "He talked for four minutes. The school. The neighborhood. The investigation. He never mentioned Ogawa."
+
+[She says this flatly. The player who remembers Ch 8 — where Endo offered the staffing change as his second helpful lead — hears the shape of what's missing. Endo told Kenji. Endo will tell Haruki. He does not tell Reiko. Because Reiko is Mira's mother, and Mira's mother cannot be allowed to connect the teacher who believed her daughter to the committee that silenced them both.]
+
+[DESIGN NOTE: Endo to Reiko is his strongest move. He organized the volunteer search for Mira. He is Reiko's community support. His concern sounds genuine because it IS genuine — he genuinely cares about Reiko's wellbeing. He also needs her to doubt Kenji. The player hears his conductor pattern through the intercept — the three-second pauses, the preemptive framing — from inside the exchange.
+
+PARTITION CROSS-REFERENCE: The Ogawa staffing change was offered freely to Kenji in Ch 8 ("a staffing change, I believe" — vague, half-remembered) and will be mentioned to Haruki below (procedural framing). It is WITHHELD from Reiko entirely. The omission is the sharpest edge of the partition — Endo's awareness of what each person must not connect. Mira's flat observation here gives the attentive player the data without over-explaining it.]
 
 **Endo → Haruki:**
 
@@ -99,7 +107,15 @@ MIRA: "Haruki next. Different approach — faster, more direct. He's matching Ha
 
 MIRA: "'Between us, Haruki — have you noticed anything about the detective's methods? The scope. The focus.' He's... he's using Haruki's own language. 'I've seen this before — an investigator who's invested too much to step back.'"
 
-[Endo is reframing Kenji as unstable — turning the thoroughness the player has practiced into evidence of obsession. And he's doing it in the register of the person he's talking to. The conductor matching his audience.]
+[Beat.]
+
+MIRA: "'The administrative restructuring at the school — the scheduling disruption — these things create noise that an unfocused investigation mistakes for signal.'"
+
+[The player who remembers Ch 8 hears it: the staffing change. "A staffing change, I believe" — that's what Endo called it when he was being vague and half-remembered for Kenji. Now it's "administrative restructuring." Same event. Procedural language. The committee chair's own decision repackaged as institutional weather — something that happened TO the system, not something he did.]
+
+[Endo is reframing Kenji as unstable — turning the thoroughness the player has practiced into evidence of obsession. And he's doing it in the register of the person he's talking to. The conductor matching his audience.
+
+PARTITION CROSS-REFERENCE: The Ogawa staffing change appears here as "administrative restructuring" — institutional, procedural, stripped of human consequence. In Ch 8, the same event was "a staffing change, I believe" — vague, passive, offered as a helpful lead. To Reiko above: withheld entirely. Three versions of the same truth, curated for three audiences. Each is accurate. The collection is the tell.]
 
 **Endo → District Police:**
 
@@ -109,7 +125,15 @@ MIRA: "The police. He's... this is different. Formal. He's not being warm — he
 
 MIRA: "'As chair of the community safety council, I have a responsibility to raise concerns through appropriate channels.' He's quoting protocol. Filing a formal request for case review. 'Community stability requires confidence in the investigative process.' He's asking them to pull your file."
 
-[The most dangerous call. If the district police pulls the case for review, the warrant stalls. Endo doesn't need to escape — he needs to delay. And the player hears Endo's institutional voice for the first time — the one he uses on systems, not people. No warmth. No pauses. Just procedure weaponized.]
+[Beat.]
+
+MIRA: "And he's — he mentioned Fumiko. 'Community concern about journalistic interference in an active case.' That's what he called her."
+
+[The player who remembers Ch 8 hears the reframing. To Kenji, Fumiko was a colleague who "extends conclusions past the evidence" — analytical, almost respectful, one professional cautioning another about methodology. To the district police, she is "journalistic interference" — a threat to process, a liability requiring institutional response. Same woman. Same concern. Different weapon.]
+
+[The most dangerous call. If the district police pulls the case for review, the warrant stalls. Endo doesn't need to escape — he needs to delay. And the player hears Endo's institutional voice for the first time — the one he uses on systems, not people. No warmth. No pauses. Just procedure weaponized.
+
+PARTITION CROSS-REFERENCE: Fumiko's characterization shifts across audiences. In Ch 8 to Kenji: "extends conclusions past the evidence" — collegial, analytical, the language of a fellow professional noting a methodological flaw. Here to district police: "community concern about journalistic interference in an active case" — institutional, threat-to-process, the language that triggers bureaucratic self-protection. The reframing is the partition in action: each description is technically accurate. The choice of register is the weapon.]
 
 **Endo → Doi:**
 
@@ -123,7 +147,23 @@ MIRA: "'Whatever comes out of this investigation... I want you to know... I've a
 
 MIRA: "'Things got out of hand back then. I made sure they didn't.' He said that — 'things got out of hand.' That's Doi's phrase. From months ago. He's giving it back to him like a gift."
 
-[The cruelest move. Endo weaponizes the protection he gave Doi — protection the player worked to provide. He is turning Doi's gratitude into a debt. And the player hears the tell: Endo quotes Doi's own words back to him. The same fidelity that marked him throughout the investigation — knowing things with the wrong resolution — deployed as a weapon.]
+[Beat.]
+
+MIRA: "He used that same phrase with you. In his first call. Exact words — 'things got out of hand.' He heard Doi say it through the cables and he's been carrying it since. Giving it to everyone like it's his."
+
+[The cruelest move. Endo weaponizes the protection he gave Doi — protection the player worked to provide. He is turning Doi's gratitude into a debt. And the player hears the tell: Endo quotes Doi's own words back to him. The same fidelity that marked him throughout the investigation — knowing things with the wrong resolution — deployed as a weapon. Here the fidelity becomes visible as a system: Doi's private words, heard through copper, stored, redistributed to Kenji as helpful context in Ch 8, now returned to Doi as emotional leverage. The switchboard made literal.
+
+PARTITION CROSS-REFERENCE: In Ch 8, Endo quoted Doi's phrase — "things got out of hand" — to Kenji as secondhand community knowledge, the verbal shrug of a man reporting neighborhood gossip. Here, the same phrase returns to its source as a weapon. The player who noted the wrong-resolution fidelity in Ch 8 (how does a community leader have Doi's exact words from a private conversation?) now sees the full circuit: Doi said it in his shop. The cables carried it to the exchange room. Endo heard it, stored it, distributed it. The information traveled Doi → exchange → Endo → Kenji (Ch 8) → Doi (Ch 12). The switchboard is not a metaphor.]
+
+[DESIGN NOTE — THE PARTITION PATTERN REVEALED:
+
+The four intercepts above complete the architecture seeded in Ch 8. In that chapter, Endo offered Kenji three helpful leads — the Watanabe household, the Ogawa staffing change, and Fumiko's overreach — each accurate, each framed for a detective's register. Here, Mira intercepts the same man describing the same events to different people, and the player hears the curation:
+
+- **Ogawa staffing change:** Vague and half-remembered for Kenji (Ch 8). "Administrative restructuring" for Haruki (above). Withheld entirely from Reiko (above). Three treatments of the same fact, shaped by what each listener must not connect.
+- **Fumiko:** "Extends conclusions past the evidence" for Kenji (Ch 8). "Community concern about journalistic interference in an active case" for district police (above). Collegial to the detective, institutional to the bureaucracy. Same concern, different register, different consequence.
+- **Doi's phrase:** "Things got out of hand" — heard through the exchange, offered to Kenji as community context (Ch 8), returned to Doi as emotional leverage (above). The fidelity tell becomes a weapon.
+
+Mira named this in Ch 10: "He doesn't hide things. He sorts them. Everyone gets a piece. Nobody gets the picture." The intercepts are where the player sees the sorting in real time. The attentive player who took notes on Ch 8's leads hears the echoes — not lies, but selective truths, each one accurate, the collection revealing the architecture. The player who didn't take notes still gets four compelling intercepts and a call war. The partition rewards attention without punishing its absence.]
 
 ### PLAYER'S COUNTER-CALLS
 
