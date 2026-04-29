@@ -1006,12 +1006,6 @@ Most villains hit one of these. Endo hits all three.
 
 ---
 
-### ONE-LINE SUMMARY
-
-He heard her more clearly than anyone — and decided the world would be better if she stopped talking.
-
----
-
 ### HIGASHINO LENS — The Selective Truth
 
 Endo's hidden architecture does not follow the standard asymmetry/selfishness/love structure. He is not a participant in the failure chain — he is its architect. His design requires a different framework.
@@ -1027,6 +1021,12 @@ Endo's hidden architecture does not follow the standard asymmetry/selfishness/lo
 **Mira named it (Ch 10 notebook):** "He doesn't hide things. He sorts them. Everyone gets a piece. Nobody gets the picture." A nine-year-old described the mechanism that defeated an entire community. She wrote it in the notebook no one read.
 
 **Cost of truth:** There is no hidden act of love for Endo. There is no complicating tenderness. He is the endpoint — the person who understood the system completely and used that understanding to maintain it. The cost of solving the mystery is not personal for Endo. It is structural: proving that the community's trust was placed correctly (in a man who listened) and catastrophically (in a man who sorted what he heard). The player does not discover Endo's hidden depth. The player discovers that his surface was the depth — that total attention without response is the most complete form of the failure every other character enacted partially.
+
+---
+
+### ONE-LINE SUMMARY
+
+He heard her more clearly than anyone — and decided the world would be better if she stopped talking.
 
 ---
 
@@ -1366,8 +1366,8 @@ The tragedy is not that he failed Mira. It's that his failure was rational.
 - *Confrontation integration:* Reshapes "I didn't tell anyone" from the existing break. The current break presents Kaito's silence as passive — he watched and didn't volunteer. The incident form proves it was active. He was asked directly and said no. The player can present the form during the break sequence, and "I didn't tell anyone" becomes "I was asked and I lied."
 
 **Hidden act of love:** The calls he answered. Phone records show calls from Mira's home to Kaito's phone, late evening, consistent over months. He answered every time. He was her nighttime lifeline — the person she called when the radio wasn't enough and the apartment was dark and her mother was at the hospital. The call durations vary. Some are short. Some are long. The pattern is consistent: Mira called, Kaito answered.
-- *Evidence:* Phone records discovered during communication records investigation. Call logs showing frequency, duration, and consistency.
-- *Discovery window:* Ch 5-7, same records access as the incident form.
+- *Evidence:* Phone records discovered during communication/infrastructure investigation. Call logs showing frequency, duration, and consistency.
+- *Discovery window:* Ch 7, during infrastructure and phone exchange investigation. Arrives later than the witness form (Ch 5-7) — the player sits with Kaito's denial before the love complicates it.
 - *Complication:* He answered every call. He heard everything she was going through. He had more information than almost anyone in the community — not just his own observations, but Mira's real-time reports, her fear, her frustration, her documentation process. He was not an uninformed bystander. He was the best-informed witness in Yanagi, and he still wrote "no relevant observations" on the form.
 
 **Cost of truth:** Kaito's "rational" silence was the same mechanism the system runs on. The witness form proves he was inside the system, not outside it. He wasn't a misread outsider who was never asked — he was asked, and he chose the system's answer. His break can no longer rest on the defense that nobody listened. Someone did. He chose not to speak.
