@@ -477,9 +477,121 @@ AIZAWA: "I just wasn't brave enough to be the right person."
 
 ---
 
+### The Notebook (Break Extension)
+
+[The player expects the call to wind down. Aizawa has said the worst thing she can say. The procedural wall is broken. There is nothing left to crack.]
+
+[But Kenji has the property intake form on his desk.]
+
+[MECHANIC: This beat fires if the player discovered the property intake form in Ch 7. If undiscovered, the form surfaces here through Kenji's ongoing records review — either path delivers the confrontation. The form has been waiting.]
+
+KENJI: "Ms. Aizawa. I need to ask you about something else."
+
+[Silence. The sanitizer doesn't click. The ritual is gone.]
+
+AIZAWA: "...yes."
+
+KENJI: "After Mira died, you processed her personal effects. You signed a property intake form."
+
+[Long silence. The kind where the player can hear the building — the empty school around Aizawa, the climate control, the particular acoustic quality of a room where someone has just stopped breathing normally.]
+
+AIZAWA: "That's... standard procedure. When a student dies, the school processes any items left in their desk, their locker. Belongings are catalogued and returned to the family or classified for storage."
+
+[She's back in procedure. The wall going up again — brick by brick, word by word. But the player who has just heard the wall collapse knows the mortar is wet.]
+
+KENJI: "You catalogued a blue composition notebook."
+
+[Silence.]
+
+KENJI: "Your form says: 'Notebook contains personal writing — eraser reviews, daily observations, creative entries. Assessed as personal journal material. No investigative relevance identified.'"
+
+[The sanitizer clicks. Once. The sound is different — not the steady metronome, not the anxious acceleration. A single click, like a period at the end of a sentence.]
+
+AIZAWA: "I remember the notebook."
+
+KENJI: "You classified it as non-evidentiary."
+
+AIZAWA: "I... opened it. The first few pages. There were reviews of erasers. She rated them. Stars and descriptions. Which ones smudged, which ones tore the paper. It was — it was a child's notebook."
+
+[Her voice is thinning again. But this is different from the earlier break. That was confession. This is the thing underneath the confession — the floor beneath the floor.]
+
+KENJI: "You didn't read past the eraser reviews."
+
+[Silence. Seven seconds. Eight. The longest silence in the Aizawa calls — longer than any pause in Ch 5, longer than the procedural wall, longer than the break itself.]
+
+AIZAWA: "No."
+
+[One word. No procedure. No institutional framing. No "I followed the process." Just: no.]
+
+KENJI: "The notebook contains fourteen months of dated observation. Silver car sightings. Behavioral patterns. Timed surveillance gaps. Every report Mira filed with you — cross-referenced, annotated, expanded. The evidence chain that corroborates three independent witnesses."
+
+[Silence.]
+
+KENJI: "You held it in your hands."
+
+AIZAWA: "I held it in my hands."
+
+[She repeats the sentence. Not because she's processing it — because the sentence is too heavy to hear once. She needs to say it herself to make it real.]
+
+[Beat. When she speaks again, the professional voice is gone entirely. What remains is the voice of someone describing a moment they have replayed every night since it happened.]
+
+AIZAWA: "I opened it at my desk. After hours. The building was empty. I had a box of her things — her pencil case, a book about constellations, the notebook. I opened the notebook because I thought — because documentation is what I do. I thought I should check. In case there was something..."
+
+[She stops. The sentence doesn't finish because the ending is the thing she can't say.]
+
+AIZAWA: "The eraser reviews were on the first three pages. She had drawn little stars next to her favorites. The Pentel Hi-Polymer got four stars. She wrote: 'Good for math but bad for drawing because it leaves ghost lines.'"
+
+[Her voice breaks on "ghost lines." Not because the detail is devastating — because it is ordinary. Because a nine-year-old rated erasers with stars and then used the same notebook to document the surveillance pattern that would have caught her killer. And Aizawa saw the stars and closed the book.]
+
+AIZAWA: "I saw a child's notebook. I classified it as a child's notebook. I put it in the box. I signed the form."
+
+[Long pause.]
+
+AIZAWA: "I didn't read further because — "
+
+[She stops. The sanitizer clicks. Twice. Fast.]
+
+AIZAWA: "Because I already knew what was in it."
+
+[The sentence lands. Not on Kenji — on the player. Aizawa didn't fail to read the notebook because she thought it was unimportant. She failed to read it because she knew it was important. She knew — from two years of Mira's reports, from the documentation she herself had filed, from every word Mira ever said in her office — that the notebook would contain proof. Proof that the reports were accurate. Proof that the committee's dismissals were wrong. Proof that the system Aizawa served had absorbed a child's truth and produced nothing.]
+
+[If she read further, she would have to act. She would have to reopen the case, challenge the committee, confront the chair. She would have to be the person she wasn't brave enough to be while Mira was alive.]
+
+[So she saw eraser reviews and classified it as personal effects.]
+
+AIZAWA: "I chose the version of my job that let me sleep."
+
+[The same sentence. From Ch 5. From the first break. But now the player hears it differently — because they know what it cost. In Ch 5, the sentence described inaction while Mira was alive. Now it describes burial after Mira was dead. The line hasn't changed. Its weight has doubled.]
+
+[Then — very quietly, the voice of someone who has arrived at the bottom of what they carry:]
+
+AIZAWA: "I didn't just fail to act while she was alive, Detective."
+
+[Beat.]
+
+AIZAWA: "After she died, I held the proof. And I chose not to look."
+
+[Silence. The building. The empty school. The hum of systems running in a building where no one is present except one counselor sitting at her desk with a sanitizer bottle and the knowledge of what she signed.]
+
+[DESIGN NOTE — AIZAWA HIGASHINO DOUBLE-REVEAL: This is the break extension that completes Aizawa's Higashino design. The player now holds both hidden acts:
+
+**The act of love (Ch 5):** The altered disciplinary report. While Mira was alive, Aizawa rewrote a form that would have escalated Mira out of the school system. "Defiant behavior" became "expressed concern." "Unsubstantiated allegations" became "peer advocacy." She used her procedural expertise — the careful handwriting, the knowledge of which words trigger which institutional responses — to protect a child's ability to keep reporting.
+
+**The act of selfishness (Ch 8):** The notebook classification. After Mira's death, Aizawa opened the observation notebook. She saw the eraser reviews. She did not read further. She classified fourteen months of dated, accurate observation as "personal effects, non-evidentiary." She used the same procedural expertise — the same careful handwriting, the same institutional forms, the same authority — to bury the proof.
+
+**The unity:** Same pen. Same forms. Same careful handwriting. Same professional skill. Once to protect, once to bury. The altered report and the property intake form are signed by the same hand, in the same small, precise script. The player who discovered the altered report in Ch 5 and the property intake form in Ch 7 now sees the full shape: Aizawa's most loving act and her most selfish act required exactly the same competence. The woman who built her life around documentation chose not to read a child's documentation. Her procedure is what made Mira's work invisible.
+
+**The complication:** The altered report is part of the paper trail Endo later cited. By softening Mira's file, Aizawa made it easier for the institution to categorize Mira as "managed" — the classification that allowed the system to absorb her reports without acting. Kindness became complicity through procedure. The love and the selfishness are the same skill applied at different moments for different reasons — and both contributed to the institutional silence that killed Mira.
+
+**Emotional asymmetry (seeded Ch 5):** Mira's persistent reporting was Aizawa's institutional absolution. Every filed report was evidence that the pipeline was functioning. The child's refusal to stop knocking was the counselor's proof that the door worked. Now the player sees the full arc: Aizawa used Mira's persistence as career evidence, protected Mira's ability to persist (the altered report), and then buried the proof of what Mira's persistence produced (the notebook classification). The same woman, the same skill, three applications — validation, protection, burial — all in service of the same institutional identity.]
+
+[NOTEBOOK PROMPT: "AIZAWA — NOTEBOOK CLASSIFICATION (BREAK EXTENSION): After Mira's death, Aizawa opened the blue observation notebook. Saw eraser reviews on first pages. Did not read further. Classified 14 months of dated, accurate observation as 'personal effects, non-evidentiary.' 'I didn't read further because I already knew what was in it.' She knew the notebook contained proof — proof that the reports were accurate, the dismissals wrong, the system broken. Reading further would have required her to act. She chose not to look. HIGASHINO DOUBLE-REVEAL: Same handwriting signed the altered report (Ch 5, protection) and the property intake form (Ch 7-8, burial). Same pen. Same forms. Same skill. Once to protect a living child's voice. Once to silence a dead child's documentation. 'I didn't just fail to act while she was alive. After she died, I held the proof. And I chose not to look.'"]
+
+---
+
 ### SOUL READ — AIZAWA (Second)
 
-[Mira's read comes late — a full five seconds after the call ends. In Chapter 3, the read arrived before the phone stopped ringing. In Chapter 5, the delay was a beat. Now it's a gap the player measures in breaths. Delayed by the degradation and by whatever happened during the Endo read. When it arrives, it's brief:]
+[Mira's read comes late — a full five seconds after the call ends. In Chapter 3, the read arrived before the phone stopped ringing. In Chapter 5, the delay was a beat. Now it's a gap the player measures in breaths. Delayed by the degradation and by whatever happened during the Endo read. When it arrives, it's brief — but different from the first read:]
 
 MIRA: "She's... cracked. Like a cup that still holds water but you can see the line. She'll never be the same cup again."
 
@@ -493,7 +605,21 @@ MIRA: "She was the closest one."
 
 [She means: Aizawa was the person in the system who came closest to helping. Who believed Mira, documented everything, and then — at the exact moment where belief needed to become action — chose the institution over the child. Not from malice. From the scar tissue of a prior attempt at bravery that the system punished.]
 
-[NOTEBOOK PROMPT: "SOUL READ — AIZAWA (2nd): 'Cracked — cup that still holds water, can see the line.' Telling the truth, all of it. 'The closest one' — Aizawa came closest to acting. Believed Mira, documented everything, chose procedure over action. The system taught her that action is punished. CONTRAST WITH ENDO: Aizawa broke under the system. Endo mastered it. Same pressure, opposite outcomes."]
+[Longer pause. The wire-sound is rough. When Mira speaks again, her voice carries something the player hasn't heard in a Soul Read before — not judgment, not analysis. Recognition.]
+
+MIRA: "She changed the report. The one that would have flagged me. I didn't know that until now."
+
+[Beat.]
+
+MIRA: "And then she held my notebook and didn't read it."
+
+[Silence. The player waits. When Mira delivers the final line of the read, it is very quiet — the voice of a child understanding that the person who protected her and the person who buried her were the same woman, using the same pen.]
+
+MIRA: "Same handwriting. Both times."
+
+[She does not elaborate. She does not need to. The player who discovered the altered report in Ch 5 and the property intake form in Ch 7 now hears Mira name the shape they've been assembling: the most careful hand in the institution wrote the protection and the burial. The read is not accusation. It is the sound of a nine-year-old arriving at a fact she cannot organize into the categories she built for the world.]
+
+[NOTEBOOK PROMPT: "SOUL READ — AIZAWA (2nd): 'Cracked — cup that still holds water, can see the line.' Telling the truth, all of it. 'The closest one' — Aizawa came closest to acting. Believed Mira, documented everything, chose procedure over action. The system taught her that action is punished. MIRA'S RECOGNITION: 'She changed the report... And then she held my notebook and didn't read it. Same handwriting. Both times.' Mira sees the Higashino shape — protection and burial by the same hand. CONTRAST WITH ENDO: Aizawa broke under the system. Endo mastered it. Same pressure, opposite outcomes."]
 
 ---
 
@@ -587,7 +713,7 @@ OGAWA: "Good luck."
 
 [He looks at his notes from the Endo call: helpful, warm, cooperative, offering leads, connecting people. Every word accurate. Every lead real. The most useful NPC he has ever spoken to.]
 
-[He looks at his notes from the Aizawa call: cracked, honest, devastating. A person who saw the truth and chose the version of her job that absorbed it instead of acting on it.]
+[He looks at his notes from the Aizawa call: cracked, honest, devastating. A person who saw the truth and chose the version of her job that absorbed it instead of acting on it. And then — after the child was dead — held the proof in her hands and chose not to look. The same handwriting that once protected Mira signed the form that buried her.]
 
 [He looks at his notes from the Ogawa call. Three words, circled: *But she's okay.* Not a defense of the system. Not an accusation. A fact. A child who was protected by the same method that destroyed Mira. He stares at those three words and cannot make them mean what he needs them to mean.]
 
@@ -637,7 +763,8 @@ MIRA: "He remembered my voice better than my mom does."
 - Endo called Kenji directly. Warm, helpful, cooperative. Offered real leads (Watanabe witness, staffing change context, Fumiko's pattern as unreliable). Every lead was genuine. Every lead pointed away from him.
 - Endo's tells: describes Mira's reporting behavior ("bracing, preparing for impact") with listener's precision, not observer's. Describes Doi's private emotional state with fidelity that doesn't match community awareness. Knowledge resolution is wrong — too high-fidelity for stated source.
 - Mira's Soul Read on Endo: the locked room. Wall — no doors. Sadness everywhere ("breathing water"). Absolute certainty. Everything organized, nothing hidden, house too clean. "I think he thinks he was helping me." Mira went silent for two scenes. The only read that scared her.
-- Aizawa's break: "I chose the version of my job that let me sleep." She believed Mira, documented everything, followed procedure that was designed to absorb information without producing action. Closest person to helping. Chose the institution.
+- Aizawa's break (extended): "I chose the version of my job that let me sleep" — now carries double weight. While Mira was alive: documented everything, acted on nothing. After Mira's death: opened the observation notebook, saw eraser reviews, classified it as "personal effects, non-evidentiary." Did not read further. "I didn't read further because I already knew what was in it." The notebook contained fourteen months of proof. Aizawa held it and chose not to look. "I didn't just fail to act while she was alive. After she died, I held the proof. And I chose not to look."
+- Aizawa's Higashino double-reveal complete: The altered report (Ch 5, act of love — rewrote a disciplinary form to protect Mira's ability to report) and the notebook classification (Ch 8, act of selfishness — buried the notebook that proved Mira's reports were accurate). Same handwriting. Same institutional skill. Same careful pen. Once to protect, once to bury. Mira's Soul Read names it: "Same handwriting. Both times." The complication: the altered report softened Mira's file, which made it easier to categorize her as "managed" — the classification Endo later weaponized. Kindness became complicity through procedure.
 - Contrast established: Aizawa broke under the same institutional pressure Endo mastered. Same system, opposite outcomes.
 - Mira's inference: the cables under the community center are where Endo listens. Pattern recognition, not proof.
 - Dual-weight calls: every call now serves two functions — investigating the case AND listening for the breathing signal. The phone is both tool and compromised environment.
@@ -650,8 +777,10 @@ MIRA: "He remembered my voice better than my mom does."
 - ENDO — TELL #2: Doi's private emotional state mirrored. Cable runs under Doi's street. Fidelity wrong for stated source.
 - ENDO — FUMIKO MANAGEMENT: Preemptively framed Fumiko as unreliable. Managing the journalist through the detective.
 - SOUL READ — ENDO: Locked room. Wall. Sadness. Certainty. No doors, no hiding. "He thinks he was helping me."
-- AIZAWA — BREAK: "I chose the version of my job that let me sleep." Documented everything, acted on nothing. The system's most faithful servant and its most honest failure.
-- SOUL READ — AIZAWA (2nd): "Cracked cup." Truth-telling. "The closest one."
+- AIZAWA — BREAK (EXTENDED): "I chose the version of my job that let me sleep" — now doubled. While alive: documented, never acted. After death: held the notebook, didn't read past eraser reviews. "I already knew what was in it." Same sentence, double weight.
+- AIZAWA — NOTEBOOK CLASSIFICATION: Property intake form. "Personal effects, non-evidentiary." 14 months of proof classified as a child's journal. Same handwriting as altered report (Ch 5). Same pen, same skill. Once to protect, once to bury.
+- AIZAWA — HIGASHINO COMPLETE: Altered report (love) + notebook classification (selfishness) = same procedural expertise, opposite applications. Mira's read: "Same handwriting. Both times."
+- SOUL READ — AIZAWA (2nd): "Cracked cup." Truth-telling. "The closest one." NEW: "She changed the report... And then she held my notebook and didn't read it. Same handwriting. Both times."
 - OGAWA — NISHIDA TESTIMONY: Aide was real concern. Transferred quietly. Child spared. Ogawa fired. "I don't know if that's justice." MIRA SAID NOTHING.
 - MIRA — INFERENCE: Cables under community center = Endo's listening post. Pattern recognition.
 
@@ -672,7 +801,7 @@ MIRA: "He remembered my voice better than my mom does."
 - Notebook: MAPPING THE GAP — Player is now tracking what Endo knows vs. what he should know. Each tell is a data point. The pattern of impossible knowledge is the evidence.
 - Soul Read: 11 reads total. Endo's read is the anomaly — the locked room. Mira cannot read him normally. Signal degradation compounding.
 - Endo Dynamic: ESTABLISHED. He is the highest-value NPC (real leads) and the antagonist (each call = recalibration). The player manages a suspect who sounds like help.
-- Aizawa: BROKEN. Her procedural wall has collapsed. She is now a potential ally — honest, devastated, willing to provide institutional details she previously withheld.
+- Aizawa: BROKEN — FULLY. Procedural wall collapsed. Notebook classification revealed. Higashino double-reveal complete (altered report + notebook burial). She is now a potential ally — honest, devastated, carrying the full weight of both acts. The player holds the complete shape of her failure: same skill, same pen, opposite applications.
 - Ally Management: COMPLEX. Fumiko needs continued information (publication timer). Haruki is contained but transformed (post-break, colder). Aizawa is newly open. Endo is offering cooperation.
 - Mira Degradation: DEGRADED. Speaks mainly during reads. Shorter, stripped of sarcasm. Conserving. Went silent for two scenes after Endo's read. The player feels her absence.
 - Redirect: DOMINANT MECHANIC for Endo. Silence doesn't work. Pressure doesn't work. Redirect forces him to choose directions, and the shape of his avoidances maps his secret.

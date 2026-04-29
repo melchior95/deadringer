@@ -306,6 +306,56 @@ MIRA: "The institution took the framing and ignored the support. He gave them bo
 
 ---
 
+### The Altered Report
+
+[AUDIO: More papers. Haruki is still pulling pages from the addendum — the rhythm hasn't settled. He's reading faster now, the way someone reads when they've found a seam in a filing system and are pulling it all out at once. Then the rhythm breaks. The papers slow. One page held separate from the rest.]
+
+HARUKI: "There's — huh. There's a disciplinary write-up behind the recommendation. Same addendum section."
+
+[He reads it silently for a moment. The player hears only the paper being held, turned, held again.]
+
+HARUKI: "It's a behavior incident report. Standard form. Dated a month before the recommendation. The report is about Mira — she interrupted a parent-teacher meeting to say that a classmate was being hurt at home."
+
+KENJI: "That would be the Yui report."
+
+HARUKI: "Right, right, but this is — this is the INCIDENT report. Different from the counselor referral. This is the one that goes to administration. It flags the student for disciplinary review. And the original language — you can see it, someone wrote in pen first and then — hold on."
+
+[He pauses. The overflow has stopped. When Haruki's overflow stops, the player has learned by now to listen.]
+
+HARUKI: "There are corrections. In different ink. Same handwriting — careful, small, very neat. But the original report said — I can see it underneath, the pen pressed harder the first time — the original said: 'Student exhibited defiant behavior during scheduled parent conference. Refused to leave when instructed. Made unsubstantiated allegations regarding a classmate's home situation. Recommend escalation to behavioral monitoring with possible referral to district services.'"
+
+[Beat.]
+
+HARUKI: "'Behavioral monitoring with possible referral to district services.' That's — if that language had gone through, that's a category change. That puts Mira on a different track. District services means outside evaluation. Possible psychiatric assessment. A nine-year-old girl who told the truth about her friend would have been flagged for evaluation."
+
+KENJI: "You said there were corrections."
+
+HARUKI: "Someone rewrote it. Same form, different ink. The corrections are in blue — the original was black. The corrected version reads: 'Student expressed concern for classmate during scheduled parent conference. Student was redirected and complied. Note: student demonstrates consistent pattern of peer advocacy. No further action recommended at this time.'"
+
+[He reads both versions side by side. The player hears him swallow.]
+
+HARUKI: "'Defiant behavior' became 'expressed concern.' 'Refused to leave' became 'was redirected and complied.' 'Unsubstantiated allegations' became 'peer advocacy.' Someone took the version of this form that would have destroyed Mira's file and turned it into the version that let her keep reporting."
+
+[Beat.]
+
+HARUKI: "The corrected version is what went to administration. The original — the black-ink version — is still visible underneath. Whoever made the corrections didn't use whiteout. They just wrote over it. Carefully. In a hand that's — it's very precise. Very small."
+
+KENJI: "Whose handwriting?"
+
+HARUKI: "I don't — it's not mine. It's not the principal's. Let me check the counselor's notes for comparison..."
+
+[Papers shuffling. A pause.]
+
+HARUKI: "It's Aizawa's. The corrections are in Aizawa's handwriting."
+
+[AUDIO: The classroom goes quiet. Not the dread-quiet that will come with the Three Names. A different kind — the quiet of recognizing that a person you've been building a single picture of has a second shape underneath.]
+
+[NOTEBOOK PROMPT: "AIZAWA — ALTERED REPORT: Disciplinary incident report on Mira, dated one month before Haruki's recommendation. ORIGINAL LANGUAGE (black ink): 'defiant behavior,' 'refused to leave,' 'unsubstantiated allegations,' 'recommend escalation to behavioral monitoring with possible referral to district services.' CORRECTED LANGUAGE (blue ink, Aizawa's handwriting): 'expressed concern,' 'was redirected and complied,' 'peer advocacy,' 'no further action recommended.' Aizawa rewrote the form that would have flagged Mira for psychiatric evaluation. She softened the language that would have ended Mira's ability to report. Same pen, same careful handwriting she uses on everything. The corrected version went to administration. The original is still visible underneath. CROSS-REF: This altered report is part of the paper trail Endo later cited (Ch 9). By softening Mira's file, Aizawa made it easier for the institution to categorize Mira as 'managed' rather than 'dangerous.' The protection and the burial are the same skill."]
+
+[DESIGN NOTE — AIZAWA HIGASHINO SEED (ACT OF LOVE): This is Aizawa's hidden act of love, seeded here for discovery in Ch 7-8. The altered report is the first of her two hidden acts. While Mira was alive, Aizawa used her procedural expertise to protect — she took a form that would have escalated Mira out of the school system and rewrote it so Mira could keep reporting. The skill is identical to the one she will later use to bury Mira's notebook (the act of selfishness, revealed in Ch 8): careful handwriting, institutional forms, the professional authority of a counselor who knows exactly which words trigger which institutional responses. Same pen. Same hand. Same woman. Once to protect a living child's ability to speak. Once to silence a dead child's documentation. The player who discovers both acts holds the full Higashino shape: the most loving thing Aizawa did and the most selfish thing Aizawa did required exactly the same competence. The irony deepens: by softening the disciplinary report, Aizawa ensured Mira stayed in the system as "managed" — which is the classification Endo later weaponized. Her protection was the precondition for the institutional absorption that followed. Kindness became complicity through procedure.]
+
+---
+
 ### The Three Names
 
 HARUKI: "The three students who filed those reports — I cross-referenced with attendance records, and the attendance data uses a coding system where — actually that's not important, the point is —"
@@ -710,7 +760,25 @@ AIZAWA: "I chose the version of my job that let me sleep."
 
 [Silence. The click of the sanitizer bottle again — the ritual, one more time.]
 
-[NOTEBOOK PROMPT: "AIZAWA — documented everything Mira reported. Filed through 'proper channels' (safety council → Endo). Never followed up independently. Reason: previous school, she reported aggressively and was reprimanded. Carried the lesson: 'act within the rules or you pay.' Mira's reports entered her documentation and died there. 'I chose the version of my job that let me sleep.'"]
+[Then — quieter, the voice of someone who has crossed a line and cannot uncross it:]
+
+AIZAWA: "The worst part is that she kept coming back. Every time something happened — the car, Yui, a new detail about the man near the school — she came to my office and she sat in the chair and she told me. And every time she came back, I thought: the system is working. A student is reporting. I'm documenting. The process is functioning."
+
+[The sanitizer clicks. Slower now — not the anxious rhythm. Something heavier.]
+
+AIZAWA: "Every report she filed was proof that the pipeline was active. That the school had a functioning reporting channel. That my documentation was being used. I put it in my self-evaluation. 'Student engagement with reporting protocols demonstrates effective counselor-student trust relationship.'"
+
+[She stops. The player hears the sentence land — not on Kenji, but on Aizawa herself. She is hearing her own words from the outside for the first time.]
+
+AIZAWA: "Her persistence was my evidence that I was doing my job."
+
+[Beat. The sanitizer stops entirely.]
+
+AIZAWA: "A child kept coming back to a door that was locked, and I counted each knock as proof the door was open."
+
+[DESIGN NOTE — AIZAWA EMOTIONAL ASYMMETRY: This is the core of Aizawa's Higashino design. Mira's reports gave Aizawa institutional absolution. Every filed report was evidence that procedure was functioning — that the counselor-student trust relationship was intact, that the reporting pipeline was active. Aizawa cited Mira's persistence in her self-evaluation as proof of effective practice. The emotional asymmetry: Mira's most desperate act (returning to a system that produced nothing) was Aizawa's professional validation. The child's refusal to stop knocking was the counselor's proof that the door worked. This seeds the Ch 8 break extension, where the asymmetry collides with the notebook classification — the woman who used Mira's reporting as career evidence later buried the notebook that contained Mira's most complete documentation.]
+
+[NOTEBOOK PROMPT: "AIZAWA — documented everything Mira reported. Filed through 'proper channels' (safety council → Endo). Never followed up independently. Reason: previous school, she reported aggressively and was reprimanded. Carried the lesson: 'act within the rules or you pay.' Mira's reports entered her documentation and died there. 'I chose the version of my job that let me sleep.' EMOTIONAL ASYMMETRY: Cited Mira's persistent reporting in her own self-evaluation as evidence of effective practice. 'Her persistence was my evidence that I was doing my job.' A child's desperation was a counselor's metric."]
 
 ---
 
@@ -981,7 +1049,8 @@ MIRA: "How many times does a helpful person's name appear before it stops meanin
 - Sora Hayashi: identified as the drawing boy. Third grade, quiet, drew maps — including underground lines his teacher called "vivid imagination." Disappeared 4 months after his report was dismissed. Missing.
 - Ogawa firing: teacher terminated after complaint amplified by council review. Same council that dismissed children's reports about the community leader. Opposite response depending on target.
 - Masato Endo: safety council chairman. Designed the reporting structure. Reviewed and dismissed ALL reports about adult conduct near school. His name now appears seven times across community and institutional contexts.
-- Aizawa: believed Mira, documented everything, filed through channels, never acted independently. Previous school: reprimanded for aggressive reporting. "I chose the version of my job that let me sleep."
+- Aizawa: believed Mira, documented everything, filed through channels, never acted independently. Previous school: reprimanded for aggressive reporting. "I chose the version of my job that let me sleep." Emotional asymmetry: cited Mira's persistent reporting in her self-evaluation as evidence of effective counselor practice. "Her persistence was my evidence that I was doing my job."
+- Aizawa — altered report: a disciplinary incident report on Mira (re: Yui intervention at parent-teacher conference) was rewritten in Aizawa's handwriting. Original language would have escalated Mira to behavioral monitoring with district services referral (psychiatric evaluation track). Aizawa softened: "defiant behavior" → "expressed concern," "unsubstantiated allegations" → "peer advocacy." Blue ink over black. Same careful handwriting. The protection preserved Mira's ability to report — but also kept her classified as "managed," which Endo later weaponized. Same procedural skill, applied once to protect, later (Ch 8) to bury.
 - Memory Fragment #3 completed: Mira reported Yui's abuse to Aizawa. Report was perfect — documented, filed, routed to committee chaired by Endo. Nothing happened. All three Memory Fragments now experienced (mother, peer, institution).
 - System pattern: reports entered the machine and disappeared. The machine was designed by the person the reports were about. The system isn't broken — it's functioning as designed.
 - Phone anomaly: wrong connection during routine call — fragment of unknown conversation about "the reports from that year." School contact dismisses as local phone weirdness: "The lines have long memories." Mira noted the static was "different... layered." Filed as rural infrastructure.
@@ -994,7 +1063,8 @@ MIRA: "How many times does a helpful person's name appear before it stops meanin
 - SORA HAYASHI — drawing boy confirmed. Third grade, missing. Maps with underground lines. "Where the streets don't match the map."
 - OGAWA FIRING — council escalated against teacher, dismissed against community leader. Same mechanism, opposite outcomes.
 - ENDO COMMITTEE CHAIR — designed reporting structure. Signature on every dismissal. Seven name appearances.
-- AIZAWA — documented, filed, stopped. "I chose the version of my job that let me sleep."
+- AIZAWA — documented, filed, stopped. "I chose the version of my job that let me sleep." Emotional asymmetry: Mira's persistent reporting was Aizawa's professional validation. "Her persistence was my evidence that I was doing my job."
+- AIZAWA — ALTERED REPORT: Disciplinary form rewritten in Aizawa's hand. Original: "defiant behavior," "unsubstantiated allegations," "recommend behavioral monitoring." Corrected: "expressed concern," "peer advocacy," "no further action." Blue ink over black. Same form, same careful handwriting. Protection that became precondition for institutional absorption.
 - SOUL READ — AIZAWA: believed Mira, chose inaction. "Worse than not believing."
 - SYSTEM TIMELINE — 3 years of reports, all routed through same committee, all dismissed by same chair.
 
@@ -1021,6 +1091,7 @@ MIRA: "How many times does a helpful person's name appear before it stops meanin
 ### Threads Open
 - Haruki uncoordinated action → Ch 6 (point of no return — he WILL push a lead alone)
 - Haruki hidden acts → Ch 8-9 (Higashino payoff — "disruptive honesty" weaponized by Endo; recommendation letter as evidence of systemic filtering)
+- Aizawa hidden acts → Ch 7-8 (Higashino payoff — altered report (love, seeded this chapter) + notebook classification (selfishness, Ch 8). Same procedural skill: once to protect, once to bury. Property intake form discoverable Ch 7-9.)
 - Mira report chronology → Ch 8-9 (Yui-sequence dates — earliest flag predates silver car by 8+ months, domestic concern origin, classification cascade)
 - Doi follow-up → Ch 6 (false confession triggered by community pressure)
 - Fumiko Arai → Ch 6 (drawn out by investigation's ripple effects)

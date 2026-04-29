@@ -259,7 +259,46 @@ MIRA: "She's scared. Not of Endo — of being wrong. Fourteen years of being rig
 
 ## SCENE 4: CALL — KAITO (The Notebooks Recontextualized)
 
-[Before the call, Kenji reviews school records obtained through the investigation — incident reports, witness intake forms, the administrative paper trail of Mira's reporting period. Among the forms: a student witness intake form, standard format, dated during the week of Mira's third report to Ms. Aizawa. The form has fields for name, date, relationship to reporting student, and a single response line.]
+[Before the call, Kenji reviews records obtained through the investigation — incident reports, witness intake forms, evidence custody documents, the administrative paper trail of Mira's reporting period and its aftermath.]
+
+### The Property Intake Form
+
+[Among the custody documents: a property intake form. Standard format, police-adjacent — the kind of form used when a minor's belongings are processed after death. It was filed during the initial investigation, before the case went cold. Kenji almost skips it — administrative paperwork, the bureaucratic tail end of a tragedy.]
+
+[VISUAL: The form. Close-up. Institutional. A different format from the school records — this one has the district social services header, not the school's. The fields are spare: date, case number, item description, classification, processing officer signature.]
+
+*PROPERTY INTAKE — PERSONAL EFFECTS*
+*Case: KITAHARA, MIRA (Deceased)*
+*Date: [three weeks after Mira's death]*
+*Item: Blue composition notebook, approx. 120 pages, handwritten entries*
+*Classification: Personal effects, non-evidentiary*
+*Processing Officer: AIZAWA, EMI (School Counselor, Yanagi Elementary)*
+*Signature: [Aizawa's careful, small handwriting]*
+*Notes: "Notebook contains personal writing — eraser reviews, daily observations, creative entries. Assessed as personal journal material. No investigative relevance identified."*
+
+[Kenji reads it. He reads it again.]
+
+[The blue notebook. Mira's observation notebook — the one Kenji has been cross-referencing since Chapter 2. The notebook that contains fourteen months of dated, accurate observation. Silver car timestamps. Behavioral patterns. The supervision gap. The "can't vs. won't" entry. Everything Mira documented.]
+
+[And on this form, in Aizawa's handwriting: *"Personal effects, non-evidentiary."*]
+
+[The classification is wrong. Not wrong like a mistake — wrong like a choice. The notebook is the single most relevant piece of evidence in the case file. It contains dated corroboration for every report Mira filed. It is the physical proof that the dismissed reports were accurate. And the woman who processed Mira's belongings — who opened the notebook, who saw the first pages — classified it as a personal journal.]
+
+[DESIGN NOTE: The form note says "eraser reviews, daily observations, creative entries." The first pages of Mira's notebook DO contain eraser reviews — the reader saw them in Ch 2. They are followed by fourteen months of increasingly precise observational documentation. Aizawa opened the notebook. She read the first pages. She saw a child's eraser reviews and stopped reading. Or she saw the eraser reviews and chose to stop reading. The form is the evidence of the moment Aizawa held proof and decided not to look at it.]
+
+MIRA: "..."
+
+[Silence. Not the conservation of degradation. The silence of hearing the shape of your own erasure — the specific moment where everything you documented was reclassified as nothing, by the one person who should have known what the notebook contained.]
+
+KENJI: "Aizawa signed this."
+
+[He says it to himself. To the room. To Mira, who does not respond.]
+
+[NOTEBOOK PROMPT: "AIZAWA — PROPERTY INTAKE FORM: Processed Mira's belongings after death. Classified the blue observation notebook as 'personal effects, non-evidentiary.' Form note: 'eraser reviews, daily observations, creative entries.' Aizawa opened the notebook. She saw the first pages — the eraser reviews. She did not read further. She classified fourteen months of dated, accurate observation as a child's journal. The woman who built her career on documentation chose not to read a child's documentation. Signature on the form: Aizawa's careful, small handwriting — the same handwriting that corrected Mira's disciplinary report (Ch 5). Same pen. Same hand. Same institutional skill. Once to protect. Once to bury. DISCOVERABLE: Ch 7-9. Cross-reference with altered report (Ch 5) and Aizawa's break extension (Ch 8)."]
+
+---
+
+[Among the same records: the school forms from Mira's reporting period. A student witness intake form, standard format, dated during the week of Mira's third report to Ms. Aizawa. The form has fields for name, date, relationship to reporting student, and a single response line.]
 
 [VISUAL: The form. Close-up. Clean, institutional. Standard school district format.]
 
@@ -905,6 +944,7 @@ MIRA: "Someone is in there."
 - Fumiko's historical case confirmed: child from Senzoku Ward, 8 years ago, matches one of three dismissed school reports. Same committee chair: Endo. Pattern predates Mira by years.
 - Endo's institutional footprint: never absent from child welfare review committees, safety council, volunteer coordination. Every institutional gate that could have caught the pattern — Endo was the gatekeeper.
 - Ogawa thread: Endo on the committee that fired Ogawa AND dismissed Mira's reports. Same committee, opposite outcomes. The listener removed, the reports buried. Ogawa callable in Ch 8 — core content for the Nishida dilemma.
+- Aizawa — property intake form: After Mira's death, Aizawa processed her belongings. Opened the observation notebook, saw eraser reviews on the first pages, classified it as "personal effects, non-evidentiary." Did not read further. Fourteen months of dated, accurate observation buried by the one person whose professional identity was built on documentation. Same careful handwriting as the altered disciplinary report (Ch 5). Same institutional skill — once to protect a living child, once to bury a dead child's proof.
 - Fumiko's infrastructure map: old telephone exchange cables, decommissioned 1980s, run under community center, school, Doi's street. Significance unclear. Map annotated in red pen. Enters evidence.
 - TIMESTAMP ANOMALY: Council session rescheduled from 17th to 14th — three days before Haruki's Murakami visit. Endo adjusted before anyone officially told him. Mechanism: the investigation's calls travel through Yanagi's phone infrastructure. He has been listening.
 - "HE HEARD US" — Mira's realization. Not "he heard Haruki." Us. The player and Mira. Every call since Ch 3 traveled through the exchange. Every conversation. Every Soul Read. The investigation has been transparent from the start.
@@ -930,6 +970,7 @@ MIRA: "Someone is in there."
 - FUMIKO — TIMESTAMP ANOMALY — Council session moved from 17th to 14th. Endo adjusted 3 days before Haruki's visit. He knew before he was told. How: phone exchange monitoring.
 - MIRA — "He heard us." The investigation has been transparent. Every call routed through the same infrastructure Endo controls.
 - SOUL READ — KAITO: "Doesn't know how to show it properly." New: someone listening. "Window opened." [If confrontation] "Carrying something heavy — a calculation that came back wrong." "He answered every time I called."
+- AIZAWA — PROPERTY INTAKE FORM: Classified Mira's observation notebook as "personal effects, non-evidentiary." Saw first pages (eraser reviews), did not read further. Same careful handwriting as altered report (Ch 5). Same skill: once to protect, once to bury.
 - KAITO — WITNESS FORM: "No relevant observations" — same language as Doi (Ch 1). He had everything. He said no.
 - KAITO — PHONE RECORDS: 14 late-night calls, Kitahara → Nishimura, 8:45-9:30 PM. Every call answered. Mira's nighttime lifeline. He knew everything she knew.
 - KAITO — CONFRONTATION: Emotional asymmetry. "She was already saying it." "I didn't want to be the one they looked at next." His rational silence was the system's mechanism with better reasoning.
@@ -964,6 +1005,7 @@ MIRA: "Someone is in there."
 - The breathing → Ch 8-9 (living child in infrastructure — present-tense rescue thread)
 - Endo direct contact → Ch 8 (he calls Kenji — the most dangerous call in the game, on the same lines where a child was breathing)
 - Kaito confrontation → Ch 8-9 (if witness form not yet surfaced this chapter, deferred confrontation with witness form + phone records fires during break sequence)
+- Aizawa hidden acts → Ch 8 (property intake form + altered report = Higashino double-reveal during break extension. Same pen, same forms, same handwriting — once to protect, once to bury.)
 - Infrastructure map + Endo's knowledge pattern → Ch 9-10 (overlay reveals exchange location)
 - Framing deconstruction → Ch 9 (Sora's map page anomaly, Haruki's break, full Rina recontextualization)
 - Garden → Ch 9 (botanical timeline, nursery receipts, three-week gap)
