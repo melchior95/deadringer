@@ -52,6 +52,8 @@
 
 [On the refrigerator, held by a magnet: a photograph of Mira. Not a memorial photograph — not the formal school picture that appeared in the news. A candid one. Mira at the kitchen table, notebook open, pencil in hand, looking up at the camera with the expression of a child interrupted mid-observation. Annoyed. Focused. Alive.]
 
+[DESIGN NOTE — CARE/OWNERSHIP RESOLUTION: Reiko has crossed from ownership-care to genuine care. For the entire game, she maintained Mira's memory the way the town maintains its image — tending the shrine, cooking the nikujaga, performing motherhood as maintenance. In this scene, she stops maintaining and starts sitting with reality. The notebook is on the table, not the shrine shelf. She is eating the food, not throwing it away. The transition is the thematic payoff of Mira's Ch 2 line: "Some people care about a place the way you care about a thing you own." Reiko has stopped owning her grief and started living with it.]
+
 ---
 
 ### DOI
@@ -167,6 +169,8 @@
 [The old phone — Mira's phone, the dead phone from the drawer that rang at 3:47 AM — is in the drawer. With five others. Six dead phones from cases that ended. Six connections that went silent. Six numbers that stopped ringing.]
 
 [He checks it sometimes. Takes it out, looks at the screen, holds it the way you hold something that used to be alive. The screen is dark. The line is dead. The signal that was the strongest thing the exchange ever carried is part of the infrastructure now — another impression in the copper, another voice in the static, another record in a system that nobody maintains anymore.]
+
+[His thumb traces the edge of the case. The notebook — her notebook — had the same structure his case file did. Dates in the margins. Observations cross-referenced by location. Corrections when new data changed old conclusions. A nine-year-old's methodology, identical to his own, assembled without training or precedent, just the instinct of someone who understood that accuracy requires revision. He finished her case the way you finish a colleague's case when they can't come back to the desk. You don't improve it. You follow the logic where it was already going.]
 
 [It doesn't ring.]
 
