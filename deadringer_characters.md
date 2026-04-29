@@ -1012,6 +1012,24 @@ He heard her more clearly than anyone — and decided the world would be better 
 
 ---
 
+### HIGASHINO LENS — The Selective Truth
+
+Endo's hidden architecture does not follow the standard asymmetry/selfishness/love structure. He is not a participant in the failure chain — he is its architect. His design requires a different framework.
+
+**The selective truth principle:** Endo never lies. He selects which true things reach which people, and the curation itself is invisible. The switchboard is his philosophy made literal — not a metaphor for control, but the physical infrastructure through which control operates. Every call he routes, every concern he "handles," every reassurance he offers is composed entirely of accurate information. The deception is structural, not verbal.
+
+**The partition pattern:** Endo routes different true things to different people. Truth A to person A. Truth B to person B. If they were ever in the same room, they'd produce understanding. They never are. Reiko hears that the neighborhood watch is active. Haruki hears that the council reviewed the report. Aizawa hears that proper channels are being followed. Doi hears that concern is appreciated. Each statement is true. Each statement, heard in isolation, produces the conclusion Endo needs: the system is working. Combined, they would produce the opposite conclusion: the system is one man, and the man is selecting what each person knows.
+
+**Ch 8 seeding:** Three leads become available, each containing a true thing that points away from Endo. Each also contains a truth that would point toward him — if heard alongside what Endo told someone else. The player who cross-references between leads begins assembling the partition map. The player who follows each lead in isolation reproduces the community's blindness.
+
+**Ch 12 reveal — the intercepts:** Mira in the switchboard hears all calls simultaneously. This is the mechanical payoff: the player receives what no one in Yanagi ever had — all of Endo's truths in one room. The partition collapses. The selective truths, heard together, produce the complete picture. The reveal is not that Endo lied. The reveal is that he never needed to.
+
+**Mira named it (Ch 10 notebook):** "He doesn't hide things. He sorts them. Everyone gets a piece. Nobody gets the picture." A nine-year-old described the mechanism that defeated an entire community. She wrote it in the notebook no one read.
+
+**Cost of truth:** There is no hidden act of love for Endo. There is no complicating tenderness. He is the endpoint — the person who understood the system completely and used that understanding to maintain it. The cost of solving the mystery is not personal for Endo. It is structural: proving that the community's trust was placed correctly (in a man who listened) and catastrophically (in a man who sorted what he heard). The player does not discover Endo's hidden depth. The player discovers that his surface was the depth — that total attention without response is the most complete form of the failure every other character enacted partially.
+
+---
+
 ---
 
 ## OGAWA SATOKO — The Honest Witness
@@ -1148,6 +1166,24 @@ Then, quieter — almost to herself:
 "...it was easier if it was her."
 
 She doesn't cry. She doesn't apologize. She recognizes, for the first time, that "normal" had a body count. Whether she sits with that or buries it again is left ambiguous. The game doesn't give the player a redemption arc for Rina. It gives them a moment of clarity.
+
+### HIGASHINO LENS — The Reasonable One
+
+**Emotional asymmetry:** Mira's outsider status gave Rina social definition. She was "reasonable" because Mira was "intense." She didn't build credibility — she spent Mira's. Every time Rina was believed without question, it was because the community had already decided that Mira was the unreliable one. Rina's social position was not self-constructed. It was the negative space around Mira's exclusion.
+
+**Hidden act of selfishness:** The notebook incident from second grade. Rina found the notebook — the patterned-cover notebook Mira lent her. She could have returned it. She didn't. She saw it, recognized the opportunity the absence would create, and let the absence do the work. She didn't take the notebook in the way a theft requires intent. She chose not to correct the record. The teacher sided with Rina by default because Mira's version of events was already pre-discounted. Rina absorbed the lesson: Mira's truth could be overruled without effort. The notebook incident is not the crime. It is the template — the first time Rina learned that the system would choose her version over Mira's, and the first time she let it.
+- *Evidence:* A school record or teacher note placing the notebook in a location Rina had access to, with a timestamp that contradicts her version of events. The record is minor — a lost-and-found log, a classroom incident note — but the date and location don't match what Rina told the teacher.
+- *Discovery window:* Ch 5-7, during school records investigation.
+- *Confrontation integration:* Fits into the existing break sequence. Adds a beat before "it was easier if it was her" — the player can present the notebook evidence as the origin point, the moment the pattern started. Rina's break is no longer just about what she didn't stop. It's about what she started.
+
+**Hidden act of love:** The voicemail she kept. Mira left Rina a voicemail — date unknown, content unknown to the player initially. Rina never deleted it. Phone records show the voicemail accessed repeatedly over years — not listened to once and forgotten, but returned to. The voicemail is evidence that Rina's social performance did not fully overwrite the friendship. Something in her kept going back to Mira's voice.
+- *Evidence:* Phone data discovered during school communication records investigation. Access logs showing repeated playback across years.
+- *Discovery window:* Ch 5-7, same investigation window as the notebook evidence.
+- *Complication:* The voicemail proves Rina remembered. She wasn't passively unaware of what she'd done — she carried it, revisited it, and still chose the social position over the friendship. The love makes the selfishness worse because it removes the defense of ignorance. She knew what she lost. She kept the evidence. She didn't change.
+
+**Cost of truth:** Rina can't maintain the frame that she was passive — that the social machinery operated around her without her participation. The notebook incident proves she fed it at the origin point. The voicemail proves she knew what it cost. The "reasonable" girl was reasonable because someone else paid the price of her reasonableness, and she watched it happen from the first day.
+
+---
 
 ### ONE-LINE SUMMARY
 
@@ -1320,6 +1356,24 @@ The tragedy is not that he failed Mira. It's that his failure was rational.
 
 *With Sora:* They never meet, but their observations are complementary halves of the same mechanism. Kaito tracked Yanagi's social patterns — who moved where and when, the visible behavior of the neighborhood. Sora mapped its physical systems — the cable runs, junction points, and infrastructure that explains how Endo knew what he knew. Kaito's logs help Kenji understand Endo's movements. Sora's maps help Kenji understand Endo's surveillance. Together, without coordination, two children documented both halves of the operation.
 
+### HIGASHINO LENS — The Boy Who Said Nothing
+
+**Emotional asymmetry:** Mira's willingness to be "the girl who says things" gave Kaito permission to be the boy who says nothing. Her courage was his exemption. Every time Mira reported and was dismissed, Kaito's calculation — that speaking would make things worse — was reinforced. He didn't just benefit from her silence being cheaper than his. He benefited from her noise being loud enough to cover his quiet.
+
+**Hidden act of selfishness:** During the investigation following Mira's reports about the silver car, a teacher or counselor asked Kaito directly if he'd seen anything unusual. He had — the silver car, the timing patterns, the route behind the post office. He said no. The form reads "no relevant observations." Not an omission. A direct, documented denial when asked point-blank. The language echoes the canvass report from Ch 1 — the same bureaucratic phrasing the system uses to close lines of inquiry.
+- *Evidence:* A school incident form with Kaito's name, dated, reading "no relevant observations." Discoverable when accessing school records during Ch 5-7 investigation.
+- *Discovery window:* Ch 5-7, concurrent with school records access.
+- *Confrontation integration:* Reshapes "I didn't tell anyone" from the existing break. The current break presents Kaito's silence as passive — he watched and didn't volunteer. The incident form proves it was active. He was asked directly and said no. The player can present the form during the break sequence, and "I didn't tell anyone" becomes "I was asked and I lied."
+
+**Hidden act of love:** The calls he answered. Phone records show calls from Mira's home to Kaito's phone, late evening, consistent over months. He answered every time. He was her nighttime lifeline — the person she called when the radio wasn't enough and the apartment was dark and her mother was at the hospital. The call durations vary. Some are short. Some are long. The pattern is consistent: Mira called, Kaito answered.
+- *Evidence:* Phone records discovered during communication records investigation. Call logs showing frequency, duration, and consistency.
+- *Discovery window:* Ch 5-7, same records access as the incident form.
+- *Complication:* He answered every call. He heard everything she was going through. He had more information than almost anyone in the community — not just his own observations, but Mira's real-time reports, her fear, her frustration, her documentation process. He was not an uninformed bystander. He was the best-informed witness in Yanagi, and he still wrote "no relevant observations" on the form.
+
+**Cost of truth:** Kaito's "rational" silence was the same mechanism the system runs on. The witness form proves he was inside the system, not outside it. He wasn't a misread outsider who was never asked — he was asked, and he chose the system's answer. His break can no longer rest on the defense that nobody listened. Someone did. He chose not to speak.
+
+---
+
 ### ONE-LINE SUMMARY
 
 He didn't speak up — not because he didn't know, but because he already knew what would happen if he did.
@@ -1449,6 +1503,24 @@ After the break scene, it recontextualizes. She wasn't fixing things. She was pe
 ### SUSPICION TIMING
 
 Mid-game peak — after Kaito's initial suspicion has been partially resolved, before Endo's pattern becomes visible. Aizawa is the pivot point where the player transitions from suspecting individuals to suspecting the system.
+
+### HIGASHINO LENS — The Woman Who Chose Not to Read
+
+**Emotional asymmetry:** Mira's reports gave Aizawa proof the pipeline was functioning. Every filed report was evidence that procedure was working — that the system received information, documented it, and processed it through channels. Mira's persistence was Aizawa's institutional absolution. As long as the reports kept coming and the documentation kept accumulating, Aizawa could tell herself the system was responsive. The system was not responsive. It was recording. Aizawa mistook the filing for the response.
+
+**Hidden act of selfishness:** After Mira's death, Aizawa handled her belongings at the school. She opened the observation notebook. She saw the eraser reviews on the first pages — the capsule machine catalogue, the one-line assessments of novelty erasers. She did not read further. She closed the notebook and classified it as "personal effects, non-evidentiary" on the property intake form. The woman who built her career around documentation chose not to read a child's documentation. She saw the first page and decided the rest was the same.
+- *Evidence:* A property intake form with Aizawa's signature, classifying the notebook as personal effects. The form is dated, signed, and specific. The classification is wrong — the notebook contains observation entries that are evidentiary by any standard. Aizawa signed it anyway.
+- *Discovery window:* Ch 7-9, during evidence chain investigation.
+- *Confrontation integration:* Connects to the existing break sequence where Aizawa admits "I chose the version of my job that let me sleep." The property form proves the choice continued after Mira's death. She didn't just fail to act while Mira was alive. She failed to read after Mira was dead. The sanitizer click accelerates.
+
+**Hidden act of love:** The report she altered. While Mira was alive, Aizawa quietly changed a disciplinary report — softened language that would have escalated Mira's classification from "behavioral concern" to something more permanent. The original draft survives in the school system. The filed version is gentler. Aizawa protected Mira on paper, in the only space she felt authorized to act.
+- *Evidence:* Two versions of the same document in school records — the original draft and the filed version. The changes are small but identifiable. Discoverable during school records investigation.
+- *Discovery window:* Ch 7-9, same records access as the property form.
+- *Complication:* The altered report is part of the paper trail Endo later cited. By softening Mira's file, Aizawa made it easier for the institution to categorize Mira as "managed" — a difficult child whose behavior was being handled through appropriate channels. The protection made the dismissal more efficient. Aizawa's act of love fed the system that killed the child she was trying to protect.
+
+**Cost of truth:** The woman who built her life around documentation chose not to read a child's documentation. The property form is the proof. She cannot defend the choice as institutional — it was personal. She looked at the notebook, saw the erasers, and decided a nine-year-old's observation log was not worth reading past the first page. The system didn't make that call. She did.
+
+---
 
 ### ONE-LINE SUMMARY
 
@@ -1783,6 +1855,28 @@ That is her lane. That is why she failed. That is why she's human.
 
 ---
 
+### HIGASHINO LENS — The Three Layers
+
+Reiko's hidden architecture is not a single act. It is a three-layer design that the player accumulates across the game and carries into the notebook scene (Ch 11).
+
+**Layer 1 — Ongoing asymmetry (texture, not discovery):** Emotional stability. Reiko used Mira's "difficult" reputation to justify not investigating. Every time the community confirmed Mira was "intense," Reiko took permission not to act. The confirmation wasn't passive — she sought it. She asked teachers. She listened to other parents. She collected the consensus the way she collected data points on a patient chart: systematically, to support a diagnosis she'd already made. This is not a discoverable beat. It is texture across every Reiko call — the player notices that her language about Mira mirrors the community's language, and recognizes that the mirroring was not coincidence. She built her denial from borrowed materials.
+
+**Layer 2 — Hidden act (the missed call):** Mira called Reiko from school. Afternoon. Reiko was sleeping — day sleep, the four-hour window between night shift and pickup. The phone woke her. The line was bad — static, interference, the kind of distortion you get near an active cable run. Mira's voice was urgent. Reiko told her to call back later. She didn't.
+- *Evidence:* Phone record showing an incoming call from the school to Reiko's phone. Short duration. Timestamp places it during Reiko's sleep window. The call originated near a cable run — the infrastructure that explains the line quality and connects to Sora's maps.
+- *Discovery window:* Ch 8-9, during communication infrastructure investigation.
+- *Confrontation integration:* The player carries this into the notebook scene (Ch 11). Reiko does not know about the cable runs. She does not know why the line was bad. She just knows her daughter called and she said "call back later" and her daughter didn't. The player knows more than Reiko — knows the call was made from a location where the lines bleed into something older, knows the infrastructure Endo uses. The asymmetry between player knowledge and Reiko's knowledge makes the notebook scene hit differently. Reiko is doing the arithmetic on what she failed to do. The player is doing the arithmetic on what the call might have been about.
+
+**Layer 3 — Cost (the notebook scene):** Already written in the manuscript (Ch 11). The player carries Layers 1 and 2 into the scene. The missed call sits behind "She was doing my job. She was nine years old and she was doing your job because none of us would do ours." The layer design means Reiko's break is not a single revelation — it is the accumulation of everything the player has learned about her, converging on the moment she reads her daughter's notebook and does the math.
+
+**Hidden act of love:** The fridge note. Not one of Mira's factual daily logs — a different note, found separately. A drawing of Lopsided the whale eraser, slightly lopsided in the drawing too. Below it, in Mira's handwriting: "Nikujaga was really good. You make the best one. Goodnight mom."
+- *Evidence:* The note itself, discoverable in Ch 11 during the apartment access sequence.
+- *Discovery window:* Ch 11, when Reiko opens Mira's room to the investigation.
+- *Complication:* The note is evidence that Mira's love was unconditional even when her trust was not. She stopped reporting to her mother. She did not stop loving her. The fridge notes the player has already seen — the late-game ones, stripped of observations, just schedules and "goodnight" — are the filtered versions. This one is from before the filtering. It is what Mira's communication looked like before she learned her mother wouldn't act. The distance between this note and the final entries is the distance Reiko's denial created.
+
+**Warmth moment — the centipede on the balcony:** Designed in the warmth integration pass. Mira and Reiko on the balcony, a centipede appears, Mira provides a matter-of-fact natural history lecture, Reiko listens. A moment where Mira's intensity was charming instead of exhausting, and Reiko was present instead of managing. The memory surfaces during a Reiko call and gives the player the texture of what the relationship looked like when it worked — before the reports, before the filtering, before the gap.
+
+---
+
 ### ONE-LINE SUMMARY
 
 She heard her daughter. She just chose the version she could survive.
@@ -2020,6 +2114,24 @@ She will, eventually, say Mira's name. She is not ready yet. She is learning tha
 
 ---
 
+### HIGASHINO LENS — The Lily in the Shoebox
+
+**Emotional asymmetry:** Mira gave Yui the one space where she could exist without performing safety. The river, the origami, the bad paper airplanes — that was the only context in Yui's life where she could be present without monitoring threat levels. Yui took refuge in that friendship while hiding it entirely, letting Mira carry the full weight of isolation alone. Mira was visible. Mira was "the liar." Yui never stood next to her in public. She took the shelter and contributed nothing to the cost of maintaining it.
+
+**Hidden act of selfishness:** After Mira's disappearance, during the volunteer search, Yui folded a lily for Mira. Forty-three folds — her most patient work. She brought it to the search perimeter. She saw Endo organizing the volunteers. She went home. The lily stayed in the shoebox. Not because she forgot — because the architecture held. Even after Mira was gone, the system of avoidance that controlled Yui's life still controlled her response to Mira's death. She had the object. She was at the location. She chose invisibility over tribute.
+- *Evidence:* The lily itself — found in the shoebox during or after the Yui intervention sequence. More deliberate than the other folds in the box. Mira's name written on one of the petals, dated to search week.
+- *Discovery window:* Ch 4-6, during or after Yui's rescue arc.
+- *Confrontation integration:* The lily is not confrontation material in the traditional sense. Yui is a child in danger. The lily is context — evidence that Yui's avoidance architecture persisted past the point where it was protecting her and into the territory where it was protecting itself. The player carries it.
+
+**Hidden act of love:** The crane on the windowsill. Already in the manuscript. The one defiant thing Yui left visible — the lopsided crane Mira helped fold, sitting on the windowsill where Takeshi could see it, where Yui's mother dusts around it. In a household where visibility is danger, Yui kept one piece of evidence of Mira's existence in plain sight.
+- *Evidence:* The crane itself. Visible during the apartment context.
+- *Discovery window:* Ch 4-6, established in the existing manuscript.
+- *Complication:* The crane was visible. The lily was hidden. Yui could leave Mira's mark on her windowsill but couldn't bring Mira's lily to the search. The acts are separated by the architecture of avoidance — the crane was small enough to pass beneath Takeshi's notice, the search was public, visible, a place where being seen carrying a memorial would generate exactly the kind of signal Yui's entire life is designed to suppress. She could be brave in private. She could not be brave where it mattered.
+
+**Cost of truth:** Even after Mira was gone, the architecture of avoidance still controlled Yui. The lily proves it. She is eleven years old and she has already internalized the system so completely that she cannot mourn in public. The cost of solving the mystery, for Yui, is the recognition that her survival strategy and Mira's death are products of the same structure — and that the same silence that kept Yui safe kept Mira alone.
+
+---
+
 ### ONE-LINE SUMMARY
 
 She survived by becoming invisible. Mira died by refusing to.
@@ -2216,6 +2328,24 @@ Ren is squinting in the photograph. Concentrating on something. His grandfather'
 
 ---
 
+### HIGASHINO LENS — The Man Who Did the Right Thing Wrong
+
+**Emotional asymmetry:** Doi saw what Mira saw. The silver car. The timing patterns. The adults who lingered. He had the same observational instinct, applied from a different vantage point — twenty-three years behind a store window instead of nine years on a riverbank. He took relief from responsibility by passing concerns up the chain. He reported his observations to the community safety council chair. The responsible thing. The proper channel. The same channel that absorbed everything.
+
+**Hidden act of selfishness:** Doi reported his observations to Endo directly. A concerned citizen doing the responsible thing. He told Endo about the silver car, about the timing patterns, about the things he noticed from behind the counter. Endo listened, thanked him, and used the information to calibrate — to adjust his patterns, to avoid the windows where Doi was watching, to refine the operation. Doi's responsible citizenship was Endo's early warning system.
+- *Evidence:* A council intake form, logged call record, or meeting note with Doi's name. Dated before Mira's death. The record shows Doi reported, and the report entered Endo's system directly.
+- *Discovery window:* Ch 7-9, during council records investigation.
+- *Confrontation integration:* Connects to Doi's existing arc — the man who stopped reporting after the custody hearing. The council record proves he didn't stop completely. He stopped reporting to authorities who might act. He continued reporting to Endo — the authority who would listen without acting. Doi chose the listener who wouldn't produce consequences, and the listener used what he heard.
+
+**Hidden act of love:** The notebook he gave her. Doi gave Mira the blue notebook — the one she used for observation entries, the one that becomes critical evidence. A brief entry in the early pages: "Notebook from Mr. Doi. He said I should write things down so I don't forget. Blue cover." Doi saw a child who noticed things and gave her a tool for noticing. He recognized something in Mira — the same compulsion to observe, the same frustration at being dismissed — and his response was the most natural thing in the world: here, write it down.
+- *Evidence:* Mira's notebook entry referencing the gift. Cross-referenced with Doi's store inventory or receipt records.
+- *Discovery window:* Ch 7-9, discovered during notebook analysis.
+- *Complication:* Doi gave Mira the tool she used to build the case, and then reported his own observations to Endo instead of acting on them himself. He equipped a nine-year-old to do the work he wouldn't do. The notebook is simultaneously the most generous thing anyone gave Mira and the most damning evidence that the adults around her expected a child to carry the responsibility they abdicated.
+
+**Cost of truth:** Doi's guilt isn't about inaction. He did the right thing — reported his concerns, gave a child a tool for documentation. He did the right thing in the wrong direction. His reports went to the man who used them. His notebook went to the child who died carrying it. The system didn't fail Doi by ignoring him. The system absorbed his participation and converted it into fuel.
+
+---
+
 ### ONE-LINE SUMMARY
 
 He stopped talking because the last time he told the truth, they took the only person he had left.
@@ -2392,6 +2522,24 @@ He is at a new school. He is a different teacher. Not better in any way that met
 He has been reprimanded once for this. He will be reprimanded again. He has decided that the reprimand is the correct cost.
 
 He doesn't run every morning anymore. Five times a week. Then four. The guitar is still three chords, but he's learning a fourth. He's not good at it yet.
+
+---
+
+### HIGASHINO LENS — The Label Maker
+
+**Emotional asymmetry:** Mira's willingness to fight the system let Haruki feel like the system was being challenged without him having to challenge it. Her energy was his proxy courage. When Mira stood at his desk and said "Mr. Ise, Yui's mom's boyfriend hits her," she was doing the thing Haruki believed in but couldn't do himself — bypassing the architecture, saying the true thing directly. He admired it. He processed it through channels. Her courage was his exemption from having to develop his own.
+
+**Hidden act of selfishness:** Haruki wrote the language in Mira's school file that converted her truth-telling into a behavioral category. "Disruptive honesty" — his phrase, his framing, entered into the institutional record during a parent-teacher conference. The existing bible documents this phrase and its weaponization. What the Higashino lens adds: Haruki didn't coin the term casually. He crafted it carefully, the way a teacher who cares about words would. He was trying to describe something real — Mira's inability to filter observations through social convention. He gave it a name that was precise, professional, and institutionally legible. That name became the vocabulary the system used to dismiss her.
+- *Evidence:* The school's internal characterization file on Mira, with Haruki's language identifiable. The phrase appears in the parent-teacher conference notes, then propagates through the file — cited in subsequent reports, referenced in council reviews. The trail leads back to Haruki's desk.
+- *Discovery window:* Ch 5-7, during school records investigation.
+- *Confrontation integration:* Already partially designed in the existing break sequence ("I named it. I gave it a name and they used the name."). The Higashino lens sharpens this: the player can now trace the label's propagation through the file system. The phrase didn't just appear in Endo's documentation — it was cited by other teachers, referenced in administrative reviews, absorbed into the institutional vocabulary. Haruki's most careful, most professionally responsible contribution was the thing that taught the institution how to dismiss Mira efficiently.
+
+**Hidden act of love:** The recommendation. In the same school file, filed alongside the behavioral characterization, a formal recommendation praising Mira's observation skills, her precision, her intellectual capacity. Haruki wrote it with the same care he brought to the label. He filed it through proper channels. Nothing happened. The recommendation exists in the file. Nobody acted on it. The system processed the label — which was useful for categorization — and ignored the recommendation — which would have required response.
+- *Evidence:* The recommendation document in the school file, dated, signed by Haruki. Discoverable alongside the characterization file.
+- *Discovery window:* Ch 5-7, same records access as the label evidence.
+- *Complication:* The recommendation and the label are in the same file. Haruki gave the system both tools — the language to celebrate Mira and the language to dismiss her. The system chose the tool that required less work. His most careful, most professionally responsible contribution was the thing that taught the institution how to dismiss Mira, and his most genuine advocacy was the thing the institution filed and forgot.
+
+**Cost of truth:** Haruki's label didn't just fail to protect Mira — it provided the system with the precise vocabulary it needed to process her into noise. "Disruptive honesty" is a category. Categories get managed. Managed categories get filed. Filed categories don't produce action. Haruki built the box they put her in. He also wrote the note saying she shouldn't be in a box. The system read the box label and didn't open the note.
 
 ---
 
