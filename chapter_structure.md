@@ -724,15 +724,18 @@ Hidden acts of love and selfishness discovered through investigation, not confes
 | Rina | Love | Voicemail access logs | Ch 5-7 | Break complication — she knew what she cost Mira, carried it for years |
 | Kaito | Selfishness | Witness form ("no relevant observations") | Ch 5-7 | Break reshaping — active denial when asked directly |
 | Kaito | Love | Phone records (14 late-night calls) | Ch 7 | Break complication — nighttime lifeline, every call answered |
-| Aizawa | Selfishness | Altered report (two versions, same handwriting) | Ch 5-7 | Break deepening — protection that fed the system |
-| Aizawa | Love | Property intake form ("non-evidentiary") | Ch 7-9 | Break complication — buried evidence she chose not to read |
-| Yui | Selfishness | Yui-sequence dates (first report predates all others) | Ch 5-9 | Timeline recontextualization — the "disruptive" label traced to its source |
-| Yui | Love | Notebook first entry | Ch 11 | Completes the Yui-sequence — Mira's first written observation was about Yui |
+| Aizawa | Love | Altered report (two versions, same handwriting) | Ch 5-7 | Break complication — protection that fed the system |
+| Aizawa | Selfishness | Property intake form ("non-evidentiary") | Ch 7-9 | Break deepening — buried the notebook she chose not to read |
+| Yui | Selfishness | Lily in shoebox (43 folds, Mira's name, search week) | Ch 4-6 | Post-intervention context — avoidance architecture persisted past death |
+| Yui | Love | Crane on windowsill (already in manuscript) | Ch 4-6 | The one defiant visible act — proof Mira existed in her life |
 | Doi | Selfishness | Council intake form (reported to Endo directly) | Ch 7-9 | Break reshaping — good-faith contribution co-opted by the system |
-| Haruki | Selfishness | Recommendation letter paired with "disruptive honesty" label | Ch 5 | Break deepening — institution weaponized his language, ignored his support |
-| Reiko | Selfishness | Phone record (43-second call, near cable run) | Ch 8-9 | Break deepening — the missed call given infrastructure context |
+| Doi | Love | Blue notebook gift (first entry: "Notebook from Mr. Doi") | Ch 7-9 | Break complication — gave Mira the tool, then failed to be the tool |
+| Haruki | Selfishness | "Disruptive honesty" label in school file | Ch 5-7 | Break deepening — institution weaponized his language |
+| Haruki | Love | Recommendation letter praising Mira's skills | Ch 5-7 | Break complication — institution ignored his support |
+| Reiko | Selfishness | Phone record (43-second call, near cable run) | Ch 8-9 | Layer 2 of three-layer design — the missed call |
 | Reiko | Love | Fridge note ("Goodnight mom" + lopsided drawing) | Ch 11 | Break complication — love persisted after reporting stopped |
 | Endo | Pattern | Partition pattern (same events, different audiences) | Ch 8-12 | Confrontation architecture — the collection reveals the design |
+| Mira (recontextualization) | Yui-sequence | Notebook first entry + institutional dates | Ch 5-9 / Ch 11 | Recontextualizes all prior reports — compassion was weaponized into classification |
 
 ### Non-Repetition Principle
 
