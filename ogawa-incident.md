@@ -150,6 +150,16 @@ Mira was not the first signal to push through the infrastructure. She was the fi
 
 ---
 
+## HIGASHINO-LENS CROSS-REFERENCES
+
+**Yui-sequence connection:** Mira's first report was about Yui, not about Ogawa or Endo. The Yui report — filed through Haruki, resulting in "a phone call that made things worse" — established Mira's reporting pattern before the Ogawa incident occurred. The Ogawa incident then provided the institutional template: Endo's suppression of Ogawa's Nishida report proved the mechanism worked, and the subsequent firing of Ogawa proved the mechanism could be weaponized. But the Yui-sequence is the emotional origin — Mira's first attempt to use the system to protect someone. The player who discovers the Yui hidden-act evidence (the lily, the crane, the voicemail) understands that the Ogawa incident's institutional logic was already operating on Mira before Ogawa was fired.
+
+**Haruki's "disruptive honesty" label:** The label originated before the Ogawa case — Haruki coined it during Mira's earliest reporting phase (the Yui period), when her persistence in raising concerns was first processed as a behavioral issue rather than accurate observation. By the time Ogawa was fired, the label was already attached to Mira's file, which meant that Ogawa's willingness to cross-reference Mira's observations was itself an act against the institutional grain: she was taking seriously a child who had already been formally categorized as disruptive.
+
+**Committee mechanism:** The safety council's role in the Ogawa incident is the same mechanism that later dismissed Mira's forty reports. The Ogawa case is the calibration event — Endo learned that the committee would follow procedural momentum if he adjusted initial conditions. This document's Level 2 and Level 3 reveals map directly onto the Higashino-lens design: the committee's suppression function is itself a hidden act, visible only to players who trace the institutional timeline across chapters.
+
+---
+
 ## WHAT MIRA SAW
 
 Mira processed the Ogawa incident the way she processed everything — as a data point in a system she was mapping.

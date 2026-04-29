@@ -167,7 +167,7 @@ Issues that could derail the project. Ordered by severity.
 | `deadringer_soul_read_voice_direction.md` | [DONE] | Mira voice coaching — 12-chapter degradation curve + 11 load-bearing scenes |
 | `deadringer_memory_fragments_production.md` | [DONE] | Production spec for 3 interactive scenes |
 | `epilogue_production.md` | [DONE] | 11 resolution scenes + title screen, per-scene production spec |
-| `deadringer_board_slot_audit.md` | [DONE] | All 70 notebook prompts tagged to 8 Board slots, reachability by playthrough |
+| `deadringer_board_slot_audit.md` | [DONE] | All ~87 notebook prompts tagged to 8 Board slots, reachability by playthrough |
 | `deadringer_asset_pipeline.md` | [DONE] | 5-phase generative asset production plan |
 | `character_image_prompts.md` | [DONE] | 99 character audition prompts (11 × 3 styles × 3 platforms) |
 | `deadringer_hero_location_prompts.md` | [DONE] | 27 hero location audition prompts (3 × 3 styles × 3 platforms) |
@@ -403,7 +403,7 @@ Alphabetical index of every spec doc. One-line purpose per file.
 - **`dead_ringer_complete.md`** — Compiled manuscript (preface + 12 chapters + epilogue)
 - **`deadringer_asset_pipeline.md`** — 5-phase generative asset production plan
 - **`deadringer_audio_signatures.md`** — Per-NPC/per-location audio design + wire-sound + Mira voice chain
-- **`deadringer_board_slot_audit.md`** — Audit of 70 notebook prompts against 8 Board slots, reachability analysis
+- **`deadringer_board_slot_audit.md`** — Audit of ~87 notebook prompts against 8 Board slots, reachability analysis (expanded from 70 during Higashino-lens pass)
 - **`deadringer_characters.md`** — Character bible for all 11 NPCs
 - **`deadringer_cutscene_structure.md`** — 23 cutscenes with format / tier / production specs
 - **`deadringer_elevenlabs_voice_briefs.md`** — Per-character voice production briefs (ElevenLabs §1–16 + local TTS workflow §17, F5-TTS / GPT-SoVITS / Fish Speech on RTX 5080)
@@ -432,6 +432,15 @@ Alphabetical index of every spec doc. One-line purpose per file.
 - Phase 3 voice briefs ready
 - Cutscene structure specified
 - Outstanding: style audition → style lock → Phase 2 art production
+
+### 2026-04-29 — Higashino-lens pass complete
+- Higashino-lens narrative additions (discoverable hidden acts of love/selfishness per character) implemented across all 12 chapter files, character bible, chapter structure, and board slot audit
+- Notebook prompt count expanded from ~70 to ~87 (hidden acts of selflessness/love, emotional asymmetry observations, Yui-sequence recontextualization evidence, Endo selective truth partition pattern)
+- Board slot audit updated to reflect new prompt count and Higashino-sourced entries
+- Companion documents verified for consistency: epilogue, epilogue production, ogawa-incident, cutscene structure, production tracker
+- Epilogue scenes confirmed consistent with hidden act designs — no prose changes needed; production annotations added for Reiko, Haruki, and Aizawa cross-references
+- Ogawa-incident cross-references added for Yui-sequence, Haruki label timeline, and committee mechanism
+- Cutscene structure annotated: notebook scene (Ch 11) Yui first-entry visibility, warmth moment (centipede/balcony) added as Tier 3 accent cutscene, Mira intercept forensic flatness audio direction added
 
 ### 2026-04-23 — Voice production pivot to local-first
 - `deadringer_elevenlabs_voice_briefs.md` extended with §17 Local TTS Workflow

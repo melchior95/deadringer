@@ -4,6 +4,12 @@
 
 ---
 
+## HIGASHINO-LENS DESIGN NOTE
+
+The epilogue scenes were written before the Higashino-lens pass but already embed hidden act resonances in each character's resolution. The Higashino additions (discoverable hidden acts of love/selfishness) recontextualize these scenes retroactively — the player who found all the evidence arrives at the epilogue with a different understanding of each character's quiet resolution. No production changes needed; the scenes are already correct.
+
+---
+
 ## STRUCTURAL OVERVIEW
 
 **Total runtime estimate:** ~9–11 minutes (resolution scenes) + ~30 seconds (title screen return)
@@ -128,6 +134,8 @@
 
 [DESIGN NOTE: Reiko's absence from her own scene is deliberate. She has been the most photographed grief in the game — three call scenes, the static call, the notebook scene. The epilogue grants her privacy. The player has earned the right to see her apartment; they have not earned the right to look at her face here. The room is the resolution.]
 
+[HIGASHINO CROSS-REF: The player who discovered the fridge note, the missed call, and the notebook's first entry about Yui arrives at this scene understanding that the notebook on the table — and the nikujaga being eaten — represent Reiko's recontextualized relationship with Mira's hidden care. The apartment tells that story without naming it.]
+
 [The relationship between a mother and her dead daughter has not been repaired. It has been recontextualized. Reiko understands now what Mira was, what Mira was doing, and what Reiko's failure cost. That understanding does not produce forgiveness — from either side. It produces something more durable: accuracy. Reiko now sees Mira the way Mira always saw the world. Clearly. Without the filter.]
 
 [CAMERA: The shot drifts toward the refrigerator. The player can examine the photograph if desired — a single tap brings the image to full frame. Otherwise, the camera holds wide and the photograph is visible but not emphasized.]
@@ -204,6 +212,8 @@
 [AUDIO: A school bell rings somewhere in the building — distant, the warning bell, fifteen minutes before classes. Haruki does not look up. He continues sorting.]
 
 [DESIGN NOTE — VOICE: Haruki has been the most verbal NPC in the game outside Mira and Kenji. His epilogue gives him no lines. The character who once explained too much, too fast, in the wrong register has been resolved into the man who simply does the work. Speech is not the resolution. The work is.]
+
+[HIGASHINO CROSS-REF: The player who uncovered the label/recommendation duality — that Haruki coined "disruptive honesty" AND wrote the letter recommending Mira's intellect — reads this scene knowing the label was struck but the recommendation was never acknowledged. His quiet, sustained practice is the resolution of both acts.]
 
 **Transition out:** Slow fade to black. Hold on black three seconds.
 
@@ -320,6 +330,8 @@
 [CAMERA: Push-in to medium close-up on the desk. The sanitizer bottle's absence is visible — there is a faint ring on the desk surface where the bottle sat for years. The ring is the evidence.]
 
 [DESIGN NOTE — THE SANITIZER BOTTLE: In Ch 8, Aizawa's break was marked by the click of the sanitizer bottle. The bottle was the metonym for her institutional self-management. Its removal here is the quiet sign that she has stopped that particular ritual. The faint ring on the desk is the residue — not erasure, recontextualization. The player who tracked the bottle in Ch 5 and Ch 8 sees this. The player who did not still sees a desk that looks slightly bare.]
+
+[HIGASHINO CROSS-REF: The player who discovered Aizawa's procedural duality — that she simultaneously protected children by keeping copies and buried reports by routing them through the system she knew was compromised — reads the new district-routed form she is filling out as the resolution of that duality. She chose the version that files correctly.]
 
 [The procedures have been reviewed. The routing of reports through the safety council has been restructured — behavioral filings now go to the district office directly, bypassing the local council. The change is administrative. It is also the specific reform that would have saved Mira's reports from being dismissed by the man who was the reason the reports existed.]
 

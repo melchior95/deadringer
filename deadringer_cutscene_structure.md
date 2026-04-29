@@ -10,7 +10,7 @@ Master list of cutscenes across the full game. Per cutscene: trigger, runtime, f
 - `deadringer_audio_signatures.md` — audio direction sources
 - `deadringer_hero_location_prompts.md` — Phase 1 hero location image prompts
 
-**Total cutscenes:** 23 major cutscenes + 11 epilogue scenes (specced elsewhere) + transition / connector beats.
+**Total cutscenes:** 24 major cutscenes + 11 epilogue scenes (specced elsewhere) + transition / connector beats.
 
 ---
 
@@ -477,6 +477,29 @@ Visual novel abstract cutscene frame — a warm cream field with faint copper-go
 
 **Notes:** this scene is emotionally the highest priority in Act IV. Budget for careful iteration. The "reading in silence" beat is the scene's engine — resist the temptation to fill it with action. Reiko reading, nothing else happening, is the design.
 
+**Higashino-lens note:** The notebook's first visible entry should be the one about Yui — Mira's earliest observation, the one that reveals she was watching and protecting another child before anyone was watching her. Reiko's reaction in beat 4 (the sustained reading) carries different weight for the player who already knows the Yui-sequence: Reiko is discovering her daughter's hidden acts of care. The handwriting close-up in beat 3 should show enough of the first entry's content to register "Yui" for attentive players, without foregrounding it as exposition.
+
+---
+
+### 3.16b THE WARMTH MOMENT — CENTIPEDE ON THE BALCONY (Ch 11)
+
+**Trigger:** during the 3 AM scene sequence; Mira describes Reiko's balcony ritual.
+**Runtime:** ~20 seconds.
+**Format:** Still + hold. No camera movement.
+**Tier:** 3 (accent — emotional weight carried by audio, not visual complexity).
+**Location:** Reiko's Apartment — balcony exterior, night.
+
+**Structure:** a single held image of the balcony. The composition: a small balcony at night, a centipede on the railing, a cup of tea on the ledge. No person visible. The image holds while Mira's voice describes the moment — Reiko catching centipedes and releasing them over the railing rather than killing them, a small act of care nobody asked for or observed.
+
+**Key-frame image needed:** the balcony at night — railing, a centipede (small, precise, naturalistic), a tea cup, the apartment interior light visible through the glass door behind. The image should read as "ordinary domestic moment" not "dramatic reveal."
+
+**Audio direction:** apartment night ambient. Mira's voice in her observational register — describing what she saw, not interpreting it. The warmth is in the fact of the description, not in vocal performance.
+
+**Transition in:** dissolve from the 3 AM scene's dialogue.
+**Transition out:** dissolve back to the 3 AM scene.
+
+**Higashino-lens note:** this is one of the hidden acts of love — Reiko's small, unwitnessed kindness that Mira recorded. The cutscene exists to give the moment visual weight. It should feel incidental, not climactic. The player who recognizes it as a hidden act does so because they have been trained by the Higashino-lens design to notice small care, not because the presentation signals importance.
+
 ---
 
 ### 3.17 THE 3 AM SCENE (Ch 11)
@@ -535,6 +558,8 @@ Visual novel abstract cutscene frame — a warm cream field with faint copper-go
 **a) Fumiko publication decision** (~30s) — cut-in to Fumiko at her workspace, pen held over a draft. Her face in medium close as she makes the publication call.
 
 **b) Mira's intercepts** (~15s each, ~8 total) — brief call-screen moments where the UI dissolves and Mira narrates what she hears. No full cutscene; presentation within call screen.
+
+**Higashino-lens audio note:** Mira's intercept narration should use "forensic flatness" — the same clinical, affectless register she uses when reporting observations in the notebook. She is not emotional about what she overhears; she is precise. The flatness is itself the tell: Mira is performing the same observational discipline she used in life, and the absence of emotional inflection is what makes the content land harder. Audio direction should resist the temptation to add tremor, urgency, or horror to Mira's intercept voice. The facts are the horror. Her voice is the instrument that delivers them undistorted.
 
 **c) Endo's mid-duel beats** (~15s each, ~4 total) — brief cut-ins to Endo during his own calls. Shot of him speaking into a phone. Helpful to establish his POV; also feeds into the arrest cutscene visual continuity.
 
