@@ -354,6 +354,14 @@ MIRA: "..."
 
 [VISUAL: Twenty minutes later. A girl exits the building carrying a school bag and a shoebox. She gets into the car. She is very quiet. She is holding the shoebox with both hands — the origami, the cranes, the one thing she didn't substitute, didn't hide, didn't optimize for safety. The things she made in the quiet room while the apartment held its breath around her.]
 
+[VISUAL: Later — Kenji reviews the intervention report. Among the details: the shoebox contents, catalogued by the caseworker. Dozens of origami pieces. Cranes, mostly. A frog. Animals folded from newspaper, from homework margins, from the backs of school notices. Small, quick, automatic — the muscle memory of hands that never stop. But one piece is different. A lily. Paper — not scrap, not margin. Actual origami paper, white, chosen. Forty-three folds. The player who has seen Yui's other work recognizes the difference immediately: the cranes are reflex, the lily is intention. Every crease is deliberate. The paper hasn't been rushed or torn. Someone sat down and decided to make this. On one petal, in handwriting so small it's almost not there: *Mira*. On the stem, a date — the week of the volunteer search.]
+
+[The lily is the most patient thing in the box. It is also the only piece made for someone else.]
+
+[NOTEBOOK PROMPT: "YUI — THE LILY: Found in shoebox. 43 folds — her most patient work. Mira's name. Dated to the week of the volunteer search. One piece different from the others — more deliberate. What was this?"]
+
+[DESIGN NOTE: The lily is the hidden act of selfishness — but the player doesn't know that yet. At this point it reads as tenderness: a girl who made something beautiful for her missing friend. The real story — that Yui brought it to the search perimeter and couldn't place it — surfaces later, in the post-intervention call, when Yui is safe enough to explain. The delay between discovery and explanation is the point. The player carries the lily as a question before receiving it as an answer.]
+
 [The confirmation comes through Kenji's phone. Text: intervention complete, child removed to grandmother's custody, investigation ongoing.]
 
 KENJI: "It's done."
@@ -439,6 +447,122 @@ MIRA: "I'm also dead. I contain multitudes."
 [The armor is coming back. Not the same armor — lighter, thinner, with a crack down the center that will never fully close. But it's coming back because Mira needs it to do the work that's left. She will call him "Kenji" again. She will not call him "Detective" again. Neither of them will mention the change.]
 
 [NOTEBOOK PROMPT: "MIRA — broke. Not performance, not strategy. Grief. 'Why did I have to be dead for it to work?' 'I wanted my mom to be the one.' She thought there was something wrong with HER. There wasn't. She is nine and she was right about everything and nobody moved."]
+
+---
+
+### POST-INTERVENTION — YUI'S CALL
+
+[VISUAL: Later that evening. The apartment is still. Kenji's phone — the work phone — rings. The caller ID shows the grandmother's landline. He picks up.]
+
+[AUDIO: A different room. Not the curated absence of the old apartment — something softer. A television murmuring in another room. A kettle. The ambient sound of a house where someone is making dinner and not monitoring who hears it.]
+
+YUI: "Detective Oda?"
+
+[Her voice is different. Not the performance — the player who heard the cooperative mask on the first call recognizes its absence immediately. This voice is smaller, less shaped, the voice of someone who hasn't decided what it sounds like yet. The silence between her words is chosen rather than enforced.]
+
+KENJI: "Yui. Are you okay?"
+
+YUI: "My grandmother makes me drink barley tea. She says it helps with... everything."
+
+[Beat.]
+
+YUI: "It tastes like dirt."
+
+[A pause. Almost a laugh — or the space where a laugh would go if she remembered how.]
+
+YUI: "I wanted to tell you something. About the box. My box."
+
+KENJI: "The shoebox."
+
+YUI: "The caseworker — she was nice. She let me keep it. She didn't open anything. But you... you saw the report. The list of what was inside."
+
+[She's not asking. She's mapping — the way she maps floorboards, the way she maps Takeshi's schedule. Who has seen what. What is known.]
+
+KENJI: "I saw it."
+
+YUI: "There's a lily. In the box."
+
+[Gap: four seconds. Not the defensive gap from the first call — a gathering gap. The gap of someone choosing to say something she has never said.]
+
+YUI: "I made it for Mira."
+
+[Beat.]
+
+YUI: "When she... when she was missing. Before they said she was dead. There was a search. Volunteers. They met at the community center and Mr. Endo organized it and people had flashlights and maps and they went out in groups."
+
+[She speaks slowly. Each sentence placed like a foot on new ground.]
+
+YUI: "I made the lily the night before. Forty-three folds. I counted. I always count but this time I counted because it mattered. I used real paper — not homework, not newspaper. I took a sheet from the craft supply at school. White. I wrote her name on it."
+
+[Gap: three seconds.]
+
+YUI: "I was going to leave it at the search perimeter. Where the volunteers started. Like a — I don't know. Like the thing people leave. At places."
+
+KENJI: "A memorial."
+
+YUI: "No. Not — she wasn't dead yet. Not a memorial. Just... so she'd know someone was looking. If she came back and saw it. She'd know it was from me because nobody else folds lilies. Cranes are easy. Everyone does cranes. Lilies take forty-three folds and most people give up at twenty."
+
+[The precision. The player who has listened to Mira — who catalogs erasers, who dates her observations — hears the echo. These two girls spoke the same language: the language of counting, of noticing, of making the invisible visible through documentation.]
+
+YUI: "I brought it. I walked to the community center. I had it in my coat pocket."
+
+[Gap: six seconds. The longest silence in this call.]
+
+YUI: "I saw the volunteers. There were a lot of them. They had clipboards and they were signing in and Mr. Endo was telling people which grid to take. And I stood across the street and I watched them and I thought — if I go over there, someone will see me. Someone will ask why I'm there. Someone will ask how I knew Mira. And then they'll know. That I had a friend. That I had something outside the apartment that wasn't — controlled."
+
+[She stops. The kettle whistles faintly in the background. Someone — the grandmother — calls something from another room. Yui doesn't answer. She's here, on the phone, in this sentence.]
+
+YUI: "And if Takeshi found out I was at a search for a missing girl — if he found out I cared about someone enough to go looking — that's signal. That's me being visible. And visible is..."
+
+[She doesn't finish. She doesn't need to. The player who has spent this entire chapter learning Yui's architecture understands: visible is dangerous. Visible is the thing that gets you noticed. And noticed, in Yui's apartment, is the thing that gets you hit.]
+
+YUI: "I went home. I put the lily back in the box. With the cranes and the frog and everything else."
+
+[Beat.]
+
+YUI: "She was missing and I made the most careful thing I've ever made and I couldn't even leave it where someone might see."
+
+[Her voice is very quiet. Not broken — Yui doesn't break the way Mira broke. She goes small. The compression that Mira's Soul Read identified: *packed herself into a box*.]
+
+YUI: "I think about it. The lily. I think about what would have happened if I'd walked across the street. If someone had seen me and asked me about Mira and I'd said — she's my friend. She's my best friend. She folds cranes with me at the river and she's the only person who ever sat with me without wanting me to be different."
+
+[Gap: five seconds.]
+
+YUI: "But I couldn't. Even for her. I couldn't be seen."
+
+[Long silence. The grandmother's voice again, closer — "Yui, the tea." Yui's breath, small and steady.]
+
+YUI: "The crane on the windowsill — you probably don't know about that. At school. I left a crane on the windowsill of Mira's old classroom. After. When nobody was watching. I put it there and I walked away."
+
+[Beat.]
+
+YUI: "That was the thing I could do. One crane. On a windowsill. Where nobody would know it was from me."
+
+[She pauses.]
+
+YUI: "The lily was supposed to be the brave one."
+
+[DESIGN NOTE: Two objects. The crane on the windowsill — the hidden act of love, already in the manuscript. The lily — the hidden act of selfishness, the one that never arrived. The player now holds both: one she placed in secret, one she couldn't place at all. The architecture of avoidance controlled her even after Mira was gone. She couldn't be seen caring. The crane was what she could manage — anonymous, invisible, deniable. The lily was what she wanted to be but couldn't: visible grief. Public love. The willingness to be seen missing someone. The fact that she's telling Kenji now — on the phone, safe at her grandmother's house, using a voice she's still learning to trust — is the first time the architecture has cracked. Not broken. Cracked. The lily stayed in the box. The story of the lily left the box tonight.]
+
+KENJI: "Yui."
+
+YUI: "Yeah?"
+
+KENJI: "The lily is the bravest thing in that box."
+
+[Silence. Seven seconds. Then:]
+
+YUI: "It didn't go anywhere."
+
+KENJI: "It just did."
+
+[The line holds. The grandmother calls again. The kettle. The television. The sounds of a house where a girl is allowed to exist without performing safety.]
+
+YUI: "...I have to go. Barley tea."
+
+[She hangs up. Not abruptly — gently. The way you set something down when you're not sure you're done with it but you know you need both hands free.]
+
+[NOTEBOOK PROMPT — UPDATE: "YUI — THE LILY (EXPLAINED): Made for Mira during the volunteer search. 43 folds, real origami paper, Mira's name. Brought it to the search perimeter. Saw the volunteers. Saw Endo organizing. Went home. Couldn't be seen caring — visibility is danger. The lily never arrived. The crane on the windowsill was the anonymous version — what she could manage. The lily was what she wanted to be: visible grief. Two objects: one placed in secret (love), one that never left the box (selfishness — the ongoing suppression that controlled her even after Mira was gone). She told Kenji freely. Not confronted. Trust."]
 
 ---
 
@@ -867,11 +991,11 @@ MIRA: "I'm going to keep counting."
 ## END-OF-CHAPTER STATE
 
 ### Player Knowledge (New This Chapter)
-- Yui Sakamoto: 11, sixth grade, Mira's only real friend. Mother's boyfriend Takeshi is physically abusive. Yui has built an architecture of avoidance — floorboard maps, timing systems, performance voice. She doesn't know Mira sent Kenji.
+- Yui Sakamoto: 11, sixth grade, Mira's only real friend. Mother's boyfriend Takeshi is physically abusive. Yui has built an architecture of avoidance — floorboard maps, timing systems, performance voice. She doesn't know Mira sent Kenji. Shoebox contains origami — cranes, a frog, quick automatic pieces — and one lily: 43 folds, real origami paper, Mira's name, dated to the week of the volunteer search. The lily is the hidden act of selfishness: she made it for the search, brought it to the perimeter, saw the volunteers, saw Endo, went home. Couldn't be seen caring. The crane on the windowsill was the anonymous version she could manage; the lily was the visible grief she couldn't perform.
 - Yui's key line: "Mira said she told someone about me. Did anyone come?" — the question that defines the failure chain
 - Moral fork enacted: Yui either rescued (Act) or still in danger (Delay)
-- If Act: Mira's crying scene triggered. "Why did I have to be dead for it to work?" "I wanted my mom to be the one." "I thought there was something wrong with me." Armor cracked permanently.
-- If Delay: Mira counting hours. Dread arc initiated. Trust unchanged but strained.
+- If Act: Mira's crying scene triggered. "Why did I have to be dead for it to work?" "I wanted my mom to be the one." "I thought there was something wrong with me." Armor cracked permanently. Post-intervention call from Yui — she explains the lily freely. Two objects revealed: the crane on the windowsill (hidden act of love, anonymous, deniable) and the lily (hidden act of selfishness, never placed). The architecture of avoidance controlled her even after Mira was gone — she couldn't be seen caring. Yui telling the story is the first crack in that architecture.
+- If Delay: Mira counting hours. Dread arc initiated. Trust unchanged but strained. [DESIGN NOTE: The lily is still in the shoebox. It will surface during the deferred intervention (Ch 5-6). Yui's post-intervention call — and the lily explanation — is deferred to the chapter where the Act branch resolves.]
 - Rina Nishizawa: 10, one grade ahead. Social filter. "Mira just misunderstands things sometimes." Provided the social narrative that made Mira dismissible. Not malicious — normal. Mentions Endo positively (playground renovation). Key pattern: Rina's self-description ("reasonable," "easygoing," "people person") always depends on Mira being her opposite. She didn't build credibility — she spent Mira's.
 - Memory Fragment #2 experienced: Rina Social Distortion — the notebook incident. The origin of Mira's documentation instinct. "Next time I won't tell the teacher. I'll just write it down." New detail visible to player: Rina found the notebook, recognized it, chose not to return it. The hidden act of selfishness — not theft, but the decision not to correct a useful mistake.
 - Forward evidence seeded: Lost-and-found log ("R.N." claimed, 3:15 PM) discoverable in Haruki's school files (Ch 5-7). Voicemail from Mira to Rina (accessed 17 times, never deleted) discoverable through phone records (Ch 6-7).
@@ -887,7 +1011,9 @@ MIRA: "I'm going to keep counting."
 - Rina call: social filter deployed — "intense," "misunderstands things," "I'm the reasonable one." Emotional asymmetry: every self-description is Mira's negative. Mentions Endo (playground). Notebook incident surfaced. Hidden act: Rina found the notebook, chose not to return it. Forward evidence: lost-and-found log (Ch 5-7), voicemail (Ch 6-7).
 - Kaito Nishimura: neighborhood logs, silver car timestamps (March 3, 7, 12 — east entrance, recurring). Three independent observers tracking same vehicle. Canvass note: "no relevant observations" — same language as Doi Ch 1. Mira's late-night calls: he answered every time. He knew everything she knew.
 - [If Act] Mira broke. "I thought there was something wrong with me." She was nine and right.
-- [If Delay] Mira counting. "Twenty minutes."
+- [If Act] YUI — THE LILY: Found in shoebox — 43 folds, real origami paper, Mira's name, dated to week of volunteer search. Most patient piece in the box. The only one made for someone else.
+- [If Act] YUI — THE LILY (EXPLAINED): Made for Mira during volunteer search. Brought to search perimeter. Saw volunteers. Saw Endo organizing. Went home. Couldn't be seen caring — visibility is danger. Two objects: crane on windowsill (love, anonymous, placed) and lily (selfishness, visible grief she couldn't perform, never placed). Architecture of avoidance controlled her even after Mira was gone. Told freely — trust, not interrogation.
+- [If Delay] Mira counting. "Twenty minutes." [Lily discovery and explanation deferred to intervention chapter.]
 
 ### Phone Log
 - MIRA — 3:47 AM (Ch 1) — [no number]
@@ -896,6 +1022,7 @@ MIRA: "I'm going to keep counting."
 - UNKNOWN (BRIDGE) — Called (Ch 3) — Sound anomaly, 47 sec
 - SAKAMOTO, YUI (mother's phone) — Called (Ch 4) — Performance voice → "did anyone come?"
 - NISHIZAWA, RINA — Called (Ch 4) — Social filter, notebook incident, Endo mention
+- [If Act] SAKAMOTO, YUI (grandmother's landline) — Received (Ch 4) — Post-intervention. Lily explained: made for search, couldn't place it. Two objects: crane (placed) and lily (withheld). Trust, not interrogation.
 [DESIGN NOTE — VOICEMAIL EVIDENCE (Discoverable Ch 6-7): Phone records obtained during school communication records investigation reveal a voicemail from Mira's number to Rina's phone, left two days before Mira's death. The voicemail was never returned. But the access log shows it was played seventeen times over two years — the last access three weeks before the present investigation. Rina never deleted it. She never acted on it. She never told anyone it existed. The voicemail content: Mira's voice, measured, not angry — "Rina, I know you remember what happened with the notebook. I'm not calling to fight. I just wanted you to know that I know. And I think you know too." The voicemail is Mira reaching out one last time to someone who chose comfort over truth. Rina kept it the way people keep evidence of the person they almost were. This is the hidden act of love — not forgiveness, not reconciliation, but the inability to let go of the voice of someone you wronged. Surfaced through phone data during school communication records investigation, cross-referenced with Rina's phone logs.]
 
 ### Mechanical State
@@ -908,7 +1035,8 @@ MIRA: "I'm going to keep counting."
 - Mira Trust Register: [Act] BREAKTHROUGH — armor cracked, "Kenji" used naturally, first genuine thanks. [Delay] HELD — trust neither gained nor lost, but a clock is ticking that the player put there.
 
 ### Threads Open
-- [If Delay] Yui intervention → Ch 5 or 6 (deferred crying scene)
+- [If Delay] Yui intervention → Ch 5 or 6 (deferred crying scene, lily discovery, and post-intervention call)
+- [If Act] Yui lily/crane resonance → late game (two objects — one placed, one withheld — available for thematic callback during final confrontation sequence or epilogue)
 - Kaito Nishimura contact → Ch 5 (player can call him)
 - Kaito witness form → Ch 5-7 (school incident form — "no relevant observations" — discoverable in school records)
 - Kaito phone records → Ch 7-9 (late-night calls from Mira's home — discoverable during infrastructure investigation)
