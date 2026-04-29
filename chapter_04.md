@@ -102,6 +102,8 @@ YUI: "Hello?"
 
 [Her voice: eleven years old, careful, producing as little signal as possible. Not quiet — contained. The containment sounds like politeness. It is architecture. This is Yui's audio signature: the apartment that sounds like a held breath.]
 
+[DESIGN NOTE — RECONTEXTUALIZATION TARGET: Yui's apartment and Endo's exchange room (Ch 10) share the same architecture — both spaces organized around listening, both spaces where silence is the product rather than the absence. The echo line in Ch 10's exchange room scene connects them explicitly. The player who felt uneasy in Yui's apartment will recognize the exchange room as the same unease at institutional scale. The system taught Yui to live the way Endo works.]
+
 KENJI: "I'm looking for Yui Sakamoto. This is Detective Oda, from the Metropolitan Police."
 
 [Immediate shift. The voice changes — not to panic but to performance. A gear engages. The girl on the phone becomes a different girl: helpful, polite, slightly cheerful.]
