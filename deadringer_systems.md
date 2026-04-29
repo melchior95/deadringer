@@ -274,7 +274,17 @@ Mechanical consequence: the player cannot use reads to decode Endo. They must re
 
 The Locked Room is also thematic: Endo's interiority is not available to the game's reading tool because he has spent fifteen years learning to not leak. He is the only NPC who mastered the listening infrastructure enough to stop producing signal himself.
 
-### 3.6 Amplification (Ch 10)
+### 3.6 Soul Reads and Hidden Acts
+
+Soul Reads perceive emotional asymmetry but cannot surface hidden acts directly. The hidden acts — specific, irreversible choices each character made — are discovered through investigation (evidence items, phone records, school files), not through perception. This preserves the split between what Mira feels and what Kenji finds.
+
+When Mira reads a character who has a hidden act of love, she perceives warmth underneath the performed exterior — but cannot identify the specific act. The read is emotional weather, not evidence. Example: reading Rina produces something in the register of "something underneath — a kept thing, returned to" but does not name the voicemail. The player who later discovers the voicemail through phone records recognizes what the read was detecting. The read was accurate; it was not actionable.
+
+When Mira reads Endo, the Locked Room is now recontextualized by this framework: it is not simply that he is impenetrable. It is that there is no hidden act of love to perceive. The absence is the data. Every other NPC produces some warmth underneath their performed exterior — a kept voicemail, an answered call, an altered report, a notebook given. Endo produces wall. The player who has accumulated reads across the full cast and noticed the consistent "something underneath" pattern arrives at Endo's read and registers the structural difference: not difficulty of access, but emptiness behind the access point.
+
+**Design note:** Soul Reads and hidden acts occupy complementary discovery channels. Reads provide the emotional signal that something is hidden; investigation provides the factual content of what was hidden. Neither channel alone produces the full picture. A player who skips reads loses the emotional preparation for the hidden-act reveals. A player who skips investigation has feelings without facts. The intended experience requires both.
+
+### 3.7 Amplification (Ch 10)
 
 In the exchange room, Mira's signal clears. Reads return to full richness for one chapter. The contrast with Ch 8–9's stripped reads is the chapter's emotional peak — the player remembers what they've been losing.
 
@@ -286,7 +296,7 @@ Mechanically:
 
 Amplification is a one-chapter state. It is structurally a gift and mechanically a signal that the exchange infrastructure is doing something no other environment can.
 
-### 3.7 The Final Signal (Ch 12)
+### 3.8 The Final Signal (Ch 12)
 
 In Ch 12, Mira uses the last of her signal not to deliver a read but to make a single clear transmission: a phone-to-phone call to Sora. This is not a Soul Read. It is the mechanical consumption of everything Mira has left.
 
@@ -362,6 +372,16 @@ No other text-on-screen is used in fragments. The rest is dialogue and environme
 ### 4.7 Integration with the Notebook
 
 See notebook spec §7.2. Fragments produce MEMORY FRAGMENT-type entries that are not presentable as confrontation evidence (they're experiences, not facts) but are cross-referenced from NPC Character Notes. After the Aizawa Procedure fragment, Aizawa's Character Note shows "Mira reported Yui's abuse — documented, filed, no action" as a linked entry. This is how the Fragment's emotional weight persists into later gameplay.
+
+### 4.8 Fragment Intersection with Hidden Acts
+
+Each Memory Fragment now explicitly intersects with the hidden acts introduced in the Higashino-lens design. The fragments are the player's first-person experience of the moments that the hidden acts later recontextualize.
+
+**Reiko Denial fragment:** The player experiences Reiko's dismissal — "she was always seeing things" — as a fixed-outcome scene of a mother not listening. After the player discovers the missed phone call (Layer 2 of Reiko's through-line, surfaced through phone records in the Ch 8-9 window), this fragment gains a second register. The dismissal was not an isolated failure of attention. It was a practiced pattern that performed identically when it encountered the one call that could not be deferred. The player does not replay the fragment; they revisit it mentally. The fragment's fixed outcome becomes retroactively worse: not just "she didn't listen this time" but "this is the mechanism that was running when the phone rang and she said 'call back later.'"
+
+**Rina Social Distortion fragment:** The notebook incident the player experiences in this fragment — Mira's notebook is missing, Rina has it, the teacher sides with Rina — is now confirmed as the origin point of the social machinery. Rina's hidden act of selfishness (choosing not to correct the record when she found the notebook) means the player was experiencing the exact moment the social architecture was constructed. The fragment's fixed outcome ("the teacher sides with Rina") is the institutional version of the same pattern: Mira delivers accurate information, the system processes it through a pre-existing frame, the frame wins. The player who later discovers the notebook evidence (school records, Ch 5-7) recognizes that the fragment was showing them the blueprint.
+
+**Aizawa Procedure fragment:** The procedural wall the player watches — Aizawa files the report, nothing moves — is the same professional skill Aizawa later uses to both protect Mira (the altered disciplinary report, hidden act of love) and bury her (the intake form classifying the observation notebook as "personal effects, non-evidentiary," hidden act of selfishness). Same person, same tool, different moments. The fragment establishes the mechanism; the hidden acts reveal its range. Procedure is not inherently protective or destructive — it is a skill that serves the intention behind it, and Aizawa's intention changed between the moments the player discovers.
 
 ---
 
@@ -502,19 +522,27 @@ The player has one meaningful decision around the degradation: which calls are w
 
 The game does not quantify these costs. The player decides based on narrative priority and their sense of Mira's state. This is deliberately soft — the cost is emotional, not budgetary.
 
+### 6.7 Late-Game Voice: Clarity Spikes and Forensic Conservation
+
+The degradation curve is not monotonic. Within the overall decline, Mira produces isolated moments of sharp clarity — observations that cut through the signal loss because they are personal rather than analytical. These are not reversals of the curve; they are spikes within it, and they are more striking because of the surrounding degradation.
+
+**Ch 10 clarity spike — the partition pattern:** When Mira names Endo's method ("He doesn't hide things. He sorts them. Everyone gets a piece. Nobody gets the picture."), this is one of her clearest late-game statements despite occurring during or near degradation. The observation is sharp because it is personal — she recognizes the mechanism that defeated her. The switchboard operator who routes calls so the pieces never converge is the social version of what Endo did to the community, and Mira, who is now inside the switchboard, sees it from the routing side. Mark this line as a clarity spike within the degradation curve: full signal, no delay, no filter. The contrast with surrounding degraded output is the design's way of flagging the observation's importance. The spike does not indicate recovery. It indicates that certain truths cost less signal to deliver because they have already been fully processed.
+
+**Ch 12 forensic conservation:** When Mira intercepts Endo's calls during the switchboard duel, her dialogue alternates between two registers. The first is degraded signal — strain, static, words arriving late or arriving broken. The second is flat forensic observation ("He never mentioned Ogawa," "Same event — different version," "He told Haruki the opposite"). The forensic flatness is not a recovery state. It is Mira conserving energy — choosing precision over expression because she is running out of both. The voice direction for Ch 12 intercepts should distinguish between these registers: degraded-expressive (Mira trying to say something complex and failing) and conserved-flat (Mira delivering a single datum with no emotional overhead). The conserved-flat register is what remains when a person strips everything non-essential from their communication. It reads as calm. It is not calm. It is triage.
+
 ---
 
 ## 7. THE CONTRADICTION SYSTEM
 
-Dead Ringer's replacement for Phoenix Wright's "present evidence against testimony" mechanic. Two types of contradiction exist; both are load-bearing.
+Dead Ringer's replacement for Phoenix Wright's "present evidence against testimony" mechanic. Two Board-presentable types of contradiction exist; a third non-presentable type (emotional contradictions, §7.7) supplements them.
 
-### 7.1 Two Types of Contradiction
+### 7.1 Two Board-Presentable Types of Contradiction
 
 **Factual contradiction** — the familiar PW type. Statement A says X; Evidence B says not-X. Present B against A.
 
 **Knowledge-level contradiction** — Dead Ringer's innovation. The question is not *what an NPC says* but *what they could possibly know.* An NPC reports a fact they shouldn't have access to. The contradiction is between the information and the NPC's access pattern.
 
-Both types are detected and surfaced by the game; both contribute to the Ch 11 Board.
+Both Board-presentable types are detected and surfaced by the game; both contribute to the Ch 11 Board. A third type — emotional contradictions — operates outside the Board system (see §7.7).
 
 ### 7.2 Entry-Level (Factual) Contradictions
 
@@ -566,6 +594,18 @@ See notebook spec §5.2. The Board's eight slots divide between factual and know
 - **INDEPENDENT CORROBORATION** — factual (three witnesses, one car)
 
 Roughly half the Board is factual, half knowledge-level. The confrontation exercises both types.
+
+### 7.7 Emotional Contradictions (Non-Presentable)
+
+A third category of contradiction exists alongside factual and knowledge-level types. An **emotional contradiction** is a gap between what a character performs and what they hide — not a logical inconsistency but a moral one. These are surfaced by investigation but are not Board-presentable. They do not prove Endo's guilt. They change how the player reads every subsequent interaction with the character who carries them.
+
+**Structure:** The player discovers evidence of a hidden act (phone records, school files, physical objects) that recontextualizes a character's performed stance. The evidence does not contradict the character's statements — it recontextualizes their character.
+
+**Example:** Kaito performs rational silence — "I didn't tell anyone," delivered as a philosophy of non-interference. The phone records prove he answered every late-night call from Mira. He was her nighttime lifeline. The evidence does not contradict his statement that he didn't tell anyone. It reveals that his silence was not detachment but a choice made by someone who knew more about Mira than anyone else. The "no relevant observations" form — identical institutional language to Doi's suppressed canvass testimony — is a factual lie, but the emotional contradiction is larger: he built a relationship of trust through those calls and then refused to use it when asked directly.
+
+**Mechanical treatment:** Emotional contradictions are logged in the notebook as Character Note updates, not as CONTRADICTION entries. They do not produce the visual link indicator used for factual and knowledge-level contradictions. They are not presentable during the Ch 11 confrontation. Their function is contextual: they change the player's understanding of the NPC, which changes how the player reads that NPC's statements in subsequent calls, which affects intent selection and trust calibration. The gameplay consequence is indirect — the player who understands Kaito's emotional contradiction chooses different intents in later calls because they understand what his silence actually contains.
+
+**Design rationale:** Emotional contradictions are excluded from the Board because they are not evidence of Endo's crime. They are evidence of the community's complicity. The Board assembles the case against Endo. The emotional contradictions assemble the case against the system. Both cases matter; they use different mechanical channels.
 
 ---
 
@@ -651,6 +691,11 @@ Questions that need build-time resolution.
 - `deadringer_locations.md` — per-location UI states, audio signatures
 - `deadringer_characters.md` — NPC bibles (informs intent × NPC matrix and Character Notes)
 - `chapter_structure.md` — chapter-by-chapter progression, information economy
+
+**Higashino-lens design sources (narrative additions with mechanical implications):**
+
+- `docs/plans/2026-04-28-higashino-lens-emotional-asymmetry-design.md` — Hidden acts of love/selfishness, emotional asymmetry per character, cost of truth
+- `docs/plans/2026-04-28-higashino-lens-selective-truth-mira-recontextualization-design.md` — Endo's selective truth, Mira's Yui-sequence, partition pattern
 
 **Manuscript sources for this doc's specifications:**
 
