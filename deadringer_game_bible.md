@@ -30,6 +30,8 @@ The player will be capable of reproducing the same failures — dismissing an am
 
 Every character carries a suppressed realization — the moment they could have changed everything and didn't. The game doesn't force these moments. It creates the conditions for them to surface, once, when the pressure is right. No character explains their feelings. They leak them — at the worst possible time, in the fewest possible words.
 
+Each character also carries a hidden act of love — a specific kindness that, when discovered alongside their failure, makes clean judgment impossible. The player arrives at compassion through information, not instruction.
+
 The player earns these moments. They are not cutscenes. They are consequences.
 
 ---
@@ -38,13 +40,16 @@ The player earns these moments. They are not cutscenes. They are consequences.
 
 Every key character failed at a specific point. The failures are layered and interlocking:
 
-| Layer | Character | Failure |
-|-------|-----------|---------|
-| Social | Rina | Normalized dismissal — made it socially safe to disbelieve Mira |
-| Social | Kaito | Stayed silent — knew the truth, calculated that speaking would make it worse |
-| Emotional | Reiko | Chose denial — loved her daughter, did not believe her |
-| Institutional | Aizawa | Followed procedure over action — believed Mira, documented everything, did nothing |
-| Systemic | Endo | Exploited all of the above — used the community's existing failures as infrastructure |
+| Layer | Character | Failure | Hidden Cost | Hidden Act |
+|-------|-----------|---------|-------------|------------|
+| Social | Rina | Normalized dismissal — made it socially safe to disbelieve Mira | Spent Mira's credibility to build her own | Chose not to return the notebook — the origin point |
+| Social | Kaito | Stayed silent — knew the truth, calculated speaking would make it worse | Mira's courage was his exemption from developing his own | Wrote "no relevant observations" when asked directly |
+| Emotional | Reiko | Chose denial — loved her daughter, did not believe her | Used "difficult" reputation as permission not to act | Told Mira to call back later — she didn't |
+| Institutional | Haruki | Named the problem in words the institution could weaponize | Mira's fight was his proxy courage | Coined "disruptive honesty" — the label that taught dismissal |
+| Institutional | Aizawa | Followed procedure over action — believed Mira, documented everything, did nothing | Mira's persistence was her institutional absolution | Classified the notebook as "non-evidentiary" without reading it |
+| Community | Doi | Reported concerns to the wrong person — good faith, wrong direction | Took relief by passing concerns up the chain | Gave information directly to Endo — co-opted contribution |
+| Community | Yui | Took refuge in Mira's friendship while hiding it entirely | Mira's outsider status sheltered Yui's invisibility | Folded the lily for the search, saw Endo, went home |
+| Systemic | Endo | Exploited all of the above — used the community's existing failures as infrastructure | N/A — he is the architect, not a participant | Partitioned truth across the community so the pieces never converged |
 
 ---
 
@@ -246,6 +251,10 @@ The game returns to the title screen. The phone rings once. Nobody picks up.
 - **Kenji ↔ Fumiko:** Professional respect with mutual wariness. They need each other.
 - **Kenji ↔ Haruki:** Kenji sees what Haruki could become — either better or a cautionary tale. Pushes toward the former.
 - **Kenji → Doi:** Recognition. Two men the system made smaller than they are.
+- **Mira → Rina:** A friendship that became a template for dismissal. Rina spent Mira's credibility; Mira's voicemail lived on Rina's phone for years.
+- **Mira → Kaito:** The nighttime lifeline. He answered every call. He knew everything. He said nothing.
+- **Doi → Endo:** The co-opted citizen. Doi reported in good faith; Endo used it for calibration.
+- **Haruki → Mira:** Admiration that became a weapon. He named her gift; the system used the name to dismiss her.
 - **Mira → Endo:** The silence. The locked door. The only read she won't finish.
 
 ---
@@ -278,6 +287,8 @@ This sequence transitions the player from suspecting individuals to suspecting t
 
 **5. Save the sentence.** Every character has one line that recontextualizes them. Hold it. Deploy it once. Let it land.
 
+**6. "Both things are true."** Every character who failed Mira also loved her in a specific, discoverable way. The hidden act of love does not redeem the failure. It makes the failure human. The player who finds both cannot judge cleanly — and that inability is the game's moral thesis.
+
 ---
 
 ## FINAL THEMATIC QUESTION
@@ -287,3 +298,5 @@ Not: "Who killed Mira?"
 But: "Why was Mira so easy to ignore?"
 
 And underneath that: "Would you have listened?"
+
+And beneath that: "If you had listened — would it have been enough? Or would the system have sorted your truth the way it sorted hers?"
