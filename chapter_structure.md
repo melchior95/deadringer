@@ -41,6 +41,19 @@ What the player must know before a door opens:
 | Exchange room | Physical investigation of community center | Mira amplified, other children heard, switchboard duel |
 | Nishida testimony | Ogawa callable (Ch 8, through Fumiko/Haruki) | Endo's "he was right once" dilemma — core content for Ch 11 confrontation |
 | Framing deconstruction | Examining planted evidence (Ch 9) | Sora's map page anomaly, Haruki's break, Rina recontextualized, Ogawa thread |
+| Yui-sequence dates | School records access (Ch 5) + behavioral file (Ch 5-7) + Aizawa records (Ch 7-9) | Timeline: Mira's first report (about Yui) predates all others; "disruptive" classification originates from Yui report fallout |
+| Haruki's recommendation letter | Haruki contacts Kenji (Ch 5) | Paired with "disruptive honesty" label — institution took framing, ignored support |
+| Rina's notebook evidence | School records investigation (Ch 5-7) | Lost-and-found log placing notebook where Rina had access — origin point of social machinery |
+| Rina's voicemail | Phone data during school comms investigation (Ch 5-7) | Voicemail accessed repeatedly over years — she knew what she lost |
+| Kaito's witness form | School records access (Ch 5-7) | "No relevant observations" — echoes Ch 1 canvass language. Active denial, not passive silence |
+| Kaito's phone records | Infrastructure/phone investigation (Ch 7) | 14 late-night calls, every one answered — he was Mira's nighttime lifeline |
+| Aizawa's altered report | School records — two versions (Ch 5-7) | Same handwriting softened a report to protect Mira; the softening fed Endo's trail |
+| Aizawa's property intake form | Evidence chain investigation (Ch 7-9) | Classified notebook as "personal effects, non-evidentiary" without reading past eraser pages |
+| Doi's council intake form | Community council records (Ch 7-9) | Doi reported observations to Endo directly — co-opted contribution |
+| Reiko's phone record | Communication infrastructure investigation (Ch 8-9) | 43-second call from school to Reiko, near active cable run — the call she didn't take |
+| Reiko's fridge note | Apartment access (Ch 11) | Lopsided drawing + "Goodnight mom" — love persisted after reporting stopped |
+| Notebook first entry (Yui) | Notebook scene (Ch 11) | First entry is about Yui — completes the Yui-sequence. All subsequent reports recontextualized |
+| Endo's partition pattern | Ch 8 leads + Ch 12 intercepts | Same events described differently per audience — the collection reveals the architecture |
 
 ---
 
@@ -696,3 +709,45 @@ NPCs exist in a social network that responds to the player's actions. This web d
 The true ending requires: Yui safe (at any point) + Sora rescued + Endo arrested with sufficient evidence. The evidence threshold depends on how many NPCs contributed pieces and how many relationships survived Endo's Ch 12 call war. A player who cultivated every relationship has redundancy — losing one NPC to Endo doesn't collapse the case. A player who focused narrowly has a fragile evidence chain that Endo can break with a single well-placed call.
 
 The game does not announce this. The player discovers it through outcome — the ending they get reflects the web they built.
+
+---
+
+## HIGASHINO-LENS EVIDENCE CHAIN
+
+Hidden acts of love and selfishness discovered through investigation, not confession. Each item is found through existing evidence channels — school records, phone data, physical access — and recontextualizes a character the player thought they understood. The evidence feeds the break sequences in Ch 11-12, where confrontation forces each character past their performed version of events.
+
+### Evidence by Character
+
+| Character | Evidence Type | Item | Discovery Window | Feeds Into |
+|-----------|-------------|------|-----------------|------------|
+| Rina | Selfishness | Notebook lost-and-found log | Ch 5-7 | Break sequence — proves social machinery had an origin point |
+| Rina | Love | Voicemail access logs | Ch 5-7 | Break complication — she knew what she cost Mira, carried it for years |
+| Kaito | Selfishness | Witness form ("no relevant observations") | Ch 5-7 | Break reshaping — active denial when asked directly |
+| Kaito | Love | Phone records (14 late-night calls) | Ch 7 | Break complication — nighttime lifeline, every call answered |
+| Aizawa | Selfishness | Altered report (two versions, same handwriting) | Ch 5-7 | Break deepening — protection that fed the system |
+| Aizawa | Love | Property intake form ("non-evidentiary") | Ch 7-9 | Break complication — buried evidence she chose not to read |
+| Yui | Selfishness | Yui-sequence dates (first report predates all others) | Ch 5-9 | Timeline recontextualization — the "disruptive" label traced to its source |
+| Yui | Love | Notebook first entry | Ch 11 | Completes the Yui-sequence — Mira's first written observation was about Yui |
+| Doi | Selfishness | Council intake form (reported to Endo directly) | Ch 7-9 | Break reshaping — good-faith contribution co-opted by the system |
+| Haruki | Selfishness | Recommendation letter paired with "disruptive honesty" label | Ch 5 | Break deepening — institution weaponized his language, ignored his support |
+| Reiko | Selfishness | Phone record (43-second call, near cable run) | Ch 8-9 | Break deepening — the missed call given infrastructure context |
+| Reiko | Love | Fridge note ("Goodnight mom" + lopsided drawing) | Ch 11 | Break complication — love persisted after reporting stopped |
+| Endo | Pattern | Partition pattern (same events, different audiences) | Ch 8-12 | Confrontation architecture — the collection reveals the design |
+
+### Non-Repetition Principle
+
+Each character's hidden acts use a different mechanism. No two break sequences work the same way. The variety is the point — the system that consumed Mira operated through every available channel simultaneously.
+
+| Character | Shape | Mechanism |
+|-----------|-------|-----------|
+| Rina | Social commission | Actively shaped a false narrative |
+| Kaito | Self-suppression | Refused to corroborate when asked |
+| Aizawa | Administrative burial | Held evidence, chose not to read it |
+| Yui | Ongoing suppression | Couldn't show up even after death |
+| Doi | Co-opted contribution | Did the right thing, it fed the system |
+| Haruki | Weaponized language | Wrote the words that became the weapon |
+| Reiko | Three-layer | Sustained dismissal + missed call + notebook |
+
+### Design Constraint
+
+The selfishness item and the love item for each character must be discoverable in the same investigation window or adjacent chapters. The player encounters both in close proximity — the recontextualization is immediate, not deferred. Finding Rina's notebook log and her voicemail in the same Ch 5-7 stretch means the player processes "she started it" and "she never stopped regretting it" as a single compound revelation, not two separate facts.
