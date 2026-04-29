@@ -609,7 +609,17 @@ DOI: "Few weeks back. Before the — before the Kitahara girl. One day he was th
 
 DOI: "I noticed because the bench looked wrong without him."
 
-[NOTEBOOK PROMPT: "DOI — boy on bench outside store. Drew maps on graph paper with colored pencils. Daily routine, stopped 'a few weeks back' (before Mira's death). Matches: bench artifact from Ch 2 (colored pencil marks, graph paper map). SAME KID? Identity still unknown."]
+[Beat.]
+
+DOI: "I sweep that area, you know. In front of the bench. The sidewalk out there. Someone should look after it — it's not the council's job, it's just... if you're there every day, you keep things up. That's all."
+
+[The language is maintenance. Stewardship. The reasonable claim of a man who tends a space because proximity creates obligation. But the player who remembers Mira's line from Chapter 2 — "Some people care about a place the way you care about a thing you own" — hears something else underneath. Doi doesn't sweep for the neighborhood. He sweeps for the bench. For the boy who sat there. For the version of the afternoon where someone small was quietly drawing and the world made sense. The care is real. The ownership is invisible to the person performing it.]
+
+[AUDIO: A rustling — something being moved behind the counter. Then a small sound: a thumb on glass. Doi has picked up a photograph — the player can hear the frame's slight creak as he holds it. He's done this before. The photograph is wiped so many times the surface has a faint cloudiness — not from dirt but from devotion, from a thumb that traces the same path across the glass every day the way you'd check a wound that won't close.]
+
+[DESIGN NOTE — THEMATIC ECHO: Doi's photograph is his version of Endo's garden (Ch 11). Both men maintain an object connected to a child — one wipes a photograph until the surface clouds, the other tends a plant purchased within weeks of a disappearance. The impulse is the same: converting a child into something you maintain. This connects to the community pattern named in Ch 11's garden confrontation — the whole town does this. Doi is not complicit in Endo's crimes. He is complicit in the community's habit of tending loss instead of preventing it.]
+
+[NOTEBOOK PROMPT: "DOI — boy on bench outside store. Drew maps on graph paper with colored pencils. Daily routine, stopped 'a few weeks back' (before Mira's death). Matches: bench artifact from Ch 2 (colored pencil marks, graph paper map). SAME KID? Identity still unknown. Note: Doi sweeps the bench area daily — 'someone should look after it.' Stewardship language. Cross-ref Mira's Ch 2 observation."]
 
 [DESIGN NOTE: Sora artifact #2. Doi's mention connects to the bench evidence from Chapter 2 — the same colored pencils, the same graph paper maps. The player who examined the bench now has a second data point. The player who didn't still has Doi's description. Either way: a child who drew things has disappeared, and the disappearance predates Mira's death. The thread is building. The name doesn't arrive until Chapter 5.]
 
