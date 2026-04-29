@@ -93,6 +93,10 @@ This must be telegraphed to the player NOT through an on-screen explanation, but
 - No saves inside fragments. Autosave triggers at fragment entry and at fragment exit.
 - If the player quits mid-fragment: resume from fragment start on next launch. Memory Fragments cannot be partially saved.
 
+### 1.8 Higashino Integration — Overall Design Note
+
+**Higashino integration:** The three Memory Fragments were designed before the Higashino-lens pass but already contain the seeds of the hidden acts. Each fragment shows a character performing their failure in real time — Reiko dismissing, Rina repositioning, Aizawa filing. The Higashino-lens additions (hidden acts discoverable through investigation) recontextualize these performances retroactively. The fragments do not change. What the player brings to them changes. This is the Higashino principle: the truth was always visible. The reveal is learning to read it.
+
 ---
 
 ## 2. FRAGMENT 1 — REIKO DENIAL
@@ -207,6 +211,12 @@ This is Mira's earliest documented observation of the distinction that recurs in
 **Transitions:**
 - Entry: wire-sound rises, resolves into the kitchen ambient over ~2 seconds.
 - Exit: kitchen ambient thins; wire-sound carries Mira's "can't means won't" line through the transition back to present.
+
+### 2.10 Higashino-Lens Layer
+
+**Higashino-lens layer:** The player who later discovers the missed phone call (Ch 8-9 evidence) and the fridge note ("Goodnight mom" + Lopsided drawing, Ch 11) will revisit this fragment mentally. Reiko's denial in the memory is the same mechanism that made her say "call back later." The warmth moment (centipede on the balcony — designed in Ch 11) shows what the relationship looked like when it worked. The fragment gains retroactive weight: the player is watching the exact moment the gap between Mira and her mother became load-bearing.
+
+**Production note:** No changes to the fragment itself. The recontextualization happens in the player's understanding across the game, not in this scene. The fragment was already written correctly — the Higashino-lens pass just makes it heavier.
 
 ---
 
@@ -324,6 +334,12 @@ This is the origin of Mira's documentation instinct — the observation she lear
 **Transitions:**
 - Entry: wire-sound resolves into classroom crowd. The crowd should feel disorienting briefly — denser than Reiko's apartment.
 - Exit: the crowd is already absent by the writing beat. The transition is a visual fade on the paper; no additional audio event.
+
+### 3.10 Higashino-Lens Layer
+
+**Higashino-lens layer:** The notebook incident in this fragment is now confirmed as the origin point of Rina's social machinery (hidden act of selfishness — she chose not to return it). The lost-and-found log evidence (Ch 5-7) will prove this. The voicemail evidence (accessed repeatedly for years) proves Rina never forgot. The fragment's ambiguity ("Version A vs Version B") is now weighted toward Version A by the institutional evidence, but the fragment itself should preserve the ambiguity — the evidence arrives later, not here.
+
+**Production note:** The fragment should be played straight. No hints about which version is true. The Higashino balance depends on the player discovering the evidence later and revisiting the ambiguity with new eyes.
 
 ---
 
@@ -459,6 +475,12 @@ This is Mira's observation of the pattern the entire game investigates.
 **Transitions:**
 - Entry: wire-sound resolves into the office's quiet. The hallway sounds begin faintly. The player feels the closed-door isolation.
 - Exit: hallway sounds crescendo as Mira opens the door. The bell rings just as the transition begins. The real-world bell is cut off by the fade.
+
+### 4.12 Higashino-Lens Layer
+
+**Higashino-lens layer:** The procedural wall the player watches in this fragment is the same professional skill Aizawa uses twice in the hidden acts design: once to protect Mira (the altered report — softening disciplinary language, Ch 5-7 evidence) and once to bury her (classifying the notebook as "personal effects, non-evidentiary," Ch 7-9 evidence). "Same handwriting. Both times." — this line from the Ch 8 confrontation extension connects directly to what the player witnessed in the fragment. The fragment shows the skill. The investigation shows the skill deployed in both directions.
+
+**Production note:** The fragment should emphasize Aizawa's competence, not her failure. She files correctly, documents thoroughly, follows procedure. The horror is that the procedure is working exactly as designed — and that "working" means nothing happens. The hidden acts layer adds: this same competence was also, once, an act of love.
 
 ---
 
