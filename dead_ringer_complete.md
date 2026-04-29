@@ -611,7 +611,6 @@ He filed her. Not as a ghost. Not as a prank call. Not as a hallucination brough
 ---
 
 **END CHAPTER 1**
-
 # CHAPTER 2 — The Yanagi District
 
 ## Chapter Overview
@@ -680,6 +679,8 @@ MIRA: "That's been broken since April. April of last year. Before that it was th
 
 [She delivers this as if reporting weather. The specificity — April, melon soda, the distinction between two vending machines she's compared — is the kind of detail only a child who walked this route daily would carry. She doesn't explain why she knows this. Kenji doesn't ask.]
 
+[DESIGN NOTE — RECONTEXTUALIZATION TARGET: The vending machine has been broken since April because its power was rerouted to the exchange room beneath the community center (Ch 10). The player encounters this as neighborhood neglect — a broken machine nobody fixed. In Ch 10, when Kenji enters the exchange room and sees the rerouted junction box, "broken since April" becomes evidence of infrastructure theft. Old information, new meaning. The player who remembers the soda brand remembers the machine; the machine remembers the power; the power leads to the room.]
+
 [NOTEBOOK PROMPT: Optional. "Vending machine — corner of Block 1, out of order since April (per Mira). One of three on school route."]
 
 **Block 2 — Transition**
@@ -709,6 +710,8 @@ MIRA: "..."
 KENJI: "Three blocks. No coverage. For a neighborhood this well-maintained, that's unusual. Most districts with this kind of civic investment wire the commercial strip at minimum."
 
 [DESIGN NOTE: This is Kenji working independently — noticing a gap in the infrastructure that Mira, who lived here as a child, wouldn't have thought to track. The camera coverage gap is not an accident; it's a function of the community safety council (Endo's council) having input on municipal spending priorities. But Kenji doesn't know this yet. He just knows the gap is unusual. The observation demonstrates that Kenji brings something Mira doesn't: institutional literacy. He knows what a neighborhood is supposed to look like from the system's side.]
+
+[DESIGN NOTE — RECONTEXTUALIZATION TARGET: The camera coverage gap is not neglect. The exchange room entrance is in the gap. The same maintenance logic that keeps Yanagi curated — cameras placed, hedges trimmed, paths lit — also keeps this specific corridor dark. The gap is design, not oversight. Payoff: Ch 10, when Kenji enters the community center basement through the unwatched corridor. No new chapter text needed at payoff — the player's memory of the gap does the work.]
 
 MIRA: "I didn't notice that."
 
@@ -1152,7 +1155,6 @@ The chapter opens with curiosity and closes with unease. The player has walked t
 ---
 
 **END CHAPTER 2**
-
 # CHAPTER 3 — First Calls
 
 ## Chapter Overview
@@ -1764,7 +1766,17 @@ DOI: "Few weeks back. Before the — before the Kitahara girl. One day he was th
 
 DOI: "I noticed because the bench looked wrong without him."
 
-[NOTEBOOK PROMPT: "DOI — boy on bench outside store. Drew maps on graph paper with colored pencils. Daily routine, stopped 'a few weeks back' (before Mira's death). Matches: bench artifact from Ch 2 (colored pencil marks, graph paper map). SAME KID? Identity still unknown."]
+[Beat.]
+
+DOI: "I sweep that area, you know. In front of the bench. The sidewalk out there. Someone should look after it — it's not the council's job, it's just... if you're there every day, you keep things up. That's all."
+
+[The language is maintenance. Stewardship. The reasonable claim of a man who tends a space because proximity creates obligation. But the player who remembers Mira's line from Chapter 2 — "Some people care about a place the way you care about a thing you own" — hears something else underneath. Doi doesn't sweep for the neighborhood. He sweeps for the bench. For the boy who sat there. For the version of the afternoon where someone small was quietly drawing and the world made sense. The care is real. The ownership is invisible to the person performing it.]
+
+[AUDIO: A rustling — something being moved behind the counter. Then a small sound: a thumb on glass. Doi has picked up a photograph — the player can hear the frame's slight creak as he holds it. He's done this before. The photograph is wiped so many times the surface has a faint cloudiness — not from dirt but from devotion, from a thumb that traces the same path across the glass every day the way you'd check a wound that won't close.]
+
+[DESIGN NOTE — THEMATIC ECHO: Doi's photograph is his version of Endo's garden (Ch 11). Both men maintain an object connected to a child — one wipes a photograph until the surface clouds, the other tends a plant purchased within weeks of a disappearance. The impulse is the same: converting a child into something you maintain. This connects to the community pattern named in Ch 11's garden confrontation — the whole town does this. Doi is not complicit in Endo's crimes. He is complicit in the community's habit of tending loss instead of preventing it.]
+
+[NOTEBOOK PROMPT: "DOI — boy on bench outside store. Drew maps on graph paper with colored pencils. Daily routine, stopped 'a few weeks back' (before Mira's death). Matches: bench artifact from Ch 2 (colored pencil marks, graph paper map). SAME KID? Identity still unknown. Note: Doi sweeps the bench area daily — 'someone should look after it.' Stewardship language. Cross-ref Mira's Ch 2 observation."]
 
 [DESIGN NOTE: Sora artifact #2. Doi's mention connects to the bench evidence from Chapter 2 — the same colored pencils, the same graph paper maps. The player who examined the bench now has a second data point. The player who didn't still has Doi's description. Either way: a child who drew things has disappeared, and the disappearance predates Mira's death. The thread is building. The name doesn't arrive until Chapter 5.]
 
@@ -2036,7 +2048,6 @@ The chapter begins with procedure (Kenji preparing calls) and ends with a detect
 ---
 
 **END CHAPTER 3**
-
 # CHAPTER 4 — Yui
 
 ## Chapter Overview
@@ -2140,6 +2151,8 @@ MIRA: "Call Yui first. Please."
 YUI: "Hello?"
 
 [Her voice: eleven years old, careful, producing as little signal as possible. Not quiet — contained. The containment sounds like politeness. It is architecture. This is Yui's audio signature: the apartment that sounds like a held breath.]
+
+[DESIGN NOTE — RECONTEXTUALIZATION TARGET: Yui's apartment and Endo's exchange room (Ch 10) share the same architecture — both spaces organized around listening, both spaces where silence is the product rather than the absence. The echo line in Ch 10's exchange room scene connects them explicitly. The player who felt uneasy in Yui's apartment will recognize the exchange room as the same unease at institutional scale. The system taught Yui to live the way Endo works.]
 
 KENJI: "I'm looking for Yui Sakamoto. This is Detective Oda, from the Metropolitan Police."
 
@@ -3096,7 +3109,6 @@ The chapter is built around a single question: will you act? Everything feeds in
 ---
 
 **END CHAPTER 4**
-
 # CHAPTER 5 — The Teacher's Guilt
 
 ## Chapter Overview
@@ -3452,6 +3464,8 @@ HARUKI: "It's Aizawa's. The corrections are in Aizawa's handwriting."
 [NOTEBOOK PROMPT: "AIZAWA — ALTERED REPORT: Disciplinary incident report on Mira, dated one month before Haruki's recommendation. ORIGINAL LANGUAGE (black ink): 'defiant behavior,' 'refused to leave,' 'unsubstantiated allegations,' 'recommend escalation to behavioral monitoring with possible referral to district services.' CORRECTED LANGUAGE (blue ink, Aizawa's handwriting): 'expressed concern,' 'was redirected and complied,' 'peer advocacy,' 'no further action recommended.' Aizawa rewrote the form that would have flagged Mira for psychiatric evaluation. She softened the language that would have ended Mira's ability to report. Same pen, same careful handwriting she uses on everything. The corrected version went to administration. The original is still visible underneath. CROSS-REF: This altered report is part of the paper trail Endo later cited (Ch 9). By softening Mira's file, Aizawa made it easier for the institution to categorize Mira as 'managed' rather than 'dangerous.' The protection and the burial are the same skill."]
 
 [DESIGN NOTE — AIZAWA HIGASHINO SEED (ACT OF LOVE): This is Aizawa's hidden act of love, seeded here for discovery in Ch 7-8. The altered report is the first of her two hidden acts. While Mira was alive, Aizawa used her procedural expertise to protect — she took a form that would have escalated Mira out of the school system and rewrote it so Mira could keep reporting. The skill is identical to the one she will later use to bury Mira's notebook (the act of selfishness, revealed in Ch 8): careful handwriting, institutional forms, the professional authority of a counselor who knows exactly which words trigger which institutional responses. Same pen. Same hand. Same woman. Once to protect a living child's ability to speak. Once to silence a dead child's documentation. The player who discovers both acts holds the full Higashino shape: the most loving thing Aizawa did and the most selfish thing Aizawa did required exactly the same competence. The irony deepens: by softening the disciplinary report, Aizawa ensured Mira stayed in the system as "managed" — which is the classification Endo later weaponized. Her protection was the precondition for the institutional absorption that followed. Kindness became complicity through procedure.]
+
+[DESIGN NOTE — CARE/OWNERSHIP ECHO: Aizawa's altered report is the care/ownership distinction from Ch 2 ("Some people care about a place the way you care about a thing you own") enacted through procedure. She genuinely believes she is helping — protecting Mira from institutional consequences by softening the language. But the softening is control: she decides what version of Mira's reality enters the system. The same skill she uses to protect (altered report) she uses to bury (notebook classification in Ch 8). Care and ownership use the same hands. The player who recognizes this sees the entire town's failure mechanism in one bureaucratic act.]
 
 ---
 
@@ -4208,7 +4222,6 @@ The chapter is analytical but the analysis produces anger — not at individuals
 ---
 
 **END CHAPTER 5**
-
 # CHAPTER 6 — Doi's False Confession
 
 ## Chapter Overview
@@ -5146,7 +5159,6 @@ The chapter peaks three times now: Doi's confession collapse (grief, empathy), t
 ---
 
 **END CHAPTER 6**
-
 # CHAPTER 7 — The Silver Car
 
 ## Chapter Overview
@@ -6170,7 +6182,6 @@ The chapter peaks at the naming — the moment Kenji writes "Masato Endo" under 
 ---
 
 **END CHAPTER 7**
-
 # CHAPTER 8 — Endo
 
 ## Chapter Overview
@@ -6302,6 +6313,8 @@ ENDO: "Third — and this is more of a community dynamics note — there's a jou
 **The principle:** Endo never lies. He selects which true things reach which people, and the curation itself is invisible because every individual piece checks out. The switchboard is the literal version of what he does socially: route signal. Truth A goes to person A. Truth B goes to person B. If they were ever in the same room, they'd produce understanding. They never are.
 
 **The "three" pattern:** Endo always offers exactly three leads. Two suggestions seem thin — the recipient senses incompleteness and looks for what's missing. Four suggestions seem controlling — the recipient wonders why this person is so invested in directing their attention. Three is the number that feels like generosity without triggering suspicion. It is the gift that doesn't make you wonder about the giver. This pattern should remain consistent across every Endo call in the game. The player who tracks it across chapters may notice the consistency; on first encounter, it reads as natural helpfulness.
+
+**The "three" pattern is not Endo's invention.** Rina offers three social explanations for Mira's behavior ("she was intense," "she worried too much," "she saw things that weren't there"). Aizawa files reports in threes (incident, context, recommendation). Doi gives three reasons things are fine. Yanagi's social logic naturally portions truth into groups of three — enough to feel complete, not enough to trigger scrutiny. Endo is the only person in town who is conscious of this. Everyone else does it the way they breathe.
 
 **Partition map — for implementer reference:**
 
@@ -7014,7 +7027,6 @@ The chapter is built on contrast. Endo's call is unsettling not because it's hos
 ---
 
 **END CHAPTER 8**
-
 # CHAPTER 9 — The Framing Unravels
 
 ## Chapter Overview
@@ -7351,6 +7363,8 @@ MIRA: "He didn't even know us. He just... thought we fit."
 
 [NOTEBOOK PROMPT: "SORA'S MAP — INFRASTRUCTURE MATCH: Underground lines in Sora's city drawing correspond to Fumiko's cable route map. Junction boxes, community center to school route, pavement change points. Not perfect — he was 8, working from observation — but the geometry aligns. Sora was mapping the switchboard infrastructure from surface observation. He didn't know what the lines were. He knew they were THERE. Endo planted this page in the framing without examining it. The map contains a diagram of his own surveillance network, drawn by the child he was trying to silence."]
 
+[DESIGN NOTE — THEMATIC SETUP FOR CH 10 RECOGNITION: This scene operates at two levels. Tactically, it's evidence — Sora's map confirms the cable infrastructure. Thematically, it's the first half of a recognition beat that completes in Ch 10 when Kenji overlays all three maps and sees two parallel child investigations — Mira's in language, Sora's in geometry — both dismissed as imagination because the system has no category for a child who sees clearly. Do not resolve the thematic parallel here. Let it accumulate. "He thought we fit" is enough for now.]
+
 ---
 
 ## PATH E: OGAWA THREAD (Deepening)
@@ -7605,7 +7619,6 @@ The chapter has no single peak — it has a sustained crescendo. Each path produ
 ---
 
 **END CHAPTER 9**
-
 # CHAPTER 10 — Sora
 
 ## Chapter Overview
@@ -7705,6 +7718,8 @@ KENJI: "His information follows the cables. He knows more about families who liv
 
 [He marks the pattern. Eight months of case notes — every time Endo said something he shouldn't have known, every time his knowledge had the wrong resolution, every time a detail arrived with the fidelity of someone who had heard rather than been told — maps onto the infrastructure like a circuit diagram.]
 
+[Kenji looks at the three maps layered on the glass. A journalist's research. A detective's analysis. A child's drawing. And beneath all of them, invisible until this moment: a fourth map — Mira's notebook entries, each one a coordinate in the same geography, plotted in language instead of lines. Two children conducting parallel investigations of the same system — one in geometry, one in words — both dismissed as imagination because the system has no category for a child who sees clearly.]
+
 [NOTEBOOK PROMPT: "INFRASTRUCTURE SIGNATURE: Endo's knowledge density maps to Fumiko's cable routes. His access is strongest along old phone runs, weakest where cables don't reach. The community center is the convergence point — every major cable run feeds back to it. Three independent maps confirm: Fumiko's journalism, Sora's observation, Kenji's case analysis. The signature proves ACCESS, not murder. But the access explains everything."]
 
 [He calls Fumiko.]
@@ -7795,7 +7810,7 @@ MIRA: "I've always known that sound. I just didn't know it was me."
 
 [Kenji opens it.]
 
-[VISUAL: The exchange room. Small — maybe four meters by six. Concrete walls. Low ceiling. A single overhead light, fluorescent, replaced recently. The air smells like copper and dust and something older — the faint ozone of electrical charge that has been sitting in wire for decades.]
+[VISUAL: The exchange room. Small — maybe four meters by six. Concrete walls. Low ceiling. A single overhead light, fluorescent, replaced recently. A junction box on the wall shows where a power line has been rerouted — tapped from the building's main supply. The same circuit that feeds the community center's exterior fixtures. The vending machine outside has been broken since April. Now Kenji knows where the power went. The air smells like copper and dust and something older — the faint ozone of electrical charge that has been sitting in wire for decades.]
 
 [The switchboard dominates the far wall. Rows of jacks — dozens of them, labeled in faded ink with routing codes from a numbering system that hasn't been used since 1986. Patch cords hang from hooks, their rubber insulation cracked but intact. The board is not decorative. It is maintained. Someone has cleaned the contacts. Someone has organized the cords. Someone has been sitting in the folding chair positioned in front of it — the chair whose legs have worn four small depressions into the concrete floor.]
 
@@ -7804,6 +7819,8 @@ MIRA: "I've always known that sound. I just didn't know it was me."
 [Kenji stands in the room. He looks at the switchboard. He looks at the chair. He looks at the four worn depressions in the concrete — years of weight, applied regularly, in the same position, by a man who sat here and listened.]
 
 [He notices the chair's angle. It doesn't face the switchboard directly — it's turned fifteen degrees toward the wall where the cable runs exit the room. The position of someone who isn't operating the equipment. The position of someone who is listening to what comes through it. Kenji has seen this angle before: interrogation rooms, when the detective turns away from the suspect to listen without the pressure of eye contact. Endo arranged this room the way Kenji arranges an interview. The same practice. The same patience. Applied to a town instead of a case.]
+
+[But there's something worse than the comparison. The room is organized the way the neighborhood is organized — the same logic of maintenance, the same careful routing, the same invisible infrastructure that makes everything arrive where it's supposed to. The cleaned contacts, the sorted cords, the precise chair angle — it's indistinguishable from care until you understand what it's maintaining. This room doesn't reveal Endo's secret system. It reveals the town's system with the walls removed. Yui's apartment felt like this — the same careful quiet, the same architecture of listening, both spaces where silence is the product, not the absence.]
 
 [He picks up the handset.]
 
@@ -8156,7 +8173,6 @@ The chapter is a threshold. Everything before it was phone-based — voices, cal
 ---
 
 **END CHAPTER 10**
-
 # CHAPTER 11 — Cornering Endo
 
 ## Chapter Overview
@@ -8234,6 +8250,8 @@ KENJI: "I need to show you something. It's better if you see it yourself."
 [Kenji sees it. He does not touch it. He does not photograph it. It is not evidence. It is the thing that exists in the space the evidence cannot reach — the Mira who was not investigating, not reporting, not filing. The Mira who liked her mother's nikujaga and drew whales and said goodnight to a room where no one was awake to hear it.]
 
 [DESIGN NOTE: The fridge note is the counterweight to the observation notebook. The notebook shows Mira-as-investigator: precise, dated, relentless. The fridge note shows Mira-as-daughter: a drawing, a compliment, a goodnight. Both existed in the same child. The game has spent eleven chapters building the player's respect for Mira's investigative mind. The fridge note is the thing that makes them mourn the child. "You make the best one" — not the most nutritious, not the most efficient. The best. A nine-year-old's superlative, unqualified, unhedged, the kind of statement she would never make in her observation log because it isn't evidence of anything except love.]
+
+[DESIGN NOTE — EMOTIONAL CLIMAX PROTECTION: This scene — the notebook reading, Reiko's recognition, Mira's "I know" — is the emotional climax of the entire game. Nothing after the board confrontation should exceed this scene's register. The final call with Sora (Ch 12) operates at a different register — quiet, relational, small — and must not compete. Two peaks at the same altitude flatten both. The board proved the case. This scene proves the cost.]
 
 [NOTEBOOK PROMPT: "FRIDGE NOTE — REIKO'S KITCHEN: Among the shift schedules and grocery lists on Reiko's refrigerator — one note in Mira's hand. A drawing of Lopsided (the whale eraser from her notebook cover). Below it: 'Nikujaga was really good. You make the best one. Goodnight mom.' Not a report. Not data. The Mira who existed outside the case."]
 
@@ -8328,6 +8346,8 @@ REIKO: "No. She wasn't doing your job."
 REIKO: "She was doing mine."
 
 [The word *mine* lands in the room and stays. Kenji does not respond. The game does not offer the player a dialogue choice. This is not a moment for interaction. This is a moment for witnessing.]
+
+[DESIGN NOTE — RECOGNITION CHAIN: Reiko's recognition operates at the register of maternal guilt — "she was doing mine." Kenji's version of this recognition comes later, in the epilogue, at a different register: professional respect. He recognizes Mira's notebook as a colleague's case file. Two characters arriving at the same truth through different lenses — one as a mother who failed to listen, one as a detective who inherited the work. Neither recognition diminishes the other.]
 
 [AUDIO: Mira. Barely. Through the static, through the post-amplification crash, through the degradation that has reduced her voice to something the player has to strain to hear — two words.]
 
@@ -8545,6 +8565,8 @@ ENDO: "Detective. Thank you for keeping me updated. The community appreciates yo
 
 [MECHANIC: The confrontation operates on the REDIRECT mechanic. The player must present specific contradictions. Endo will not break — he will adjust. The shape of his adjustments maps the boundary of what he's protecting. The player tracks WHERE he redirects, not WHETHER he cracks.]
 
+[DESIGN NOTE — EMOTIONAL HIERARCHY: The board confrontation is Act 2's climax, not the story's. Three climaxes exist at different registers: the board resolves the investigation (mechanical), the notebook scene resolves Mira (emotional), the final call resolves the relationship (relational). Evidence is subordinate to grief is subordinate to connection. Production must ensure pacing reflects this — the confrontation should feel like clearing ground, not like the peak. The player should leave the board feeling they've proven something. They should leave the notebook feeling they've lost someone.]
+
 [DESIGN NOTE: The player has five dialogue intents available. Silence doesn't work — Endo fills it comfortably with helpful misdirection. Pressure doesn't work — he doesn't crack, he recalibrates. Reassure is irrelevant — he doesn't need trust, he provides it. Bluff is dangerous — if he catches it, he adjusts faster. REDIRECT is the key: steering Endo into revealing what he avoids by forcing him to choose directions.]
 
 ---
@@ -8656,6 +8678,8 @@ ENDO: "Coincidence in timing is not evidence of connection, detective. I'm sure 
 KENJI: "The purchases extend back fifteen years. One plant per year, each purchased within three weeks of a reported child disappearance or unexplained absence in the region."
 
 [This is the heaviest piece. Endo does not flinch. But the helpful warmth — the tone that has defined every interaction since Chapter 8 — shifts. It doesn't disappear. It thins. The way a wire thins when stretched past tolerance.]
+
+[DESIGN NOTE — GARDEN AS COMMUNITY PATTERN: The garden reads as trophy collection, and mechanically it IS evidence. But thematically, Endo is not unique here — he is the most literal version of what the entire community does. Reiko maintains a shrine shelf. Doi wipes a photograph until the surface clouds. Yui presses flowers from the river where Sora drew. The whole town converts children into objects they tend. Endo's garden is not the aberration. It is the town's relationship to its children made visible — the way the exchange room is the town's information architecture made visible. He is not unique in kind. He is unique in honesty about what the tending means.]
 
 ENDO: "You're looking at this from a very specific angle, detective."
 
@@ -9204,7 +9228,6 @@ Two devastations, two resistances. The notebook scene devastates Reiko — and t
 ---
 
 **END CHAPTER 11**
-
 # CHAPTER 12 — The Last Call
 
 ## Chapter Overview
