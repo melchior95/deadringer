@@ -39,7 +39,8 @@
 |------|------|-----------------|
 | FRAMING DECONSTRUCTION | Document examination + Haruki call | Haruki's break, Rina recontextualization |
 | THE GARDEN | Physical investigation + financial records | Botanical timeline, nursery receipts, pattern proof |
-| REIKO'S CALL | Phone call (incoming or outgoing) | The static call, Mira's last failed reach, exchange confirmation |
+| PHONE RECORD | Document examination (infrastructure logs) | Discoverable call log — school → Reiko, 43 seconds, one week before death, exchange bleed-through zone |
+| REIKO'S CALL | Phone call (incoming or outgoing) | The static call, Mira's last failed reach, exchange confirmation (lands heavier if PHONE RECORD found first) |
 | SORA'S MAP (detailed) | Document examination | Infrastructure drawing confirmation, underground lines |
 | OGAWA THREAD (deep) | Document examination + Fumiko call | Cross-referencing (standard), Nishida report (deepest), almost-call (exchange foreshadow) |
 | ENDO FOLLOW-UP | Phone call | More tells, more leads pointing away, more recalibration |
@@ -158,6 +159,28 @@ MIRA: "..."
 MIRA: "It's a good one. For me, I mean."
 
 [She doesn't say anything else. The player sits with the fact that a dead girl has just acknowledged, without anger, that her killer understood something about her that most living people never did.]
+
+---
+
+## PATH B2: THE PHONE RECORD (Discoverable Evidence)
+
+[Available during the infrastructure investigation window. The player, while examining exchange records or school office logs obtained through Fumiko's contacts, encounters a call log entry.]
+
+[VISUAL: Kenji is cross-referencing the school office phone records against the infrastructure map — tracing which calls from the school routed through the old cable runs. Most entries are routine: parent callbacks, district office, the after-school program coordinator. One entry is different.]
+
+[A logged call. School office to a mobile number. Duration: 43 seconds. Dated approximately one week before Mira's death. The call originated from a location near an active cable run — the same junction where Fumiko's map shows exchange bleed-through is heaviest.]
+
+[Kenji checks the number. It takes one cross-reference against the contact list from Reiko's initial interview.]
+
+[The number is Reiko's.]
+
+KENJI: "Mira called her mother from the school office. One week before."
+
+[He writes it down. 43 seconds. Not a hang-up — someone spoke. Not a full conversation — someone was cut short. The call originated from the part of the school closest to the old cable conduit, where the exchange infrastructure bleeds into active lines. The static would have been heaviest there.]
+
+[DESIGN NOTE: The player now has the data point WITHOUT the story. They know a short, urgent call happened from the school to Reiko's phone, that it lasted 43 seconds, and that it originated from a location where exchange bleed-through would have been severe. They do not yet know what was said, who hung up, or what it meant. The phone record is infrastructure evidence — cold, logged, numerical. When Reiko confesses in Path C, she fills in the human story behind this data point. The player who found this record arrives at her confession already carrying the 43 seconds. The number she says — "forty-three. I kept the log" — is not new information. It is confirmation. The effect is Higashino: the player suspects before they know, and the knowing lands heavier because suspicion preceded it.]
+
+[NOTEBOOK PROMPT: "PHONE LOG — SCHOOL → REIKO: Call logged [date], duration 43 seconds. Originated from school office. Location near active cable run — exchange bleed-through likely. Short call, urgent timing. What was this call?"]
 
 ---
 
@@ -509,6 +532,7 @@ MIRA: "When I happened."
 - Framing deconstructed: every document traces to council-level access, council formatting, knowledge only possible through Endo's position. Chat logs fabricated post-death. Counselor notes created using retired staff's credentials. Behavioral report uses council document template.
 - Haruki's break: "disruptive honesty" — his phrase — appears in framing files. His empathy became evidence. Post-break: reckless guilt replaced by cold precision.
 - The garden: botanical timeline confirmed. One plant per disappearance. Final two: shrub ~3 weeks pre-Mira (Sora), sapling day after (Mira). Three-week gap maps the sequence. Pattern proven through botany.
+- [If phone record found] Phone log: school office → Reiko's number, 43 seconds, ~1 week before death, originated near active cable run. Data point without story — the player knows SOMETHING happened but not what. Lands as confirmation when Reiko confesses.
 - Reiko's static call: Mira called from school ~1 week before death. Heavy static — exchange bleed-through. Reiko sleeping between shifts. "Call back later, the line is bad." Mira didn't call back. The exchange destroyed the last call and enabled the surveillance.
 - Sora's map recontextualized: underground lines match Fumiko's cable routes. Sora was mapping the switchboard from surface observation. Endo planted the page without examining it.
 - Ogawa was cross-referencing Mira's observations independently — walking routes, verifying car sightings. Committee fired her for beginning to act on information. Same committee, same chair.
@@ -522,6 +546,7 @@ MIRA: "When I happened."
 - FRAMING — Full deconstruction: council access, council formatting, post-death fabrication. Every piece → Endo.
 - HARUKI'S BREAK — "Disruptive honesty" weaponized. Empathy → evidence → weapon.
 - GARDEN — Botanical timeline. Plant per disappearance. 3-week gap. Pattern proof.
+- [If phone record found] PHONE LOG — SCHOOL → REIKO: 43 seconds, exchange bleed-through zone. Data point without story.
 - REIKO — STATIC CALL — Mira's last reach. Exchange bleed-through. "Call back later." Final failure.
 - SORA MAP — Infrastructure match. Underground lines = cable routes. Drawn by the child Endo targeted.
 - OGAWA DEEP — Cross-referencing Mira's observations. Fired for verifying. (Nishida testimony already received in Ch 8.)

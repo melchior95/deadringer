@@ -62,9 +62,25 @@ KENJI: "I need to show you something. It's better if you see it yourself."
 
 [She lets him in. The apartment is the same temperature as outside — she doesn't run the heat during the day when she's sleeping. A small act of economy that has become habit. The living room has a couch, a low table, a television. Mira's corner is still visible: a small desk, a cup of pencils, a shelf with books arranged by size. Nothing has been moved.]
 
+[As Reiko prepares tea — habit, not hospitality — Kenji waits near the kitchen entrance. The refrigerator door is covered in notes held by magnets: a shift schedule for the month, a grocery list in Reiko's handwriting, a printed school pickup time chart, a reminder about garbage collection day. Functional. The surface of a household that runs on rotation and routine.]
+
+[One note is different.]
+
+[Lower right corner, half-hidden behind the garbage schedule. A piece of notebook paper, smaller than the others, torn along one edge. On it: a drawing. A whale — round, lopsided, one fin shorter than the other. Drawn in blue colored pencil with the careful imprecision of a child who is drawing something she loves rather than something she is observing. Below the whale, in Mira's handwriting:]
+
+*Nikujaga was really good. You make the best one. Goodnight mom.*
+
+[Not a report. Not an observation. Not a filing. A child who ate dinner and drew a picture of her favorite eraser and told her mother goodnight on a piece of paper because her mother was already asleep or already at work or already somewhere the words couldn't reach in person. The whale is Lopsided — the sticker from the notebook cover, the eraser collection's mascot, drawn here not as data but as decoration. As the thing a kid draws when she is being a kid.]
+
+[Kenji sees it. He does not touch it. He does not photograph it. It is not evidence. It is the thing that exists in the space the evidence cannot reach — the Mira who was not investigating, not reporting, not filing. The Mira who liked her mother's nikujaga and drew whales and said goodnight to a room where no one was awake to hear it.]
+
+[DESIGN NOTE: The fridge note is the counterweight to the observation notebook. The notebook shows Mira-as-investigator: precise, dated, relentless. The fridge note shows Mira-as-daughter: a drawing, a compliment, a goodnight. Both existed in the same child. The game has spent eleven chapters building the player's respect for Mira's investigative mind. The fridge note is the thing that makes them mourn the child. "You make the best one" — not the most nutritious, not the most efficient. The best. A nine-year-old's superlative, unqualified, unhedged, the kind of statement she would never make in her observation log because it isn't evidence of anything except love.]
+
+[NOTEBOOK PROMPT: "FRIDGE NOTE — REIKO'S KITCHEN: Among the shift schedules and grocery lists on Reiko's refrigerator — one note in Mira's hand. A drawing of Lopsided (the whale eraser from her notebook cover). Below it: 'Nikujaga was really good. You make the best one. Goodnight mom.' Not a report. Not data. The Mira who existed outside the case."]
+
 [Kenji sits at the low table. He places the notebook between them.]
 
-[VISUAL: A standard school notebook. Grid paper. The cover is unremarkable — no stickers, no decoration. Mira's name written in the inside cover in careful handwriting. The kanji for "observation" written beneath it, then crossed out and replaced with "things I noticed."]
+[VISUAL: The blue notebook. The player has seen it before — the worn cover, the slightly bent spiral binding, the small whale sticker on the front. Lopsided. Grid paper inside. Mira's name written in the inside cover in careful handwriting. The kanji for "observation" written beneath it, then crossed out and replaced with "things I noticed."]
 
 KENJI: "This was recovered from Mira's belongings. It's an observation log. She kept it for fourteen months — from third grade until the week she disappeared."
 
@@ -79,6 +95,16 @@ KENJI: "This is different."
 [Reiko reads.]
 
 [The game does not rush this. The player watches Reiko's face — or rather, watches the careful composure of Reiko's face as it encounters what's on the page. She reads the way a nurse reads a chart she suspects contains a terminal diagnosis: carefully, professionally, with the discipline of someone who knows that if she lets the emotion arrive before she finishes processing the information, she will not be able to process the information.]
+
+[The first entry. Not dated with the same precision as the later entries — the handwriting is slightly larger, less controlled. Earlier. This is before Mira developed the system. Before the observation log became a habit. This is the entry that made the notebook necessary.]
+
+*I told Mr. Ise about her. He said he would help. He called her mom. Her mom called him. Now it's worse. She came to school and she didn't talk to me. She didn't talk to anyone. I made it worse. I don't know what to do. I'm going to try again but different this time. I'm going to write things down so I can say them right. So the next grown-up listens better.*
+
+[DESIGN NOTE: The first entry is about Yui — unnamed, protected. The player who tracked the institutional dates in Ch 5 recognizes immediately: Haruki's protocol failure ("He called her mom"), the mother's retaliation, the behavioral cascade that followed. Mira's earliest filing — the one the committee coded as "unsolicited reporting on peer welfare" — started here. A child told an adult about her friend. The adult ran the procedure. The procedure made it worse. And Mira, eight years old, decided the problem was that she hadn't said it right. So she started writing things down. The observation notebook — fourteen months of dated, specific, devastatingly accurate reports — exists because a child blamed her own words instead of the system that failed them. This is the Yui-sequence completion: the player who heard Haruki say "her first report was before my time" now reads Mira's account of that first report, in her own hand, and understands that every entry that follows was an attempt to do better than the time before. The notebook was never surveillance. It was revision.]
+
+[Reiko reads the entry. She does not know about Yui. She does not know about Haruki's protocol failure. She sees a child trying to help a friend and watching the help go wrong. The specificity of "I'm going to try again but different this time" — the determination, the self-blame, the eight-year-old's conviction that the problem was execution rather than architecture — lands on her the way it lands on the player: as the origin point of everything.]
+
+[She turns the page. The handwriting tightens. The dates begin. The system starts.]
 
 *March 3 — Mr. Endo talked to Yui's mom after school. He waited until the other parents left. He touched her arm when she was talking. She pulled her arm back. He didn't notice. Or he pretended not to.*
 
@@ -95,6 +121,14 @@ KENJI: "This is different."
 [Reiko's hand stops on this page. The player sees her eyes track the sentence twice. "I am not grateful. I am suspicious. Those are different." Mira, at nine, distinguishing between the emotional response the community expected and the analytical response the situation required. Making the distinction in writing because the adult she told it to wouldn't make it in conversation.]
 
 [She continues reading. The entries span months. Each one is a report — filed not to a teacher or a police officer or a mother, but to a notebook, because the notebook was the only system that didn't dismiss the filing.]
+
+[Then an entry that is not a report.]
+
+*April 29 — Mom had a morning off. She didn't know what to do with it. She just stood in the kitchen for a while. I showed her the centipede I found on the balcony. I put it in a jar so she could see the legs. She looked at it for a really long time. She said "that is the most legs I have ever seen on one animal." I said it's not an animal it's an arthropod and she said "thank you, professor." Then we watched it walk across the table together until it was time for school. She carried me to the door even though I'm too big. The centipede is under the planter now. I check on it sometimes.*
+
+[Reiko's hand does not stop on this page. It hovers. The other entries — the reports, the observations, the careful documentation of a system failing — she read those with a nurse's discipline. This one she reads as a mother. The entry does not mention Endo. Does not mention the silver car. Does not mention Yui or Ms. Aizawa or the safety council. It mentions a centipede, and a morning, and being carried to the door.]
+
+[DESIGN NOTE: The warmth moment. Not perfect parenting — Reiko "didn't know what to do with" a morning off, which tells the player how rare they were. But she looked at the centipede. She looked at it for a really long time. She corrected Mira's correction with humor instead of dismissal. She carried her to the door. The entry exists in the observation notebook because Mira put everything in the observation notebook — but it is not an observation. It is a morning that worked. The player who has spent eleven chapters building a case against the adults in Mira's life now encounters the evidence that the relationship was not only failure. There was a morning. There was a centipede. There was "thank you, professor." The player needs to mourn what the relationship could have been, not just judge what it was. This entry is the thing that makes that mourning possible.]
 
 *May 19 — Mom was asleep when I got home. The door was locked but I have my key. I made rice. I cleaned up. I did homework. She got up at 2:30 and asked if I needed anything. I said no. I didn't tell her about the car because she was tired. She's always tired. "Can't" and "won't" are different but they look the same from the outside.*
 
@@ -951,6 +985,9 @@ MIRA: "That's the other thing. Thank you for that."
 ---
 
 ### Player Knowledge (New This Chapter)
+- The fridge note: among Reiko's functional kitchen notes, one note in Mira's hand — a drawing of Lopsided the whale eraser, "Nikujaga was really good. You make the best one. Goodnight mom." The Mira who existed outside the case.
+- Notebook first entry (Yui-sequence completion): Mira's account of telling Mr. Ise about her friend. "He called her mom. Her mom called him. Now it's worse. I made it worse." The origin of the observation notebook — Mira started writing things down because she believed the problem was her delivery, not the system. Completes the six-chapter Yui-sequence seeded in Ch 5.
+- The warmth moment: April 29 — Mira showed Reiko a centipede. Reiko looked. "That is the most legs I have ever seen on one animal." A morning that worked. Evidence that the relationship was not only failure.
 - Reiko read the notebook. Fourteen months of observations. "She was doing mine." Reiko is now an unfiltered source — everything Mira told her, unedited.
 - Mira's last notebook entry: planned to call the police from the school office phone. The day before she died.
 - Reiko's new information: Mira mentioned Endo multiple times, mentioned the basement sound, the static call was Mira trying to report what she'd found.
@@ -960,6 +997,8 @@ MIRA: "That's the other thing. Thank you for that."
 - Endo knows what the investigation knows. He will move before the warrant.
 
 ### Notebook Contents (New Entries)
+- FRIDGE NOTE: Lopsided drawing + "Nikujaga was really good. You make the best one. Goodnight mom." Not a report. Not data.
+- NOTEBOOK FIRST ENTRY (YUI-SEQUENCE): "I told Mr. Ise about her. He called her mom. Now it's worse." Origin of the observation notebook. Mira started writing things down to say them right next time.
 - REIKO — NOTEBOOK SCENE: 14 months. "She was doing mine." Unfiltered source.
 - MIRA'S LAST ENTRY: Planned to call police. School office phone. The day before.
 - CASE ASSEMBLY: Infrastructure docs + committee records + vehicle observations + report copies + social testimony. Five NPC contributions, each an independent evidence path.
