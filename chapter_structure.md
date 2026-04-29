@@ -754,3 +754,9 @@ Each character's hidden acts use a different mechanism. No two break sequences w
 ### Design Constraint
 
 The selfishness item and the love item for each character must be discoverable in the same investigation window or adjacent chapters. The player encounters both in close proximity — the recontextualization is immediate, not deferred. Finding Rina's notebook log and her voicemail in the same Ch 5-7 stretch means the player processes "she started it" and "she never stopped regretting it" as a single compound revelation, not two separate facts.
+
+### Evidence Pacing Constraint
+
+Hidden act evidence items should be discoverable throughout the mid-game (Ch 4-9) but should NOT all converge on the Ch 11 board simultaneously. The board confrontation should feel like assembling fragments the player already processed emotionally — placing evidence they've already sat with, not encountering it for the first time. If the player has already grieved Doi's blue notebook in Ch 6, they don't need to re-experience it as a board item — they need to place it and feel the weight of recognition, not revelation.
+
+The emotional hierarchy: board confrontation resolves the investigation (mechanical climax). The notebook scene resolves Mira (emotional climax). The final call resolves the relationship (relational climax). Evidence is subordinate to grief is subordinate to connection. The board clears ground. It is not the peak.
