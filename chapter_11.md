@@ -76,6 +76,8 @@ KENJI: "I need to show you something. It's better if you see it yourself."
 
 [DESIGN NOTE: The fridge note is the counterweight to the observation notebook. The notebook shows Mira-as-investigator: precise, dated, relentless. The fridge note shows Mira-as-daughter: a drawing, a compliment, a goodnight. Both existed in the same child. The game has spent eleven chapters building the player's respect for Mira's investigative mind. The fridge note is the thing that makes them mourn the child. "You make the best one" — not the most nutritious, not the most efficient. The best. A nine-year-old's superlative, unqualified, unhedged, the kind of statement she would never make in her observation log because it isn't evidence of anything except love.]
 
+[DESIGN NOTE — EMOTIONAL CLIMAX PROTECTION: This scene — the notebook reading, Reiko's recognition, Mira's "I know" — is the emotional climax of the entire game. Nothing after the board confrontation should exceed this scene's register. The final call with Sora (Ch 12) operates at a different register — quiet, relational, small — and must not compete. Two peaks at the same altitude flatten both. The board proved the case. This scene proves the cost.]
+
 [NOTEBOOK PROMPT: "FRIDGE NOTE — REIKO'S KITCHEN: Among the shift schedules and grocery lists on Reiko's refrigerator — one note in Mira's hand. A drawing of Lopsided (the whale eraser from her notebook cover). Below it: 'Nikujaga was really good. You make the best one. Goodnight mom.' Not a report. Not data. The Mira who existed outside the case."]
 
 [Kenji sits at the low table. He places the notebook between them.]
@@ -169,6 +171,8 @@ REIKO: "No. She wasn't doing your job."
 REIKO: "She was doing mine."
 
 [The word *mine* lands in the room and stays. Kenji does not respond. The game does not offer the player a dialogue choice. This is not a moment for interaction. This is a moment for witnessing.]
+
+[DESIGN NOTE — RECOGNITION CHAIN: Reiko's recognition operates at the register of maternal guilt — "she was doing mine." Kenji's version of this recognition comes later, in the epilogue, at a different register: professional respect. He recognizes Mira's notebook as a colleague's case file. Two characters arriving at the same truth through different lenses — one as a mother who failed to listen, one as a detective who inherited the work. Neither recognition diminishes the other.]
 
 [AUDIO: Mira. Barely. Through the static, through the post-amplification crash, through the degradation that has reduced her voice to something the player has to strain to hear — two words.]
 
@@ -386,6 +390,8 @@ ENDO: "Detective. Thank you for keeping me updated. The community appreciates yo
 
 [MECHANIC: The confrontation operates on the REDIRECT mechanic. The player must present specific contradictions. Endo will not break — he will adjust. The shape of his adjustments maps the boundary of what he's protecting. The player tracks WHERE he redirects, not WHETHER he cracks.]
 
+[DESIGN NOTE — EMOTIONAL HIERARCHY: The board confrontation is Act 2's climax, not the story's. Three climaxes exist at different registers: the board resolves the investigation (mechanical), the notebook scene resolves Mira (emotional), the final call resolves the relationship (relational). Evidence is subordinate to grief is subordinate to connection. Production must ensure pacing reflects this — the confrontation should feel like clearing ground, not like the peak. The player should leave the board feeling they've proven something. They should leave the notebook feeling they've lost someone.]
+
 [DESIGN NOTE: The player has five dialogue intents available. Silence doesn't work — Endo fills it comfortably with helpful misdirection. Pressure doesn't work — he doesn't crack, he recalibrates. Reassure is irrelevant — he doesn't need trust, he provides it. Bluff is dangerous — if he catches it, he adjusts faster. REDIRECT is the key: steering Endo into revealing what he avoids by forcing him to choose directions.]
 
 ---
@@ -497,6 +503,8 @@ ENDO: "Coincidence in timing is not evidence of connection, detective. I'm sure 
 KENJI: "The purchases extend back fifteen years. One plant per year, each purchased within three weeks of a reported child disappearance or unexplained absence in the region."
 
 [This is the heaviest piece. Endo does not flinch. But the helpful warmth — the tone that has defined every interaction since Chapter 8 — shifts. It doesn't disappear. It thins. The way a wire thins when stretched past tolerance.]
+
+[DESIGN NOTE — GARDEN AS COMMUNITY PATTERN: The garden reads as trophy collection, and mechanically it IS evidence. But thematically, Endo is not unique here — he is the most literal version of what the entire community does. Reiko maintains a shrine shelf. Doi wipes a photograph until the surface clouds. Yui presses flowers from the river where Sora drew. The whole town converts children into objects they tend. Endo's garden is not the aberration. It is the town's relationship to its children made visible — the way the exchange room is the town's information architecture made visible. He is not unique in kind. He is unique in honesty about what the tending means.]
 
 ENDO: "You're looking at this from a very specific angle, detective."
 

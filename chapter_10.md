@@ -97,6 +97,8 @@ KENJI: "His information follows the cables. He knows more about families who liv
 
 [He marks the pattern. Eight months of case notes — every time Endo said something he shouldn't have known, every time his knowledge had the wrong resolution, every time a detail arrived with the fidelity of someone who had heard rather than been told — maps onto the infrastructure like a circuit diagram.]
 
+[Kenji looks at the three maps layered on the glass. A journalist's research. A detective's analysis. A child's drawing. And beneath all of them, invisible until this moment: a fourth map — Mira's notebook entries, each one a coordinate in the same geography, plotted in language instead of lines. Two children conducting parallel investigations of the same system — one in geometry, one in words — both dismissed as imagination because the system has no category for a child who sees clearly.]
+
 [NOTEBOOK PROMPT: "INFRASTRUCTURE SIGNATURE: Endo's knowledge density maps to Fumiko's cable routes. His access is strongest along old phone runs, weakest where cables don't reach. The community center is the convergence point — every major cable run feeds back to it. Three independent maps confirm: Fumiko's journalism, Sora's observation, Kenji's case analysis. The signature proves ACCESS, not murder. But the access explains everything."]
 
 [He calls Fumiko.]
@@ -187,7 +189,7 @@ MIRA: "I've always known that sound. I just didn't know it was me."
 
 [Kenji opens it.]
 
-[VISUAL: The exchange room. Small — maybe four meters by six. Concrete walls. Low ceiling. A single overhead light, fluorescent, replaced recently. The air smells like copper and dust and something older — the faint ozone of electrical charge that has been sitting in wire for decades.]
+[VISUAL: The exchange room. Small — maybe four meters by six. Concrete walls. Low ceiling. A single overhead light, fluorescent, replaced recently. A junction box on the wall shows where a power line has been rerouted — tapped from the building's main supply. The same circuit that feeds the community center's exterior fixtures. The vending machine outside has been broken since April. Now Kenji knows where the power went. The air smells like copper and dust and something older — the faint ozone of electrical charge that has been sitting in wire for decades.]
 
 [The switchboard dominates the far wall. Rows of jacks — dozens of them, labeled in faded ink with routing codes from a numbering system that hasn't been used since 1986. Patch cords hang from hooks, their rubber insulation cracked but intact. The board is not decorative. It is maintained. Someone has cleaned the contacts. Someone has organized the cords. Someone has been sitting in the folding chair positioned in front of it — the chair whose legs have worn four small depressions into the concrete floor.]
 
@@ -196,6 +198,8 @@ MIRA: "I've always known that sound. I just didn't know it was me."
 [Kenji stands in the room. He looks at the switchboard. He looks at the chair. He looks at the four worn depressions in the concrete — years of weight, applied regularly, in the same position, by a man who sat here and listened.]
 
 [He notices the chair's angle. It doesn't face the switchboard directly — it's turned fifteen degrees toward the wall where the cable runs exit the room. The position of someone who isn't operating the equipment. The position of someone who is listening to what comes through it. Kenji has seen this angle before: interrogation rooms, when the detective turns away from the suspect to listen without the pressure of eye contact. Endo arranged this room the way Kenji arranges an interview. The same practice. The same patience. Applied to a town instead of a case.]
+
+[But there's something worse than the comparison. The room is organized the way the neighborhood is organized — the same logic of maintenance, the same careful routing, the same invisible infrastructure that makes everything arrive where it's supposed to. The cleaned contacts, the sorted cords, the precise chair angle — it's indistinguishable from care until you understand what it's maintaining. This room doesn't reveal Endo's secret system. It reveals the town's system with the walls removed. Yui's apartment felt like this — the same careful quiet, the same architecture of listening, both spaces where silence is the product, not the absence.]
 
 [He picks up the handset.]
 

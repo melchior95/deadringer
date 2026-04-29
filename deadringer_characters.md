@@ -697,7 +697,7 @@ Beneath the Yanagi community center — in a room that was sealed during the 198
 
 Yanagi was built on the site of a wartime communications relay. The exchange served as a local switching hub from 1952 to 1986, when the system was modernized and the physical infrastructure was deemed redundant. The cables were never fully disconnected. They run under the streets in concrete conduit, woven into the neighborhood's modern phone lines like a fossil skeleton inside a living body.
 
-Endo discovered the room fifteen years ago, during renovation work he was overseeing at the community center. He found the sealed door. He opened it. He found a manual switchboard — dozens of jacks and patch cords, built for an operator to physically connect callers by hand.
+Endo recognized the room fifteen years ago, during renovation work he was overseeing at the community center. He found the sealed door. He opened it. He found a manual switchboard — dozens of jacks and patch cords, built for an operator to physically connect callers by hand. He understood immediately what it was — not because he was technical, but because the room was doing physically what he had been doing socially for years: routing signal, sorting voices, deciding what reached whom.
 
 And he found that the lines were not entirely dead.
 
@@ -705,9 +705,9 @@ No dial tone, no signal, no current in any measurable sense. But when he held a 
 
 He tested it. Methodically, the way he does everything. He mapped which lines still connected to which parts of the neighborhood. He discovered that certain modern phone calls — made near the old cable runs — bled faintly into the exchange. He could hear them. Not clearly. Not reliably. But enough.
 
-**The switchboard did not make Endo what he is.** He was already listening before he found the exchange. He was already cataloguing voices. He was already managing the town's social dynamics with the attentiveness of a man running a complex operation from memory. The switchboard didn't create the Archivist. It confirmed his worldview, extended his reach, and gave him infrastructure to match the scale of his obsession.
+**The switchboard did not make Endo what he is.** He was already listening before he found the exchange. He was already cataloguing voices. He was already managing the town's social dynamics with the attentiveness of a man running a complex operation from memory. The switchboard didn't create the Archivist. It made visible the reach he already had through social architecture — the same routing, the same selective distribution, the same careful curation that Yanagi's entire social structure performed unconsciously. Rina sorts reputations. Aizawa sorts reports. Doi sorts explanations. Endo found the room where the wiring matched.
 
-It was, for Endo, like discovering that the town itself agreed with him. That Yanagi was *built* to carry voices. That the infrastructure of the community — the literal wires in the ground — was an archive of human truth that had been accumulating for decades, waiting for someone who cared enough to listen.
+It was, for Endo, like recognizing that the town itself already worked this way. That Yanagi was *built* to carry voices. That the infrastructure of the community — the literal wires in the ground — was an archive of human truth that had been accumulating for decades, waiting for someone who cared enough to listen.
 
 Over fifteen years, Endo refined his use of the exchange into a passive surveillance system. Not sophisticated — patient. He visits the room regularly. He sits with the old handset. He listens. He has learned which intersections produce the clearest bleed, which times of day carry the most signal, which emotional states cut through the noise. Fear is loudest. Children are clearest. A child who is afraid and speaking truthfully generates a signal that cuts through the static like a wire being struck.
 

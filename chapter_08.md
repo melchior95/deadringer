@@ -130,6 +130,8 @@ ENDO: "Third — and this is more of a community dynamics note — there's a jou
 
 **The "three" pattern:** Endo always offers exactly three leads. Two suggestions seem thin — the recipient senses incompleteness and looks for what's missing. Four suggestions seem controlling — the recipient wonders why this person is so invested in directing their attention. Three is the number that feels like generosity without triggering suspicion. It is the gift that doesn't make you wonder about the giver. This pattern should remain consistent across every Endo call in the game. The player who tracks it across chapters may notice the consistency; on first encounter, it reads as natural helpfulness.
 
+**The "three" pattern is not Endo's invention.** Rina offers three social explanations for Mira's behavior ("she was intense," "she worried too much," "she saw things that weren't there"). Aizawa files reports in threes (incident, context, recommendation). Doi gives three reasons things are fine. Yanagi's social logic naturally portions truth into groups of three — enough to feel complete, not enough to trigger scrutiny. Endo is the only person in town who is conscious of this. Everyone else does it the way they breathe.
+
 **Partition map — for implementer reference:**
 
 | Event/Topic | Told to Kenji (Ch 8) | Told to Haruki (Ch 12 intercept) | Told to Reiko (Ch 12 intercept) | Told to District Police (Ch 12 intercept) | Told to Doi (Ch 12 intercept) |
