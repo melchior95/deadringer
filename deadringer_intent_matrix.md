@@ -51,6 +51,14 @@ Internally tracked per NPC on a five-point scale: `-2 / -1 / 0 / +1 / +2` per in
 
 Ch 12 outcomes are the only place the accumulated trust deltas produce visible consequences. For Acts I–III, trust shapes texture.
 
+### 1.5 Hidden Act Evidence and Break Mechanics
+
+Hidden act evidence items (lost-and-found log, witness form, phone records, property intake form, altered report, recommendation letter, fridge note, council intake form, blue notebook, lily) serve as **ammunition for confrontation** during break sequences. They do not change the fundamental intent mechanics. The player still uses the five intents. What changes is what the player can **present** during break sequences — specific evidence that forces the NPC past their performed version.
+
+**The intent system is the how; the hidden acts are the what.**
+
+Evidence presentation occurs at authored beats within break sequences. The player selects the evidence item from the notebook; the intent they used to reach the break determines the emotional register of the NPC's response to the evidence. A SILENT-triggered break followed by evidence presentation produces a different confession texture than a REDIRECT-triggered break followed by the same evidence — but the information yield converges.
+
 ---
 
 ## 2. INTENT × NPC PROFILES (CONSOLIDATED)
@@ -73,6 +81,8 @@ Per-NPC summary of how each intent functions across all that NPC's calls. For pe
 
 **Dignity Filter:** no. Her resistance is grief, not pride. Pressure produces protective distance, not escalating courtesy.
 
+**Hidden act evidence — break dynamics:** Three-layer design. Layer 1 is texture across all calls (no specific break point). Layer 2 (missed call) arrives through phone record evidence in Ch 8–9. Layer 3 (notebook scene in Ch 11) is the culminating break. The fridge note ("Goodnight mom") is the hidden act of love discovered in the same chapter. No change to intent mechanics — the layers are experienced, not mechanized. Evidence presentation does not alter the intent tree for any Reiko call.
+
 ### 2.2 DOI (Yanagi Mart owner)
 
 **Signature approach:** Dignity Filter active. Pressure makes him more polite, not more honest. Silence bypasses the filter.
@@ -88,6 +98,8 @@ Per-NPC summary of how each intent functions across all that NPC's calls. For pe
 **Key calls:** Ch 3 first call (PRESSURE teaching moment), Ch 6 false confession (SILENT collapses it), Ch 11 case assembly (social access testimony, trust-gated).
 
 **Dignity Filter:** yes, explicitly. Established Ch 3. Broken Ch 6 via silence.
+
+**Hidden act evidence — break dynamics:** The false confession resolution now includes the council intake form — proof he reported to Endo directly. His guilt has a specific foundation beyond the false confession: he saw enough to report, reported to the wrong person, and was reassured into silence. The blue notebook gift (hidden act of love) arrives from the same investigation window. Evidence presentation during the Ch 6 break adds a second beat after the false confession collapses: the intake form proves complicity was structured, not passive.
 
 ### 2.3 YUI SAKAMOTO (11-year-old abuse victim)
 
@@ -105,6 +117,8 @@ Per-NPC summary of how each intent functions across all that NPC's calls. For pe
 
 **Design note:** BLUFF is explicitly absent from Yui's intent menu. The omission is the design statement.
 
+**Hidden act evidence — break dynamics:** Different from all other NPCs. The lily evidence surfaces post-intervention, not during a break. Yui explains it voluntarily when she is safe. No intent mechanic change needed. Evidence presentation is not authored for Yui's call — the hidden act is disclosed on her terms, not the player's.
+
 ### 2.4 RINA NISHIZAWA (10, social center of Mira's class)
 
 **Signature approach:** Fills silence with social performance. Silence doesn't work on her the way it works on Yui; Rina fills it cheerfully. Redirect catches her unprepared.
@@ -120,6 +134,8 @@ Per-NPC summary of how each intent functions across all that NPC's calls. For pe
 **Key calls:** Ch 4 primary call, referenced Ch 7 (framing language echo), Ch 11 (absent — Rina is not called during case assembly; her role is background by that chapter).
 
 **Dignity Filter:** no. She defends social position, not personal dignity.
+
+**Hidden act evidence — break dynamics:** The break sequence now includes a beat before "it was easier if it was her" where the player presents notebook evidence (lost-and-found log). The break shifts from "I didn't start it" to the realization that she did. The voicemail discovery (phone records showing repeated access) complicates the post-break state — she carried the evidence of what she'd done for years. Intent mechanics unchanged; the lost-and-found log is ammunition presented during the break, not a trigger for it.
 
 ### 2.5 HARUKI ISE (Mira's homeroom teacher, 29)
 
@@ -137,6 +153,8 @@ Per-NPC summary of how each intent functions across all that NPC's calls. For pe
 
 **Key risk mechanic:** POINT OF NO RETURN (Ch 6). Information shared with Haruki in Ch 5–6 determines what he acts on unilaterally in Ch 6's PoNR. More info shared = bigger PoNR = more cascade damage. The calculated reassure/withhold pattern is the teaching.
 
+**Hidden act evidence — break dynamics:** Already partially designed. The "disruptive honesty" label recognition is now paired with the recommendation letter discovery — same file, same teacher, one weaponized, one ignored. The break itself does not change, but the post-break dialogue gains a layer: "I named it. I gave it a name and they used the name" now sits alongside "I also wrote the recommendation. They used the name." Intent mechanics unchanged. The recommendation letter is presented post-break, not during.
+
 ### 2.6 AIZAWA EMI (vice principal / school counselor)
 
 **Signature approach:** Procedural walls. Cannot be pushed through; must be navigated around. The Sanitizer Rate is her state indicator.
@@ -152,6 +170,8 @@ Per-NPC summary of how each intent functions across all that NPC's calls. For pe
 **Key calls:** Ch 5 first call, Ch 8 break scene (the sanitizer stops), Ch 11 case assembly.
 
 **State indicator:** Sanitizer click rate. Slow = composed. Speeding = pressure landing. Stopped = break.
+
+**Hidden act evidence — break dynamics:** The break ("I chose the version of my job that let me sleep") now extends with a second beat. The property intake form reveals she held the notebook after Mira's death and chose not to read past the eraser pages. "Same handwriting. Both times." The altered report (hidden act of love) proves she once used her procedural skill to protect Mira, making the burial more devastating — she had the tools, used them once, then stopped. Intent mechanics unchanged; the property intake form and altered report are presented during the extended break beat, after the initial break has already occurred via the standard intent path.
 
 ### 2.7 FUMIKO ARAI (journalist)
 
@@ -182,6 +202,8 @@ Per-NPC summary of how each intent functions across all that NPC's calls. For pe
 | BLUFF | Not authored in Kaito's call. His delayed processing makes bluffs ineffective; he asks for clarification rather than responding. | — |
 
 **Key calls:** Ch 7 primary call, Ch 11 case assembly (vehicle logs trust-gated).
+
+**Hidden act evidence — break dynamics:** The break reshapes "I didn't tell anyone." The witness form proves he was asked directly and said no. This is not passive silence; it is active denial. The phone records (14 late-night calls, every one answered) arrive from the same investigation window, creating a compound revelation: he was Mira's closest listener AND the system's most informed accomplice. Evidence presentation is sequential — witness form first (breaks the passive framing), phone records second (complicates it with intimacy). Intent mechanics unchanged; the evidence is ammunition for the break, not a replacement for the intent path that reaches it.
 
 ### 2.9 ENDO MASATO (the antagonist)
 
@@ -366,6 +388,8 @@ Chronological index. For each player-choice point: chapter, NPC, intents availab
 
 **Teaching goal:** the community's consensus narrative as mechanism. The player logs Rina's phrasing; it will return.
 
+**Hidden act evidence note:** The lost-and-found log and voicemail phone records are not available in Ch 4. Evidence presentation for Rina's break occurs in a later call (see §2.4). Ch 4 establishes the performance that the evidence will eventually dismantle.
+
 ---
 
 ### CH 5 — HARUKI (First Incoming Call)
@@ -381,6 +405,8 @@ Chronological index. For each player-choice point: chapter, NPC, intents availab
 **Diagnosability:** Haruki's pen-click. Steady = he's in overflow (producing information). Stopping = the overflow has hit something it can't proceduralize (the tell that lands twice per call — once at "Sora Hayashi" moment, once at "Mr. Endo was... concerned").
 
 **Teaching goal:** ally management as a mechanic. Haruki is useful and dangerous.
+
+**Hidden act evidence note:** The recommendation letter discovery is not available in Ch 5. This call establishes the Overflow and the ally-risk dynamic. The evidence that pairs the "disruptive honesty" label with the recommendation letter (same file, same teacher, one weaponized, one ignored) surfaces later in the break sequence. See §2.5.
 
 ---
 
@@ -429,6 +455,8 @@ Chronological index. For each player-choice point: chapter, NPC, intents availab
 **Diagnosability:** audio — the store sounds behind him. Under REASSURE and PRESSURE the store stays loud (register protects him). Under SILENT the store quiets — a customer leaves — and his voice becomes audible alone for the first time.
 
 **Teaching goal:** silence as the tool that reveals the false confession. Payoff of the Ch 3 PRESSURE lesson and the Ch 4 Yui SILENCE lesson combined.
+
+**Hidden act evidence note:** The council intake form (proof Doi reported to Endo directly) and blue notebook gift (hidden act of love) extend this scene. After the false confession collapses via SILENT, the player can present the intake form to surface the specific foundation of Doi's guilt: he reported, was reassured into silence, and carried that silence as complicity. The blue notebook gift complicates the resolution — his guilt coexists with genuine care. See §2.2.
 
 ---
 
@@ -490,6 +518,8 @@ Chronological index. For each player-choice point: chapter, NPC, intents availab
 **Soul Read post-call:** "Doesn't know how to show it properly. Someone's listening. Like a window opened in a room that's been closed."
 
 **Teaching goal:** the hidden gate. A player who has learned that SILENCE is valuable is rewarded with the richest character disclosure of the middle act. A player who hasn't learned it gets adequate information via PATIENCE but misses the teenager reveal entirely.
+
+**Hidden act evidence note:** The witness form and phone records (14 late-night calls) that reshape Kaito's break are not available in Ch 7. This call establishes the baseline — observer, delayed signal, the teenager behind the notation system. The evidence that reframes his silence as active denial arrives later. See §2.8.
 
 ---
 
@@ -562,6 +592,8 @@ Chronological index. For each player-choice point: chapter, NPC, intents availab
 
 **Teaching goal:** the scene has multiple paths to the same disclosure; the paths shape the disclosure's emotional register. There is no "wrong" choice here, only tonal choices. A design statement: sometimes the player has agency over HOW something lands, not WHETHER.
 
+**Hidden act evidence note:** After the initial break ("I chose the version of my job that let me sleep"), the property intake form and altered report extend the scene with a second beat. The intake form proves she held the notebook and chose not to read past the eraser pages — "Same handwriting. Both times." The altered report (hidden act of love) reveals she once used her procedural skill to protect Mira, making the subsequent burial more devastating. The intent that triggered the break shapes the register of this second beat: SILENT-triggered breaks produce the most vulnerable response to the evidence; PRESSURE-triggered breaks produce defensiveness that the evidence then collapses.
+
 ---
 
 ### CH 9 — REIKO (Static Call)
@@ -571,6 +603,8 @@ Chronological index. For each player-choice point: chapter, NPC, intents availab
 **Per-intent outcome:** see §3 call detail in `chapter_09.md`. REASSURE is refused by Reiko; REDIRECT gets the location; SILENT gets the kept log (the most detailed disclosure).
 
 **Teaching goal:** a confession scene. Not every call is adversarial. The game restricts intents to what would be tonally appropriate.
+
+**Hidden act evidence note:** Layer 2 of Reiko's three-layer design. The missed call surfaces through phone record evidence in this chapter window (Ch 8–9). This is texture, not a mechanized break — the player encounters the phone records as investigation material, and the missed call registers as accumulated weight rather than a confrontation beat. See §2.1.
 
 ---
 
