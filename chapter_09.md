@@ -334,6 +334,8 @@ MIRA: "He didn't even know us. He just... thought we fit."
 
 [NOTEBOOK PROMPT: "SORA'S MAP — INFRASTRUCTURE MATCH: Underground lines in Sora's city drawing correspond to Fumiko's cable route map. Junction boxes, community center to school route, pavement change points. Not perfect — he was 8, working from observation — but the geometry aligns. Sora was mapping the switchboard infrastructure from surface observation. He didn't know what the lines were. He knew they were THERE. Endo planted this page in the framing without examining it. The map contains a diagram of his own surveillance network, drawn by the child he was trying to silence."]
 
+[DESIGN NOTE — THEMATIC SETUP FOR CH 10 RECOGNITION: This scene operates at two levels. Tactically, it's evidence — Sora's map confirms the cable infrastructure. Thematically, it's the first half of a recognition beat that completes in Ch 10 when Kenji overlays all three maps and sees two parallel child investigations — Mira's in language, Sora's in geometry — both dismissed as imagination because the system has no category for a child who sees clearly. Do not resolve the thematic parallel here. Let it accumulate. "He thought we fit" is enough for now.]
+
 ---
 
 ## PATH E: OGAWA THREAD (Deepening)
