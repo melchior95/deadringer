@@ -770,9 +770,11 @@ Regardless of approach:
 
 [Another statement: "I saw him arguing with the Kitahara girl once. At the river. They were talking loudly and he was — it looked heated."]
 
-[DESIGN NOTE: "Arguing" — a neighbor watched from a window and interpreted two awkward people talking with intensity as conflict. This is the community's pattern-matching applied to Kaito: a boy who doesn't perform "normal" correctly becomes "suspicious" through the same mechanism that made Mira "intense."]
+[DESIGN NOTE: "Arguing" — a neighbor watched from a window and interpreted two awkward people talking with intensity as conflict. This is the community's pattern-matching applied to Kaito: a boy who doesn't perform "normal" correctly becomes "suspicious" through the same mechanism that made Mira "intense." Emotional asymmetry: Mira's willingness to be "the girl who says things" gave Kaito permission to be the boy who says nothing. Her courage was his exemption. The player won't understand what this cost until they see the witness form.]
 
 [Kenji pulls the name from school records: KAITO NISHIMURA, 17, no school affiliation (homeschooled). Address in Yanagi. The case file includes a note from the original canvass: "Statement taken. No relevant observations. No further follow-up recommended."]
+
+[DESIGN NOTE: The player who remembers Ch 1 — Doi's canvass statement "summarized down to 'no relevant observations'" — recognizes the language here. Same phrase. Different name. Different context. The institutional vocabulary that converted Doi's testimony into silence was also applied to Kaito. But Doi's statement was minimized by someone else. Kaito's? The player doesn't know yet whether the phrasing was imposed on him or whether he used it himself. That distinction matters. It will surface in Ch 7 when the player accesses school records and finds a witness intake form with Kaito's name on it.]
 
 [Kenji opens the supplementary evidence folder. Inside: photocopies of notebook pages recovered during the canvass. Timestamped logs. Meticulous. Columns: date, time, location, observation.]
 
@@ -794,6 +796,14 @@ MIRA: "He wasn't arguing with me. We were talking. He talks like that — loud, 
 
 MIRA: "He believed me about the car. He was the only one."
 
+[Beat.]
+
+MIRA: "He used to answer the phone when I called. Late. After my mom went to work. The apartment would get quiet and I'd call him and he'd pick up every time. He didn't say much. He's not — he doesn't say things the way I say things. But he picked up."
+
+[She delivers this the way she delivers everything — flat, factual, a data point about a pattern she observed. But the pattern is: a boy who answered every call from a girl who had nobody else to call after dark. The player files it.]
+
+MIRA: "He knew everything I knew. I told him all of it — the car, the timing, the supervision gap. At nine o'clock at night, when nobody else was listening. He had all of it."
+
 [A pause. Not the emotional pause that followed the Yui read — something shorter, different in texture. A half-second where the wire-sound flickers, like a signal briefly losing its carrier wave. When Mira comes back, she sounds exactly the same.]
 
 MIRA: "What was — the second date. The March 7th entry."
@@ -804,7 +814,7 @@ MIRA: "Right. I knew that."
 
 [She did know that. She read it the same time Kenji did. The question wasn't confusion — it was a word arriving late, the way a subtitle sometimes lags behind the audio by a fraction of a second. Not enough to notice unless you're counting. The player who dismissed it as distraction is probably right. Probably.]
 
-[NOTEBOOK PROMPT: "KAITO NISHIMURA, 17 — neighborhood observation notebooks recovered. Timestamped vehicle logs including SILVER CAR (east entrance, recurring). Cross-ref: Doi's silver car sighting, Mira's notebook entries. Witness statements describe him as suspicious — 'arguing' with Mira. Mira says: they were talking. He believed her about the car. Three observers (Mira, Doi, Kaito) independently tracking the same vehicle."]
+[NOTEBOOK PROMPT: "KAITO NISHIMURA, 17 — neighborhood observation notebooks recovered. Timestamped vehicle logs including SILVER CAR (east entrance, recurring). Cross-ref: Doi's silver car sighting, Mira's notebook entries. Witness statements describe him as suspicious — 'arguing' with Mira. Mira says: they were talking. He believed her about the car. Three observers (Mira, Doi, Kaito) independently tracking the same vehicle. CANVASS NOTE: 'No relevant observations' — same institutional language as Doi's suppressed statement (Ch 1). Was the phrasing imposed or self-reported? Check school records. MIRA'S CALLS: Late-night phone calls, Mira to Kaito, after Reiko's shift started. He answered every time. He knew everything she knew."]
 
 ---
 
@@ -865,7 +875,7 @@ MIRA: "I'm going to keep counting."
 - Rina Nishizawa: 10, one grade ahead. Social filter. "Mira just misunderstands things sometimes." Provided the social narrative that made Mira dismissible. Not malicious — normal. Mentions Endo positively (playground renovation). Key pattern: Rina's self-description ("reasonable," "easygoing," "people person") always depends on Mira being her opposite. She didn't build credibility — she spent Mira's.
 - Memory Fragment #2 experienced: Rina Social Distortion — the notebook incident. The origin of Mira's documentation instinct. "Next time I won't tell the teacher. I'll just write it down." New detail visible to player: Rina found the notebook, recognized it, chose not to return it. The hidden act of selfishness — not theft, but the decision not to correct a useful mistake.
 - Forward evidence seeded: Lost-and-found log ("R.N." claimed, 3:15 PM) discoverable in Haruki's school files (Ch 5-7). Voicemail from Mira to Rina (accessed 17 times, never deleted) discoverable through phone records (Ch 6-7).
-- Kaito Nishimura: 17, homeschooled. Neighborhood observation notebooks with timestamped logs — including silver car sightings matching Doi and Mira's records. Witness statements describe him as suspicious. Mira says he believed her about the car.
+- Kaito Nishimura: 17, homeschooled. Neighborhood observation notebooks with timestamped logs — including silver car sightings matching Doi and Mira's records. Witness statements describe him as suspicious. Mira says he believed her about the car. Canvass report uses "no relevant observations" — same institutional language as Doi (Ch 1). Mira called him late at night; he answered every time. He knew everything she knew about the car, the timing, the supervision gap. Emotional asymmetry: her courage to say things was his permission to say nothing.
 - Sora artifact #3: Yui mentions a boy who drew cities at the river — "He stopped coming. I didn't ask anyone about it." Connects to Doi's drawing boy (Ch 3) and bench fragment (Ch 2). Three independent observers of the same absence, none reporting.
 - Silver car now confirmed by three independent observers (Mira, Doi, Kaito) — pattern convergence building
 - Endo name count: 5 (pharmacy board, community board, playground plaque, Reiko volunteer search, Rina playground renovation)
@@ -875,7 +885,7 @@ MIRA: "I'm going to keep counting."
 - SOUL READ — RINA: remembers wrong on purpose, "because it works better." Not cruel — normal. Mira's fallibility: saw malice where there was reflex.
 - Yui call: performance voice, architecture of avoidance. "Mira said she told someone about me. Did anyone come?" System failed. Also: mentions drawing boy at river who stopped coming — "I don't ask about people who disappear."
 - Rina call: social filter deployed — "intense," "misunderstands things," "I'm the reasonable one." Emotional asymmetry: every self-description is Mira's negative. Mentions Endo (playground). Notebook incident surfaced. Hidden act: Rina found the notebook, chose not to return it. Forward evidence: lost-and-found log (Ch 5-7), voicemail (Ch 6-7).
-- Kaito Nishimura: neighborhood logs, silver car timestamps (March 3, 7, 12 — east entrance, recurring). Three independent observers tracking same vehicle.
+- Kaito Nishimura: neighborhood logs, silver car timestamps (March 3, 7, 12 — east entrance, recurring). Three independent observers tracking same vehicle. Canvass note: "no relevant observations" — same language as Doi Ch 1. Mira's late-night calls: he answered every time. He knew everything she knew.
 - [If Act] Mira broke. "I thought there was something wrong with me." She was nine and right.
 - [If Delay] Mira counting. "Twenty minutes."
 
@@ -900,6 +910,8 @@ MIRA: "I'm going to keep counting."
 ### Threads Open
 - [If Delay] Yui intervention → Ch 5 or 6 (deferred crying scene)
 - Kaito Nishimura contact → Ch 5 (player can call him)
+- Kaito witness form → Ch 5-7 (school incident form — "no relevant observations" — discoverable in school records)
+- Kaito phone records → Ch 7-9 (late-night calls from Mira's home — discoverable during infrastructure investigation)
 - Silver car convergence → Ch 7 (three independent observers now documented)
 - Rina's social narrative → late game (her phrasing echoes in framing language)
 - Rina notebook evidence → Ch 5-7 (lost-and-found log in Haruki's school files — "R.N." claimed at 3:15 PM, contradicts her version)

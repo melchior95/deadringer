@@ -124,7 +124,9 @@ KENJI: "And the other?"
 
 MIRA: "The corner store. Doi's. He gave a statement. Three sentences. It was summarized down to 'no relevant observations.' He had observations. They weren't convenient."
 
-[NOTEBOOK PROMPT: The player can log: "Canvass report — 16 listed, 14 actual. Address 4-12 Yanagi-cho: listed as no answer, actually unoccupied. Doi (corner store): statement minimized. Source claims Doi had relevant observations."]
+[DESIGN NOTE: "No relevant observations" — this is institutional vocabulary. The phrase appears on canvass reports, witness intake forms, school incident logs. It is the system's standard language for converting someone's testimony into silence. The player will encounter this exact phrase again, in a different context, attached to a different name. When they do, the echo is the tell.]
+
+[NOTEBOOK PROMPT: The player can log: "Canvass report — 16 listed, 14 actual. Address 4-12 Yanagi-cho: listed as no answer, actually unoccupied. Doi (corner store): statement summarized as 'no relevant observations' — institutional language for dismissal. Source claims Doi had relevant observations."]
 
 KENJI: "How do you know what Doi said?"
 

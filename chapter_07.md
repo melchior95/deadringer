@@ -259,6 +259,23 @@ MIRA: "She's scared. Not of Endo — of being wrong. Fourteen years of being rig
 
 ## SCENE 4: CALL — KAITO (The Notebooks Recontextualized)
 
+[Before the call, Kenji reviews school records obtained through the investigation — incident reports, witness intake forms, the administrative paper trail of Mira's reporting period. Among the forms: a student witness intake form, standard format, dated during the week of Mira's third report to Ms. Aizawa. The form has fields for name, date, relationship to reporting student, and a single response line.]
+
+[VISUAL: The form. Close-up. Clean, institutional. Standard school district format.]
+
+*STUDENT WITNESS INTAKE — YANAGI ELEMENTARY*
+*Student: NISHIMURA, KAITO*
+*Date: [during Mira's reporting period]*
+*Relationship to reporting student: "Acquaintance (neighborhood)"*
+*Response to inquiry re: unusual activity near school grounds:*
+*"No relevant observations."*
+
+[Kenji reads it. He reads it again. The phrase sits on the form the way it sat in the canvass report from Chapter 1 — the same institutional vocabulary, the same conversion of testimony into silence. But in Ch 1, the phrase was applied to Doi by a system that minimized his statement. Here, on a witness intake form, the phrase was written in response to a direct question. Kaito was asked. Kaito answered. And the answer used the exact language of institutional dismissal — "no relevant observations" — from a seventeen-year-old who had five years of meticulous observation notebooks in his room.]
+
+[DESIGN NOTE: The player who remembers Ch 1 — "summarized down to 'no relevant observations'" — recognizes the echo. Doi's testimony was suppressed by someone else. Kaito suppressed his own. The same phrase, the same institutional language, but the mechanism is different: Doi was silenced. Kaito chose silence. He had the silver car, the timing patterns, everything in his notebooks. He said no. The form is the concrete proof that Kaito was inside the system, not outside it — he used the system's own vocabulary to opt out of helping.]
+
+[NOTEBOOK PROMPT: "KAITO — WITNESS FORM: Student witness intake form, dated during Mira's reporting period. Kaito asked directly if he'd seen anything unusual near school. Response: 'no relevant observations.' SAME LANGUAGE as Doi's suppressed canvass testimony (Ch 1). He had the silver car, the timing patterns, everything in his notebooks. He said no. He wasn't just silent — he was asked and he lied. The form proves he was inside the system. He chose to use its vocabulary."]
+
 [The player selects KAITO. The phone rings. Four times. Five. Kaito picks up mid-sixth ring.]
 
 [AUDIO: Background sounds — not the silence of an empty room but the ambient noise of someone who lives surrounded by the sounds they can't filter. A fan oscillating. A clock with a loud second hand. The refrigerator cycling. A pencil tapping against a hard surface — not rhythmic like Haruki's pen-click, but arrhythmic, the idle motion of hands that are always tracking something. This is Kaito's audio signature: the unfiltered room. Every appliance audible, every surface present. He doesn't curate his environment the way Yui does or populate it the way Rina does. He receives all of it, all the time.]
@@ -445,6 +462,100 @@ KAITO: "...the path behind the post office has no streetlights after the second 
 
 ---
 
+### THE WITNESS FORM — CONFRONTATION BEAT
+
+[This beat fires if the player discovered the witness form before calling Kaito this chapter. If the player hasn't found it yet, the form is discoverable later and this beat defers to the Ch 8-9 confrontation sequence.]
+
+[After the notebook evidence has been established — after the player has heard Kaito's data, his precision, his instinct — Kenji shifts register.]
+
+KENJI: "Kaito. I found a form in the school records. A witness intake form with your name on it."
+
+[Seven-second delay. The longest non-evidence pause. When the pencil-tapping resumes, it's faster. Arrhythmic.]
+
+KAITO: "...which form."
+
+KENJI: "The one from when Mira filed her third report. A teacher — or a counselor — asked you directly if you'd seen anything unusual near the school."
+
+[Twelve-second delay. The pencil-tapping stops entirely. The unfiltered room fills the space: fan, clock, refrigerator. Everything audible except the boy.]
+
+KAITO: "...I remember the form."
+
+KENJI: "You wrote 'no relevant observations.'"
+
+[Silence. Not Delayed Signal. Something else — the silence of a person holding the weight of a sentence they wrote years ago, in institutional language they borrowed because borrowing language is easier than producing truth.]
+
+KAITO: "...that is what I wrote."
+
+KENJI: "You had nine sightings of the silver car. Timestamps. Behavioral patterns. Five years of notebooks. And you wrote 'no relevant observations.'"
+
+[The contradiction hangs in the air. Every piece of evidence the player has built in this call — the meticulous logs, the pattern tracking, the five-year habit of recording what nobody else noticed — is now in direct collision with a form that says he noticed nothing.]
+
+[Eight-second delay.]
+
+KAITO: "...she said things. Out loud. In front of people. She stood up at a meeting and told an entire room that someone was watching children near the school. She just — she said it. Like it was obvious. Like the fact that it was true was enough."
+
+[Beat.]
+
+KAITO: "I thought... if she was already saying it, then it was being said. The information was in the system. My corroboration wasn't necessary because she was already — she was handling it. She was the one who said things. That was her... function."
+
+[DESIGN NOTE: Emotional asymmetry — Mira's willingness to be "the girl who says things" gave Kaito permission to be the boy who says nothing. Her courage was his exemption. He processed her bravery as a system feature — if she was already reporting, his data was redundant. He didn't calculate the cost of her doing it alone. He calculated the efficiency of not duplicating effort.]
+
+KENJI: "She was nine, Kaito."
+
+[Five-second delay. The kind that has weight — not processing, but arrival. The fact he already knew, hearing it from someone else.]
+
+KAITO: "...I know how old she was."
+
+[Beat.]
+
+KAITO: "I thought she didn't need help. I thought — the way she talked about it, the certainty, the data she had — I thought she was handling it. She sounded like she was handling it."
+
+[Longer pause. When he continues, the systems-language drops away. What's underneath is not analytical. It is a teenager who watched a nine-year-old do what he wouldn't, and told himself it was strategy.]
+
+KAITO: "She called me. At night. After her mom left for work. The apartment would get quiet and the phone would ring and it was always her. Every time. And I answered every time. And she would tell me things — the car, the timing, the counselor who filed things but didn't follow up, the teacher who called the mom instead of CPS. She told me everything."
+
+[Beat.]
+
+KAITO: "And when they came with the form and asked if I'd seen anything unusual, I had more data than anyone in that building. Five months of timestamps. Nine sightings. Behavioral patterns. Everything she told me at nine o'clock at night when nobody else was listening."
+
+[Three-second pause.]
+
+KAITO: "And I wrote 'no relevant observations.' Because she was already saying it. And because — "
+
+[He stops. The Delayed Signal isn't a processing gap anymore. It's a wall.]
+
+KAITO: "Because I didn't want to be the one they looked at next."
+
+[DESIGN NOTE: The confrontation reshapes "I didn't tell anyone." Kaito wasn't just silent. He was asked directly and he said no. The existing emotional climax ("I thought you didn't need help") still lands — but now it sits on top of a concrete lie. And the cost is specific: his "rational" silence was the same mechanism the system runs on. The witness form proves he was inside the system, not outside it. He used its vocabulary. He opted in. The phrase "no relevant observations" — the same phrase that converted Doi's testimony into nothing — was Kaito's choice, not Kaito's fate. And beneath the selfishness: every night, he answered the phone. He was her lifeline. He knew more about Mira than anyone alive. The love makes the lie more devastating, not less.]
+
+[NOTEBOOK PROMPT: "KAITO — CONFRONTATION: 'I thought she didn't need help.' 'She was already saying it.' Emotional asymmetry: Mira's courage was his exemption. He processed her bravery as a system feature — if she was reporting, his data was redundant. But underneath: 'I didn't want to be the one they looked at next.' The rational silence was the same mechanism the system runs on. He was inside it. He chose it. And he answered her calls every night anyway."]
+
+---
+
+### PHONE RECORDS — THE CALLS HE ANSWERED
+
+[This evidence surfaces during the chapter's investigation beats — either through Fumiko's infrastructure data, Haruki's school records, or the player's own cross-referencing of the phone exchange logs that have been accumulating since Ch 5.]
+
+[Among the phone records: a pattern. Calls from the Kitahara home number to Kaito Nishimura's phone. Late evening — between 8:45 and 9:30 PM. Consistent over months. Fourteen calls logged in the three months before Mira's death. Average duration: twenty-two minutes. Every call answered.]
+
+[VISUAL: The phone log. Simple, columnar. Dates, times, durations. The pattern is unmistakable — nearly every other night, same window, same two numbers.]
+
+*KITAHARA HOME → NISHIMURA, K.*
+*Feb 2, 21:07 — 19 min*
+*Feb 5, 20:48 — 24 min*
+*Feb 8, 21:15 — 18 min*
+*Feb 11, 20:52 — 31 min*
+*Feb 14, 21:03 — 22 min*
+*[...pattern continues through March...]*
+
+[Kenji reads the log. The player reads it with him. Fourteen calls. Every one answered. The timing corresponds to Reiko's evening shift — the window when the Kitahara apartment was empty and a nine-year-old was alone with everything she'd noticed that day and nobody to tell it to. Except Kaito. Who answered every time.]
+
+[DESIGN NOTE: The phone records are the hidden act of love. Kaito was Mira's nighttime lifeline — the one person who picked up when the apartment was quiet and the observations had nowhere to go. The love is real: he answered every call, he listened, he let her process the day's data with someone who understood pattern-tracking. The devastation is what he did with what she told him. He took her trust, her observations, her nightly reports — everything she gave him at 9 PM — and wrote "no relevant observations" on a form the next morning. The love and the betrayal coexist in the same phone log. The player who finds both the witness form and the phone records holds the full shape of Kaito's failure: he was her closest listener and her most damaging silence.]
+
+[NOTEBOOK PROMPT: "KAITO — PHONE RECORDS: 14 calls, Kitahara home → Nishimura, late evening (8:45-9:30 PM window), consistent over 3 months before Mira's death. Every call answered. Average duration: 22 min. Timing = Reiko's evening shift. Mira was alone. Kaito was her nighttime lifeline. He knew everything — the car, the timing, the gaps, the failed reports. She told him at 9 PM what she told no one else. And he wrote 'no relevant observations.' The love makes the lie worse. Cross-reference with witness form."]
+
+---
+
 ### SOUL READ — KAITO
 
 [The read takes longer than Mira's reads used to. She reaches for the impression and it arrives in pieces, not as a single image — the emotional shape landing a beat before the words to describe it, meaning lagging behind feeling the way a subtitle lags behind dialogue.]
@@ -461,7 +572,17 @@ MIRA: "Someone's listening to him. That's new. He doesn't know what to do with i
 
 [She doesn't say who believed him. She doesn't need to.]
 
-[NOTEBOOK PROMPT: "SOUL READ — KAITO: 'Doesn't know how to show it properly.' Everything organized — not cold, functional. New: someone's listening. 'Like a window opened in a room that's been closed.' Kaito's observations have a destination now."]
+[If the witness form confrontation has fired, Mira adds — slower, with visible effort, the read pulling something she doesn't want to see:]
+
+MIRA: "He's carrying something. Heavy. Not guilt exactly — he doesn't have the right shape for guilt. It's more like... a calculation that came back wrong. He ran the numbers and the numbers said he didn't need to act and now he's living inside the error."
+
+[Beat. The wire-sound drops. Comes back thinner.]
+
+MIRA: "He answered every time I called."
+
+[She says it simply. Not accusation. Not forgiveness. The fact, delivered the way she delivers all facts — because the information is there and she is the kind of person who does not leave information undelivered. But the player who has heard Mira for seven chapters can hear what sits underneath: the girl who called her only nighttime listener, who gave him everything, who trusted him with the 9 PM version of herself — and learned, after death, that he used the system's vocabulary to make her invisible.]
+
+[NOTEBOOK PROMPT: "SOUL READ — KAITO: 'Doesn't know how to show it properly.' Everything organized — not cold, functional. New: someone's listening. 'Like a window opened in a room that's been closed.' [If confrontation fired] 'Carrying something heavy — a calculation that came back wrong.' 'He answered every time I called.' Mira's read is not accusation. Not forgiveness. Data. The love and the betrayal are the same shape."]
 
 ---
 
@@ -788,6 +909,10 @@ MIRA: "Someone is in there."
 - TIMESTAMP ANOMALY: Council session rescheduled from 17th to 14th — three days before Haruki's Murakami visit. Endo adjusted before anyone officially told him. Mechanism: the investigation's calls travel through Yanagi's phone infrastructure. He has been listening.
 - "HE HEARD US" — Mira's realization. Not "he heard Haruki." Us. The player and Mira. Every call since Ch 3 traveled through the exchange. Every conversation. Every Soul Read. The investigation has been transparent from the start.
 - Kaito's notebooks recontextualized: observation, not surveillance. 9 vehicle sightings with timestamps, behavioral detail. Driver described as "familiar — knew where everything was without looking." Kaito's logs are critical evidence, not pathology.
+- KAITO — WITNESS FORM: School incident form dated during Mira's reporting period. Kaito asked directly if he'd seen anything unusual. Response: "no relevant observations" — same institutional language as Doi's canvass testimony (Ch 1). He had everything in his notebooks. He said no. He was inside the system, not outside it.
+- KAITO — PHONE RECORDS: 14 calls from Kitahara home to Nishimura, late evening (8:45-9:30 PM), consistent over 3 months. Every call answered. Mira's nighttime lifeline when Reiko was at work. He knew everything she knew — the car, the timing, the gaps. The love (answering every call) makes the selfishness (refusing to corroborate) more devastating.
+- KAITO — EMOTIONAL ASYMMETRY: Mira's willingness to be "the girl who says things" gave Kaito permission to be the boy who says nothing. Her courage was his exemption. He processed her bravery as a system feature. "I thought she didn't need help." "I didn't want to be the one they looked at next."
+- [If confrontation fired] Kaito's "I didn't tell anyone" reshaped: he wasn't just silent — he was asked directly and said no. The concrete lie sits underneath the emotional reveal.
 - Framing surfaced: fabricated documents connecting Mira to Sora. Chat logs with post-death metadata. Language traces to Rina's community vocabulary ("misunderstands," "difficult," "says things"). Rina recontextualized: not villain, mechanism. She built conditions; someone weaponized them.
 - Sora artifact: genuine map page among fabricated framing. River, bend, two figures. Planted without examination.
 - [If blind spot followed] Fumiko overfits. Inoue family not connected to pattern. Lesson: verify Fumiko's edges.
@@ -804,7 +929,10 @@ MIRA: "Someone is in there."
 - SOUL READ — FUMIKO (2nd): Scared of being wrong. 14 years of right → fear of the 20%.
 - FUMIKO — TIMESTAMP ANOMALY — Council session moved from 17th to 14th. Endo adjusted 3 days before Haruki's visit. He knew before he was told. How: phone exchange monitoring.
 - MIRA — "He heard us." The investigation has been transparent. Every call routed through the same infrastructure Endo controls.
-- SOUL READ — KAITO: "Doesn't know how to show it properly." New: someone listening. "Window opened."
+- SOUL READ — KAITO: "Doesn't know how to show it properly." New: someone listening. "Window opened." [If confrontation] "Carrying something heavy — a calculation that came back wrong." "He answered every time I called."
+- KAITO — WITNESS FORM: "No relevant observations" — same language as Doi (Ch 1). He had everything. He said no.
+- KAITO — PHONE RECORDS: 14 late-night calls, Kitahara → Nishimura, 8:45-9:30 PM. Every call answered. Mira's nighttime lifeline. He knew everything she knew.
+- KAITO — CONFRONTATION: Emotional asymmetry. "She was already saying it." "I didn't want to be the one they looked at next." His rational silence was the system's mechanism with better reasoning.
 - FRAMING — Language analysis → Rina's vocabulary weaponized. Chat logs fabricated post-death.
 - SORA ARTIFACT — Map page. River, bend, two figures. Real among fabricated.
 - ENDO-OGAWA — Same committee fired listener and buried reports. Ogawa callable Ch 8 (core content).
@@ -820,14 +948,14 @@ MIRA: "Someone is in there."
 - ISE, HARUKI — Incoming/Called (Ch 5), Called (Ch 6)
 - AIZAWA, EMI — Called (Ch 5)
 - ARAI, FUMIKO — Called (Ch 6), Called (Ch 7) — convergence files + infrastructure map
-- NISHIMURA, KAITO — Called (Ch 7) — notebooks as evidence
+- NISHIMURA, KAITO — Called (Ch 7) — notebooks as evidence, witness form surfaced, phone records discovered (14 late-night calls from Kitahara home)
 - [If blind spot] INOUE FAMILY — Called (Ch 7) — dead end
 
 ### Mechanical State
 - Notebook: CONVERGENCE — All silver car data aligned, holding company traced, Endo named. Infrastructure map filed.
 - Soul Read: 9 reads total (or 10 if blind spot path). Kaito's first read. Reads are taking longer — degradation visible in delivery speed.
 - Endo Connection: ESTABLISHED. Silver car → holding company → Endo. Committee → dismissed reports → Endo. Historical case → same committee → Endo. Connection, not proof. The gap between connected and proven is the next three chapters.
-- Ally Management: Fumiko's credibility high (historical case confirmed) but blind spot established. Haruki contained (post-PoNR). Kaito transformed from suspect to witness.
+- Ally Management: Fumiko's credibility high (historical case confirmed) but blind spot established. Haruki contained (post-PoNR). Kaito transformed from suspect to witness — but witness form reveals he was also inside the system he claims to have been outside. His "rational" silence was the same mechanism. Phone records confirm he was Mira's closest listener. Hidden acts: selfishness (witness form) + love (late-night calls) now discoverable.
 - Framing: IDENTIFIED. Fabricated documents using community language. Player can trace language to Rina's descriptions (Ch 4). Sora's genuine map page preserved among fabricated evidence.
 - Mira Degradation: NOTICEABLE. Signal wavers. Words trail off. Silence during transitions. Humor absent. The player can hear her changing.
 - Endo Name Count: 9 (community board, pharmacy notice, playground plaque, volunteer search, committee chair, playground renovation, Mira observation, holding company liaison, Fumiko's institutional timeline).
@@ -835,6 +963,7 @@ MIRA: "Someone is in there."
 ### Threads Open
 - The breathing → Ch 8-9 (living child in infrastructure — present-tense rescue thread)
 - Endo direct contact → Ch 8 (he calls Kenji — the most dangerous call in the game, on the same lines where a child was breathing)
+- Kaito confrontation → Ch 8-9 (if witness form not yet surfaced this chapter, deferred confrontation with witness form + phone records fires during break sequence)
 - Infrastructure map + Endo's knowledge pattern → Ch 9-10 (overlay reveals exchange location)
 - Framing deconstruction → Ch 9 (Sora's map page anomaly, Haruki's break, full Rina recontextualization)
 - Garden → Ch 9 (botanical timeline, nursery receipts, three-week gap)
@@ -845,7 +974,7 @@ MIRA: "Someone is in there."
 - [If Delay] Yui still in danger
 
 ### Emotional Arc
-The chapter peaks at the naming — the moment Kenji writes "Masato Endo" under the silver car registration and the player sees every line converge. The satisfaction is genuine: this is good detective work, evidence aligning through patience and pattern recognition. But the satisfaction carries dread in its undertow — the most helpful man in Yanagi, the one person everyone trusts, is the shape at the center. The chapter's second register is Mira's degradation, felt through absence rather than announcement: she doesn't joke, she trails off, she goes silent when she wouldn't have before. The player exits knowing two things with certainty: Endo is the suspect, and Mira is fading. Both facts accelerate the same clock.
+The chapter peaks at the naming — the moment Kenji writes "Masato Endo" under the silver car registration and the player sees every line converge. The satisfaction is genuine: this is good detective work, evidence aligning through patience and pattern recognition. But the satisfaction carries dread in its undertow — the most helpful man in Yanagi, the one person everyone trusts, is the shape at the center. The chapter's second register is Mira's degradation, felt through absence rather than announcement: she doesn't joke, she trails off, she goes silent when she wouldn't have before. The third register — new this chapter — is Kaito's hidden acts. The witness form and the phone records arrive as a pair: the boy who answered every late-night call and the form that says "no relevant observations." The player who holds both pieces sees the Higashino-lens operating at full power — love and betrayal coexisting in the same person, on the same phone line. Kaito's emotional asymmetry (Mira's courage was his exemption) mirrors the system's own logic: someone else is handling it, so I don't have to act. His rational silence was the system's mechanism with better reasoning. The player exits knowing three things with certainty: Endo is the suspect, Mira is fading, and the people closest to Mira failed her in ways that are inseparable from the ways they loved her.
 
 ---
 
