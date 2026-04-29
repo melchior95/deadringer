@@ -15,7 +15,7 @@ Cross-reference of every `[NOTEBOOK PROMPT]` in the manuscript against the eight
 5. Build per-chapter thoroughness thresholds for slot completion
 6. Output tagging schema for build-time implementation
 
-**Audit scope:** 70 notebook prompts across 11 chapter files (plus references in structure docs and ogawa-incident.md). Verified via grep `\[NOTEBOOK PROMPT` pattern; total count matches notebook system spec estimate (40–60 with optional expansion to ~70).
+**Audit scope:** ~87 notebook prompts across 11 chapter files (plus references in structure docs and ogawa-incident.md). Verified via grep `\[NOTEBOOK PROMPT` pattern; original count of 70 expanded to ~87 following Higashino-lens implementation pass (hidden acts of selflessness/love, emotional asymmetry observations, Yui-sequence recontextualization evidence, Endo selective truth partition pattern).
 
 ---
 
@@ -38,15 +38,17 @@ Cross-reference of every `[NOTEBOOK PROMPT]` in the manuscript against the eight
 
 | Finding | Count |
 |---|---|
-| Total notebook prompts | 70 |
-| Prompts contributing to ≥1 Board slot | 47 |
-| Prompts as context only (no slot contribution) | 23 |
-| Prompts contributing to exactly 1 slot | 29 |
-| Prompts contributing to 2 slots | 14 |
-| Prompts contributing to 3+ slots (overload risk) | 4 |
+| Total notebook prompts | ~87 |
+| Prompts contributing to ≥1 Board slot | ~58 |
+| Prompts as context only (no slot contribution) | ~29 |
+| Prompts contributing to exactly 1 slot | ~35 |
+| Prompts contributing to 2 slots | ~17 |
+| Prompts contributing to 3+ slots (overload risk) | 6 |
 | Slots with redundant coverage | 2 (GARDEN, INDEPENDENT CORROBORATION) |
-| Slots with thin coverage | 1 (SOCIAL ACCESS WITNESS — requires optional Ch 11 case-assembly content) |
-| Prompts requiring optional player exploration | 12 |
+| Slots with thin coverage | 0 (SOCIAL ACCESS WITNESS upgraded from thin — see §2.7) |
+| Prompts requiring optional player exploration | ~16 |
+
+*Note: counts updated to reflect ~17 new Higashino-lens prompts added across Ch 1, 4, 5, 6, 7, 8, 9, 10, 11, 12. These include hidden-act-of-selflessness/love evidence per character, emotional asymmetry observations, Yui-sequence recontextualization entries, and Endo's selective truth partition pattern entries.*
 
 ### 1.3 Reachability Summary
 
@@ -54,7 +56,7 @@ All 8 slots are reachable through a standard main-line playthrough. However:
 - **3 slots** (IMPOSSIBLE KNOWLEDGE, SOCIAL ACCESS PATTERN, FRAMING AUTHORSHIP) require ≥3 contributing entries each for completion.
 - **2 slots** (GARDEN, INFRASTRUCTURE ACCESS) are completable with as few as 2 contributing entries each but benefit from 3+.
 - **2 slots** (COMMITTEE AS MECHANISM, INDEPENDENT CORROBORATION) require specific NPC-gated content (Haruki Ch 5, Kaito Ch 7) — missing either leaves the slot EMERGING rather than COMPLETE.
-- **1 slot** (SOCIAL ACCESS WITNESS) is the most optional — requires Ch 11 case-assembly calls that depend on Ch 6–8 trust cultivation.
+- **1 slot** (SOCIAL ACCESS WITNESS) was previously the thinnest; now strengthened by Higashino-lens additions (Doi's council intake form, Kaito's phone records and witness form). Still trust-gated but no longer the most fragile slot — see §2.7.
 
 ---
 
@@ -76,8 +78,10 @@ For each slot: required entries (minimum for COMPLETE state), contributing entri
 - Ch 9 — Endo Redirect Tell (`chapter_09.md:436`): pivots from people to infrastructure.
 - Ch 9 — Endo Bluff Response (`chapter_09.md:418`): pre-staging community framing.
 - Ch 1 — Canvass report entry (`chapter_01.md:127`): establishes Mira's reports were written, creating the knowledge baseline against which Endo's voice-descriptions read as impossible.
+- Ch 8 — Endo's partition pattern (Higashino-lens): same events described differently to different audiences — fidelity tell visible across leads. The selective truth partition is not evasion; it is precision-editing for audience, and the seams between versions constitute impossible knowledge.
+- Ch 8 + Ch 12 — Doi's phrase circuit (Higashino-lens): "things got out of hand" traced from private conversation through exchange to Endo's lips. The phrase's migration path proves Endo had access to a conversation he wasn't present for.
 
-**Source chapters:** Ch 1 (baseline), Ch 8 (primary), Ch 9 (reinforcement).
+**Source chapters:** Ch 1 (baseline), Ch 8 (primary, partition pattern), Ch 9 (reinforcement), Ch 12 (phrase circuit payoff).
 
 **Thoroughness notes:** COMPLETE at 3 entries. The 3 required are all Ch 8; a player who skipped the Ch 8 tells misses this slot. The Ch 9 follow-up adds density but is not sufficient alone.
 
@@ -125,8 +129,11 @@ For each slot: required entries (minimum for COMPLETE state), contributing entri
 - Ch 7 — Ogawa connection (`chapter_07.md:196`): deepens the mechanism.
 - Ch 9 — Ogawa deep (`chapter_09.md:332`): Ogawa was cross-referencing Mira's observations; her firing was removal.
 - Ch 11 — Haruki's case-assembly call (not itself in notebook prompts — referenced in `chapter_11.md:541` omitted entry; Haruki's 43 reports, 40 behavioral, zero actioned).
+- Ch 5 — Haruki's recommendation letter (Higashino-lens): institution took the "disruptive honesty" label, ignored his formal advocacy. The letter's existence proves the committee had counter-evidence and chose to discard it — mechanism, not oversight.
+- Ch 5 — Aizawa's altered report (Higashino-lens): softened language that paradoxically made Mira easier to categorize as "managed." Aizawa's hidden act of compassion became the committee's evidence that the situation was under control.
+- Ch 5–9 — Yui-sequence dates (Higashino-lens): first report about Yui predates all others — the "disruptive" label originated from the Yui report fallout. The committee's mechanism was not general pattern-recognition; it was a specific institutional response to Mira's first compassionate act, then applied retroactively to everything that followed.
 
-**Source chapters:** Ch 5 (primary), Ch 7 and Ch 9 (depth), Ch 11 (final numeric proof).
+**Source chapters:** Ch 5 (primary, Higashino-lens additions), Ch 7 and Ch 9 (depth), Ch 11 (final numeric proof).
 
 **Thoroughness notes:** COMPLETE at 2 entries. Both required entries are in Ch 5, reached via Haruki's incoming call (mandatory). Slot is reachable by every playthrough at minimum COMPLETE.
 
@@ -196,8 +203,10 @@ For each slot: required entries (minimum for COMPLETE state), contributing entri
 - Ch 5 — "Disruptive honesty" PIN (`chapter_05.md:162`): the phrase pinned for the Ch 9 payoff.
 - Ch 4 — Rina phrasing connection (`chapter_04.md:603` — Rina Soul Read): the community vocabulary source.
 - Ch 7 — Framing recontextualizes Rina (`chapter_07.md:524`): explicit link.
+- Ch 5–7 — Rina's notebook evidence (Higashino-lens): lost-and-found log proving social machinery had an origin point — the credibility deficit was constructed, not organic. Rina's documentation trail shows the framing's first footprint in institutional records.
+- Ch 5–9 — Yui-sequence institutional chronology (Higashino-lens): the classification that followed Mira wasn't about intensity — it was downstream of her first compassionate act. The framing authorship is traceable not just to council access but to a specific incident (Yui report) that the committee weaponized as a template.
 
-**Source chapters:** Ch 4–5 (foundation), Ch 7 (discovery), Ch 9 (weaponization).
+**Source chapters:** Ch 4–5 (foundation, Higashino-lens additions), Ch 7 (discovery), Ch 9 (weaponization).
 
 **Thoroughness notes:** COMPLETE at 3 entries. All are plot-mandatory or near-mandatory:
 - Ch 7's framing examination produces 2 required entries automatically.
@@ -221,22 +230,26 @@ For each slot: required entries (minimum for COMPLETE state), contributing entri
 - Ch 2 — Community Safety Council (`chapter_02.md:79`) [OPTIONAL]: foundation.
 - Ch 4 — Rina's Endo reference (`chapter_04.md:535`): community consensus of Endo's goodwill.
 - Ch 5 — Aizawa filing through council (`chapter_05.md:629`): institutional channel.
+- Ch 7–9 — Doi's council intake form (Higashino-lens): reported concerns directly to Endo — co-opted contribution. Doi's hidden act of care (filing a report he believed would help) was absorbed into Endo's information network. The form proves Doi was inside the social access loop and his good-faith input was harvested.
+- Ch 7 — Kaito's phone records (Higashino-lens): 14 late-night calls, every one answered — he had all of Mira's information and still said "no relevant observations." The phone log is the smoking gun for social access: Endo didn't have to seek information; it was delivered to him voluntarily, and Kaito's silence about this when asked directly proves the access was normalized to the point of invisibility.
+- Ch 5–7 — Kaito's witness form (Higashino-lens): active denial when asked directly — proves he was inside the system. Kaito's refusal to acknowledge his own role as an information conduit is itself evidence that the social access pattern was unconscious, not conspiratorial.
 
-**Source chapters:** Ch 2 (seed), Ch 11 (primary — case-assembly calls).
+**Source chapters:** Ch 2 (seed), Ch 5–7 (Higashino-lens mid-game evidence), Ch 7–9 (Doi's council form), Ch 11 (primary — case-assembly calls).
 
-**Thoroughness notes:** **THINNEST SLOT.** Required entries are Ch 11 case-assembly calls that depend on:
+**Thoroughness notes:** Previously the **THINNEST SLOT**; now significantly reinforced by Higashino-lens additions. Required entries remain Ch 11 case-assembly calls that depend on:
 1. Doi's trust cultivated across Ch 3–6 (Ch 6 confession collapse necessary for Doi to be open in Ch 11).
 2. Reiko's notebook scene, which requires Ch 9's static call.
 
-A player who didn't break Doi's false confession or failed the Ch 9 Reiko static call may arrive at Ch 11 unable to get the required testimony. This slot is the most trust-gated.
+However, the three new contributing entries (Doi's council form, Kaito's phone records, Kaito's witness form) land in Ch 5–9 without trust gates — they are evidence-type prompts discoverable through standard investigation. A player who missed the Ch 11 required entries but found the mid-game Higashino-lens evidence will arrive at the Board with the slot at EMERGING rather than DORMANT, with enough contributing density to make the social access argument legible even without the case-assembly testimony.
 
-**Reachability:** CONDITIONAL. Requires relationship cultivation across Act II and Act III.
+**Reachability:** CONDITIONAL but improved. The Ch 11 required entries still depend on relationship cultivation, but the Higashino-lens contributing entries provide a mid-game floor. A rushed player who examines evidence can now reach EMERGING; previously, DORMANT was the likely rushed-playthrough outcome.
 
-**Audit recommendation:** This slot is the most thoroughness-dependent. Consider whether it should be:
-(a) easier to complete (add a mid-game entry that lands the thesis with fewer trust requirements), or
-(b) kept as-is (the hardest slot to complete is the one that rewards deep play).
+**Audit recommendation:** The Higashino-lens additions effectively implement option (a) from the original recommendation — a mid-game entry path that lands the thesis with fewer trust requirements — while preserving the Ch 11 case-assembly calls as the reward for deep play. The slot's difficulty gradient is now:
+- DORMANT: player skips all mid-game evidence AND fails trust cultivation (unlikely)
+- EMERGING: player finds Higashino-lens evidence OR partial trust cultivation (most common non-completionist outcome)
+- COMPLETE: player cultivates Doi and Reiko relationships through Act II–III (completionist reward)
 
-Current recommendation: (b). Keep as-is. The slot's difficulty is a feature. A player who cultivated relationships deeply earns the most devastating Ch 11 slot. A player who didn't cultivate gets EMERGING and feels the cost of their approach.
+This is a better distribution than the original binary of DORMANT/COMPLETE.
 
 ---
 
@@ -268,7 +281,7 @@ Current recommendation: (b). Keep as-is. The slot's difficulty is a feature. A p
 
 Complete list of notebook prompts, tagged by type, NPCs, threads, and Board slot contributions.
 
-### 3.1 Chapter 1 (4 prompts)
+### 3.1 Chapter 1 (5 prompts)
 
 | Line | Type | NPCs | Threads | Board slots |
 |---|---|---|---|---|
@@ -276,6 +289,7 @@ Complete list of notebook prompts, tagged by type, NPCs, threads, and Board slot
 | 221 | OBSERVATION | Mira | soul read system | — (context) |
 | 279 | EVIDENCE | Mira | Mira's notebook thread | — (context/mech) |
 | 299 | EVIDENCE | Mira | Yanagi canvass, bridge number | #4 (seed), #8 (seed) |
+| — | OBSERVATION (HL) | Mira | emotional asymmetry baseline | — (Higashino-lens context: establishes Mira's perception baseline for later recontextualization) |
 
 ### 3.2 Chapter 2 (10 prompts)
 
@@ -303,7 +317,7 @@ Complete list of notebook prompts, tagged by type, NPCs, threads, and Board slot
 | 632 | SOUL READ | Doi | — | — (character) |
 | 674 | OBSERVATION | — | bridge anomaly | #4 (seed) |
 
-### 3.4 Chapter 4 (5 prompts)
+### 3.4 Chapter 4 (7 prompts)
 
 | Line | Type | NPCs | Threads | Board slots |
 |---|---|---|---|---|
@@ -312,8 +326,10 @@ Complete list of notebook prompts, tagged by type, NPCs, threads, and Board slot
 | 535 | OBSERVATION | Rina, Endo | community consensus | #2 (contributing) |
 | 603 | SOUL READ | Rina | Rina recontextualization | #6 (seed) |
 | 755 | EVIDENCE | Kaito | silver car | #8 (required) |
+| — | OBSERVATION (HL) | Rina | hidden act of selflessness | — (Higashino-lens: Rina's concealed care action, emotional asymmetry) |
+| — | OBSERVATION (HL) | Yui | Yui-sequence seed | — (Higashino-lens: Yui recontextualization evidence, first chronological marker) |
 
-### 3.5 Chapter 5 (10 prompts)
+### 3.5 Chapter 5 (13 prompts)
 
 | Line | Type | NPCs | Threads | Board slots |
 |---|---|---|---|---|
@@ -327,8 +343,11 @@ Complete list of notebook prompts, tagged by type, NPCs, threads, and Board slot
 | 629 | OBSERVATION | Aizawa | filing pattern | #3 (contributing) |
 | 645 | SOUL READ | Aizawa | — | — (character) |
 | 843 | OBSERVATION | Sora, Haruki | vivid imagination parallel | #6 (contributing) |
+| — | EVIDENCE (HL) | Haruki | recommendation letter | #3 (contributing: institution discarded formal advocacy) |
+| — | EVIDENCE (HL) | Aizawa | altered report | #3 (contributing: softened language made Mira categorizable as "managed") |
+| — | EVIDENCE (HL) | Yui, Mira | Yui-sequence dates | #3, #6 (contributing: first report predates all others — "disruptive" label originated from Yui report fallout) |
 
-### 3.6 Chapter 6 (4 prompts)
+### 3.6 Chapter 6 (5 prompts)
 
 | Line | Type | NPCs | Threads | Board slots |
 |---|---|---|---|---|
@@ -336,8 +355,9 @@ Complete list of notebook prompts, tagged by type, NPCs, threads, and Board slot
 | 359 | EVIDENCE | Doi | silver car | #8 (required) |
 | 511 | EVIDENCE | Fumiko, Endo | historical case | #3 (contributing), #2 (contributing) |
 | 525 | SOUL READ | Fumiko | — | — (character) |
+| — | OBSERVATION (HL) | Doi, Endo | emotional asymmetry | — (Higashino-lens: Doi's hidden act of love — care action absorbed into Endo's information network) |
 
-### 3.7 Chapter 7 (11 prompts — the densest chapter)
+### 3.7 Chapter 7 (14 prompts — the densest chapter)
 
 | Line | Type | NPCs | Threads | Board slots |
 |---|---|---|---|---|
@@ -352,8 +372,11 @@ Complete list of notebook prompts, tagged by type, NPCs, threads, and Board slot
 | 534 | EVIDENCE | — | framing metadata | #6 (required) |
 | 576 | [omitted] | — | — | — |
 | 590 | EVIDENCE | Endo, Ogawa | Ogawa connection | #3 (contributing) |
+| — | EVIDENCE (HL) | Rina | lost-and-found log | #6 (contributing: credibility deficit was constructed — social machinery had an origin point) |
+| — | EVIDENCE (HL) | Kaito | phone records | #7 (contributing: 14 late-night calls, every one answered — "no relevant observations") |
+| — | EVIDENCE (HL) | Kaito | witness form | #7 (contributing: active denial when asked directly — proves inside the system) |
 
-### 3.8 Chapter 8 (5 prompts)
+### 3.8 Chapter 8 (7 prompts)
 
 | Line | Type | NPCs | Threads | Board slots |
 |---|---|---|---|---|
@@ -362,8 +385,10 @@ Complete list of notebook prompts, tagged by type, NPCs, threads, and Board slot
 | 219 | OBSERVATION | Endo, Doi | Tell #2 | #1 (required) |
 | 293 | [omitted — Endo locked room soul read] | Endo, Mira | — | — (character) |
 | 485 | SOUL READ | Aizawa | — | — (character) |
+| — | EVIDENCE (HL) | Endo | selective truth partition | #1 (contributing: same events described differently to different audiences — fidelity tell across leads) |
+| — | EVIDENCE (HL) | Doi, Endo | phrase circuit origin | #1 (contributing: "things got out of hand" — phrase traced from Doi's private conversation to Endo's lips) |
 
-### 3.9 Chapter 9 (10 prompts)
+### 3.9 Chapter 9 (12 prompts)
 
 | Line | Type | NPCs | Threads | Board slots |
 |---|---|---|---|---|
@@ -380,21 +405,31 @@ Complete list of notebook prompts, tagged by type, NPCs, threads, and Board slot
 | 418 | OBSERVATION | Endo | BLUFF response | #1, #6 (contributing) |
 | 436 | OBSERVATION | Endo | REDIRECT tell | #1 (contributing) |
 | 462 | OBSERVATION | Endo | Tell #3 | #1 (contributing), #4 (contributing) |
+| — | EVIDENCE (HL) | Doi, Endo | council intake form | #7 (contributing: reported concerns directly to Endo — co-opted contribution) |
+| — | OBSERVATION (HL) | Yui, Mira | Yui-sequence recontextualization | #3, #6 (contributing: institutional chronology — classification was downstream of compassionate act) |
 
-### 3.10 Chapter 10 (3 prompts)
+### 3.10 Chapter 10 (4 prompts)
 
 | Line | Type | NPCs | Threads | Board slots |
 |---|---|---|---|---|
 | 100 | EVIDENCE | Endo, Fumiko, Sora | infrastructure signature | #4 (required) |
 | 174 | EVIDENCE | — | bridge number resolved | #4 (contributing) |
 | 296 | EVIDENCE | Endo, Sora, Mira | exchange room evidence | #4 (required), #1 (contributing) |
+| — | OBSERVATION (HL) | Endo | selective truth convergence | #1 (contributing: partition pattern visible at infrastructure level — descriptions tuned per audience) |
 
-### 3.11 Chapter 11 (2 prompts + case-assembly prompts)
+### 3.11 Chapter 11 (3 prompts + case-assembly prompts)
 
 | Line | Type | NPCs | Threads | Board slots |
 |---|---|---|---|---|
 | 159 | EVIDENCE | Reiko, Mira | Reiko's new understanding | #7 (required) |
 | 541 | [omitted — case assembly contributions per NPC] | variable | case assembly | contributes to every slot |
+| — | OBSERVATION (HL) | multiple | hidden acts convergence | #7 (contributing: accumulated selfless acts recontextualized — social access was built on trust people gave voluntarily) |
+
+### 3.12 Chapter 12 (1 prompt)
+
+| Line | Type | NPCs | Threads | Board slots |
+|---|---|---|---|---|
+| — | EVIDENCE (HL) | Doi, Endo | phrase circuit payoff | #1 (contributing: "things got out of hand" completes its migration — Endo uses Doi's exact private phrasing in confrontation) |
 
 **Note:** Chapter 11's case-assembly scene (Scene 3 — "Building the Case") produces one NPC-specific entry per call placed during the scene. These entries feed directly into Board slots. Per the manuscript:
 - Doi call → SLOT #7 (social access witness)
@@ -409,7 +444,7 @@ These prompts should be formalized as 5 explicit `[NOTEBOOK PROMPT]` entries dur
 
 ## 4. UNASSIGNED / CONTEXT-ONLY PROMPTS
 
-23 prompts do not contribute to any Board slot. These are legitimate context/character entries but are cuttable in a tightening pass.
+~29 prompts do not contribute to any Board slot. These are legitimate context/character entries but are cuttable in a tightening pass. (Count increase from 23 reflects Higashino-lens emotional-asymmetry and hidden-act-of-selflessness prompts that serve character/thematic functions without direct slot contribution.)
 
 **Category A — Soul Read entries (character texture, 8 prompts):** Ch 1:221 (Soul Read system intro), Ch 3:252 (Reiko), Ch 3:632 (Doi), Ch 4:303 (Yui), Ch 4:603 (Rina), Ch 5:645 (Aizawa), Ch 6:261 (Doi 2nd), Ch 6:525 (Fumiko), Ch 7:228 (Fumiko 2nd), Ch 7:428 (Kaito), Ch 8:485 (Aizawa 2nd).
 
@@ -427,7 +462,7 @@ These are character and thematic entries. Not slot-assignable but critical to th
 
 ## 5. OVERLOADED ENTRIES (Dilution Risk)
 
-4 prompts contribute to 3+ Board slots. These may be over-loaded — single entries carrying too much argumentative weight, diluting their mechanical specificity.
+6 prompts contribute to 3+ Board slots. These may be over-loaded — single entries carrying too much argumentative weight, diluting their mechanical specificity. (Count increased from 4 to 6: the Yui-sequence date entry and Yui-sequence recontextualization entry each serve #3 and #6 simultaneously.)
 
 | Line | Slots Served | Recommendation |
 |---|---|---|
@@ -456,9 +491,9 @@ Player completes mandatory calls, skips Ch 2 optional examinations, takes Ch 9 P
 
 **Result:** 
 - Slots COMPLETE: #1, #3, #4, #5, #6 (5 of 8).
-- Slots EMERGING: #2 (missing Ch 2 optional entries), #7 (missing some Ch 11 case-assembly trust), #8 (conditional on Ch 6 Doi mechanic).
+- Slots EMERGING: #2 (missing Ch 2 optional entries), #7 (Higashino-lens contributing entries provide mid-game evidence even without full trust cultivation), #8 (conditional on Ch 6 Doi mechanic).
 
-**Acceptable.** The player with 5 complete slots has a confrontation with real weight, visibly missing two threads (SOCIAL ACCESS and SOCIAL ACCESS WITNESS) — the cost of skipping exploration.
+**Acceptable.** The player with 5 complete slots has a confrontation with real weight. SLOT #7 is now more likely to reach EMERGING (rather than DORMANT) even without full trust cultivation, thanks to Higashino-lens evidence in Ch 5–9 — the social access pattern is at least legible through Kaito's phone records and Doi's council form.
 
 ### 6.3 Fast Playthrough (rushed)
 
@@ -466,12 +501,12 @@ Player moves quickly through dialogue, skips all optional investigation, chooses
 
 **Result:**
 - Slots COMPLETE: #3, #6 (2 of 8).
-- Slots EMERGING: #1 (partial Ch 8 tells), #4 (partial infrastructure), #5 (missed if Path B skipped), #8 (likely missed due to Doi mechanic).
-- Slots DORMANT: #2, #7.
+- Slots EMERGING: #1 (partial Ch 8 tells + partition pattern from Higashino-lens), #4 (partial infrastructure), #5 (missed if Path B skipped), #7 (Higashino-lens evidence discoverable without trust gates), #8 (likely missed due to Doi mechanic).
+- Slots DORMANT: #2.
 
-**Concerning.** A rushed playthrough has only 2 complete slots. Ch 11 confrontation plays but feels thin. Is this the intended floor? 
+**Improved from previous audit.** A rushed playthrough now has 2 complete slots and up to 4 EMERGING (previously 3 EMERGING + 2 DORMANT). SLOT #7 moves from DORMANT to EMERGING because the Higashino-lens evidence entries (Kaito's phone records, Kaito's witness form) are evidence-type prompts encountered through standard investigation, not trust-gated.
 
-**Recommendation:** the design should tolerate a minimum of 3 complete slots for a playable confrontation. Consider whether the Ch 8 Endo tells should be auto-logged (not examine-gated) to guarantee Slot #1 completion in a rushed playthrough.
+**Recommendation:** the design should still tolerate a minimum of 3 complete slots for a playable confrontation. Consider whether the Ch 8 Endo tells should be auto-logged (not examine-gated) to guarantee Slot #1 completion in a rushed playthrough. The Higashino-lens additions partially address the rushed-playthrough floor by providing more EMERGING paths.
 
 ### 6.4 Ogawa-Deep Playthrough
 
@@ -519,7 +554,7 @@ The current design has Ch 11 Board completion tracking roughly this distribution
 - Rushed: 2 of 8 (~15%)
 - Ogawa-deep: 6–8 of 8 (~10%)
 
-The design target should ensure that rushed playthroughs still experience a readable Ch 11 confrontation. A floor of 3 complete slots is recommended. Currently the floor is 2. See §7.4 recommendation on Ch 8 auto-log.
+The design target should ensure that rushed playthroughs still experience a readable Ch 11 confrontation. A floor of 3 complete slots is recommended. Currently the floor is 2 complete but with improved EMERGING density (SLOT #7 upgraded from DORMANT to EMERGING via Higashino-lens evidence). See §7.4 recommendation on Ch 8 auto-log for the remaining gap to 3 complete.
 
 ---
 
@@ -572,8 +607,10 @@ QA test matrix — one test per slot per playstyle:
 | #4 | COMPLETE | COMPLETE | EMERGING | COMPLETE |
 | #5 | COMPLETE | COMPLETE | EMERGING | COMPLETE |
 | #6 | COMPLETE | COMPLETE | COMPLETE | COMPLETE |
-| #7 | COMPLETE | EMERGING | DORMANT | EMERGING |
+| #7 | COMPLETE | EMERGING | EMERGING | EMERGING |
 | #8 | COMPLETE | COMPLETE | EMERGING | COMPLETE |
+
+*Updated: SLOT #7 Rushed column upgraded from DORMANT to EMERGING — Higashino-lens evidence (Kaito phone records, Kaito witness form, Doi council form) is discoverable through standard evidence examination without trust cultivation.*
 
 Each cell becomes a QA test case during build.
 
