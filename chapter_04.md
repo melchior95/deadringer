@@ -490,9 +490,9 @@ RINA: "Oh, Mira. Yes, of course. That was so sad. How can I help?"
 
 KENJI: "I understand you knew Mira."
 
-RINA: "We went to the same school. I'm a year ahead. We were friends when we were younger — like, second grade? But everyone kind of... you know how it is, people grow apart. She got really... intense about things. That's what people said, anyway. Intense."
+RINA: "We went to the same school. I'm a year ahead. We were friends when we were younger — like, second grade? But everyone kind of... you know how it is, people grow apart. She got really... intense about things. That's what people said, anyway. Intense. And I'm not — I'm not like that. I'm pretty easygoing. People always say I'm the reasonable one."
 
-[There it is. Two mechanics in three sentences. First: the reframe — "we grew apart" becomes "everyone kind of... people grow apart." Rina converts a personal decision into a natural social process. No one grew apart. Rina repositioned and Mira was left standing in the space. Second: "intense." The word that follows Mira through every conversation. Not Rina's word — "that's what people said." She never leads. She reports consensus. The consensus is the weapon and Rina is just holding it for everyone.]
+[There it is. Three mechanics in four sentences. First: the reframe — "we grew apart" becomes "everyone kind of... people grow apart." Rina converts a personal decision into a natural social process. No one grew apart. Rina repositioned and Mira was left standing in the space. Second: "intense." The word that follows Mira through every conversation. Not Rina's word — "that's what people said." She never leads. She reports consensus. The consensus is the weapon and Rina is just holding it for everyone. Third — and the player who catches this is mapping something deeper: "I'm the reasonable one." Rina's self-description is not independent. It is Mira's negative. She is "easygoing" because Mira was "intense." She is "reasonable" because Mira was "dramatic." She didn't build her own social vocabulary — she spent Mira's. Every quality Rina claims for herself is a quality she first removed from someone else.]
 
 ---
 
@@ -512,9 +512,9 @@ RINA: "We went to the same school. I'm a year ahead. We were friends when we wer
 
 ### Response: REASSURE
 
-RINA: "Of course! I mean, Mira was a really unique person. She cared a lot about things. She just sometimes... took things too far? Like, she'd notice something and then she couldn't let it go. Even when the adults said it was fine."
+RINA: "Of course! I mean, Mira was a really unique person. She cared a lot about things. She just sometimes... took things too far? Like, she'd notice something and then she couldn't let it go. Even when the adults said it was fine. I always tried to, like, smooth things over when she did that? Because I'm more of a people person, I guess. I understand how things work socially."
 
-[Each sentence is a small machine. "Unique" (read: abnormal). "Cared a lot" (read: excessive). "Took things too far" (read: the problem was hers). "Even when the adults said it was fine" (read: the adults were the authority and Mira wasn't). Rina isn't lying. She's curating — and the curation is so fluent it sounds like description.]
+[Each sentence is a small machine. "Unique" (read: abnormal). "Cared a lot" (read: excessive). "Took things too far" (read: the problem was hers). "Even when the adults said it was fine" (read: the adults were the authority and Mira wasn't). And then: "I'm more of a people person." Rina is framing herself again — and the frame only holds if Mira is its opposite edge. She is socially fluent because Mira was socially broken. She smoothed things over because Mira disrupted them. The credibility Rina carries into every room is credibility she withdrew from Mira's account. Rina isn't lying. She's curating — and the curation is so fluent it sounds like description.]
 
 ---
 
@@ -522,9 +522,9 @@ RINA: "Of course! I mean, Mira was a really unique person. She cared a lot about
 
 KENJI: "What do you mean by intense?"
 
-RINA: "Just... everyone knew she would say things. About people. Like, she'd accuse people of stuff and nobody really believed her? She told a teacher that Mr. Doi was watching kids, and everyone was like, he's just an old man who runs a store. She told the counselor that someone was being hurt and it turned out to be — I mean, everyone said it was nothing. She just saw things that weren't always there."
+RINA: "Just... everyone knew she would say things. About people. Like, she'd accuse people of stuff and nobody really believed her? She told a teacher that Mr. Doi was watching kids, and everyone was like, he's just an old man who runs a store. She told the counselor that someone was being hurt and it turned out to be — I mean, everyone said it was nothing. She just saw things that weren't always there. I tried to tell her, like, you have to read the room. But she couldn't. That wasn't her thing."
 
-[The reframe machine running at full speed. "She would say things" → "everyone knew she would say things." "He's just an old man" → "everyone was like, he's just an old man." "It was nothing" → "everyone said it was nothing." Every one of Mira's specific observations — which the player has been confirming for three chapters — gets converted from fact to community consensus, and the consensus is: dismiss. Rina isn't lying. She's routing. The signal enters as "Mira reported" and exits as "everyone knew Mira says things." The conversion is automatic, invisible to her, and lethal.]
+[The reframe machine running at full speed. "She would say things" → "everyone knew she would say things." "He's just an old man" → "everyone was like, he's just an old man." "It was nothing" → "everyone said it was nothing." And the new one: "I tried to tell her" — Rina inserting herself as the helper, the one who offered guidance Mira refused. "That wasn't her thing" — Mira's inability to perform socially becomes a deficit that justifies Rina's distance. Every one of Mira's specific observations — which the player has been confirming for three chapters — gets converted from fact to community consensus, and the consensus is: dismiss. Rina isn't lying. She's routing. The signal enters as "Mira reported" and exits as "everyone knew Mira says things." The conversion is automatic, invisible to her, and lethal. And beneath it, always: Rina's competence is Mira's incompetence, measured and subtracted.]
 
 ---
 
@@ -590,6 +590,44 @@ RINA: "Isn't that... isn't that different from being mean?"
 
 ---
 
+### CONFRONTATION BEAT — THE NOTEBOOK EVIDENCE
+
+[MECHANIC: This beat triggers in late-game (Ch 8-9 confrontation sequence) when the player has obtained the lost-and-found log from Haruki's school files. It integrates into the break sequence with Rina — not a separate scene, but a pressure point within the existing emotional climax.]
+
+[DESIGN NOTE: The player presents the lost-and-found log. "R.N." Claimed at 3:15, after the accusation was already dismissed. Rina's defense — the one she's carried since second grade — has been "I didn't start it. She accused me. Everyone saw." Now the log is on the table.]
+
+RINA: "That's — where did you get that? That's from second grade. That doesn't mean anything."
+
+KENJI: "The notebook was in lost-and-found. You claimed it. After Mira had already been told she was wrong."
+
+[AUDIO: The background voices — the populated room, the curated presence that is Rina's signature — go quiet. Not because they've stopped. Because Rina has stopped hearing them. For the first time, the social surround is not a resource. It is an audience.]
+
+RINA: "I didn't — it was — everyone already thought she was like that. I didn't make them think that."
+
+KENJI: "But you had the notebook. You could have given it back."
+
+[Gap: five seconds. Rina's longest silence in the game.]
+
+RINA: "...I could have."
+
+[Beat.]
+
+RINA: "I found it. On the floor. After recess. And I thought — if I give it back now, then she was right. And if she was right about this, maybe she's right about other things. And then people would listen to her instead of..."
+
+[She stops. The sentence was heading somewhere she has never been: the admission that Mira's credibility was a resource Rina could either restore or spend, and she chose to spend it.]
+
+RINA: "I was eight."
+
+KENJI: "I know."
+
+RINA: "I didn't think it would... I didn't think she'd stop being believed about everything. I just thought... if she was wrong this once, people would come to me more. That's all. That's all I thought."
+
+[This is the shift. Not from "I didn't start it" to guilt — but to the specific, granular realization that she did start it. Not with cruelty. With a second-grader's calculation: one notebook, not returned, and the social physics did the rest. She didn't build the machine. She built the first gear. Everything after — "intense," "misunderstands things," "Mira, sit down" — was the machine running on the momentum she provided.]
+
+[DESIGN NOTE: This beat replaces Rina's defense structure from "I didn't start it" to "I could have stopped it and I chose not to." The player who reaches this moment has done the investigative work — school files, lost-and-found log, Haruki cooperation — and the payoff is not a confession but a recognition. Rina didn't know what she was building. She knows now.]
+
+---
+
 ### SOUL READ — RINA
 
 [Mira is slower with this one. The read doesn't come in the usual clinical burst — it arrives in fragments, each one placed carefully, as if she's editing in real time.]
@@ -604,7 +642,9 @@ MIRA: "I used to think she was my friend."
 
 MIRA: "She's not mean. That's the thing I got wrong when I was alive. I thought she was being cruel. She wasn't being anything. She was just being normal in a place where normal meant I disappeared."
 
-[NOTEBOOK PROMPT: "SOUL READ — RINA: Remembers things wrong 'because it works better.' Not lying — curating. Not cruel — normal. Mira was wrong about Rina's intent while alive. 'Normal' was the weapon. Mira's fallibility: she saw malice where there was social reflex."]
+[NOTEBOOK PROMPT: "SOUL READ — RINA: Remembers things wrong 'because it works better.' Not lying — curating. Not cruel — normal. Mira was wrong about Rina's intent while alive. 'Normal' was the weapon. Mira's fallibility: she saw malice where there was social reflex. But: Rina's 'reasonable' only exists because Mira was 'intense.' She didn't build credibility — she spent Mira's. And the notebook: Rina found it. She could have returned it. She chose not to. The first gear in the machine."]
+
+[NOTEBOOK PROMPT: "RINA — HIDDEN EVIDENCE (future): Lost-and-found log — 'R.N.' claimed notebook at 3:15 PM, after accusation dismissed. Check Haruki's school files (Ch 5-7). Also: phone records — voicemail from Mira to Rina, two days before death, accessed 17 times over two years. Rina kept the voice she wouldn't answer. Investigate during school communication records."]
 
 ---
 
@@ -700,11 +740,17 @@ Regardless of approach:
 
 [Mira doesn't lose things. The player knows this. Mira catalogs erasers. She dates her observations. She keeps a log of her mother's shift schedule on the fridge. She does not lose things.]
 
+[VISUAL: A detail the player, as Mira, doesn't see — but the camera does. Brief. Easy to miss. Rina, in the hallway after the free period. The notebook — the blue-and-white one — slipping out from under her textbook. She looks at it. She recognizes the cover. Her fingers find the edge, start to open it, stop. She looks back toward the classroom. Toward Mira's desk. She holds the notebook for three seconds. Then she puts it in her bag.]
+
+[DESIGN NOTE: Rina found the notebook. She may not have taken it — it may have ended up on her desk innocently, mixed in with craft supplies. But she found it. She recognized it. And she chose not to return it. Not out of malice. Out of opportunity. A second-grader's instinct, not yet a strategy: if Mira accuses and nobody believes her, then "Mira accuses people" becomes social fact. Rina didn't create the narrative. She let the absence do the work. This is the hidden act of selfishness — not theft, but the decision not to correct a mistake when the mistake was useful.]
+
 [VISUAL: Mira's desk. A sheet of paper. Her pen. She writes:]
 
 *"Rina has my notebook. Nobody believes me. The teacher didn't check. Next time I won't tell the teacher. I'll just write it down."*
 
 [This is the origin of the documentation instinct. The moment a child learns that reporting to authority produces nothing, and the only record that can't be overruled is the one she keeps herself.]
+
+[DESIGN NOTE — PARTIAL EVIDENCE (Discoverable Ch 5-7): Yanagi Elementary's lost-and-found log for that week records a "patterned notebook, blue/white" turned in by a hallway monitor at 3:15 PM — fifteen minutes after the free period ended. The entry is crossed out, with a note: "Claimed — R.N." The timestamp contradicts Rina's version: if the notebook was always hers, it wouldn't have been in lost-and-found. If she found it innocently, she'd have returned it to Mira. She claimed it from lost-and-found after Mira's accusation had already been dismissed. The log is in Haruki Ise's school files — accessible when the player investigates school records in the Ch 5-7 window. Cross-reference with Haruki's cooperation path.]
 
 [VISUAL: The memory thins. The classroom light dissolves. The desk fades. What returns is Kenji's apartment, the case file, the phone.]
 
@@ -816,8 +862,9 @@ MIRA: "I'm going to keep counting."
 - Moral fork enacted: Yui either rescued (Act) or still in danger (Delay)
 - If Act: Mira's crying scene triggered. "Why did I have to be dead for it to work?" "I wanted my mom to be the one." "I thought there was something wrong with me." Armor cracked permanently.
 - If Delay: Mira counting hours. Dread arc initiated. Trust unchanged but strained.
-- Rina Nishizawa: 10, one grade ahead. Social filter. "Mira just misunderstands things sometimes." Provided the social narrative that made Mira dismissible. Not malicious — normal. Mentions Endo positively (playground renovation).
-- Memory Fragment #2 experienced: Rina Social Distortion — the notebook incident. The origin of Mira's documentation instinct. "Next time I won't tell the teacher. I'll just write it down."
+- Rina Nishizawa: 10, one grade ahead. Social filter. "Mira just misunderstands things sometimes." Provided the social narrative that made Mira dismissible. Not malicious — normal. Mentions Endo positively (playground renovation). Key pattern: Rina's self-description ("reasonable," "easygoing," "people person") always depends on Mira being her opposite. She didn't build credibility — she spent Mira's.
+- Memory Fragment #2 experienced: Rina Social Distortion — the notebook incident. The origin of Mira's documentation instinct. "Next time I won't tell the teacher. I'll just write it down." New detail visible to player: Rina found the notebook, recognized it, chose not to return it. The hidden act of selfishness — not theft, but the decision not to correct a useful mistake.
+- Forward evidence seeded: Lost-and-found log ("R.N." claimed, 3:15 PM) discoverable in Haruki's school files (Ch 5-7). Voicemail from Mira to Rina (accessed 17 times, never deleted) discoverable through phone records (Ch 6-7).
 - Kaito Nishimura: 17, homeschooled. Neighborhood observation notebooks with timestamped logs — including silver car sightings matching Doi and Mira's records. Witness statements describe him as suspicious. Mira says he believed her about the car.
 - Sora artifact #3: Yui mentions a boy who drew cities at the river — "He stopped coming. I didn't ask anyone about it." Connects to Doi's drawing boy (Ch 3) and bench fragment (Ch 2). Three independent observers of the same absence, none reporting.
 - Silver car now confirmed by three independent observers (Mira, Doi, Kaito) — pattern convergence building
@@ -827,7 +874,7 @@ MIRA: "I'm going to keep counting."
 - SOUL READ — YUI: "small — packed herself into a box." Mira's first unguarded ask.
 - SOUL READ — RINA: remembers wrong on purpose, "because it works better." Not cruel — normal. Mira's fallibility: saw malice where there was reflex.
 - Yui call: performance voice, architecture of avoidance. "Mira said she told someone about me. Did anyone come?" System failed. Also: mentions drawing boy at river who stopped coming — "I don't ask about people who disappear."
-- Rina call: social filter deployed — "intense," "misunderstands things." Mentions Endo (playground). Notebook incident surfaced.
+- Rina call: social filter deployed — "intense," "misunderstands things," "I'm the reasonable one." Emotional asymmetry: every self-description is Mira's negative. Mentions Endo (playground). Notebook incident surfaced. Hidden act: Rina found the notebook, chose not to return it. Forward evidence: lost-and-found log (Ch 5-7), voicemail (Ch 6-7).
 - Kaito Nishimura: neighborhood logs, silver car timestamps (March 3, 7, 12 — east entrance, recurring). Three independent observers tracking same vehicle.
 - [If Act] Mira broke. "I thought there was something wrong with me." She was nine and right.
 - [If Delay] Mira counting. "Twenty minutes."
@@ -839,6 +886,7 @@ MIRA: "I'm going to keep counting."
 - UNKNOWN (BRIDGE) — Called (Ch 3) — Sound anomaly, 47 sec
 - SAKAMOTO, YUI (mother's phone) — Called (Ch 4) — Performance voice → "did anyone come?"
 - NISHIZAWA, RINA — Called (Ch 4) — Social filter, notebook incident, Endo mention
+[DESIGN NOTE — VOICEMAIL EVIDENCE (Discoverable Ch 6-7): Phone records obtained during school communication records investigation reveal a voicemail from Mira's number to Rina's phone, left two days before Mira's death. The voicemail was never returned. But the access log shows it was played seventeen times over two years — the last access three weeks before the present investigation. Rina never deleted it. She never acted on it. She never told anyone it existed. The voicemail content: Mira's voice, measured, not angry — "Rina, I know you remember what happened with the notebook. I'm not calling to fight. I just wanted you to know that I know. And I think you know too." The voicemail is Mira reaching out one last time to someone who chose comfort over truth. Rina kept it the way people keep evidence of the person they almost were. This is the hidden act of love — not forgiveness, not reconciliation, but the inability to let go of the voice of someone you wronged. Surfaced through phone data during school communication records investigation, cross-referenced with Rina's phone logs.]
 
 ### Mechanical State
 - Notebook: SUBSTANTIAL (three Soul Reads, two Memory Fragments, Kaito evidence, moral fork logged)
@@ -854,6 +902,9 @@ MIRA: "I'm going to keep counting."
 - Kaito Nishimura contact → Ch 5 (player can call him)
 - Silver car convergence → Ch 7 (three independent observers now documented)
 - Rina's social narrative → late game (her phrasing echoes in framing language)
+- Rina notebook evidence → Ch 5-7 (lost-and-found log in Haruki's school files — "R.N." claimed at 3:15 PM, contradicts her version)
+- Rina confrontation beat → Ch 8-9 (player presents log, Rina's defense shifts from "I didn't start it" to "I could have stopped it")
+- Rina voicemail → Ch 6-7 (phone records show Mira's voicemail to Rina, accessed 17 times over two years, never deleted — hidden act of love)
 - Endo name accumulation → Ch 5 (school records, committee chair)
 - Haruki Ise → Ch 5 (referenced by Mira, by Yui indirectly, ready for voluntary contact)
 - Aizawa → Ch 5 (school records access, third Memory Fragment)
