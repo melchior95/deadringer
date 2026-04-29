@@ -315,6 +315,12 @@ MIRA: "He's been listening to all of them. For years. He knows every voice in th
 
 MIRA: "That's not care. That's collecting."
 
+[Beat.]
+
+MIRA: "He doesn't hide things. He sorts them. Everyone gets a piece. Nobody gets the picture."
+
+[DESIGN NOTE: This is the selective truth principle named in Mira's voice. The player who has tracked Endo's three leads in Ch 8 — each one real, each one pointed away from him, each one calibrated for its specific audience — now has vocabulary for what they've been sensing. Endo operates like the switchboard he built: he doesn't block calls. He routes them. This line pays off retroactively in Ch 12, when the intercepts reveal that every NPC received a different version of the same events. Mira, standing in the switchboard, is the first person to hear all of Endo's truths in one room.]
+
 [She says this with a precision that makes it clear: she is not guessing. She is reading. Not a Soul Read — she has no access to Endo's emotional state, no metaphorical impressions of warmth or coldness. What she has is proximity. She can feel the shape of his attention — the sustained, comprehensive, loving attention of a man who listened to everyone and saved no one.]
 
 MIRA: "He listened to me for months before I died. I can feel it. The way you can feel when someone's been in your room — nothing's moved, but the air is different."
