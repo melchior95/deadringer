@@ -159,9 +159,9 @@ MIRA: "He's not wrong about wanting to help. He's wrong about the speed."
 
 ---
 
-[NOTEBOOK PROMPT — PIN THIS: **"disruptive honesty"** — Haruki's phrase, coined by him at a parent-teacher conference, written into Mira's school file. He meant it as description. The file reads it as label. The phrase is in an institutional record and Haruki's name is attached to it. REMEMBER THIS. The phrase will return.]
+[NOTEBOOK PROMPT — PIN THIS: **"disruptive honesty"** — Haruki's phrase, coined by him at a parent-teacher conference, written into Mira's school file. He meant it as description. The file reads it as classification. Once the phrase entered the institutional vocabulary, it became the category the school used to process every subsequent Mira report. A child says a man is watching the playground — the file already contains a behavioral label that converts precision into pathology. Haruki's most careful, professional contribution was the thing that taught the institution how to dismiss Mira. REMEMBER THIS. The phrase will return.]
 
-[DESIGN NOTE — PHRASE PIN: This is a deliberate load-bearing callout. Haruki's "disruptive honesty" reappears in Chapter 9's framing documents as the single most devastating use of institutional language in the case — Endo weaponized Haruki's own phrase to build the pathologizing profile of Mira. The player who remembers the phrase precisely feels the Ch 9 break land at full weight. A fast-moving player can miss the introduction. This prompt exists to insure the Ch 9 payoff. It is the one notebook entry in Chapter 5 flagged as "remember this" — every other entry is contextual. This is a pointer.]
+[DESIGN NOTE — PHRASE PIN + HIGASHINO DESIGN: This is a deliberate load-bearing callout and the first of Haruki's two hidden acts (Higashino lens). The hidden act of selfishness: Haruki wrote the institutional language that converted Mira's truth-telling into a behavioral category. "Disruptive honesty" entered the filing system and became the tag attached to every subsequent report she made. His intention was supportive. His effect was to give the institution a professional vocabulary for dismissal — authored by a teacher who cared, which made the label more credible than any administrator's would have been. The player encounters the phrase here; in Ch 9, Endo weaponizes it to build the pathologizing profile of Mira. The player who remembers the phrase precisely feels the Ch 9 break land at full weight. A fast-moving player can miss the introduction. This prompt exists to insure the Ch 9 payoff. It is the one notebook entry in Chapter 5 flagged as "remember this" — every other entry is contextual. This is a pointer. The hidden act of love (the recommendation letter) surfaces later in this chapter during the school records review, creating the Higashino double-reveal: same teacher, same file, one document that became a weapon and one that went nowhere.]
 
 ---
 
@@ -224,15 +224,97 @@ MIRA: "They didn't tell me. They didn't tell any of us. Each one reported alone 
 
 ---
 
+### Mira's File — The Two Documents
+
+[AUDIO: More papers. Haruki is deeper in the files now — the rapid shuffling has taken on the quality of someone who has found a seam in the filing and is pulling it open. The pen clicks once, stops. He's reading.]
+
+HARUKI: "While I have Mira's file open — there's something I should — actually, let me back up. Her file is thicker than you'd expect. Most students have a folder. Mira has a folder and an addendum. The addendum is mostly behavioral flags — her reports about the man near the school, the Yui situation, a few teacher notes about 'intensity in peer interactions.' Standard stuff if you don't know what you're looking at. But the filing dates — the chronology is —"
+
+[He stops. Papers shuffle. He's cross-referencing something.]
+
+HARUKI: "Her first report was before my time — I inherited the file. The initial flag was... not about what you'd expect."
+
+KENJI: "Explain."
+
+HARUKI: "The earliest behavioral flag is dated February. Eight months before her first report about the silver car, the man near the school, any of that. The filing summary reads — let me get the exact language — 'Student reported disruption to a family situation involving a classmate. Report assessed as age-inappropriate intervention in domestic matter. Behavioral note: student exhibits pattern of unsolicited reporting on peer welfare. Filed under student behavioral monitoring.'"
+
+[Beat.]
+
+HARUKI: "A domestic matter. Not the silver car. Not the man. She was reporting about Yui. Eight months before she started reporting about anything else. And somebody — whoever had my role before me — coded it as a behavioral issue. 'Unsolicited reporting on peer welfare.' The filing language turned a child reporting abuse into a child with a reporting problem."
+
+[He's reading faster now, the overflow accelerating as the documents pile up.]
+
+HARUKI: "And every report after that — the silver car, the man near the playground, the timing observations — all of them entered the system tagged with the original classification code. The same behavioral flag. It's a cascade — once the first entry categorized her as a problem reporter, every subsequent report inherited the framing. The system wasn't evaluating her reports individually. It was evaluating HER."
+
+MIRA: "..."
+
+[She says nothing. The silence is absolute — not working, not calculating. The silence of someone hearing the machine described from the inside for the first time.]
+
+[NOTEBOOK PROMPT: "MIRA — REPORT CHRONOLOGY: Earliest behavioral flag in Mira's school file predates silver car reports by 8+ months. Initial classification: 'disruption to a family situation.' Not Endo. Not surveillance. A domestic concern. Every subsequent report — silver car, man near school, behavioral patterns — entered the system tagged by this original classification. The 'disruptive' label was built BEFORE Mira started reporting what killed her."]
+
+[DESIGN NOTE — YUI-SEQUENCE SEEDING: The chronology is critical and the player must assemble it themselves. Mira's earliest flagged report was about Yui — a domestic abuse concern that predates any Endo-related observation by 8 months. The behavioral classification that would later be used to dismiss her silver car reports originated here, in a report about a completely different situation. The institution learned to categorize Mira as a problem BEFORE she became a problem for Endo. This means the dismissal infrastructure was already in place when Mira started reporting the thing that got her killed. No character explains this connection. The dates are in the notebook. The player who cross-references the Yui timeline (Ch 4) against this filing date will feel the sequence lock into place. The player who doesn't will still carry the data — it pays off in Ch 8-9 when the full chronology is reconstructed.]
+
+[Haruki keeps reading. More papers. The pen clicks resume — then stop again.]
+
+HARUKI: "There's something else in the file. Behind the behavioral flags. A — hold on, this is filed in the addendum under 'Supplementary Academic Correspondence.' I almost missed it because the tab was behind the disciplinary summaries."
+
+[AUDIO: A single page being separated from others. The sound of someone reading something they wrote and forgot they wrote.]
+
+HARUKI: "I wrote this."
+
+[Beat.]
+
+HARUKI: "It's a recommendation. A formal recommendation — for the district enrichment observation program. I wrote it."
+
+[His voice has changed. The overflow hasn't stopped, but it's moving differently — slower, the words arriving with the weight of recognition rather than the momentum of guilt.]
+
+HARUKI: "I forgot I — no. I didn't forget. I filed it. I filed it and the filing was the end of it and I — let me read it. Let me read you what I wrote."
+
+[AUDIO: The classroom is very quiet. No pen clicking. No chair. Just Haruki's voice, reading his own words back to himself across the distance of a dead student's file.]
+
+HARUKI: "'Re: Kitahara, Mira. Class 4-2. I am writing to recommend Mira Kitahara for inclusion in the district's enrichment observation program. Mira demonstrates exceptional observational precision — she tracks patterns in her environment with a consistency and specificity unusual for her age group. She cross-references details independently: dates, times, locations, behavioral patterns. Her documentation habits suggest a systematic approach to information that, with appropriate guidance, could develop into genuine analytical capability.'"
+
+[He pauses. The player hears him swallow.]
+
+HARUKI: "'I want to note specifically that Mira's tendency to report concerns about peers and community members, while sometimes characterized as disruptive, reflects an observational acuity that should be developed rather than managed. She sees things other students do not see. More importantly, she acts on what she sees. I believe this quality, properly supported, represents one of the strongest examples of student initiative I have encountered in my teaching career. I recommend her without reservation.'"
+
+[Silence.]
+
+HARUKI: "Filed. Same term as the 'disruptive honesty' classification. Same folder. The recommendation is right behind the behavioral flag in the same addendum. I wrote both of them."
+
+[His voice is very thin now.]
+
+HARUKI: "'Without reservation.' That's what I wrote. And the form that's in front of it — the one the committee actually read — says 'disruptive honesty.' They're in the same file. Back to back."
+
+[Long beat.]
+
+HARUKI: "Nobody ever contacted me about the recommendation. I assumed it was — I assumed the process was slow. It was a new program. I didn't follow up. I should have followed up."
+
+MIRA: "He meant it."
+
+[Her voice is barely audible. Not degradation — restraint. The specific quality of a child hearing an adult's private record of her and recognizing that the care was real.]
+
+MIRA: "He meant both of them. That's the thing. He meant 'disruptive' and he meant 'without reservation.' He wrote the label the system needed and the advocacy the system ignored. Same person. Same file."
+
+[Beat.]
+
+MIRA: "The institution took the framing and ignored the support. He gave them both. They only used one."
+
+[NOTEBOOK PROMPT: "HARUKI — RECOMMENDATION: Formal recommendation for Mira for enrichment program. Specific praise for observational precision. 'She sees things other students do not see. More importantly, she acts on what she sees.' Filed same term as 'disruptive honesty' classification. Same folder, back to back. Institution used the label, ignored the support. Same teacher wrote both. Nobody followed up. The recommendation sat behind the behavioral flag — the committee read the flag and never turned the page."]
+
+[DESIGN NOTE — HIGASHINO DOUBLE-REVEAL: This is Haruki's hidden act of love, discovered in the same file as his hidden act of selfishness. The recommendation letter is genuine — specific examples, real admiration, a formal request that Mira's observational skills be developed. Filed the same term as the "disruptive honesty" classification. The institution took the label (which gave them professional vocabulary for dismissal) and buried the advocacy (which would have required them to invest in the child they were dismissing). The player encounters both documents back to back, in the order the file presents them: first the classification that became a weapon, then the recommendation that went nowhere. Same teacher. Same care. Same file. The Higashino design: the most damaging thing Haruki did and the most loving thing Haruki did are the same act of paying close attention to a child, filtered through two different institutional forms. The institution decided which one to use.]
+
+---
+
 ### The Three Names
 
 HARUKI: "The three students who filed those reports — I cross-referenced with attendance records, and the attendance data uses a coding system where — actually that's not important, the point is —"
 
 [He stops.]
 
-[AUDIO: The pen stops clicking. The chair stops squeaking. The papers stop shuffling. For the first time in the call, the classroom is silent. Two seconds. Three. The overflow has hit something it can't proceduralize.]
+[AUDIO: The pen stops clicking. The chair stops squeaking. The papers stop shuffling. The classroom goes silent again — but this silence is different from the one during the recommendation letter. That one was recognition. This one is dread. Two seconds. Three. The overflow has hit something it can't proceduralize.]
 
-[This is the tell. Haruki talks continuously — except once per call. One beat where the flood stops. The player who has been drowning in data should feel the absence like a held breath. What comes next is the thing the overflow was running from.]
+[This is the other tell. Haruki went quiet once already — when he found his own recommendation in the file. That silence had weight but not fear. This one does. The player who has been drowning in data should feel the absence like a held breath. What comes next is the thing the overflow was running from.]
 
 HARUKI: "Two of them transferred out of the district within six months of filing."
 
@@ -893,7 +975,8 @@ MIRA: "How many times does a helpful person's name appear before it stops meanin
 ## END-OF-CHAPTER STATE
 
 ### Player Knowledge (New This Chapter)
-- Haruki Ise: 29, Mira's homeroom teacher. Coined "disruptive honesty." Followed protocol on Yui report → protocol failed. Guilt-driven, excessively helpful, potentially reckless. First adult to voluntarily contact investigation.
+- Haruki Ise: 29, Mira's homeroom teacher. Coined "disruptive honesty" — the phrase that entered institutional vocabulary and became the category used to process every subsequent Mira report. Also wrote a formal recommendation for Mira for the enrichment program — genuine advocacy, specific praise, filed same term as the behavioral classification. Institution used the label, ignored the recommendation. Followed protocol on Yui report → protocol failed. Guilt-driven, excessively helpful, potentially reckless. First adult to voluntarily contact investigation.
+- Report chronology: Mira's earliest behavioral flag predates silver car reports by 8+ months. Initial classification: "disruption to a family situation" — a domestic concern (Yui), not Endo. Every subsequent report entered the system tagged by this original classification. The dismissal infrastructure was built before Mira started reporting what killed her.
 - Three dismissed reports: different children, 2-year span, all describe the same adult near the school. All filed to safety council. All dismissed. Two students transferred. One (Sora Hayashi) is missing.
 - Sora Hayashi: identified as the drawing boy. Third grade, quiet, drew maps — including underground lines his teacher called "vivid imagination." Disappeared 4 months after his report was dismissed. Missing.
 - Ogawa firing: teacher terminated after complaint amplified by council review. Same council that dismissed children's reports about the community leader. Opposite response depending on target.
@@ -904,7 +987,9 @@ MIRA: "How many times does a helpful person's name appear before it stops meanin
 - Phone anomaly: wrong connection during routine call — fragment of unknown conversation about "the reports from that year." School contact dismisses as local phone weirdness: "The lines have long memories." Mira noted the static was "different... layered." Filed as rural infrastructure.
 
 ### Notebook Contents (New Entries — Player-Assembled)
-- HARUKI — voluntary contact. "Disruptive honesty" was his phrase. Protocol failure on Yui report.
+- HARUKI — voluntary contact. "Disruptive honesty" was his phrase — entered institutional vocabulary as behavioral classification. Protocol failure on Yui report.
+- HARUKI — RECOMMENDATION: formal recommendation for Mira for enrichment program. Specific praise for observational precision. Filed same term as "disruptive honesty." Institution used the label, ignored the support. Same file, back to back.
+- MIRA — REPORT CHRONOLOGY: earliest behavioral flag predates silver car reports by 8+ months. Initial classification: "disruption to a family situation." Domestic concern (Yui). All subsequent reports inherited this framing.
 - THREE DISMISSED REPORTS — same subject, different children, 2-year span. All → safety council → dismissed.
 - SORA HAYASHI — drawing boy confirmed. Third grade, missing. Maps with underground lines. "Where the streets don't match the map."
 - OGAWA FIRING — council escalated against teacher, dismissed against community leader. Same mechanism, opposite outcomes.
@@ -935,6 +1020,8 @@ MIRA: "How many times does a helpful person's name appear before it stops meanin
 
 ### Threads Open
 - Haruki uncoordinated action → Ch 6 (point of no return — he WILL push a lead alone)
+- Haruki hidden acts → Ch 8-9 (Higashino payoff — "disruptive honesty" weaponized by Endo; recommendation letter as evidence of systemic filtering)
+- Mira report chronology → Ch 8-9 (Yui-sequence dates — earliest flag predates silver car by 8+ months, domestic concern origin, classification cascade)
 - Doi follow-up → Ch 6 (false confession triggered by community pressure)
 - Fumiko Arai → Ch 6 (drawn out by investigation's ripple effects)
 - Silver car convergence → Ch 7 (three observers + Kaito logs + institutional pattern)
