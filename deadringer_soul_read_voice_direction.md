@@ -75,9 +75,9 @@ The audio processing chain handles filter, bandwidth, and dropouts. The voice ac
 | **Ch 7** | ~82% energy. Pace slows perhaps 5%. Pauses lengthen subtly. The sardonic edge softens — not because Mira is trying to soften it, because holding the sarcasm costs her now. |
 | **Ch 8** | ~75% energy. Conserving. Speaks mainly during reads; between calls, minimal commentary. When she does comment, the observations are shorter. The Endo locked-room attempt is the chapter's performance peak. |
 | **Ch 9** | ~65% energy. Strained. Breath audibly labors on long sentences. In the garden scene — "It's a good one. For me, I mean." — the line should land with visible effort. |
-| **Ch 10** | **AMPLIFIED.** Return to Ch 1 energy. Full voice. Room-close mic presence. This is the chapter's performance anchor and the player's emotional reunion with who Mira was. |
+| **Ch 10** | **AMPLIFIED.** Return to Ch 1 energy. Full voice. Room-close mic presence. This is the chapter's performance anchor and the player's emotional reunion with who Mira was. **Clarity spike:** the line "He doesn't hide things. He sorts them. Everyone gets a piece. Nobody gets the picture." — deliver with flat certainty, not strain. This is one of Mira's sharpest observations despite sitting inside the amplified return; the sharpness is personal. She recognizes the mechanism because it is the one that defeated her. No vocal effort on the insight — the recognition arrives the way a diagnosis arrives to someone who already has the disease. |
 | **Ch 11** | ~55% energy, crashing. In the 3 AM scene, partial UNARMORED — the thinness is present but so is the sincerity. The "you didn't hang up" line is delivered clean of irony. The humming is thin, private, off-key. |
-| **Ch 12** | ~30% energy through most of the chapter — barely holding together. At the final call to Sora, brief clarity (~60% energy, no irony, pure function). After: silence. She does not speak again. |
+| **Ch 12** | ~30% energy through most of the chapter — barely holding together. **Forensic flatness:** during intercepts, Mira alternates between signal strain and flat, precise observations ("He never mentioned Ogawa," "That's what he called her"). The flatness is energy conservation — she is choosing precision over expression. Deliver these lines as a witness giving testimony under oath, not a ghost in pain. The precision costs less than emotion and carries further. At the final call to Sora, brief clarity (~60% energy, no irony, pure function). After: silence. She does not speak again. |
 
 ### 2.1 Energy as Direction Term
 
@@ -243,7 +243,31 @@ Specific scenes where the voice direction is especially precise.
 
 **"Get some sleep, Kenji."** — sisterly, final. The armor is almost fully back on by this line. Mira is saying goodnight, not goodbye.
 
-### 3.11 Ch 12 — Final Call to Sora
+### 3.11 Ch 11 — The Centipede Memory
+
+**Context:** a warmth moment — Mira and Reiko together, before the gap. This is what the relationship looked like when it was working.
+
+**The exchange:**
+- *"That is the most legs I have ever seen on one animal."*
+- *"It's an arthropod."*
+- *"Thank you, professor."*
+
+**Delivery direction:**
+- "That is the most legs I have ever seen on one animal" — genuine wonder. Not performed, not exaggerated. A child seeing something new and choosing to share it.
+- "It's an arthropod" — Reiko's correction. (Reiko's actor.) The correction is not dismissive; it is reflexive, the automatic offering of a parent who cannot help teaching. Delivered with mild, present warmth.
+- "Thank you, professor" — Mira's response. Light, sideways, affectionate. Not sarcastic — she is teasing and enjoying the fact that her mother corrected her. The line should sound like the natural rhythm of two people who have done this before.
+
+**Physical direction:** this is young-alive Mira. Slightly more breath, slightly more ambient hope than ghost Mira. The scene's work is showing what was, so the player feels what was lost. The warmth must be genuine, not performed — if the actor plays the warmth as nostalgic, it collapses.
+
+### 3.12 Ch 11 — The Notebook First Entry
+
+**Context:** Mira's first notebook entry, read by Reiko. Mira is eight or nine. The entry is: *"I told Mr. Ise about her. He called her mom. Her mom called him. Now it's worse."*
+
+**Delivery direction (for Reiko's reading voice):** the words are a child's. The actor reading them (Reiko's actor) should let the child's syntax do the work — short declarative sentences, cause-then-effect, no editorializing.
+
+**Design direction (for the text as written):** the entry should sound like a child who has just learned that doing the right thing made everything worse. Not angry — confused. The confusion is structural: she followed the protocol (tell an adult), and the protocol produced harm. Do not play betrayal. Play the moment before a child learns that adults can make things worse by trying to help. The confusion in this entry is the seed of everything Mira becomes — the armor, the precision, the reluctance to trust systems. It does not need to announce itself as origin. It is origin by being specific.
+
+### 3.13 Ch 12 — Final Call to Sora
 
 **Context:** the last UNARMORED performance. The full version of what the 3 AM scene teased.
 
@@ -304,6 +328,14 @@ Direction: precise, clinical. Mira is giving Kenji a tool.
 Rare in early game, common late game. The read begins and fails — either because Mira is too degraded (Ch 11 Fumiko attempt) or because the subject cannot be read (Ch 8 Endo).
 
 Direction: start the read normally. The failure should be in the voice actor's committed attempt to complete it, not in a half-hearted delivery. Mira is trying. The failure is the data.
+
+### 4.6 Per-Character Read Notes (Higashino-Lens Recontextualization)
+
+Certain Soul Reads gain additional weight from narrative material surfaced later in the game — hidden acts of love, hidden acts of selfishness, and Endo's selective truth partition. The read text itself does not change. The recontextualization lives in the player's understanding, not in Mira's delivery. These notes are for the voice director's awareness so they do not accidentally steer the actor toward knowledge Mira does not yet have.
+
+**Reiko reads (Ch 3 onward):** The player who later learns about the missed phone call (Ch 8–9) and the fridge note (Ch 11) will re-hear Mira's early Reiko reads differently. The "pressure, fracture, love shaped wrong" from Ch 3 is Mira perceiving the hidden maternal love underneath Reiko's dismissal — but Mira does not know it is love. She is reading the shape accurately without having the context to name it. Direction: no change to the delivery of any Reiko read. The actor performs what Mira perceives. The retroactive weight is the player's work, not the performance's.
+
+**Endo locked room (Ch 8):** The locked room gains additional weight from the selective truth principle established in later chapters. There is no hidden act of love for Endo. The locked room is not hiding warmth — it is hiding the absence of warmth. Mira cannot get in because there is nothing behind the wall that would respond to her empathy. Direction: the read should feel like standing at a window that reflects your own face back. Not cruelty — emptiness. The actor should not play menace or concealment. Play the sensation of reaching for something and finding the surface smooth and featureless. The locked room is not a vault. It is a mirror.
 
 ---
 
