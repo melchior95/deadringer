@@ -66,6 +66,8 @@ MIRA: "That's been broken since April. April of last year. Before that it was th
 
 [She delivers this as if reporting weather. The specificity — April, melon soda, the distinction between two vending machines she's compared — is the kind of detail only a child who walked this route daily would carry. She doesn't explain why she knows this. Kenji doesn't ask.]
 
+[DESIGN NOTE — RECONTEXTUALIZATION TARGET: The vending machine has been broken since April because its power was rerouted to the exchange room beneath the community center (Ch 10). The player encounters this as neighborhood neglect — a broken machine nobody fixed. In Ch 10, when Kenji enters the exchange room and sees the rerouted junction box, "broken since April" becomes evidence of infrastructure theft. Old information, new meaning. The player who remembers the soda brand remembers the machine; the machine remembers the power; the power leads to the room.]
+
 [NOTEBOOK PROMPT: Optional. "Vending machine — corner of Block 1, out of order since April (per Mira). One of three on school route."]
 
 **Block 2 — Transition**
@@ -95,6 +97,8 @@ MIRA: "..."
 KENJI: "Three blocks. No coverage. For a neighborhood this well-maintained, that's unusual. Most districts with this kind of civic investment wire the commercial strip at minimum."
 
 [DESIGN NOTE: This is Kenji working independently — noticing a gap in the infrastructure that Mira, who lived here as a child, wouldn't have thought to track. The camera coverage gap is not an accident; it's a function of the community safety council (Endo's council) having input on municipal spending priorities. But Kenji doesn't know this yet. He just knows the gap is unusual. The observation demonstrates that Kenji brings something Mira doesn't: institutional literacy. He knows what a neighborhood is supposed to look like from the system's side.]
+
+[DESIGN NOTE — RECONTEXTUALIZATION TARGET: The camera coverage gap is not neglect. The exchange room entrance is in the gap. The same maintenance logic that keeps Yanagi curated — cameras placed, hedges trimmed, paths lit — also keeps this specific corridor dark. The gap is design, not oversight. Payoff: Ch 10, when Kenji enters the community center basement through the unwatched corridor. No new chapter text needed at payoff — the player's memory of the gap does the work.]
 
 MIRA: "I didn't notice that."
 
