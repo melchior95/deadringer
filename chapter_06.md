@@ -2,19 +2,20 @@
 
 ## Chapter Overview
 
-**Emotional register:** Grief and consequence. The chapter's center is a man collapsing under weight he volunteered to carry. Around it: a journalist who has been waiting fourteen years for someone to listen, and a teacher whose guilt just cost the investigation its margin of safety. Three people whose relationship to truth has been broken by the same system, meeting in the same chapter.
+**Emotional register:** Grief, consequence, and irony. The chapter's center is a man collapsing under weight he volunteered to carry — and the discovery that his weight is more complex than guilt about a grandson. Around it: a journalist who has been waiting fourteen years for someone to listen, and a teacher whose guilt just cost the investigation its margin of safety. Three people whose relationship to truth has been broken by the same system, meeting in the same chapter. The Higashino through-line surfaces here: Doi's hidden acts of love and selfishness, both rooted in the same impulse — he noticed everything, and he didn't know what to do with what he noticed.
 
 **Player knows at start:** A committee chaired by Endo dismissed multiple children's reports. Three children who reported subsequently disappeared or transferred. Sora Hayashi is missing. The system was designed to absorb warnings. Endo's name appears seven times.
 
 **Mechanics introduced/deepened:**
 - False confession mechanic (player must identify lies through knowledge of Mira, not deduction)
+- Higashino hidden acts (Doi: blue notebook origin + council report to Endo — love and selfishness in the same man)
 - Ally volatility (Haruki acts alone — consequences cascade)
 - Information trade (Fumiko — managing a journalist with her own timeline)
 - Call slots: 5 available (Doi, Fumiko new, Haruki, Kaito new, Reiko/Aizawa returning), 3 slots — hardest triage yet
 
-**Mira's register:** Complex. She goes quiet during Doi's confession, then delivers her most vulnerable admission of fallibility. She lights up for Fumiko — recognition, admiration, "I like her." She is angry about Haruki's mistake — precise anger, the kind that comes from understanding exactly how one wrong move cascades.
+**Mira's register:** Complex. She goes quiet during Doi's confession, then delivers her most vulnerable admission of fallibility. She goes silent — a different, younger silence — when Doi describes giving her the notebook. She lights up for Fumiko — recognition, admiration, "I like her." She is angry about Haruki's mistake — precise anger, the kind that comes from understanding exactly how one wrong move cascades.
 
-**Ends with:** Doi is innocent and damaged. The silver car is a real lead with dates and partial plates. A journalist has fourteen years of pattern. A teacher has blown the investigation's cover in one direction. And Mira has admitted she was wrong about someone — which makes every other thing she's said more trustworthy, not less.
+**Ends with:** Doi is innocent of murder and complicit in the system — the man who gave Mira her notebook also gave Endo the intelligence to track what she was building. The silver car is a real lead with dates and partial plates. A journalist has fourteen years of pattern. A teacher has blown the investigation's cover in one direction. And Mira has admitted she was wrong about someone — which makes every other thing she's said more trustworthy, not less. A council intake form waits in community records for the player who knows to look for it.
 
 ---
 
@@ -314,6 +315,16 @@ DOI: "I was watching my grandson. I can't talk to him. I can't — I can't cross
 
 DOI: "I run the store so I have a reason to be near the school at three. That's the truth. That's what the girl saw. That's what everyone's been suspicious of for two years."
 
+[Beat. Quieter now — almost to himself:]
+
+DOI: "I saw things. From that window. Not just Ren. I saw... patterns. The same car. The same man. Things that didn't fit. I noticed them the way you notice weather — automatically, because you're always looking."
+
+[He stops. The player hears the parallel forming: Doi at his window and Mira at hers. Two watchers. The same street, the same observations, the same precision — one a nine-year-old with a notebook, the other a sixty-year-old behind a counter. Both saw everything. Neither was believed.]
+
+DOI: "But I'm not... I didn't think it was my place. I reported it. To the proper people. I thought that was enough."
+
+[The word "enough" lands differently now. The player who has spent five chapters watching what happens to Mira's reports — dismissed, filed, absorbed — hears a man describing the same impulse that made the system possible. Not malice. Relief. The relief of handing something to someone with a title and trusting that the title means they'll act. Doi saw what Mira saw. He just found a way to put it down.]
+
 [He laughs. Once. Short. The ugliest sound in the game.]
 
 DOI: "I'd rather be a murderer than say that sentence."
@@ -340,9 +351,59 @@ MIRA: "He's not carrying guilt about a child who died. He's carrying guilt about
 
 ---
 
+### The Notebook
+
+[The confession has collapsed. The truth has replaced it. Doi is exposed — no filter, no euphemism, the raw voice of a man who just said the sentence he built an entire architecture of politeness to avoid. In this space — the space after the mask falls — something else surfaces. Not evidence. A memory.]
+
+DOI: "She used to come into the store."
+
+[Not about the window. Not about the grandson. A different register entirely — softer, further away, the voice of a man remembering something that happened before everything broke.]
+
+DOI: "The capsule machine. Outside. The one with the novelty erasers. She'd come in with her coins and she'd work the machine until she got the one she wanted. Methodical. Not like other kids — she wasn't hoping for something. She was cataloguing."
+
+[Beat.]
+
+DOI: "She'd line them up on the counter. Penguin. Whale. Star. And she'd... sort them. By something. I never figured out the criteria. She had a system."
+
+[The player who read Mira's eraser catalogue in Chapter 3 — who saw the precise handwriting, the dates, the one-line reviews — hears this and feels the convergence. Two people describing the same child. One living, one dead. The description matches perfectly.]
+
+DOI: "One day she was arranging them and I could see she was keeping track in her head. Moving her lips. Counting something. I had a notebook behind the counter — blue cover, spiral binding, the kind I use for inventory. Hadn't written in it. I gave it to her."
+
+[He pauses. The player hears something in the pause — not grief, exactly, but the weight of a small action that turned out to be enormous.]
+
+DOI: "I told her she should write things down. So she doesn't forget."
+
+[Silence.]
+
+DOI: "She looked at me like I'd given her a... a tool. Not a gift. A tool. She said 'thank you' and she meant it the way you mean it when someone hands you the thing you've been needing."
+
+[AUDIO: From Mira's side of the line — nothing. A silence so complete it has texture. The wire-sound is steady but she is not speaking. The player who has learned to read Mira's silences knows: this is not signal conservation. This is a girl hearing someone describe the moment her life's work began.]
+
+[Beat. Five seconds. Ten.]
+
+MIRA: "I remember."
+
+[Her voice is different. Smaller. Not degraded — young. The voice of the nine-year-old who stood at a counter with a handful of erasers and received, from a stranger, the thing that would become the most important artifact in the game.]
+
+MIRA: "The first entry. I wrote it that night."
+
+[The player who examined the notebook in Chapter 3 saw the eraser catalogue begin on page one. They didn't see the very first line — the entry before the first eraser review. It's there, in handwriting slightly less steady than the rest, the hand of a child writing in a new notebook for the first time:]
+
+[VISUAL: Close-up. The notebook's first page. Above the eraser catalogue, in careful letters:]
+
+*"Notebook from Mr. Doi. He said I should write things down so I don't forget. Blue cover."*
+
+[Every piece of evidence in the game's most important artifact — every date, every observation, every entry that built the case against Endo — started with this sentence. A shopkeeper's small kindness to a child who was already watching but had nowhere to put what she saw.]
+
+[NOTEBOOK PROMPT: "DOI — THE BLUE NOTEBOOK: Doi gave Mira the notebook. The blue notebook — the one in the evidence box, the eraser catalogue, the observation records. Doi gave it to her. She came into his store collecting erasers from the capsule machine. He saw her cataloguing in her head. He gave her a proper notebook and said 'write things down so you don't forget.' First entry: 'Notebook from Mr. Doi. Blue cover.' EVERY PIECE OF EVIDENCE in Mira's notebook started with this man's gift. The game's most important artifact exists because a shopkeeper noticed a child who was already noticing everything."]
+
+[DESIGN NOTE: This is Doi's hidden act of love (Higashino-lens). The blue notebook — the game's central evidence artifact, the thing Aizawa classified as "personal effects, non-evidentiary," the thing Reiko will read in Ch 11 — began as a small kindness from the man the community has spent fifteen years suspecting. The complication arrives in Ch 7-9 when the player discovers the council intake form: Doi gave Mira the tool she used to build the case against Endo, and then Doi reported his own observations to Endo instead of acting on them himself. The love and the selfishness sit in the same man, separated by months, connected by the same impulse — he noticed things, and he didn't know what to do with what he noticed. He gave Mira a notebook because he couldn't give her safety. He reported to Endo because reporting felt like safety. Both actions came from the same place: a man who sees everything and trusts the system to handle what he sees.]
+
+---
+
 ### Doi's Real Testimony
 
-[The confession has collapsed. The truth has replaced it. And with the truth comes the thing Doi has been sitting on — the evidence he never reported because the last time he reported something true, they took his grandson. His voice is different now. Not gruff, not polite. Plain. Sentences that say what they mean without either minimizing or decorating. The player is hearing Doi without the filter for the first time.]
+[The confession has collapsed. The truth has replaced it. The notebook memory has opened something else — a man who didn't just watch his grandson through a window, but who watched the whole street, who noticed children the way Mira noticed adults, who gave a nine-year-old a tool because he recognized in her the same impulse he carried. And with the truth comes the thing Doi has been sitting on — the evidence he never reported because the last time he reported something true, they took his grandson. His voice is different now. Not gruff, not polite. Plain. Sentences that say what they mean without either minimizing or decorating. The player is hearing Doi without the filter for the first time.]
 
 DOI: "There's something else."
 
@@ -366,7 +427,39 @@ DOI: "Partial. First four digits: 47-83. The rest was obscured — the angle fro
 
 DOI: "I saw it. I just... didn't think saying it would help."
 
-[Kenji writes. The player writes. Three observers, converging independently on the same vehicle, the same dates, the same anomaly. The silver car is real.]
+[Beat. The player hears the rest of the sentence — the part Doi doesn't say. Not "didn't think it would help" but "didn't trust myself to be the one who helps." The man who watched everything from his window — same observations as Mira, same precision, same dates — and chose to trust the system instead of trusting himself. Because trusting the system was easier than acting. Because the system had a name and a title and a community safety council, and Doi had a store window and a custody order and nothing that looked like authority.]
+
+DOI: "I told someone, once. About the car. About... things I'd noticed near the school."
+
+[Kenji's pen stops.]
+
+KENJI: "Who did you tell?"
+
+DOI: "The council. The community safety council. I filed a report. Went through the proper channels. The chair — he listened. Thanked me. Said he'd look into it."
+
+[He says "the chair" without naming Endo. The player who has been tracking Endo's presence across six chapters hears the name in the absence. The community safety council chair. The man whose signature appears on every dismissed report. The man who designed the system that absorbed warnings.]
+
+DOI: "I thought... that was the responsible thing. You see something, you tell someone who can do something about it. That's what you're supposed to do."
+
+[His voice thins. Not the Dignity Filter returning — something worse. The sound of a man who did what he was supposed to do and is only now, in this conversation, beginning to understand where it went.]
+
+DOI: "He was very... thorough. Asked me what I'd seen. When. How often. Whether anyone else had mentioned it. Whether the girl — whether Mira had said anything to me about it."
+
+[The player feels the temperature drop. Endo didn't just receive Doi's report. He debriefed him. He extracted information about who else was noticing, how much Mira knew, what the community's ambient awareness looked like. A concerned citizen doing the responsible thing, and the responsible thing traveled to the man who needed to know exactly how much of his operation was visible.]
+
+KENJI: "When was this?"
+
+DOI: "Before... before she disappeared. Two months, maybe. I filed the form. He said he'd follow up."
+
+[He didn't. Or rather — he did follow up. Just not in the direction Doi expected.]
+
+[DESIGN NOTE: This is the emotional asymmetry seed — Doi saw what Mira saw. He took relief from responsibility by passing concerns up the chain to the community safety council chair. The relief was real. The man who couldn't cross the street to see his grandson, who watched from behind glass for years, who was labeled by the community as suspicious — of course he reported through channels. Of course he trusted the system. The system was the only thing that hadn't rejected him yet. What Doi doesn't know, and what the player will discover in Ch 7-9 through community council records: the intake form with Doi's name exists. It is dated before Mira's death. It describes concerns about activity near the school. It was filed by the council chair — Endo. And Endo used it to calibrate: to learn how much Mira knew, who else was noticing, and how to adjust.]
+
+[DESIGN NOTE: CONFRONTATION RESHAPING — The false confession has a layered guilt structure that completes across chapters. Layer 1 (this chapter): Doi confesses to murder. The player breaks through to the grandson, the custody order, the window. The guilt Mira read was real — about raising his voice, about losing Ren. Layer 2 (Ch 7-9, when the council record surfaces): Doi's real guilt arrives. He didn't just fail to act. He acted, and the action traveled to the worst possible person. He reported to Endo. The man who gave Mira the notebook also gave Endo the intelligence to track what she was building. His guilt isn't about inaction — he can't take comfort in "I should have done more." He did enough. He just gave it to the man who killed her. Layer 3 (confrontation): When the player presents the council record to Doi, the false confession recontextualizes entirely. He wasn't confessing to Mira's murder. He was confessing to the thing that actually happened — he fed the system that killed her, through the same channels he trusted to protect her. The dignity filter breaks a second time, and what's underneath is worse than the first break.]
+
+[NOTEBOOK PROMPT: "DOI — COUNCIL REPORT: Doi reported his observations to the community safety council. Filed a formal report about suspicious activity near the school. The council chair 'listened, thanked him, said he'd look into it.' The chair is ENDO. Doi did the responsible thing. The responsible thing traveled to the worst possible person. Endo debriefed him — asked what he'd seen, whether anyone else noticed, whether MIRA had said anything. Endo was calibrating. Report filed ~2 months before Mira's death. EVIDENCE: Council intake form should exist in community records (Ch 7-9 investigation window). Doi gave Mira the notebook AND gave Endo the intelligence. Same man. Same impulse to help. Two directions."]
+
+[Kenji writes. The player writes. Three observers, converging independently on the same vehicle, the same dates, the same anomaly. The silver car is real. And one of those observers — the one who gave Mira the notebook, the one who watched from the same window for twenty-three years — reported what he saw to the man who needed the information most and the child least.]
 
 MIRA: "You were going to believe him, weren't you?"
 
@@ -760,6 +853,10 @@ MIRA: "And the committee that reviewed Doi's report, and the community that labe
 
 [Structural, not personal. Three observers, three discrediting mechanisms — institutional (Doi's custody), social (Kaito's reputation), behavioral (Mira's "intensity"). The isolation wasn't accidental. It was managed. Each person in the investigation has been a node in a system designed to prevent exactly this kind of convergence. The convergence is happening now because a detective with a dead phone is the one person in Yanagi who doesn't route through the council chair.]
 
+[But there's a fourth mechanism the player is only beginning to see. Doi wasn't just silenced by custody. He was co-opted. He reported through the system — did the responsible thing, filed the form, trusted the chair — and the system absorbed his observations the way it absorbed Mira's reports. Except Doi's report didn't just disappear. It was used. The player who noted Doi's council report earlier in this chapter carries a question into Ch 7: what did Endo do with what Doi told him? The answer will reshape everything the player thinks they know about Doi's guilt.]
+
+[DESIGN NOTE: The three-observer convergence now has a hidden fourth dimension. Mira was silenced by labeling. Kaito was silenced by social isolation. Doi was silenced by custody — but he was also the only observer who reported upward, through the system, to Endo directly. His report didn't fail the way Mira's failed (dismissed) or Kaito's failed (never filed). His report succeeded — it reached the person in charge. The person in charge was the person it was about. This is the Higashino inversion: Doi's cooperation with the system was the system's most effective weapon against the investigation. He didn't just fail to act. He acted, and the action was worse than silence.]
+
 [Kenji looks at the phone. Tomorrow: follow the silver car. Shinagawa registration. A holding company. A name.]
 
 MIRA: "Tomorrow is going to be different, Kenji."
@@ -777,6 +874,9 @@ MIRA: "Because tomorrow you're going to find out who owns the car. And the answe
 ### Player Knowledge (New This Chapter)
 - Doi's confession was false — performed from exhaustion, not guilt. He invented details that don't match Mira ("she was crying, she didn't fight back"). The player caught the lie through knowledge of Mira, not deduction.
 - Doi's real story: grandfather watching grandson Ren through store window. Protective order from custody dispute (raised voice). Watches school dismissal daily. "I'd rather be a murderer than say that sentence."
+- DOI — BLUE NOTEBOOK ORIGIN: Doi gave Mira the blue notebook. She came into his store collecting erasers from the capsule machine. He recognized her cataloguing impulse and gave her a proper notebook. First entry: "Notebook from Mr. Doi. He said I should write things down so I don't forget. Blue cover." Every piece of evidence in the game's most important artifact started with this shopkeeper's kindness.
+- DOI — COUNCIL REPORT: Doi reported his observations about suspicious activity near the school to the community safety council. The chair — Endo — debriefed him: asked what he'd seen, who else had noticed, whether Mira had said anything. Report filed ~2 months before Mira's death. Doi did the responsible thing; the responsible thing traveled to the worst possible person. Council intake form exists in community records (Ch 7-9 investigation window).
+- DOI — EMOTIONAL ASYMMETRY: Doi saw what Mira saw — same street, same window, same patterns. He took relief from responsibility by passing observations up the chain. "I thought that was enough." He trusted the system because trusting the system was easier than acting himself. The man who gave Mira the notebook also gave Endo the intelligence.
 - Silver car testimony (Doi): 3 sightings, March 3/7/12. Partial plate 47-83, Shinagawa registration. Matches Mira and Kaito's records exactly. Doi suppressed because "last time I told someone something true, they took my grandson."
 - Fumiko Arai: reporter, Yanagi Ward Community Bulletin. 14-year observation pattern. Historical case: child from Senzoku Ward, 8 years ago, "difficult," "prone to fabrication," missing, ruled runaway. Matches one of the three dismissed school reports. Two evidence streams converge.
 - Fumiko's phone anomaly file: 8 years of logged phone weirdness in Yanagi — wrong numbers, bleed-through, static patterns clustering around specific dates. Telecom inspected twice, said "normal, just old." She never published — "too thin." The player now has "pattern" applied to both disappearances and phones.
@@ -788,12 +888,14 @@ MIRA: "Because tomorrow you're going to find out who owns the car. And the answe
 
 ### Notebook Contents (New Entries)
 - DOI — false confession collapsed. Details don't match Mira. Real story: Ren, custody, the window. Innocent.
+- DOI — THE BLUE NOTEBOOK: Doi gave Mira the notebook. Capsule machine erasers. He saw her cataloguing in her head, gave her a proper notebook. "Write things down so you don't forget." First entry: "Notebook from Mr. Doi. Blue cover." The game's most important artifact exists because a shopkeeper noticed a child who was already noticing everything.
+- DOI — COUNCIL REPORT: Doi reported observations to community safety council. Council chair (Endo) debriefed him — asked what he'd seen, whether anyone else noticed, whether Mira had said anything. Report filed ~2 months before Mira's death. Intake form in community records (Ch 7-9). Doi gave Mira the notebook AND gave Endo the intelligence. Same man. Two directions.
 - SILVER CAR — DOI testimony: March 3/7/12, partial plate 47-83, Shinagawa. Three independent observers (Mira, Kaito, Doi), identical dates and times. Real evidence.
 - SOUL READ — DOI (2nd): drowning guilt, performance, "every radio on a different station." Confession was surrender, not truth.
 - FUMIKO ARAI — 14-year pattern. Historical case matches dismissed report. "Difficult," "fabrication" — same language, 8-year gap. Two streams converge.
 - SOUL READ — FUMIKO: "angry-tired." Mira: "I like her." Recognition.
 - HARUKI — visited Murakami family. Family called Endo. Investigation window shortened. "He's right about everything and wrong about the speed."
-- SYSTEM OBSERVATION (Mira): three observers isolated by different discrediting mechanisms. "Nobody was allowed to be credible at the same time."
+- SYSTEM OBSERVATION (Mira): three observers isolated by different discrediting mechanisms. "Nobody was allowed to be credible at the same time." Fourth mechanism: Doi was co-opted — reported through the system, report was used by the system.
 
 ### Phone Log
 - MIRA — 3:47 AM (Ch 1)
@@ -807,15 +909,18 @@ MIRA: "Because tomorrow you're going to find out who owns the car. And the answe
 - ARAI, FUMIKO — Called (Ch 6) — information trade
 
 ### Mechanical State
-- Notebook: CRITICAL MASS (silver car converged, historical pattern connected, false confession resolved)
+- Notebook: CRITICAL MASS (silver car converged, historical pattern connected, false confession resolved, blue notebook origin discovered)
 - Soul Read: 7 reads total. Pattern: Mira's reads are data, not verdicts. Doi's second read corrected the investigation's direction.
-- False Confession: RESOLVED. Player identified lie through knowledge of Mira (behavioral tells), not procedural deduction. Mechanic teaches: knowing people matters more than knowing facts.
+- False Confession: RESOLVED — but layered. Layer 1 complete (custody, grandson). Layer 2 seeded (council report to Endo — full evidence discoverable Ch 7-9). Layer 3 deferred (confrontation with council record reshapes entire guilt structure).
+- Higashino Through-Line (Doi): PLANTED. Hidden act of love (blue notebook) revealed. Hidden act of selfishness (council report) seeded with forward reference. Emotional asymmetry threaded through testimony. Confrontation reshaping documented in design notes for Ch 7-9 payoff.
 - Ally Management: COMPLICATED. Haruki has acted alone — consequences cascade Ch 7. Fumiko is transactional but volatile — publication risk if shut out. Player managing two allies with competing timelines.
 - Information Trade: ESTABLISHED (Fumiko). Balance of sharing determines whether she holds or publishes.
 - Endo Awareness: ELEVATED. Haruki's visit → Murakami family → Endo. He knows the dismissed reports have been found. The investigation has lost surprise.
 
 ### Threads Open
 - Silver car registration → Ch 7 (47-83, Shinagawa → holding company → Endo)
+- Doi's council intake form → Ch 7-9 (community council records investigation — form with Doi's name, dated before Mira's death, filed by Endo. When surfaced: reshapes false confession into layered guilt. Doi's second break.)
+- Blue notebook origin → Ch 7-9/Ch 11 (connection now established: Doi gave Mira the tool, then reported to Endo. Full weight lands when player discovers council record and holds both facts simultaneously. Notebook scene in Ch 11 recontextualizes further — Reiko reads entries that began with Doi's gift.)
 - Fumiko's infrastructure map → Ch 7-9 (hasn't surfaced yet — she has it, player doesn't know)
 - Haruki cascade → Ch 7 (NPCs may be less cooperative, Endo adjusting)
 - Kaito contact → Ch 7 (still callable, notebooks provide corroboration)
@@ -825,7 +930,7 @@ MIRA: "Because tomorrow you're going to find out who owns the car. And the answe
 - [If Delay] Yui still in danger
 
 ### Emotional Arc
-The chapter peaks twice: Doi's confession collapse (grief, empathy) and Haruki's cascade (consequence, anger). Between them, Fumiko's entrance provides a different register — professional, transactional, the relief of meeting someone who operates on facts. Mira's arc within the chapter moves from self-correction (admitting she was wrong about Doi) through recognition (Fumiko) to structural analysis (the three isolated observers). The player exits with more evidence than ever and less margin — the case is converging but the window is narrowing. Tomorrow, the silver car leads somewhere. The player already knows where.
+The chapter peaks three times now: Doi's confession collapse (grief, empathy), the notebook origin revelation (tenderness, irony), and Haruki's cascade (consequence, anger). The notebook beat adds a new emotional register to Doi's arc — the player moves from pity (the grandson) through warmth (the gift to Mira) to unease (the council report to Endo). The three emotions sit in the same man, about the same street, and the player cannot resolve them into a clean verdict. Between them, Fumiko's entrance provides a different register — professional, transactional, the relief of meeting someone who operates on facts. Mira's arc within the chapter moves from self-correction (admitting she was wrong about Doi) through a rare moment of vulnerability (hearing Doi describe the notebook gift) to structural analysis (the three isolated observers, now with a fourth dimension: co-opted contribution). The player exits with more evidence than ever and less margin — the case is converging but the window is narrowing. Doi is no longer just "innocent and damaged." He is innocent of murder and complicit in the system that enabled it, through an act of civic responsibility that traveled to the worst possible person. Tomorrow, the silver car leads somewhere. The player already knows where.
 
 ---
 
