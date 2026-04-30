@@ -184,7 +184,11 @@ MIRA: "...I know."
 
 [She returns to the notebook. Turns to the last entry.]
 
+[The handwriting on the last page is not the handwriting on the first page. Fourteen months separate them. In between: the dates arrived, the cross-references appeared, the underlining became consistent, the stroke-order errors on two kanji corrected themselves. A child's penmanship became a system — not because someone taught her, but because every time she said it out loud, the words were returned to her as drama, as worry, as imagination. So she revised. Made it more precise. More careful. More like the kind of language that adults filed instead of dismissed. She taught herself to build a case the way she taught herself long division — by getting it wrong in front of people who should have helped, and then going back to her room to try again.]
+
 *[Date] — I think I know what's happening. I'm going to tell someone tomorrow. Not mom. She's tired. Not Ms. Aizawa. She files things. I'll try the police. There's a number on the board at school. I'll call from the office phone.*
+
+[Kenji has read three hundred case files in fifteen years. He has never seen a cleaner evidence chain than the one in this notebook. He has also never watched one being built by someone who learned it this way — not from training, not from procedure, but from the accumulated weight of not being believed. His eyes return to the last entry. *Not mom. Not Ms. Aizawa. I'll try the police.* Three audiences weighed. Two excluded. One selected. His hand stops on the page and stays there longer than it should.]
 
 [Reiko closes the notebook. Places both hands flat on the table. The gesture is the same one she uses to steady herself before a difficult shift — palms down, fingers spread, weight distributed evenly. A nurse's grounding technique. She is applying professional discipline to the most unprofessional moment of her life.]
 
@@ -225,6 +229,8 @@ REIKO: "She didn't call back because there wasn't a later."
 ## SCENE 3: CALL BOARD — BUILDING THE CASE
 
 [VISUAL: Late afternoon. Kenji's apartment. The evidence from the exchange room, the notebook, and Reiko's new information are spread across the desk. The case is dense. Circumstantial. Every thread leads to Endo — but no single piece is conclusive. The case needs assembly: each NPC the player has cultivated provides a specific piece.]
+
+[Among the materials: Aizawa's property intake form from the school's records. Item 3: one blue notebook. Description: "Notebook contains personal writing — eraser reviews, daily observations, creative entries. Assessed as personal journal material. No investigative relevance identified." Kenji reads the form. He read it weeks ago. He reads it now, after the notebook, and the word sits on the page the way it always did.]
 
 [AUDIO: Mira is present but diminished. The static around her voice is constant. She will attempt reads when called upon, but the reads are shorter, choppier, cutting out mid-delivery.]
 
